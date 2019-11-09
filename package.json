@@ -1,0 +1,27 @@
+{
+  "name": "dofus-data",
+  "version": "0.0.1",
+  "description": "Expose Dofus data in NodeJS",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "standard",
+    "fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis030195/dofus-data.git"
+  },
+  "author": "Louis Beaumont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louis030195/dofus-data/issues"
+  },
+  "homepage": "https://github.com/louis030195/dofus-data#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
