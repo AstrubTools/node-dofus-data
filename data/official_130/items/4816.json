@@ -1,0 +1,20 @@
+{
+  "id": 4816,
+  "type": 2,
+  "name": "Arco de Amphemem",
+  "level": 49,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>50",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

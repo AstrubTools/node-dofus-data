@@ -1,0 +1,20 @@
+{
+  "id": 3520,
+  "type": 5,
+  "name": "Daga de Felin",
+  "level": 58,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>58",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

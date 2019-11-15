@@ -1,0 +1,20 @@
+{
+  "id": 3887,
+  "type": 4,
+  "name": "Bastón de Bezelin",
+  "level": 33,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>38&CS>13",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

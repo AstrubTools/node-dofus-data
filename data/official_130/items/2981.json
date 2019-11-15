@@ -1,0 +1,20 @@
+{
+  "id": 2981,
+  "type": 6,
+  "name": "Espada de Mulnef",
+  "level": 92,
+  "pods": 15,
+  "ethereal": true,
+  "requirements": "CS>88&CV>43",
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

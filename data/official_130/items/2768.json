@@ -1,0 +1,20 @@
+{
+  "id": 2768,
+  "type": 6,
+  "name": "Espada de Emefe",
+  "level": 33,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>32",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

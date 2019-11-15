@@ -1,0 +1,20 @@
+{
+  "id": 5629,
+  "type": 8,
+  "name": "Pala de Ravouna",
+  "level": 27,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>31",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

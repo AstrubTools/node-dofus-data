@@ -1,0 +1,20 @@
+{
+  "id": 5531,
+  "type": 7,
+  "name": "Martillo de Polielle",
+  "level": 141,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CV>80",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

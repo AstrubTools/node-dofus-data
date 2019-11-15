@@ -1,0 +1,20 @@
+{
+  "id": 2597,
+  "type": 19,
+  "name": "Hacha de Brecha",
+  "level": 54,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CV>70",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

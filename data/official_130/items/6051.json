@@ -1,0 +1,20 @@
+{
+  "id": 6051,
+  "type": 19,
+  "name": "Hacha de Tejiha",
+  "level": 22,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>26",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

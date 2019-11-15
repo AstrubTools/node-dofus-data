@@ -1,0 +1,20 @@
+{
+  "id": 5564,
+  "type": 8,
+  "name": "Pala de Mamobuta",
+  "level": 6,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>8&CS>2",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

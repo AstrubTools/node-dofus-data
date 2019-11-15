@@ -1,0 +1,20 @@
+{
+  "id": 5686,
+  "type": 8,
+  "name": "Pala de Ragnorece",
+  "level": 46,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>44&CS>16",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

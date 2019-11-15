@@ -1,0 +1,20 @@
+{
+  "id": 4714,
+  "type": 2,
+  "name": "Arco de Utomielle",
+  "level": 15,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>14",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

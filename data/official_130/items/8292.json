@@ -1,0 +1,20 @@
+{
+  "id": 8292,
+  "type": 6,
+  "name": "Espada del dragohuevo",
+  "level": 127,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>200&CA>200",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

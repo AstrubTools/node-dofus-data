@@ -1,0 +1,20 @@
+{
+  "id": 1108,
+  "type": 3,
+  "name": "Pesada Varita de Iglesia",
+  "level": 46,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CI>45&CS>25",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

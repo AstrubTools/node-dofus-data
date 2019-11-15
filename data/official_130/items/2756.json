@@ -1,0 +1,20 @@
+{
+  "id": 2756,
+  "type": 6,
+  "name": "Espada de Esete",
+  "level": 27,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>30",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

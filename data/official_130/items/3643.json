@@ -1,0 +1,20 @@
+{
+  "id": 3643,
+  "type": 5,
+  "name": "Daga de Oenythab",
+  "level": 99,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>104",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6380,
+  "type": 19,
+  "name": "Hacha de Muguleri",
+  "level": 131,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>144",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

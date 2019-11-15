@@ -1,0 +1,20 @@
+{
+  "id": 6421,
+  "type": 19,
+  "name": "Hacha de Saroc",
+  "level": 145,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>127",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

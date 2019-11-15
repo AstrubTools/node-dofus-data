@@ -1,0 +1,20 @@
+{
+  "id": 2066,
+  "type": 4,
+  "name": "Bastón del kanugro",
+  "level": 54,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>50&CA>40&CC>30",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

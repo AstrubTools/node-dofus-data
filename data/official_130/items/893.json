@@ -1,0 +1,20 @@
+{
+  "id": 893,
+  "type": 5,
+  "name": "Pequeñas Dagas Silvestres",
+  "level": 20,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>20&CI>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

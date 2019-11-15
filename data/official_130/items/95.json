@@ -1,0 +1,20 @@
+{
+  "id": 95,
+  "type": 5,
+  "name": "Dagas de Maderucha",
+  "level": 4,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>4",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

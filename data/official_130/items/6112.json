@@ -1,0 +1,20 @@
+{
+  "id": 6112,
+  "type": 19,
+  "name": "Hacha de Vafedus",
+  "level": 42,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>34",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

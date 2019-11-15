@@ -1,0 +1,20 @@
+{
+  "id": 1127,
+  "type": 2,
+  "name": "Elegante arco de Roberto del Monte",
+  "level": 66,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>85&CA>52",
+  "stats": [
+    "12",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

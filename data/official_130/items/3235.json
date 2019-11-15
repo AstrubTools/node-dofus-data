@@ -1,0 +1,20 @@
+{
+  "id": 3235,
+  "type": 6,
+  "name": "Espada de Kukegr",
+  "level": 30,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>30",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

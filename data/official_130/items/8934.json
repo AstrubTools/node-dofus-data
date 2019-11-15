@@ -1,0 +1,20 @@
+{
+  "id": 8934,
+  "type": 19,
+  "name": "Hacha Parrada",
+  "level": 158,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>150&CA>150&CI>150",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

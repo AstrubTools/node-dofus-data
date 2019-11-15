@@ -1,0 +1,20 @@
+{
+  "id": 3459,
+  "type": 5,
+  "name": "Daga de Divac",
+  "level": 38,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>42",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

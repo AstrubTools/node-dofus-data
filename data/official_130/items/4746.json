@@ -1,0 +1,20 @@
+{
+  "id": 4746,
+  "type": 2,
+  "name": "Arco de Merufam",
+  "level": 25,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>28",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

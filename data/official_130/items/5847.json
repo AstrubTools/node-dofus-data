@@ -1,0 +1,20 @@
+{
+  "id": 5847,
+  "type": 8,
+  "name": "Pala de Rerekore",
+  "level": 100,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>113&CS>27",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

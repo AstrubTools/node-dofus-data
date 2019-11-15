@@ -1,0 +1,20 @@
+{
+  "id": 7753,
+  "type": 3,
+  "name": "Varita Termal",
+  "level": 229,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>1000&CA>250",
+  "stats": [
+    "10",
+    "2",
+    "5",
+    "5",
+    "20",
+    "60",
+    "0",
+    "0",
+    "0"
+  ]
+}

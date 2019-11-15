@@ -1,0 +1,20 @@
+{
+  "id": 5910,
+  "type": 8,
+  "name": "Pala de Acoca",
+  "level": 121,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>138",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

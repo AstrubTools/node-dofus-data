@@ -1,0 +1,20 @@
+{
+  "id": 90,
+  "type": 2,
+  "name": "Gran Arco de Maderucha",
+  "level": 3,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>3",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

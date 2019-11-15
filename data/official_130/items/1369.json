@@ -1,0 +1,20 @@
+{
+  "id": 1369,
+  "type": 5,
+  "name": "Los Cuchillos Jinsu",
+  "level": 33,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>55&CC>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

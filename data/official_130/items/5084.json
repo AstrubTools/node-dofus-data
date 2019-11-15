@@ -1,0 +1,20 @@
+{
+  "id": 5084,
+  "type": 2,
+  "name": "Arco de Apukim",
+  "level": 138,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>143",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

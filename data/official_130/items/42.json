@@ -1,0 +1,20 @@
+{
+  "id": 42,
+  "type": 6,
+  "name": "Espada de Maderucha",
+  "level": 3,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>6",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

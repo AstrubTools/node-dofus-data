@@ -1,0 +1,20 @@
+{
+  "id": 4502,
+  "type": 3,
+  "name": "Varita de Bwodelo",
+  "level": 90,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>100",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

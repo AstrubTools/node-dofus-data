@@ -1,0 +1,19 @@
+{
+  "id": 6784,
+  "type": 5,
+  "name": "Dagas del Novato",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8599,
+  "type": 5,
+  "name": "Garritas",
+  "level": 69,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>100&CS>100",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

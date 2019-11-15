@@ -1,0 +1,20 @@
+{
+  "id": 1938,
+  "type": 20,
+  "name": "Cuchilla de Caza",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "requirements": "PJ>41,29",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

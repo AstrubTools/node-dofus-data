@@ -1,0 +1,20 @@
+{
+  "id": 3415,
+  "type": 5,
+  "name": "Daga de Zezollu",
+  "level": 23,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>24",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

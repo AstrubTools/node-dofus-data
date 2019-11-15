@@ -1,0 +1,20 @@
+{
+  "id": 5842,
+  "type": 8,
+  "name": "Pala de Hudarth",
+  "level": 98,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>95&CS>23",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5111,
+  "type": 2,
+  "name": "Arco de Masoezop",
+  "level": 147,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>133",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

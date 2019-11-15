@@ -1,0 +1,20 @@
+{
+  "id": 4131,
+  "type": 4,
+  "name": "Bastón de Etulire",
+  "level": 114,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>124",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

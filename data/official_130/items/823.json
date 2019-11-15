@@ -1,0 +1,20 @@
+{
+  "id": 823,
+  "type": 6,
+  "name": "Espada del Gran Caballero",
+  "level": 24,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>48",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

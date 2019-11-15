@@ -1,0 +1,20 @@
+{
+  "id": 3351,
+  "type": 6,
+  "name": "Espada de Grodimep",
+  "level": 146,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>146",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4718,
+  "type": 2,
+  "name": "Arco de Breustute",
+  "level": 16,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>18",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5047,
+  "type": 2,
+  "name": "Arco de Kekerarh",
+  "level": 126,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>126",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

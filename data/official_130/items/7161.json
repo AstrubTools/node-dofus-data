@@ -1,0 +1,20 @@
+{
+  "id": 7161,
+  "type": 2,
+  "name": "Arco Jabato",
+  "level": 107,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>250&CA>150",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

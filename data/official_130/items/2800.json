@@ -1,0 +1,20 @@
+{
+  "id": 2800,
+  "type": 6,
+  "name": "Espada de Rogehedas",
+  "level": 49,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>51",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

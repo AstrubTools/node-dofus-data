@@ -1,0 +1,20 @@
+{
+  "id": 5003,
+  "type": 2,
+  "name": "Arco de Lompur",
+  "level": 111,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>102",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

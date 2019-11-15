@@ -1,0 +1,20 @@
+{
+  "id": 9743,
+  "type": 2,
+  "name": "Arco O\\'Nanh",
+  "level": 60,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>60&CV>60",
+  "stats": [
+    "7",
+    "5",
+    "2",
+    "6",
+    "35",
+    "45",
+    "0",
+    "1",
+    "1"
+  ]
+}

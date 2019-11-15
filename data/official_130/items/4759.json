@@ -1,0 +1,20 @@
+{
+  "id": 4759,
+  "type": 2,
+  "name": "Arco de Zilofone",
+  "level": 30,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

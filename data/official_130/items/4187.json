@@ -1,0 +1,20 @@
+{
+  "id": 4187,
+  "type": 4,
+  "name": "Bastón de Lufemfrit",
+  "level": 133,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>109",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

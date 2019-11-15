@@ -1,0 +1,20 @@
+{
+  "id": 4749,
+  "type": 2,
+  "name": "Arco de Idafubap",
+  "level": 26,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>27",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

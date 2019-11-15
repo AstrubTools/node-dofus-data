@@ -1,0 +1,10 @@
+{
+  "id": 1719,
+  "type": 11,
+  "name": "Espíritu de Cocoburio",
+  "level": 42,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>49",
+  "stats": ""
+}

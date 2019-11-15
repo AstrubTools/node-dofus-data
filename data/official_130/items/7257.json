@@ -1,0 +1,20 @@
+{
+  "id": 7257,
+  "type": 6,
+  "name": "Sable Fuegodala",
+  "level": 76,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CI>200&CA>60",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

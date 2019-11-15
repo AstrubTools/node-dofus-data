@@ -1,0 +1,20 @@
+{
+  "id": 919,
+  "type": 5,
+  "name": "Dagas Ancestrales",
+  "level": 34,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>34&CI>10",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

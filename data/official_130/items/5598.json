@@ -1,0 +1,20 @@
+{
+  "id": 5598,
+  "type": 8,
+  "name": "Pala de Omanague",
+  "level": 17,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>16&CV>4",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

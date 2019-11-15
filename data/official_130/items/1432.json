@@ -1,0 +1,20 @@
+{
+  "id": 1432,
+  "type": 8,
+  "name": "Pala de Kolokón",
+  "level": 21,
+  "pods": 21,
+  "ethereal": false,
+  "requirements": "CC>27&CW<100&CS>10",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

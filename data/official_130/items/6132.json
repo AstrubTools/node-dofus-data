@@ -1,0 +1,20 @@
+{
+  "id": 6132,
+  "type": 19,
+  "name": "Hacha de Usitucu",
+  "level": 49,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>60",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

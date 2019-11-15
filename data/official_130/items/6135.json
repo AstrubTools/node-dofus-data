@@ -1,0 +1,20 @@
+{
+  "id": 6135,
+  "type": 19,
+  "name": "Hacha de Nisusuka",
+  "level": 50,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>54",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

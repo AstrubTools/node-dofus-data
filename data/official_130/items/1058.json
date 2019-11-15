@@ -1,0 +1,20 @@
+{
+  "id": 1058,
+  "type": 8,
+  "name": "Espantosa Pala de Kutulú",
+  "level": 34,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>29&CI>5",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

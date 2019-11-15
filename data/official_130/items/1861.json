@@ -1,0 +1,20 @@
+{
+  "id": 1861,
+  "type": 20,
+  "name": "La Gran Perca",
+  "level": 1,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "PJ>36,99",
+  "stats": [
+    "1",
+    "6",
+    "1",
+    "8",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

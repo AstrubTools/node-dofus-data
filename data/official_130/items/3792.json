@@ -1,0 +1,20 @@
+{
+  "id": 3792,
+  "type": 5,
+  "name": "Daga de Meloro",
+  "level": 147,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>152",
+  "stats": [
+    "30",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "1"
+  ]
+}

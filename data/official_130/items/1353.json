@@ -1,0 +1,20 @@
+{
+  "id": 1353,
+  "type": 2,
+  "name": "Arco de Madero",
+  "level": 41,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "Ps=1&Pa>10&CI>30&CW>30",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

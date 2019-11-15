@@ -1,0 +1,20 @@
+{
+  "id": 5088,
+  "type": 2,
+  "name": "Arco de Thelas",
+  "level": 139,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>141",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

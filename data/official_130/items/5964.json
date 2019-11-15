@@ -1,0 +1,20 @@
+{
+  "id": 5964,
+  "type": 8,
+  "name": "Pala de Ukuherog",
+  "level": 139,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>120&CS>61",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

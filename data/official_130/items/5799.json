@@ -1,0 +1,20 @@
+{
+  "id": 5799,
+  "type": 8,
+  "name": "Pala de Ufresem",
+  "level": 84,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>79",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

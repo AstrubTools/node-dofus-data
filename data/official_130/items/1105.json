@@ -1,0 +1,20 @@
+{
+  "id": 1105,
+  "type": 3,
+  "name": "Pequeña Varita de Iglesia",
+  "level": 36,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CI>36&CS>25",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

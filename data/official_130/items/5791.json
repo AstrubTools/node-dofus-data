@@ -1,0 +1,20 @@
+{
+  "id": 5791,
+  "type": 8,
+  "name": "Pala de Amphubevap",
+  "level": 81,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>70",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

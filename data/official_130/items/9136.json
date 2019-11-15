@@ -1,0 +1,20 @@
+{
+  "id": 9136,
+  "type": 4,
+  "name": "Báculo de Setador",
+  "level": 191,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>200&CC>200&CI>100",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

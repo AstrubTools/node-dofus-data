@@ -1,0 +1,20 @@
+{
+  "id": 5613,
+  "type": 8,
+  "name": "Pala de Aprae",
+  "level": 22,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>24",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

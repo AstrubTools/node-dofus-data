@@ -1,0 +1,20 @@
+{
+  "id": 3279,
+  "type": 6,
+  "name": "Espada de Lipemame",
+  "level": 74,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>75",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

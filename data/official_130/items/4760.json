@@ -1,0 +1,20 @@
+{
+  "id": 4760,
+  "type": 2,
+  "name": "Arco de Mibumug",
+  "level": 30,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

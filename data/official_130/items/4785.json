@@ -1,0 +1,20 @@
+{
+  "id": 4785,
+  "type": 2,
+  "name": "Arco de Zotaille",
+  "level": 38,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>39",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

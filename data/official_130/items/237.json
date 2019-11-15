@@ -1,0 +1,20 @@
+{
+  "id": 237,
+  "type": 7,
+  "name": "Sargas",
+  "level": 27,
+  "pods": 12,
+  "ethereal": false,
+  "requirements": "CI>17&CC>5",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "45",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5919,
+  "type": 8,
+  "name": "Pala de Reror",
+  "level": 124,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>141&CS>32",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

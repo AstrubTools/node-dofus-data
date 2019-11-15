@@ -1,0 +1,20 @@
+{
+  "id": 2946,
+  "type": 6,
+  "name": "Espada de Geurtuk",
+  "level": 75,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>78",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

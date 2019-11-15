@@ -1,0 +1,20 @@
+{
+  "id": 5048,
+  "type": 2,
+  "name": "Arco de Fififife",
+  "level": 126,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>127",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

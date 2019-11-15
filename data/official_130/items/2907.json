@@ -1,0 +1,20 @@
+{
+  "id": 2907,
+  "type": 6,
+  "name": "Espada de Ganip",
+  "level": 55,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>53&CV>28",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

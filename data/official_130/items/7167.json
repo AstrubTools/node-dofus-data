@@ -1,0 +1,20 @@
+{
+  "id": 7167,
+  "type": 3,
+  "name": "Varita Cétera",
+  "level": 43,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "CI>60",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

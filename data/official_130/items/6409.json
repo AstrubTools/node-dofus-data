@@ -1,0 +1,20 @@
+{
+  "id": 6409,
+  "type": 19,
+  "name": "Hacha de Musippur",
+  "level": 141,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>120",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

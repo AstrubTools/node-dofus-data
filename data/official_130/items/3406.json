@@ -1,0 +1,20 @@
+{
+  "id": 3406,
+  "type": 5,
+  "name": "Daga de Urufub",
+  "level": 20,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>20&CV>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

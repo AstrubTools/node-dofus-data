@@ -1,0 +1,20 @@
+{
+  "id": 1511,
+  "type": 6,
+  "name": "Nueve Colas",
+  "level": 80,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>99&CA>99&CV>99",
+  "stats": [
+    "9",
+    "9",
+    "1",
+    "1",
+    "20",
+    "20",
+    "0",
+    "0",
+    "0"
+  ]
+}

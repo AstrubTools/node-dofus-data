@@ -1,0 +1,20 @@
+{
+  "id": 4959,
+  "type": 2,
+  "name": "Arco de Vlesep",
+  "level": 96,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>94",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

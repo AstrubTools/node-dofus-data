@@ -1,0 +1,20 @@
+{
+  "id": 4058,
+  "type": 4,
+  "name": "Bastón de Oruhu",
+  "level": 90,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>94&CV>27",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

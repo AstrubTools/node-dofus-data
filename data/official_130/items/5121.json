@@ -1,0 +1,20 @@
+{
+  "id": 5121,
+  "type": 2,
+  "name": "Arco de Alomihe",
+  "level": 150,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>153",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

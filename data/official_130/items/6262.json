@@ -1,0 +1,20 @@
+{
+  "id": 6262,
+  "type": 19,
+  "name": "Hacha de Alicatyp",
+  "level": 92,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>97",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4203,
+  "type": 4,
+  "name": "Bastón de Rukisaur",
+  "level": 138,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>147&CS>31",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4136,
+  "type": 4,
+  "name": "Bastón de Rekoth",
+  "level": 116,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>137",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

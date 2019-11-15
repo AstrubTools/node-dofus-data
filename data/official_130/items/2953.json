@@ -1,0 +1,20 @@
+{
+  "id": 2953,
+  "type": 6,
+  "name": "Espada de Loberi",
+  "level": 78,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>85",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

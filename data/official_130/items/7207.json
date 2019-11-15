@@ -1,0 +1,20 @@
+{
+  "id": 7207,
+  "type": 4,
+  "name": "Bastón del Yondanwa",
+  "level": 93,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>250",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

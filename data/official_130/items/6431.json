@@ -1,0 +1,20 @@
+{
+  "id": 6431,
+  "type": 19,
+  "name": "Hacha de Stretakug",
+  "level": 148,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>159",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

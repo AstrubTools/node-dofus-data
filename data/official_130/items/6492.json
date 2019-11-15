@@ -1,0 +1,20 @@
+{
+  "id": 6492,
+  "type": 4,
+  "name": "Bastón del Wobot",
+  "level": 60,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>60&CV>60",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

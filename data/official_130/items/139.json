@@ -1,0 +1,20 @@
+{
+  "id": 139,
+  "type": 4,
+  "name": "Gran Bastón de Maderucha",
+  "level": 7,
+  "pods": 18,
+  "ethereal": false,
+  "requirements": "CI>7",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

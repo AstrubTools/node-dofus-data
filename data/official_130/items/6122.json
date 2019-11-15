@@ -1,0 +1,20 @@
+{
+  "id": 6122,
+  "type": 19,
+  "name": "Hacha de Megofik",
+  "level": 45,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>54",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

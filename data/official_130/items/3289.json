@@ -1,0 +1,20 @@
+{
+  "id": 3289,
+  "type": 6,
+  "name": "Espada de Myplei",
+  "level": 84,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>80",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4818,
+  "type": 2,
+  "name": "Arco de Duref",
+  "level": 49,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>45",
+  "stats": [
+    "9",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

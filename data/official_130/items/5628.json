@@ -1,0 +1,20 @@
+{
+  "id": 5628,
+  "type": 8,
+  "name": "Pala de Thorurired",
+  "level": 27,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>32&CS>13",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

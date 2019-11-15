@@ -1,0 +1,20 @@
+{
+  "id": 4782,
+  "type": 2,
+  "name": "Arco de Ikaldar",
+  "level": 37,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>39",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

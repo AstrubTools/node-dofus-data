@@ -1,0 +1,20 @@
+{
+  "id": 4155,
+  "type": 4,
+  "name": "Bastón de Evile",
+  "level": 122,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>109",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

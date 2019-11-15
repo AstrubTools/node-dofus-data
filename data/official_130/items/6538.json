@@ -1,0 +1,20 @@
+{
+  "id": 6538,
+  "type": 8,
+  "name": "Pala Mirador",
+  "level": 84,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>200&CV>70",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

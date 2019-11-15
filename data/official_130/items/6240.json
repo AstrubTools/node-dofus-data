@@ -1,0 +1,20 @@
+{
+  "id": 6240,
+  "type": 19,
+  "name": "Hacha de Ysethefu",
+  "level": 85,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>84&CV>25",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

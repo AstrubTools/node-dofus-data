@@ -1,0 +1,20 @@
+{
+  "id": 4542,
+  "type": 3,
+  "name": "Varita de Afikek",
+  "level": 104,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>108",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

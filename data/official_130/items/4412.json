@@ -1,0 +1,20 @@
+{
+  "id": 4412,
+  "type": 3,
+  "name": "Varita Mecot",
+  "level": 60,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>56&CV>31",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

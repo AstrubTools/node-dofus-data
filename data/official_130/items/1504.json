@@ -1,0 +1,20 @@
+{
+  "id": 1504,
+  "type": 5,
+  "name": "Daga Yumbo",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>30",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

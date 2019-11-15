@@ -1,0 +1,20 @@
+{
+  "id": 6204,
+  "type": 19,
+  "name": "Hacha de Amafevu",
+  "level": 73,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>70",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

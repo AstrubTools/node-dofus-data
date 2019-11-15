@@ -1,0 +1,20 @@
+{
+  "id": 5747,
+  "type": 8,
+  "name": "Pala de Uhehurer",
+  "level": 67,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>61&CS>14",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3654,
+  "type": 5,
+  "name": "Daga de Zarelomol",
+  "level": 101,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>92&CV>28",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3973,
+  "type": 4,
+  "name": "Bastón de Vupibie",
+  "level": 61,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>59",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

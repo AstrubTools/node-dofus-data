@@ -1,0 +1,20 @@
+{
+  "id": 5806,
+  "type": 8,
+  "name": "Pala de Cokor",
+  "level": 86,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>85&CS>43",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6160,
+  "type": 19,
+  "name": "Hacha de Uralo",
+  "level": 58,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>56",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

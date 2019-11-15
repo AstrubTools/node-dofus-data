@@ -1,0 +1,20 @@
+{
+  "id": 4953,
+  "type": 2,
+  "name": "Arco de Onaleses",
+  "level": 94,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>104",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

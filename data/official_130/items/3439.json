@@ -1,0 +1,20 @@
+{
+  "id": 3439,
+  "type": 5,
+  "name": "Daga de Umesu",
+  "level": 31,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>35",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

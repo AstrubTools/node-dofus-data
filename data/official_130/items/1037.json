@@ -1,0 +1,20 @@
+{
+  "id": 1037,
+  "type": 5,
+  "name": "Daga Engañadora",
+  "level": 58,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>58&CS>20",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

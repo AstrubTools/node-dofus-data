@@ -1,0 +1,20 @@
+{
+  "id": 4327,
+  "type": 3,
+  "name": "Varita Thorururer",
+  "level": 33,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>37",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

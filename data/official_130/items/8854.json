@@ -1,0 +1,10 @@
+{
+  "id": 8854,
+  "type": 16,
+  "name": "x",
+  "level": 1,
+  "pods": 13,
+  "ethereal": false,
+  "requirements": "SI=1001",
+  "stats": ""
+}

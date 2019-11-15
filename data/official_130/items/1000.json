@@ -1,0 +1,9 @@
+{
+  "id": 1000,
+  "type": 15,
+  "name": "Barril vacío",
+  "level": 1,
+  "pods": 5,
+  "ethereal": false,
+  "stats": ""
+}

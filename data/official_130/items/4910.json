@@ -1,0 +1,20 @@
+{
+  "id": 4910,
+  "type": 2,
+  "name": "Arco de Mevoli",
+  "level": 80,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>86",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

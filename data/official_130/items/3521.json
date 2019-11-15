@@ -1,0 +1,20 @@
+{
+  "id": 3521,
+  "type": 5,
+  "name": "Daga de Udupli",
+  "level": 59,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>59",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9469,
+  "type": 6,
+  "name": "Espada Bama",
+  "level": 184,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>300&CA>300",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

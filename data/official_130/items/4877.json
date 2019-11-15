@@ -1,0 +1,20 @@
+{
+  "id": 4877,
+  "type": 2,
+  "name": "Arco de Icumaba",
+  "level": 69,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>69",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

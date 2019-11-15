@@ -1,0 +1,20 @@
+{
+  "id": 4273,
+  "type": 3,
+  "name": "Varita Tethyri",
+  "level": 15,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>16",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

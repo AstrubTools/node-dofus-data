@@ -1,0 +1,20 @@
+{
+  "id": 1059,
+  "type": 8,
+  "name": "Pala de los Campos",
+  "level": 15,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CC>15",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

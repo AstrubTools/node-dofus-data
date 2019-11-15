@@ -1,0 +1,20 @@
+{
+  "id": 3368,
+  "type": 5,
+  "name": "Daga de Mamekber",
+  "level": 8,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>8&CV>5",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

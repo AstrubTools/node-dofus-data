@@ -1,0 +1,20 @@
+{
+  "id": 5723,
+  "type": 8,
+  "name": "Pala de Therero",
+  "level": 59,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>56&CS>26",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

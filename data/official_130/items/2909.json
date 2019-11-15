@@ -1,0 +1,20 @@
+{
+  "id": 2909,
+  "type": 6,
+  "name": "Espada de Tabuk",
+  "level": 56,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>55",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

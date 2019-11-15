@@ -1,0 +1,20 @@
+{
+  "id": 4888,
+  "type": 2,
+  "name": "Arco de Kanokuk",
+  "level": 73,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>79",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

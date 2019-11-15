@@ -1,0 +1,20 @@
+{
+  "id": 3462,
+  "type": 5,
+  "name": "Daga de Blufago",
+  "level": 39,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>42",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

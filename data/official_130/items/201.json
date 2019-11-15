@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "type": 4,
+  "name": "Hook",
+  "level": 55,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CI>30&CC>10&CS>10",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

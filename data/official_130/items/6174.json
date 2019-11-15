@@ -1,0 +1,20 @@
+{
+  "id": 6174,
+  "type": 19,
+  "name": "Hacha de Fegenu",
+  "level": 63,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>58",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

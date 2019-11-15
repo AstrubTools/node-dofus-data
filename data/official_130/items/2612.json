@@ -1,0 +1,20 @@
+{
+  "id": 2612,
+  "type": 19,
+  "name": "Hacha Pesquera",
+  "level": 87,
+  "pods": 32,
+  "ethereal": false,
+  "requirements": "CV>50&CA>50",
+  "stats": [
+    "15",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6446,
+  "type": 2,
+  "name": "Arco Tiko",
+  "level": 87,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CW>50&CA>80",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "6",
+    "30",
+    "30",
+    "0",
+    "1",
+    "1"
+  ]
+}

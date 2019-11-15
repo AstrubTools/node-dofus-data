@@ -1,0 +1,20 @@
+{
+  "id": 5916,
+  "type": 8,
+  "name": "Pala de Fotum",
+  "level": 123,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>130&CS>48",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

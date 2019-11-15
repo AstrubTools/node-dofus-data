@@ -1,0 +1,20 @@
+{
+  "id": 6253,
+  "type": 19,
+  "name": "Hacha de Efeva",
+  "level": 89,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>92",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

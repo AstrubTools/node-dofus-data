@@ -1,0 +1,20 @@
+{
+  "id": 5943,
+  "type": 8,
+  "name": "Pala de Alepu",
+  "level": 132,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>153",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

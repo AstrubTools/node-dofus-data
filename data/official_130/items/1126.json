@@ -1,0 +1,20 @@
+{
+  "id": 1126,
+  "type": 2,
+  "name": "Arco de Roberto del Monte",
+  "level": 60,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>80&CA>50",
+  "stats": [
+    "11",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3924,
+  "type": 4,
+  "name": "Bastón de Lutife",
+  "level": 45,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>40",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

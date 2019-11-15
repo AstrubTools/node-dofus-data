@@ -1,0 +1,20 @@
+{
+  "id": 2757,
+  "type": 6,
+  "name": "Espada de Esespur",
+  "level": 28,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>26",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

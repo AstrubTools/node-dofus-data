@@ -1,0 +1,20 @@
+{
+  "id": 5198,
+  "type": 7,
+  "name": "Martillo de Bemalle",
+  "level": 30,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CV>15",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

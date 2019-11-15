@@ -1,0 +1,20 @@
+{
+  "id": 4829,
+  "type": 2,
+  "name": "Arco de Nuwope",
+  "level": 53,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>55&CS>10",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

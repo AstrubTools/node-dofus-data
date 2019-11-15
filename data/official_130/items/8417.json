@@ -1,0 +1,20 @@
+{
+  "id": 8417,
+  "type": 8,
+  "name": "Pala para Pasteles",
+  "level": 131,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>250&CA>100",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "1"
+  ]
+}

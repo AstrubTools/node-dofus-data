@@ -1,0 +1,20 @@
+{
+  "id": 5162,
+  "type": 7,
+  "name": "Martillo de Ekogura",
+  "level": 18,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CV>12&CS>7",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

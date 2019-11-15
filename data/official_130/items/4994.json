@@ -1,0 +1,20 @@
+{
+  "id": 4994,
+  "type": 2,
+  "name": "Arco de Lekehab",
+  "level": 108,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>110",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3150,
+  "type": 6,
+  "name": "Espada de Vezel",
+  "level": 124,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>114&CV>54",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

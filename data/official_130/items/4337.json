@@ -1,0 +1,20 @@
+{
+  "id": 4337,
+  "type": 3,
+  "name": "Varita Ufrile",
+  "level": 36,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>40",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

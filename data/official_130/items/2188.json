@@ -1,0 +1,19 @@
+{
+  "id": 2188,
+  "type": 20,
+  "name": "Caña para pischis",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "5",
+    "10",
+    "10",
+    "0",
+    "1",
+    "0"
+  ]
+}

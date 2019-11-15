@@ -1,0 +1,20 @@
+{
+  "id": 6228,
+  "type": 19,
+  "name": "Hacha de Vebutezo",
+  "level": 81,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>88",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

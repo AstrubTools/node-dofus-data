@@ -1,0 +1,20 @@
+{
+  "id": 4876,
+  "type": 2,
+  "name": "Arco de Unulilu",
+  "level": 69,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>77",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6060,
+  "type": 19,
+  "name": "Hacha de Utitero",
+  "level": 25,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>26",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

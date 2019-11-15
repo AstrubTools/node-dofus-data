@@ -1,0 +1,20 @@
+{
+  "id": 4866,
+  "type": 2,
+  "name": "Arco de Tandar",
+  "level": 65,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>59&CS>16",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

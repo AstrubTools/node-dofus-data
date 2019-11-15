@@ -1,0 +1,20 @@
+{
+  "id": 1475,
+  "type": 6,
+  "name": "La Bunita Hoja",
+  "level": 60,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>100&CV>50",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

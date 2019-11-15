@@ -1,0 +1,20 @@
+{
+  "id": 1047,
+  "type": 8,
+  "name": "Pala enredaderada",
+  "level": 42,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>11&CC>31",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9758,
+  "type": 4,
+  "name": "Baston Mar\\'Tinh",
+  "level": 60,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>60&CV>60",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "50",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

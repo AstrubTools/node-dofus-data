@@ -1,0 +1,19 @@
+{
+  "id": 6513,
+  "type": 7,
+  "name": "Martillo Moledor",
+  "level": 55,
+  "pods": 20,
+  "ethereal": false,
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

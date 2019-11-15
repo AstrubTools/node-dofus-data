@@ -1,0 +1,20 @@
+{
+  "id": 6218,
+  "type": 19,
+  "name": "Hacha de Oirustet",
+  "level": 77,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>84",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

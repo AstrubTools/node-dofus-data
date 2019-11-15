@@ -1,0 +1,20 @@
+{
+  "id": 483,
+  "type": 8,
+  "name": "Gran Pala Apaleadora",
+  "level": 29,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>9&CC>20",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

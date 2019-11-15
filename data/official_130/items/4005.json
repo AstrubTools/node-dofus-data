@@ -1,0 +1,20 @@
+{
+  "id": 4005,
+  "type": 4,
+  "name": "Bastón de Ihevavu",
+  "level": 72,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>63",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

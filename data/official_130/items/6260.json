@@ -1,0 +1,20 @@
+{
+  "id": 6260,
+  "type": 19,
+  "name": "Hacha de Xuthoke",
+  "level": 91,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>107",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

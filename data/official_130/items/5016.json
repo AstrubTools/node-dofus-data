@@ -1,0 +1,20 @@
+{
+  "id": 5016,
+  "type": 2,
+  "name": "Arco de Utokasu",
+  "level": 115,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>106",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

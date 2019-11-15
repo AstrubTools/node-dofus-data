@@ -1,0 +1,20 @@
+{
+  "id": 4402,
+  "type": 3,
+  "name": "Varita Tabake",
+  "level": 57,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>62",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

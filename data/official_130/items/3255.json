@@ -1,0 +1,20 @@
+{
+  "id": 3255,
+  "type": 6,
+  "name": "Espada de Nirytetas",
+  "level": 50,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>47",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

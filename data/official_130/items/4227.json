@@ -1,0 +1,20 @@
+{
+  "id": 4227,
+  "type": 4,
+  "name": "Bastón de Trogr",
+  "level": 146,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>170",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

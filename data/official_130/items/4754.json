@@ -1,0 +1,20 @@
+{
+  "id": 4754,
+  "type": 2,
+  "name": "Arco de Flapevemen",
+  "level": 28,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>26",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

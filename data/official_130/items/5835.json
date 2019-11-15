@@ -1,0 +1,20 @@
+{
+  "id": 5835,
+  "type": 8,
+  "name": "Pala de Elonuve",
+  "level": 96,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>98",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

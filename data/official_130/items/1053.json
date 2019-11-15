@@ -1,0 +1,20 @@
+{
+  "id": 1053,
+  "type": 8,
+  "name": "Imponente pala de Wukis",
+  "level": 64,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CC>50&CS>50",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

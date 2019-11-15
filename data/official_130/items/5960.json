@@ -1,0 +1,20 @@
+{
+  "id": 5960,
+  "type": 8,
+  "name": "Pala de Lototofr",
+  "level": 138,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>162&CS>42",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

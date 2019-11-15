@@ -1,0 +1,20 @@
+{
+  "id": 6321,
+  "type": 19,
+  "name": "Hacha de Estedorth",
+  "level": 112,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>130",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

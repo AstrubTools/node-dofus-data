@@ -1,0 +1,20 @@
+{
+  "id": 6345,
+  "type": 19,
+  "name": "Hacha de Rurogak",
+  "level": 120,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>103",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

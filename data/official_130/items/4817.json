@@ -1,0 +1,20 @@
+{
+  "id": 4817,
+  "type": 2,
+  "name": "Arco de Flyfesevu",
+  "level": 49,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>53&CS>16",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

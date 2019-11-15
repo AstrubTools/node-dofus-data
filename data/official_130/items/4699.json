@@ -1,0 +1,20 @@
+{
+  "id": 4699,
+  "type": 2,
+  "name": "Arco de Otodokop",
+  "level": 10,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>9&CS>4",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

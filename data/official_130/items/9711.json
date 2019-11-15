@@ -1,0 +1,20 @@
+{
+  "id": 9711,
+  "type": 5,
+  "name": "Daga Muhsino\\'Doroh",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>30&CV>30",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "35",
+    "45",
+    "0",
+    "0",
+    "1"
+  ]
+}

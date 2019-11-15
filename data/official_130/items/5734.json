@@ -1,0 +1,20 @@
+{
+  "id": 5734,
+  "type": 8,
+  "name": "Pala de Uhatfla",
+  "level": 62,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>54",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

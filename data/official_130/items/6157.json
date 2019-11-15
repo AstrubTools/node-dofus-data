@@ -1,0 +1,20 @@
+{
+  "id": 6157,
+  "type": 19,
+  "name": "Hacha de Dugerah",
+  "level": 57,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>69",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

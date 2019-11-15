@@ -1,0 +1,20 @@
+{
+  "id": 4942,
+  "type": 2,
+  "name": "Arco de Ourogest",
+  "level": 91,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>91",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

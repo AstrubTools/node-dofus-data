@@ -1,0 +1,20 @@
+{
+  "id": 8929,
+  "type": 5,
+  "name": "Kriss Tobal",
+  "level": 149,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>250&CC>250",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

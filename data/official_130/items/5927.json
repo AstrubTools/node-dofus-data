@@ -1,0 +1,20 @@
+{
+  "id": 5927,
+  "type": 8,
+  "name": "Pala de Ujabice",
+  "level": 127,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>119",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

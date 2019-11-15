@@ -1,0 +1,20 @@
+{
+  "id": 4778,
+  "type": 2,
+  "name": "Arco de Grodicaik",
+  "level": 36,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>38",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

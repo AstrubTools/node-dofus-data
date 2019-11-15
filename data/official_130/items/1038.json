@@ -1,0 +1,20 @@
+{
+  "id": 1038,
+  "type": 5,
+  "name": "Espléndida Daga Engañadora",
+  "level": 63,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>63&CS>22",
+  "stats": [
+    "16",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

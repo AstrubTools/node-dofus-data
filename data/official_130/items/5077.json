@@ -1,0 +1,20 @@
+{
+  "id": 5077,
+  "type": 2,
+  "name": "Arco de Koces",
+  "level": 136,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>147",
+  "stats": [
+    "11",
+    "4",
+    "4",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3805,
+  "type": 4,
+  "name": "Bastón de Waelew",
+  "level": 5,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>6&CS>1",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

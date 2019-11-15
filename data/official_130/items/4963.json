@@ -1,0 +1,20 @@
+{
+  "id": 4963,
+  "type": 2,
+  "name": "Arco de Idapyb",
+  "level": 98,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>106&CS>47",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

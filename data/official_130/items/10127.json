@@ -1,0 +1,19 @@
+{
+  "id": 10127,
+  "type": 4,
+  "name": "Bastón del Bandido Pendenciero",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

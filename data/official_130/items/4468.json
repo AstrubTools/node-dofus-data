@@ -1,0 +1,20 @@
+{
+  "id": 4468,
+  "type": 3,
+  "name": "Varita Luvin",
+  "level": 79,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>88",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

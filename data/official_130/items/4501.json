@@ -1,0 +1,20 @@
+{
+  "id": 4501,
+  "type": 3,
+  "name": "Varita Lufulis",
+  "level": 90,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>93",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6387,
+  "type": 19,
+  "name": "Hacha de Srehitur",
+  "level": 134,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>159",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

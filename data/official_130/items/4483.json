@@ -1,0 +1,20 @@
+{
+  "id": 4483,
+  "type": 3,
+  "name": "Varita Thilavudo",
+  "level": 84,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>82",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

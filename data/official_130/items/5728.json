@@ -1,0 +1,20 @@
+{
+  "id": 5728,
+  "type": 8,
+  "name": "Pala de Myowup",
+  "level": 60,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>57",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

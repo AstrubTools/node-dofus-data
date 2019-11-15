@@ -1,0 +1,20 @@
+{
+  "id": 4596,
+  "type": 3,
+  "name": "Varita Ulegem",
+  "level": 122,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>123&CV>32",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

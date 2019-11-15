@@ -1,0 +1,20 @@
+{
+  "id": 4233,
+  "type": 4,
+  "name": "Bastón de Cubarth",
+  "level": 148,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>135",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

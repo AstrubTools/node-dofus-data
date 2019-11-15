@@ -1,0 +1,20 @@
+{
+  "id": 5611,
+  "type": 8,
+  "name": "Pala de Amphuwuco",
+  "level": 21,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>18",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

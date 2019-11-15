@@ -1,0 +1,20 @@
+{
+  "id": 4433,
+  "type": 3,
+  "name": "Varita de Edape",
+  "level": 67,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>71",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3788,
+  "type": 5,
+  "name": "Daga de Peteo",
+  "level": 146,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>140",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

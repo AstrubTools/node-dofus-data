@@ -1,0 +1,20 @@
+{
+  "id": 1049,
+  "type": 8,
+  "name": "Potente pala enredaderada",
+  "level": 50,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CC>35&CS>15",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

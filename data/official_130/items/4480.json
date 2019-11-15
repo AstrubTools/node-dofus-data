@@ -1,0 +1,20 @@
+{
+  "id": 4480,
+  "type": 3,
+  "name": "Varita Mefetuvi",
+  "level": 83,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>78",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

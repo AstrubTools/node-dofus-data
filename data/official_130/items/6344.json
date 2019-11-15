@@ -1,0 +1,20 @@
+{
+  "id": 6344,
+  "type": 19,
+  "name": "Hacha de Otozop",
+  "level": 119,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>133",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4949,
+  "type": 2,
+  "name": "Arco de Tetelaci",
+  "level": 93,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>87",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

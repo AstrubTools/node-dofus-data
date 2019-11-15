@@ -1,0 +1,20 @@
+{
+  "id": 4094,
+  "type": 4,
+  "name": "Bastón de Lifige",
+  "level": 102,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>93&CS>47",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

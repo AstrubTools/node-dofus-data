@@ -1,0 +1,20 @@
+{
+  "id": 5019,
+  "type": 2,
+  "name": "Arco de Misolet",
+  "level": 116,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>126",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

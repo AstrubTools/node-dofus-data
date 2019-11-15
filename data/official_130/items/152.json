@@ -1,0 +1,20 @@
+{
+  "id": 152,
+  "type": 8,
+  "name": "Gran Pala de Maderucha",
+  "level": 4,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CS>1&CC>3",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

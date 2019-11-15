@@ -1,0 +1,20 @@
+{
+  "id": 4178,
+  "type": 4,
+  "name": "Bastón de Gegotid",
+  "level": 130,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>116",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

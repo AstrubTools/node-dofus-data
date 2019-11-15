@@ -1,0 +1,20 @@
+{
+  "id": 8096,
+  "type": 7,
+  "name": "Martillo Kosner",
+  "level": 140,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CI>250&CC>250",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "30",
+    "45",
+    "0",
+    "1",
+    "0"
+  ]
+}

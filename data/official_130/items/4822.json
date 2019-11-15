@@ -1,0 +1,20 @@
+{
+  "id": 4822,
+  "type": 2,
+  "name": "Arco de Losouille",
+  "level": 51,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>48",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

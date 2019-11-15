@@ -1,0 +1,20 @@
+{
+  "id": 4950,
+  "type": 2,
+  "name": "Arco de Aomiel",
+  "level": 93,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>85",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

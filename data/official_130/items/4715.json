@@ -1,0 +1,20 @@
+{
+  "id": 4715,
+  "type": 2,
+  "name": "Arco de Egemuz",
+  "level": 15,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>14",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

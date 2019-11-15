@@ -1,0 +1,20 @@
+{
+  "id": 5008,
+  "type": 2,
+  "name": "Arco de Redibesu",
+  "level": 113,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>103",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

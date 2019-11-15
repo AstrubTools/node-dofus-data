@@ -1,0 +1,20 @@
+{
+  "id": 8834,
+  "type": 3,
+  "name": "Rama del abrajidor oscuro",
+  "level": 97,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CS>100&CI>100",
+  "stats": [
+    "5",
+    "5",
+    "2",
+    "4",
+    "40",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9938,
+  "type": 6,
+  "name": "Delú",
+  "level": 38,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>30&CS>20&CW>20",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

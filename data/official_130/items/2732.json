@@ -1,0 +1,20 @@
+{
+  "id": 2732,
+  "type": 6,
+  "name": "Espada de Kopum",
+  "level": 15,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>16",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

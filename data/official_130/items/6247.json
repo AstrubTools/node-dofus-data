@@ -1,0 +1,20 @@
+{
+  "id": 6247,
+  "type": 19,
+  "name": "Hacha de Pibadecu",
+  "level": 87,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>81",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

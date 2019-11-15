@@ -1,0 +1,20 @@
+{
+  "id": 6188,
+  "type": 19,
+  "name": "Hacha de Otugu",
+  "level": 67,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>79",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

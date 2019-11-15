@@ -1,0 +1,20 @@
+{
+  "id": 6012,
+  "type": 19,
+  "name": "Hacha de Ebetaille",
+  "level": 9,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>10",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

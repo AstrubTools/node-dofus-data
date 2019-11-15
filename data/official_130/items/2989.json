@@ -1,0 +1,20 @@
+{
+  "id": 2989,
+  "type": 6,
+  "name": "Espada de Buruman",
+  "level": 96,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>106",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

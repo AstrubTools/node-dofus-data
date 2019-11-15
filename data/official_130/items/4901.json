@@ -1,0 +1,20 @@
+{
+  "id": 4901,
+  "type": 2,
+  "name": "Arco de Unaim",
+  "level": 77,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>77",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

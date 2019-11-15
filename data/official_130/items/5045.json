@@ -1,0 +1,20 @@
+{
+  "id": 5045,
+  "type": 2,
+  "name": "Arco de Otetetif",
+  "level": 125,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>120",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

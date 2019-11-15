@@ -1,0 +1,20 @@
+{
+  "id": 3285,
+  "type": 6,
+  "name": "Espada de Ellalle",
+  "level": 80,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>88&CV>28",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

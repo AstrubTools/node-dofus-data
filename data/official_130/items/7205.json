@@ -1,0 +1,20 @@
+{
+  "id": 7205,
+  "type": 4,
+  "name": "Bastón del Nidanwa",
+  "level": 62,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>100",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

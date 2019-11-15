@@ -1,0 +1,20 @@
+{
+  "id": 3841,
+  "type": 4,
+  "name": "Bastón de Luvutali",
+  "level": 17,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>18",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6039,
+  "type": 19,
+  "name": "Hacha de Egurifis",
+  "level": 18,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>20",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

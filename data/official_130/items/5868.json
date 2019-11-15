@@ -1,0 +1,20 @@
+{
+  "id": 5868,
+  "type": 8,
+  "name": "Pala de Astotul",
+  "level": 107,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>99&CS>37",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3806,
+  "type": 4,
+  "name": "Bastón de Amhur",
+  "level": 6,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>7",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

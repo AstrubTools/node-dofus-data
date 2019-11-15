@@ -1,0 +1,20 @@
+{
+  "id": 8864,
+  "type": 2,
+  "name": "Kasr\\'Arkol",
+  "level": 122,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>250",
+  "stats": [
+    "10",
+    "5",
+    "5",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

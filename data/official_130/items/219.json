@@ -1,0 +1,20 @@
+{
+  "id": 219,
+  "type": 5,
+  "name": "Blessdags",
+  "level": 64,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>64&CV>10&CC>10",
+  "stats": [
+    "17",
+    "3",
+    "1",
+    "1",
+    "30",
+    "100",
+    "0",
+    "0",
+    "1"
+  ]
+}

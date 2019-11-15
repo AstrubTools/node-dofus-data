@@ -1,0 +1,20 @@
+{
+  "id": 7494,
+  "type": 20,
+  "name": "Aguja del Sastremago",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "PJ=64",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

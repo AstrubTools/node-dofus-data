@@ -1,0 +1,20 @@
+{
+  "id": 3470,
+  "type": 5,
+  "name": "Daga de Flapegel",
+  "level": 42,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>46",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5026,
+  "type": 2,
+  "name": "Arco de Sileuf",
+  "level": 119,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>121",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

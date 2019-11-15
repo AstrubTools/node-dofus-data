@@ -1,0 +1,20 @@
+{
+  "id": 6098,
+  "type": 19,
+  "name": "Hacha de Esutadid",
+  "level": 37,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>45",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

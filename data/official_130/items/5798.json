@@ -1,0 +1,20 @@
+{
+  "id": 5798,
+  "type": 8,
+  "name": "Pala de Buhedit",
+  "level": 84,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CC>69",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

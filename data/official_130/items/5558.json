@@ -1,0 +1,20 @@
+{
+  "id": 5558,
+  "type": 7,
+  "name": "Martillo de Asacare",
+  "level": 150,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CV>97&CS>64",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

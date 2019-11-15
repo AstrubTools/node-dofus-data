@@ -1,0 +1,20 @@
+{
+  "id": 1154,
+  "type": 4,
+  "name": "Gran Bastón-Bola de Vidente",
+  "level": 42,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CW>15&CA>40",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

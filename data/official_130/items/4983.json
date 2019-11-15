@@ -1,0 +1,20 @@
+{
+  "id": 4983,
+  "type": 2,
+  "name": "Arco de Ezutole",
+  "level": 104,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>100&CS>21",
+  "stats": [
+    "11",
+    "4",
+    "4",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

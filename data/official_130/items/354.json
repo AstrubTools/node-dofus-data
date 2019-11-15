@@ -1,0 +1,20 @@
+{
+  "id": 354,
+  "type": 6,
+  "name": "La Klebik",
+  "level": 25,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>50&CW>5",
+  "stats": [
+    "12",
+    "4",
+    "1",
+    "1",
+    "30",
+    "60",
+    "0",
+    "0",
+    "0"
+  ]
+}

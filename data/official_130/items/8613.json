@@ -1,0 +1,20 @@
+{
+  "id": 8613,
+  "type": 8,
+  "name": "Pala Minsterio",
+  "level": 70,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>100",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

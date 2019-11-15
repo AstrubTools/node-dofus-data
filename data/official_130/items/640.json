@@ -1,0 +1,20 @@
+{
+  "id": 640,
+  "type": 2,
+  "name": "Arco de las Costas",
+  "level": 46,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>46",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "10",
+    "30",
+    "45",
+    "0",
+    "1",
+    "1"
+  ]
+}

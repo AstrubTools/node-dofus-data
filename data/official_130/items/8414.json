@@ -1,0 +1,20 @@
+{
+  "id": 8414,
+  "type": 5,
+  "name": "Dagas de Dragohuevo",
+  "level": 128,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>150&CI>150&CA>100",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4733,
+  "type": 2,
+  "name": "Arco de Ehonevov",
+  "level": 21,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>20",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

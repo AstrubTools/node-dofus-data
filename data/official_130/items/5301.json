@@ -1,0 +1,20 @@
+{
+  "id": 5301,
+  "type": 7,
+  "name": "Martillo de Hosobum",
+  "level": 64,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CV>43&CS>26",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6139,
+  "type": 19,
+  "name": "Hacha de Huruseru",
+  "level": 51,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>54&CV>24",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

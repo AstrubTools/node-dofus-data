@@ -1,0 +1,20 @@
+{
+  "id": 5017,
+  "type": 2,
+  "name": "Arco de Ubomele",
+  "level": 116,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>112",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4792,
+  "type": 2,
+  "name": "Arco de Nybalixi",
+  "level": 41,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>37",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

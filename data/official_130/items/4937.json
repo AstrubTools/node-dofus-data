@@ -1,0 +1,20 @@
+{
+  "id": 4937,
+  "type": 2,
+  "name": "Arco de Bugedeh",
+  "level": 89,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>83",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

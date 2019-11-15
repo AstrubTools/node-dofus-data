@@ -1,0 +1,20 @@
+{
+  "id": 5055,
+  "type": 2,
+  "name": "Arco de Surevlel",
+  "level": 128,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>126",
+  "stats": [
+    "9",
+    "4",
+    "4",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

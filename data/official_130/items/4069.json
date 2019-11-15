@@ -1,0 +1,20 @@
+{
+  "id": 4069,
+  "type": 4,
+  "name": "Bastón de Kolole",
+  "level": 93,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>106",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5947,
+  "type": 8,
+  "name": "Pala de Lepreoub",
+  "level": 133,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>155",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

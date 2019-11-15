@@ -1,0 +1,20 @@
+{
+  "id": 3269,
+  "type": 6,
+  "name": "Espada de Aquejineno",
+  "level": 64,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>70",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

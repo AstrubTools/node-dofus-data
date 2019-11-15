@@ -1,0 +1,20 @@
+{
+  "id": 900,
+  "type": 5,
+  "name": "Poderosas Dagas Afiladas",
+  "level": 39,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>39&CW>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

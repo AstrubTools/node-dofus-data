@@ -1,0 +1,20 @@
+{
+  "id": 8695,
+  "type": 6,
+  "name": "Penispada",
+  "level": 177,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CM>5",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

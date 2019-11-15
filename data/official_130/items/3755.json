@@ -1,0 +1,20 @@
+{
+  "id": 3755,
+  "type": 5,
+  "name": "Daga de Etolou",
+  "level": 135,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>124&CV>46",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

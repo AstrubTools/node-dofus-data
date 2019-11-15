@@ -1,0 +1,20 @@
+{
+  "id": 4879,
+  "type": 2,
+  "name": "Arco de Alethylo",
+  "level": 70,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>63",
+  "stats": [
+    "5",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

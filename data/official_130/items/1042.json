@@ -1,0 +1,20 @@
+{
+  "id": 1042,
+  "type": 8,
+  "name": "Palita de Vello Durmiente",
+  "level": 34,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>4&CC>26",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

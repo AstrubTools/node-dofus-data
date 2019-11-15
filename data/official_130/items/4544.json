@@ -1,0 +1,20 @@
+{
+  "id": 4544,
+  "type": 3,
+  "name": "Varita Usacebi",
+  "level": 104,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>96",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

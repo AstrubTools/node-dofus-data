@@ -1,0 +1,20 @@
+{
+  "id": 1357,
+  "type": 3,
+  "name": "Varidaga",
+  "level": 35,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>25",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

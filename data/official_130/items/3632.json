@@ -1,0 +1,20 @@
+{
+  "id": 3632,
+  "type": 5,
+  "name": "Daga de Isuhaille",
+  "level": 96,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>98",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

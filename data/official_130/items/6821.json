@@ -1,0 +1,20 @@
+{
+  "id": 6821,
+  "type": 6,
+  "name": "Hoja del Jefe Cocodrail",
+  "level": 70,
+  "pods": 100,
+  "ethereal": false,
+  "requirements": "CA>150&CC>150&CV>100",
+  "stats": [
+    "12",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

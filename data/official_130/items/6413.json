@@ -1,0 +1,20 @@
+{
+  "id": 6413,
+  "type": 19,
+  "name": "Hacha de Ragnahunut",
+  "level": 142,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>147",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

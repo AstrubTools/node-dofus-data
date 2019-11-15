@@ -1,0 +1,20 @@
+{
+  "id": 3995,
+  "type": 4,
+  "name": "Bastón de Lurodare",
+  "level": 69,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>81",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

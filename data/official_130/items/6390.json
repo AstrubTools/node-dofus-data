@@ -1,0 +1,20 @@
+{
+  "id": 6390,
+  "type": 19,
+  "name": "Hacha de Fofpur",
+  "level": 135,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>155",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3354,
+  "type": 6,
+  "name": "Espada de Agalomo",
+  "level": 149,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>163",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

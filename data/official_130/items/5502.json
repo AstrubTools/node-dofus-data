@@ -1,0 +1,20 @@
+{
+  "id": 5502,
+  "type": 7,
+  "name": "Martillo de Theku",
+  "level": 131,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CV>74&CS>56",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

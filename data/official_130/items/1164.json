@@ -1,0 +1,20 @@
+{
+  "id": 1164,
+  "type": 4,
+  "name": "Gran Bastón de los Reyes",
+  "level": 52,
+  "pods": 22,
+  "ethereal": false,
+  "requirements": "CI>70",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

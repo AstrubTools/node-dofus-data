@@ -1,0 +1,20 @@
+{
+  "id": 5030,
+  "type": 2,
+  "name": "Arco de Ohesato",
+  "level": 120,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>127",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

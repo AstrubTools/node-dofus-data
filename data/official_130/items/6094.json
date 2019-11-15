@@ -1,0 +1,20 @@
+{
+  "id": 6094,
+  "type": 19,
+  "name": "Hacha de Bremamo",
+  "level": 36,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>37",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

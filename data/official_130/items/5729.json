@@ -1,0 +1,20 @@
+{
+  "id": 5729,
+  "type": 8,
+  "name": "Pala de Ylehowe",
+  "level": 61,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>65",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

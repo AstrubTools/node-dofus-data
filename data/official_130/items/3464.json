@@ -1,0 +1,20 @@
+{
+  "id": 3464,
+  "type": 5,
+  "name": "Daga de Seduva",
+  "level": 40,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>45",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

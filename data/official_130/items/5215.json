@@ -1,0 +1,20 @@
+{
+  "id": 5215,
+  "type": 7,
+  "name": "Martillo de Nifeub",
+  "level": 35,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CV>18&CS>10",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

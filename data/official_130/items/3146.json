@@ -1,0 +1,20 @@
+{
+  "id": 3146,
+  "type": 6,
+  "name": "Espada de Gudinake",
+  "level": 122,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>110",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

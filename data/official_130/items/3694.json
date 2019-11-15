@@ -1,0 +1,20 @@
+{
+  "id": 3694,
+  "type": 5,
+  "name": "Daga de Mutuke",
+  "level": 114,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>108",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

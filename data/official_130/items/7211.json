@@ -1,0 +1,20 @@
+{
+  "id": 7211,
+  "type": 19,
+  "name": "Hacha del Yondanwa",
+  "level": 98,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>150&CS>75&CV>85",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

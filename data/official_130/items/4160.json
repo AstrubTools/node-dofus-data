@@ -1,0 +1,20 @@
+{
+  "id": 4160,
+  "type": 4,
+  "name": "Bastón de Opukber",
+  "level": 124,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>128",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4837,
+  "type": 2,
+  "name": "Arco de Enevege",
+  "level": 56,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>61",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6414,
+  "type": 19,
+  "name": "Hacha de Pugosahi",
+  "level": 143,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>153",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

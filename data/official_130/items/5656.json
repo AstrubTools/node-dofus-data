@@ -1,0 +1,20 @@
+{
+  "id": 5656,
+  "type": 8,
+  "name": "Pala de Ofusal",
+  "level": 36,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CC>41",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

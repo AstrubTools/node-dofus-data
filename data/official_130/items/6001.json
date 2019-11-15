@@ -1,0 +1,20 @@
+{
+  "id": 6001,
+  "type": 19,
+  "name": "Hacha de Mamunum",
+  "level": 5,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>5",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

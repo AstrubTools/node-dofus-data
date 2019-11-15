@@ -1,0 +1,20 @@
+{
+  "id": 4902,
+  "type": 2,
+  "name": "Arco de Flegafr",
+  "level": 77,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>74",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

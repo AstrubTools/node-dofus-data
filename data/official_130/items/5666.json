@@ -1,0 +1,20 @@
+{
+  "id": 5666,
+  "type": 8,
+  "name": "Pala de Totalu",
+  "level": 40,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>48&CV>18",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

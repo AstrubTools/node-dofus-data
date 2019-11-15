@@ -1,0 +1,20 @@
+{
+  "id": 1147,
+  "type": 4,
+  "name": "Verdadero bastón de magia falsa",
+  "level": 35,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>45",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

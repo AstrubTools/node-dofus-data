@@ -1,0 +1,20 @@
+{
+  "id": 5437,
+  "type": 7,
+  "name": "Martillo de Kuplit",
+  "level": 109,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CV>62&CI>27",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

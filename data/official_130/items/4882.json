@@ -1,0 +1,20 @@
+{
+  "id": 4882,
+  "type": 2,
+  "name": "Arco de Boragau",
+  "level": 71,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>70",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

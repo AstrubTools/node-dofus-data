@@ -1,0 +1,20 @@
+{
+  "id": 247,
+  "type": 8,
+  "name": "Potente Pala de Raspage",
+  "level": 19,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CS>9&CC>10",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

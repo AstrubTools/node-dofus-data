@@ -1,0 +1,20 @@
+{
+  "id": 3878,
+  "type": 4,
+  "name": "Bastón de Opobet",
+  "level": 30,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>36",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

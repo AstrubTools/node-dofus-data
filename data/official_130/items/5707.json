@@ -1,0 +1,20 @@
+{
+  "id": 5707,
+  "type": 8,
+  "name": "Pala de Raceula",
+  "level": 53,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>43&CS>26",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

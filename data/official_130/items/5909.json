@@ -1,0 +1,20 @@
+{
+  "id": 5909,
+  "type": 8,
+  "name": "Pala de Amphafa",
+  "level": 121,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>100",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5841,
+  "type": 8,
+  "name": "Pala de Bepehad",
+  "level": 98,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>90",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

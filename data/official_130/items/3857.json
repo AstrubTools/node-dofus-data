@@ -1,0 +1,20 @@
+{
+  "id": 3857,
+  "type": 4,
+  "name": "Bastón de Lesiballe",
+  "level": 23,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>25",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6415,
+  "type": 19,
+  "name": "Hacha de Ebujim",
+  "level": 143,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>154",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6379,
+  "type": 19,
+  "name": "Hacha de Ugutuf",
+  "level": 131,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>140",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

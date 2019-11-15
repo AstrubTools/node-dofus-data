@@ -1,0 +1,20 @@
+{
+  "id": 5061,
+  "type": 2,
+  "name": "Arco de Zarume",
+  "level": 130,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>144",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

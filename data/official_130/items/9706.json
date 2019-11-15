@@ -1,0 +1,20 @@
+{
+  "id": 9706,
+  "type": 6,
+  "name": "Espada H\\'Maï",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>30&CV>30",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "35",
+    "60",
+    "0",
+    "0",
+    "1"
+  ]
+}

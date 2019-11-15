@@ -1,0 +1,20 @@
+{
+  "id": 241,
+  "type": 8,
+  "name": "Potente Pala de Crapullo",
+  "level": 17,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>7&CC>10",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

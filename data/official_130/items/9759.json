@@ -1,0 +1,20 @@
+{
+  "id": 9759,
+  "type": 4,
+  "name": "Bastón Nell\\'Hada",
+  "level": 70,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>35&CS>35&CC>35&CI>35&CV>70",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

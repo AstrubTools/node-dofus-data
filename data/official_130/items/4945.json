@@ -1,0 +1,20 @@
+{
+  "id": 4945,
+  "type": 2,
+  "name": "Arco de Somutalle",
+  "level": 92,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>86",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

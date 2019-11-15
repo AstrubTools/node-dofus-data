@@ -1,0 +1,20 @@
+{
+  "id": 4400,
+  "type": 3,
+  "name": "Varita Lovobup",
+  "level": 56,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>62",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

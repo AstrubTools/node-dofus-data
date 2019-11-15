@@ -1,0 +1,20 @@
+{
+  "id": 5104,
+  "type": 2,
+  "name": "Arco de Bethisog",
+  "level": 145,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>149",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

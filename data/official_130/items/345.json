@@ -1,0 +1,20 @@
+{
+  "id": 345,
+  "type": 8,
+  "name": "Pequeña Pala Apaleadora",
+  "level": 25,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>5&CC>20",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

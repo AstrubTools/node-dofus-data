@@ -1,0 +1,20 @@
+{
+  "id": 3985,
+  "type": 4,
+  "name": "Bastón de Gladacy",
+  "level": 65,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>70&CS>18",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

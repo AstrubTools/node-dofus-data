@@ -1,0 +1,20 @@
+{
+  "id": 6349,
+  "type": 19,
+  "name": "Hacha de Nisrpur",
+  "level": 121,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>121",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

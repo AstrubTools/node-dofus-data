@@ -1,0 +1,20 @@
+{
+  "id": 5726,
+  "type": 8,
+  "name": "Pala de Ugrohuc",
+  "level": 60,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>66&CS>28",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3950,
+  "type": 4,
+  "name": "Bastón de Rificaille",
+  "level": 54,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>51&CS>15",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

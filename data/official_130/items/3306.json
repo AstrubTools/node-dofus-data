@@ -1,0 +1,20 @@
+{
+  "id": 3306,
+  "type": 6,
+  "name": "Espada de Hahedor",
+  "level": 101,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>98",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

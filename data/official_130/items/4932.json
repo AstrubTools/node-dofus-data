@@ -1,0 +1,20 @@
+{
+  "id": 4932,
+  "type": 2,
+  "name": "Arco de Ufufalu",
+  "level": 87,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>79",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

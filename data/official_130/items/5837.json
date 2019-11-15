@@ -1,0 +1,20 @@
+{
+  "id": 5837,
+  "type": 8,
+  "name": "Pala de Kelaewab",
+  "level": 97,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CC>90",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3682,
+  "type": 5,
+  "name": "Daga de Bemiel",
+  "level": 110,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>107&CV>32",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3505,
+  "type": 5,
+  "name": "Daga de Grali",
+  "level": 53,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>52",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

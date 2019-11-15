@@ -1,0 +1,20 @@
+{
+  "id": 1031,
+  "type": 5,
+  "name": "Dagas Crueles de Elorie Entuwan",
+  "level": 40,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CA>40",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

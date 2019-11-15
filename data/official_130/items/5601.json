@@ -1,0 +1,20 @@
+{
+  "id": 5601,
+  "type": 8,
+  "name": "Pala de Mejuldar",
+  "level": 18,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CC>15&CS>9",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

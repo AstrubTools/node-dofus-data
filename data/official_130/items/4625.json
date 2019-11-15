@@ -1,0 +1,20 @@
+{
+  "id": 4625,
+  "type": 3,
+  "name": "Varita de Fufuru",
+  "level": 131,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>121",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

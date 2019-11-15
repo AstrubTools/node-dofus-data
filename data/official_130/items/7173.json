@@ -1,0 +1,20 @@
+{
+  "id": 7173,
+  "type": 3,
+  "name": "Varita Estranguladora",
+  "level": 27,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>50",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

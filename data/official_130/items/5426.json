@@ -1,0 +1,20 @@
+{
+  "id": 5426,
+  "type": 7,
+  "name": "Martillo de Univfrit",
+  "level": 106,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CV>54&CI>38",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

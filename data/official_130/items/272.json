@@ -1,0 +1,20 @@
+{
+  "id": 272,
+  "type": 2,
+  "name": "Nomoon",
+  "level": 28,
+  "pods": 18,
+  "ethereal": false,
+  "requirements": "CA>28&CV>5",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "12",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

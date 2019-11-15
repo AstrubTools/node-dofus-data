@@ -1,0 +1,20 @@
+{
+  "id": 6326,
+  "type": 19,
+  "name": "Hacha de Doumabi",
+  "level": 113,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>124",
+  "stats": [
+    "4",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

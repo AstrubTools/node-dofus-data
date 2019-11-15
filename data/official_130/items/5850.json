@@ -1,0 +1,20 @@
+{
+  "id": 5850,
+  "type": 8,
+  "name": "Pala de Aquafanel",
+  "level": 101,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CC>81",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

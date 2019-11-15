@@ -1,0 +1,20 @@
+{
+  "id": 6445,
+  "type": 2,
+  "name": "Arco Botante",
+  "level": 80,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>70&CC>50",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

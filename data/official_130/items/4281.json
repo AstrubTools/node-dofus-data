@@ -1,0 +1,20 @@
+{
+  "id": 4281,
+  "type": 3,
+  "name": "Varita Sahehami",
+  "level": 17,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>19",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

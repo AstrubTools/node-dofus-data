@@ -1,0 +1,20 @@
+{
+  "id": 4210,
+  "type": 4,
+  "name": "Bastón de Mubber",
+  "level": 140,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>149",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

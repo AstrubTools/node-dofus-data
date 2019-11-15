@@ -1,0 +1,10 @@
+{
+  "id": 10500,
+  "type": 12,
+  "name": "Pocimatajo de Crocabulia",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "MK<10109,16",
+  "stats": ""
+}

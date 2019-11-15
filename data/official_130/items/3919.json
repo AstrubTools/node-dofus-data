@@ -1,0 +1,20 @@
+{
+  "id": 3919,
+  "type": 4,
+  "name": "Bastón de Rihem",
+  "level": 43,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>35&CV>17",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

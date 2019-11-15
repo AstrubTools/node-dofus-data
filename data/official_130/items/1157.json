@@ -1,0 +1,20 @@
+{
+  "id": 1157,
+  "type": 4,
+  "name": "Omnisciente Bastón-Bola de Vidente",
+  "level": 50,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CW>18&CA>50",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

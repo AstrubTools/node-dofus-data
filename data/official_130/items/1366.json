@@ -1,0 +1,19 @@
+{
+  "id": 1366,
+  "type": 4,
+  "name": "Bastón de Jalatero",
+  "level": 12,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

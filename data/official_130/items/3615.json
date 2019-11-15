@@ -1,0 +1,20 @@
+{
+  "id": 3615,
+  "type": 5,
+  "name": "Daga de Tebof",
+  "level": 90,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>90",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

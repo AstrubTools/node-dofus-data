@@ -1,0 +1,20 @@
+{
+  "id": 5166,
+  "type": 7,
+  "name": "Martillo de Ofisteuf",
+  "level": 19,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CV>13&CI>11",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

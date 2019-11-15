@@ -1,0 +1,20 @@
+{
+  "id": 5968,
+  "type": 8,
+  "name": "Pala de Lauvepop",
+  "level": 140,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>158",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

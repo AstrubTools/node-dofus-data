@@ -1,0 +1,20 @@
+{
+  "id": 2729,
+  "type": 6,
+  "name": "Espada de Heritor",
+  "level": 14,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>13",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

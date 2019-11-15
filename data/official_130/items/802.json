@@ -1,0 +1,10 @@
+{
+  "id": 802,
+  "type": 76,
+  "name": "Pequeño Pergamino de Sabiduría",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "Cw<25",
+  "stats": ""
+}

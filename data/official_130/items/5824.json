@@ -1,0 +1,20 @@
+{
+  "id": 5824,
+  "type": 8,
+  "name": "Pala de Mouba",
+  "level": 92,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CC>99",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

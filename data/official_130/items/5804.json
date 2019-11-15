@@ -1,0 +1,20 @@
+{
+  "id": 5804,
+  "type": 8,
+  "name": "Pala de Fureluli",
+  "level": 86,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>100",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

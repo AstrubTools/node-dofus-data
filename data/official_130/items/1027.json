@@ -1,0 +1,20 @@
+{
+  "id": 1027,
+  "type": 5,
+  "name": "Cuchillo de Stek",
+  "level": 35,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>35&CS>12",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

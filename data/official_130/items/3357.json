@@ -1,0 +1,20 @@
+{
+  "id": 3357,
+  "type": 7,
+  "name": "Martillo Golpea Dedos",
+  "level": 49,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>30&CI>30",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5940,
+  "type": 8,
+  "name": "Pala de Pugeleba",
+  "level": 131,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>136",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

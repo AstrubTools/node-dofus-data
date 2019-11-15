@@ -1,0 +1,20 @@
+{
+  "id": 6007,
+  "type": 19,
+  "name": "Hacha de Raibexa",
+  "level": 7,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>9&CV>4",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

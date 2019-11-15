@@ -1,0 +1,20 @@
+{
+  "id": 5915,
+  "type": 8,
+  "name": "Pala de Erosot",
+  "level": 123,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>126&CS>25",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

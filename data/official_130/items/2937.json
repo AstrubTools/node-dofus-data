@@ -1,0 +1,20 @@
+{
+  "id": 2937,
+  "type": 6,
+  "name": "Espada de Aruta",
+  "level": 70,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>72",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

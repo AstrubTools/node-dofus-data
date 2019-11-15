@@ -1,0 +1,20 @@
+{
+  "id": 6278,
+  "type": 19,
+  "name": "Hacha de Uvozumef",
+  "level": 97,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>101",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

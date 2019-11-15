@@ -1,0 +1,20 @@
+{
+  "id": 5877,
+  "type": 8,
+  "name": "Pala de Agaeb",
+  "level": 110,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>93",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

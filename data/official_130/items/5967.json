@@ -1,0 +1,20 @@
+{
+  "id": 5967,
+  "type": 8,
+  "name": "Pala de Reharth",
+  "level": 140,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>119&CS>62",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5701,
+  "type": 8,
+  "name": "Pala de Coveluie",
+  "level": 51,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CC>55",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

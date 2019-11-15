@@ -1,0 +1,20 @@
+{
+  "id": 3826,
+  "type": 4,
+  "name": "Bastón de Frytuf",
+  "level": 12,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>14",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

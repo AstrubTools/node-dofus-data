@@ -1,0 +1,20 @@
+{
+  "id": 2923,
+  "type": 6,
+  "name": "Espada de Kesdutab",
+  "level": 63,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>62",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

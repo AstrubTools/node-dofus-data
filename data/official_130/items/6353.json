@@ -1,0 +1,20 @@
+{
+  "id": 6353,
+  "type": 19,
+  "name": "Hacha de Varkogohah",
+  "level": 122,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>99",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

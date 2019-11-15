@@ -1,0 +1,20 @@
+{
+  "id": 1367,
+  "type": 4,
+  "name": "Bastón de Dina Mita",
+  "level": 40,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>50&CA>40",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6107,
+  "type": 19,
+  "name": "Hacha de Biporac",
+  "level": 40,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>46",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

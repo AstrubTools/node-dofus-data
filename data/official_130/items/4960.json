@@ -1,0 +1,20 @@
+{
+  "id": 4960,
+  "type": 2,
+  "name": "Arco de Eolozyp",
+  "level": 97,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>97&CS>35",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

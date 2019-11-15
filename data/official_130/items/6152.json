@@ -1,0 +1,20 @@
+{
+  "id": 6152,
+  "type": 19,
+  "name": "Hacha de Rymosana",
+  "level": 55,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>56",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

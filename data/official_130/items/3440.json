@@ -1,0 +1,20 @@
+{
+  "id": 3440,
+  "type": 5,
+  "name": "Daga de Mamema",
+  "level": 32,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

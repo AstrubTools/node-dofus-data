@@ -1,0 +1,20 @@
+{
+  "id": 4159,
+  "type": 4,
+  "name": "Bastón de Laputub",
+  "level": 123,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>100",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6485,
+  "type": 2,
+  "name": "Arco del Chafer Arquero",
+  "level": 120,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>150&CC>100&CS>100",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

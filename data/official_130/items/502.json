@@ -1,0 +1,20 @@
+{
+  "id": 502,
+  "type": 19,
+  "name": "Cortadora de tejo",
+  "level": 17,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>10&CI>35",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

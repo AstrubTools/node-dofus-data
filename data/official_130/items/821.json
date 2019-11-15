@@ -1,0 +1,20 @@
+{
+  "id": 821,
+  "type": 6,
+  "name": "Poderosa Espada Sagrada",
+  "level": 17,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>34&CV>5",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

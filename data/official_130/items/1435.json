@@ -1,0 +1,20 @@
+{
+  "id": 1435,
+  "type": 8,
+  "name": "La Pala Gorda",
+  "level": 80,
+  "pods": 150,
+  "ethereal": false,
+  "requirements": "CS>100",
+  "stats": [
+    "10",
+    "6",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

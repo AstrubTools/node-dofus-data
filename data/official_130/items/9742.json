@@ -1,0 +1,20 @@
+{
+  "id": 9742,
+  "type": 2,
+  "name": "Arco Meh\\'Ta",
+  "level": 50,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>50&CV>50",
+  "stats": [
+    "5",
+    "6",
+    "2",
+    "6",
+    "35",
+    "45",
+    "0",
+    "1",
+    "1"
+  ]
+}

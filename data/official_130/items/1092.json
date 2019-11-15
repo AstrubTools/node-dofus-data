@@ -1,0 +1,20 @@
+{
+  "id": 1092,
+  "type": 2,
+  "name": "Pequeño Arco Buz",
+  "level": 15,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>15&CS>20",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

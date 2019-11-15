@@ -1,0 +1,20 @@
+{
+  "id": 6061,
+  "type": 19,
+  "name": "Hacha de Lemecalo",
+  "level": 25,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>30",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

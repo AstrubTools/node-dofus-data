@@ -1,0 +1,20 @@
+{
+  "id": 2955,
+  "type": 6,
+  "name": "Espada de Rhetu",
+  "level": 79,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>83",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

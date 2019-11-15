@@ -1,0 +1,20 @@
+{
+  "id": 5068,
+  "type": 2,
+  "name": "Arco de Cofnef",
+  "level": 133,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>135",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6258,
+  "type": 19,
+  "name": "Hacha de Fecofuf",
+  "level": 91,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>102",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

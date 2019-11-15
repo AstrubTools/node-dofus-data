@@ -1,0 +1,20 @@
+{
+  "id": 5032,
+  "type": 2,
+  "name": "Arco de Blabaul",
+  "level": 121,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>129",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

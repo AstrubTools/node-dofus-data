@@ -1,0 +1,20 @@
+{
+  "id": 436,
+  "type": 4,
+  "name": "Bastón de Raíz de Abráknido",
+  "level": 30,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CI>30&CC>5",
+  "stats": [
+    "5",
+    "2",
+    "1",
+    "1",
+    "20",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

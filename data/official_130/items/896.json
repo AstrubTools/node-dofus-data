@@ -1,0 +1,20 @@
+{
+  "id": 896,
+  "type": 5,
+  "name": "Poderosas Dagas Silvestres",
+  "level": 27,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>27&CI>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

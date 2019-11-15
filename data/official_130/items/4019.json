@@ -1,0 +1,20 @@
+{
+  "id": 4019,
+  "type": 4,
+  "name": "Bastón de Rihokour",
+  "level": 77,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>86&CV>20",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

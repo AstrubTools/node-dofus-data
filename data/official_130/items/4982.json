@@ -1,0 +1,20 @@
+{
+  "id": 4982,
+  "type": 2,
+  "name": "Arco de Oitdar",
+  "level": 104,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>94",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5793,
+  "type": 8,
+  "name": "Pala de Bojenec",
+  "level": 82,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>78",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

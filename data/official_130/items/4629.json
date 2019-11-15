@@ -1,0 +1,20 @@
+{
+  "id": 4629,
+  "type": 3,
+  "name": "Varita Nanibi",
+  "level": 133,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>142&CV>38",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

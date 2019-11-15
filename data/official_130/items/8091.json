@@ -1,0 +1,20 @@
+{
+  "id": 8091,
+  "type": 4,
+  "name": "El Bastón Rubé",
+  "level": 134,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>150&CA>150&CI>150",
+  "stats": [
+    "20",
+    "4",
+    "1",
+    "1",
+    "150",
+    "150",
+    "0",
+    "1",
+    "1"
+  ]
+}

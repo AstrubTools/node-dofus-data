@@ -1,0 +1,20 @@
+{
+  "id": 3920,
+  "type": 4,
+  "name": "Bastón de Ginar",
+  "level": 44,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>53",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

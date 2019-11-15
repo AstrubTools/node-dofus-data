@@ -1,0 +1,20 @@
+{
+  "id": 3457,
+  "type": 5,
+  "name": "Daga de Zelivene",
+  "level": 37,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>39",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

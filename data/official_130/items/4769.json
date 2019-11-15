@@ -1,0 +1,20 @@
+{
+  "id": 4769,
+  "type": 2,
+  "name": "Arco de Phararosi",
+  "level": 33,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

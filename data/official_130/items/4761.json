@@ -1,0 +1,20 @@
+{
+  "id": 4761,
+  "type": 2,
+  "name": "Arco de Scoxule",
+  "level": 30,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>32",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

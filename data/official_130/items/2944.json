@@ -1,0 +1,20 @@
+{
+  "id": 2944,
+  "type": 6,
+  "name": "Espada de Remav",
+  "level": 74,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>79",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4411,
+  "type": 3,
+  "name": "Varita Sogoth",
+  "level": 60,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>67",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

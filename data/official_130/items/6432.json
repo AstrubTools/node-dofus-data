@@ -1,0 +1,20 @@
+{
+  "id": 6432,
+  "type": 19,
+  "name": "Hacha de Egafube",
+  "level": 149,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>149",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

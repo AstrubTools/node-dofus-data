@@ -1,0 +1,20 @@
+{
+  "id": 2593,
+  "type": 19,
+  "name": "Podadora de olivioleta",
+  "level": 42,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CV>60",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

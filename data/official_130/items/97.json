@@ -1,0 +1,20 @@
+{
+  "id": 97,
+  "type": 5,
+  "name": "Poderosas Dagas de Maderucha",
+  "level": 7,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>7",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

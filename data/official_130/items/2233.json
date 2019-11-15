@@ -1,0 +1,10 @@
+{
+  "id": 2233,
+  "type": 10,
+  "name": "La Mordisca",
+  "level": 28,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS<40&CI>80",
+  "stats": ""
+}

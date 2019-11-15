@@ -1,0 +1,20 @@
+{
+  "id": 4796,
+  "type": 2,
+  "name": "Arco de Uvilin",
+  "level": 42,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>39",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

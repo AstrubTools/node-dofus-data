@@ -1,0 +1,20 @@
+{
+  "id": 4777,
+  "type": 2,
+  "name": "Arco de Yubaedu",
+  "level": 36,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

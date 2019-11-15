@@ -1,0 +1,20 @@
+{
+  "id": 2773,
+  "type": 6,
+  "name": "Espada de Rusrony",
+  "level": 36,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>37",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

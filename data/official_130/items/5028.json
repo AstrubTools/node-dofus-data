@@ -1,0 +1,20 @@
+{
+  "id": 5028,
+  "type": 2,
+  "name": "Arco de Flesifu",
+  "level": 119,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>125",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

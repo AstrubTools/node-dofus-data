@@ -1,0 +1,20 @@
+{
+  "id": 5725,
+  "type": 8,
+  "name": "Pala de Ehouhu",
+  "level": 59,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>57&CS>28",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

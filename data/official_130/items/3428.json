@@ -1,0 +1,20 @@
+{
+  "id": 3428,
+  "type": 5,
+  "name": "Daga de Zetehely",
+  "level": 28,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>30&CV>8",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

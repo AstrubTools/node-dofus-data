@@ -1,0 +1,20 @@
+{
+  "id": 5099,
+  "type": 2,
+  "name": "Arco de Lusurut",
+  "level": 143,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>154",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

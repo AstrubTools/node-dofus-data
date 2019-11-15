@@ -1,0 +1,20 @@
+{
+  "id": 4810,
+  "type": 2,
+  "name": "Arco de Irurat",
+  "level": 47,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>45",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

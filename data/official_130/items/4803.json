@@ -1,0 +1,20 @@
+{
+  "id": 4803,
+  "type": 2,
+  "name": "Arco de Itauly",
+  "level": 44,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>43&CS>20",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

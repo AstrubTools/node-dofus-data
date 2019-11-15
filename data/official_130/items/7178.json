@@ -1,0 +1,20 @@
+{
+  "id": 7178,
+  "type": 4,
+  "name": "Raíz Cynorrhodon",
+  "level": 86,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>150",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

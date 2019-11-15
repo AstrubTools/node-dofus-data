@@ -1,0 +1,20 @@
+{
+  "id": 1146,
+  "type": 3,
+  "name": "Excelente Varita de Líder",
+  "level": 71,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>100",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

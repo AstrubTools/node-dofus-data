@@ -1,0 +1,20 @@
+{
+  "id": 3709,
+  "type": 5,
+  "name": "Daga de Aqueovavag",
+  "level": 119,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>121",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

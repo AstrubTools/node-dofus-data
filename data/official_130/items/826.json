@@ -1,0 +1,20 @@
+{
+  "id": 826,
+  "type": 6,
+  "name": "Hoja del Gran Bwork",
+  "level": 24,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>48&CA>14",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4572,
+  "type": 3,
+  "name": "Varita de Doumudave",
+  "level": 114,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>115",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3298,
+  "type": 6,
+  "name": "Espada de Ifefulf",
+  "level": 93,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>95",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

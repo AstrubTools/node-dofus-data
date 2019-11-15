@@ -1,0 +1,20 @@
+{
+  "id": 4192,
+  "type": 4,
+  "name": "Bastón de Fehunej",
+  "level": 134,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>133",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 270,
+  "type": 2,
+  "name": "Javiador",
+  "level": 60,
+  "pods": 18,
+  "ethereal": false,
+  "requirements": "CA>60&CV>15",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "9",
+    "30",
+    "100",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7194,
+  "type": 2,
+  "name": "Arc Anum",
+  "level": 96,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>200&CA>60&PG=9",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

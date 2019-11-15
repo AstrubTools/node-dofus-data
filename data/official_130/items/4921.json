@@ -1,0 +1,20 @@
+{
+  "id": 4921,
+  "type": 2,
+  "name": "Arco de Ehusur",
+  "level": 84,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>88",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

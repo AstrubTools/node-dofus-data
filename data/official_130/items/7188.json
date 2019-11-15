@@ -1,0 +1,20 @@
+{
+  "id": 7188,
+  "type": 5,
+  "name": "Dagas Exprimidoras",
+  "level": 113,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>100&CI>100",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "35",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

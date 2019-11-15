@@ -1,0 +1,20 @@
+{
+  "id": 5086,
+  "type": 2,
+  "name": "Arco de Ezelov",
+  "level": 139,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>143",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6360,
+  "type": 19,
+  "name": "Hacha de Ehedere",
+  "level": 125,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>108",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

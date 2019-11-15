@@ -1,0 +1,20 @@
+{
+  "id": 5103,
+  "type": 2,
+  "name": "Arco de Zebemep",
+  "level": 144,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>130",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

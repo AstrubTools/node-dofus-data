@@ -1,0 +1,20 @@
+{
+  "id": 5999,
+  "type": 3,
+  "name": "Varita Infernal",
+  "level": 75,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>50&CW>30",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "4",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

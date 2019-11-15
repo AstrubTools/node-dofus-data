@@ -1,0 +1,20 @@
+{
+  "id": 342,
+  "type": 7,
+  "name": "Martillo Picador",
+  "level": 18,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CI>12&CS>6",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

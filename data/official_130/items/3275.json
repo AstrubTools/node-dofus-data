@@ -1,0 +1,20 @@
+{
+  "id": 3275,
+  "type": 6,
+  "name": "Espada de Adili",
+  "level": 70,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>74",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

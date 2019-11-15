@@ -1,0 +1,20 @@
+{
+  "id": 771,
+  "type": 19,
+  "name": "Devoradora de Fresnos",
+  "level": 8,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>10&CC>10",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "45",
+    "45",
+    "0",
+    "0",
+    "0"
+  ]
+}

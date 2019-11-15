@@ -1,0 +1,20 @@
+{
+  "id": 1121,
+  "type": 2,
+  "name": "Arco de Cristal Opaco",
+  "level": 38,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>35&CA>10",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

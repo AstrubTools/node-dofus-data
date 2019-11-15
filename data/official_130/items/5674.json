@@ -1,0 +1,20 @@
+{
+  "id": 5674,
+  "type": 8,
+  "name": "Pala de Aelusato",
+  "level": 42,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>42&CV>13",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5973,
+  "type": 8,
+  "name": "Pala de Ufepegi",
+  "level": 142,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>160&CS>32",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4597,
+  "type": 3,
+  "name": "Varita Thoha",
+  "level": 122,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>114",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

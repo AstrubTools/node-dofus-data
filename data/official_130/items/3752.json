@@ -1,0 +1,20 @@
+{
+  "id": 3752,
+  "type": 5,
+  "name": "Daga de Ufarfla",
+  "level": 134,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>137",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

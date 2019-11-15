@@ -1,0 +1,20 @@
+{
+  "id": 1864,
+  "type": 20,
+  "name": "La aguja de tejer",
+  "level": 1,
+  "pods": 4,
+  "ethereal": false,
+  "requirements": "PJ>36,29",
+  "stats": [
+    "1",
+    "6",
+    "1",
+    "4",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3655,
+  "type": 5,
+  "name": "Daga de Naisusa",
+  "level": 101,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>96&CV>36",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

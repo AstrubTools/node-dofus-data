@@ -1,0 +1,20 @@
+{
+  "id": 4274,
+  "type": 3,
+  "name": "Varita Sedyug",
+  "level": 15,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>15",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

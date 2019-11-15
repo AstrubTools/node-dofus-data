@@ -1,0 +1,20 @@
+{
+  "id": 1057,
+  "type": 8,
+  "name": "Gran Pala de Kutulú",
+  "level": 31,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>27&CI>5",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

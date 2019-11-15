@@ -1,0 +1,20 @@
+{
+  "id": 3647,
+  "type": 5,
+  "name": "La Destripadora",
+  "level": 83,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>80&CS>100",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

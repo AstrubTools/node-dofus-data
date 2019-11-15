@@ -1,0 +1,20 @@
+{
+  "id": 2604,
+  "type": 19,
+  "name": "Bardacha del Miliciano",
+  "level": 78,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CV>30&CS>30&CW>30&CC>5",
+  "stats": [
+    "15",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

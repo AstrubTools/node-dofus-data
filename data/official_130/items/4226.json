@@ -1,0 +1,20 @@
+{
+  "id": 4226,
+  "type": 4,
+  "name": "Bastón de Maladiseh",
+  "level": 146,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>141&CS>66",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

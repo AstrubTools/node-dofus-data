@@ -1,0 +1,20 @@
+{
+  "id": 265,
+  "type": 2,
+  "name": "Arco Desconcertante",
+  "level": 16,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CA>16&CS>6",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4581,
+  "type": 3,
+  "name": "Varita Ufirutuf",
+  "level": 117,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>108",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

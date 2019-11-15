@@ -1,0 +1,20 @@
+{
+  "id": 4947,
+  "type": 2,
+  "name": "Arco de Aquapael",
+  "level": 92,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>83",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

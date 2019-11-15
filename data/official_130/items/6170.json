@@ -1,0 +1,20 @@
+{
+  "id": 6170,
+  "type": 19,
+  "name": "Hacha de Mabisom",
+  "level": 61,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>52",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

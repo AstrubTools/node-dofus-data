@@ -1,0 +1,20 @@
+{
+  "id": 5012,
+  "type": 2,
+  "name": "Arco de Olalo",
+  "level": 114,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>114",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

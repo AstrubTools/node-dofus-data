@@ -1,0 +1,20 @@
+{
+  "id": 4690,
+  "type": 2,
+  "name": "Arco de Hatake",
+  "level": 7,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>7",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

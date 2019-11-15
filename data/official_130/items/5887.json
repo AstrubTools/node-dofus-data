@@ -1,0 +1,20 @@
+{
+  "id": 5887,
+  "type": 8,
+  "name": "Pala de Rerugur",
+  "level": 113,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>105&CS>38",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

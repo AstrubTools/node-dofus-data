@@ -1,0 +1,20 @@
+{
+  "id": 4814,
+  "type": 2,
+  "name": "Arco de Tagifber",
+  "level": 48,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>52",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

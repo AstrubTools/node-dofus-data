@@ -1,0 +1,20 @@
+{
+  "id": 3904,
+  "type": 4,
+  "name": "Bastón de Luifurut",
+  "level": 38,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>42",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "25",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

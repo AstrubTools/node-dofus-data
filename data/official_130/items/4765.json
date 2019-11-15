@@ -1,0 +1,20 @@
+{
+  "id": 4765,
+  "type": 2,
+  "name": "Arco de Rugnudleda",
+  "level": 32,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>30",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

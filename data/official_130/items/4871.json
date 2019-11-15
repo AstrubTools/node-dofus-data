@@ -1,0 +1,20 @@
+{
+  "id": 4871,
+  "type": 2,
+  "name": "Arco de Ivliel",
+  "level": 67,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>62",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

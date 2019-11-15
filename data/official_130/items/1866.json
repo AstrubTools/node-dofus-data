@@ -1,0 +1,20 @@
+{
+  "id": 1866,
+  "type": 20,
+  "name": "Caña de pescar estándar",
+  "level": 1,
+  "pods": 3,
+  "ethereal": false,
+  "requirements": "PJ>36,9",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "3",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

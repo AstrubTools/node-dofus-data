@@ -1,0 +1,20 @@
+{
+  "id": 1123,
+  "type": 2,
+  "name": "Arco de Cristal Translúcido",
+  "level": 50,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>45&CA>15",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

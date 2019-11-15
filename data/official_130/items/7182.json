@@ -1,0 +1,20 @@
+{
+  "id": 7182,
+  "type": 4,
+  "name": "Raíz Tziar",
+  "level": 103,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CV>200",
+  "stats": [
+    "15",
+    "4",
+    "1",
+    "1",
+    "25",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

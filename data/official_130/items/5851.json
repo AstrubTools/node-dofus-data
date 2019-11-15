@@ -1,0 +1,20 @@
+{
+  "id": 5851,
+  "type": 8,
+  "name": "Pala de Lethori",
+  "level": 101,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>101&CS>31",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

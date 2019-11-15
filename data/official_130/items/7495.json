@@ -1,0 +1,20 @@
+{
+  "id": 7495,
+  "type": 5,
+  "name": "Corta cueros de zapateromago",
+  "level": 1,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "PJ=62",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

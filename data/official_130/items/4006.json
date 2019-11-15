@@ -1,0 +1,20 @@
+{
+  "id": 4006,
+  "type": 4,
+  "name": "Bastón de Kufisa",
+  "level": 72,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>76",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4965,
+  "type": 2,
+  "name": "Arco de Rukutu",
+  "level": 98,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>107",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

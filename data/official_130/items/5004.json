@@ -1,0 +1,20 @@
+{
+  "id": 5004,
+  "type": 2,
+  "name": "Arco de Rufuveje",
+  "level": 111,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>104&CS>42",
+  "stats": [
+    "3",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

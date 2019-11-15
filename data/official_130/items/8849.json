@@ -1,0 +1,20 @@
+{
+  "id": 8849,
+  "type": 4,
+  "name": "Raíz de Diente Pe-león",
+  "level": 138,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>500",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5653,
+  "type": 8,
+  "name": "Pala de Kasripl",
+  "level": 35,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>40&CS>9",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

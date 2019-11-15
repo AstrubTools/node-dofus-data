@@ -1,0 +1,10 @@
+{
+  "id": 7704,
+  "type": 18,
+  "name": "Ardilla Pilla",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PZ=1",
+  "stats": ""
+}

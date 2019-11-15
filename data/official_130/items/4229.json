@@ -1,0 +1,20 @@
+{
+  "id": 4229,
+  "type": 4,
+  "name": "Bastón de Ihudfla",
+  "level": 147,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>128&CS>43",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

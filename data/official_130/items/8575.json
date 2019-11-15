@@ -1,0 +1,20 @@
+{
+  "id": 8575,
+  "type": 4,
+  "name": "El Rambotón",
+  "level": 200,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "PN~xxramboplxx",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "2",
+    "42",
+    "42",
+    "0",
+    "1",
+    "1"
+  ]
+}

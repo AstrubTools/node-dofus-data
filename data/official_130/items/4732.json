@@ -1,0 +1,20 @@
+{
+  "id": 4732,
+  "type": 2,
+  "name": "Arco de Utabonal",
+  "level": 21,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>24",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

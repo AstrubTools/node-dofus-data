@@ -1,0 +1,20 @@
+{
+  "id": 3991,
+  "type": 4,
+  "name": "Bastón de Gubalulu",
+  "level": 67,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>79",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

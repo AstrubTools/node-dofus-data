@@ -1,0 +1,20 @@
+{
+  "id": 5100,
+  "type": 2,
+  "name": "Arco de Avona",
+  "level": 143,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>158",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

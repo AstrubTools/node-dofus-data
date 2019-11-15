@@ -1,0 +1,20 @@
+{
+  "id": 3982,
+  "type": 4,
+  "name": "Bastón de Luflukug",
+  "level": 64,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>56",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

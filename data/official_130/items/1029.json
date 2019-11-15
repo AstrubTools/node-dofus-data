@@ -1,0 +1,20 @@
+{
+  "id": 1029,
+  "type": 5,
+  "name": "Ancho Cuchillo de Stek",
+  "level": 41,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>41&CS>16",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

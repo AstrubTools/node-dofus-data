@@ -1,0 +1,20 @@
+{
+  "id": 4788,
+  "type": 2,
+  "name": "Arco de Reguth",
+  "level": 39,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>41",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4395,
+  "type": 3,
+  "name": "Varita Pelielle",
+  "level": 55,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>57",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

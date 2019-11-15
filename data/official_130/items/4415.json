@@ -1,0 +1,20 @@
+{
+  "id": 4415,
+  "type": 3,
+  "name": "Varita de Aquewaepre",
+  "level": 61,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>56",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

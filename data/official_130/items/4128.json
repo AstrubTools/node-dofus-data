@@ -1,0 +1,20 @@
+{
+  "id": 4128,
+  "type": 4,
+  "name": "Bastón de Vuble",
+  "level": 113,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>98",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

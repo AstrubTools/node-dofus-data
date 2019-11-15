@@ -1,0 +1,20 @@
+{
+  "id": 5884,
+  "type": 8,
+  "name": "Pala de Tedogoke",
+  "level": 112,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>126&CS>55",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

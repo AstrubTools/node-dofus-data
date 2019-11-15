@@ -1,0 +1,20 @@
+{
+  "id": 6312,
+  "type": 19,
+  "name": "Hacha de Leroni",
+  "level": 109,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>126&CW>6",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

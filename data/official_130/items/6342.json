@@ -1,0 +1,20 @@
+{
+  "id": 6342,
+  "type": 19,
+  "name": "Hacha de Feufijuk",
+  "level": 119,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>139",
+  "stats": [
+    "4",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

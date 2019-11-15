@@ -1,0 +1,20 @@
+{
+  "id": 1150,
+  "type": 4,
+  "name": "Grueso Bastón de Akné",
+  "level": 33,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>35&CA>5",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

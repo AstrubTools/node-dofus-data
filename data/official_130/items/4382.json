@@ -1,0 +1,20 @@
+{
+  "id": 4382,
+  "type": 6,
+  "name": "Pico",
+  "level": 85,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CS>80",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4990,
+  "type": 2,
+  "name": "Arco de Elazol",
+  "level": 107,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "3",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

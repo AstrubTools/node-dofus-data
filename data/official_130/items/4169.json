@@ -1,0 +1,20 @@
+{
+  "id": 4169,
+  "type": 4,
+  "name": "Bastón de Fasolel",
+  "level": 127,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>150",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

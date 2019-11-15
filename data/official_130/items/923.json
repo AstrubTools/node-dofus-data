@@ -1,0 +1,20 @@
+{
+  "id": 923,
+  "type": 19,
+  "name": "Cortadora de abráknidos",
+  "level": 74,
+  "pods": 190,
+  "ethereal": false,
+  "requirements": "CS>148&CW>10&CV>30",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "45",
+    "45",
+    "0",
+    "0",
+    "0"
+  ]
+}

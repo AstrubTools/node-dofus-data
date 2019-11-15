@@ -1,0 +1,20 @@
+{
+  "id": 4973,
+  "type": 2,
+  "name": "Arco de Azepl",
+  "level": 101,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>94",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5989,
+  "type": 8,
+  "name": "Pala de Malepudom",
+  "level": 147,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>123&CS>44&CV>42",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

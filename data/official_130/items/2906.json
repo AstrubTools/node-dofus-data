@@ -1,0 +1,20 @@
+{
+  "id": 2906,
+  "type": 6,
+  "name": "Espada de Hyumuie",
+  "level": 55,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>52",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

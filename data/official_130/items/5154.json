@@ -1,0 +1,20 @@
+{
+  "id": 5154,
+  "type": 7,
+  "name": "Martillo de Anogery",
+  "level": 15,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CV>10&CS>9",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

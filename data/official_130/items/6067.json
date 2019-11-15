@@ -1,0 +1,20 @@
+{
+  "id": 6067,
+  "type": 19,
+  "name": "Hacha de Amphawou",
+  "level": 27,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>22",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4936,
+  "type": 2,
+  "name": "Arco de Ducefegi",
+  "level": 89,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>96",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

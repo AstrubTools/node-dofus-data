@@ -1,0 +1,20 @@
+{
+  "id": 9176,
+  "type": 5,
+  "name": "Daga \\'Mberra",
+  "level": 182,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>200&CI>150&CC>150&CA>150",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

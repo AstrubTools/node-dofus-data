@@ -1,0 +1,20 @@
+{
+  "id": 3353,
+  "type": 6,
+  "name": "Espada de Efufuc",
+  "level": 148,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>162",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4734,
+  "type": 2,
+  "name": "Arco de Hakalat",
+  "level": 21,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>20",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

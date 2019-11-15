@@ -1,0 +1,20 @@
+{
+  "id": 2990,
+  "type": 6,
+  "name": "Espada de Atake",
+  "level": 97,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>96",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5187,
+  "type": 7,
+  "name": "Martillo de Fihehiru",
+  "level": 26,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CV>16&CI>8",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

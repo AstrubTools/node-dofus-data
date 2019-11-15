@@ -1,0 +1,20 @@
+{
+  "id": 3998,
+  "type": 4,
+  "name": "Bastón de Epemete",
+  "level": 70,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>70",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

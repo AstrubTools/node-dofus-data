@@ -1,0 +1,20 @@
+{
+  "id": 5095,
+  "type": 2,
+  "name": "Arco de Inolosyv",
+  "level": 142,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>152",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

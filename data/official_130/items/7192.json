@@ -1,0 +1,20 @@
+{
+  "id": 7192,
+  "type": 6,
+  "name": "Garra de Grizmoh Guay",
+  "level": 111,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>300&CA>120",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

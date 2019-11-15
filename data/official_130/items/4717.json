@@ -1,0 +1,20 @@
+{
+  "id": 4717,
+  "type": 2,
+  "name": "Arco de Liseti",
+  "level": 16,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>15",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

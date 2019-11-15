@@ -1,0 +1,20 @@
+{
+  "id": 5677,
+  "type": 8,
+  "name": "Pala de Serogra",
+  "level": 43,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>44&CS>23",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

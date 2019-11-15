@@ -1,0 +1,20 @@
+{
+  "id": 4832,
+  "type": 2,
+  "name": "Arco de Sefekpur",
+  "level": 54,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>52&CS>20",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

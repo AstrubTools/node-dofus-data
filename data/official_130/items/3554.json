@@ -1,0 +1,20 @@
+{
+  "id": 3554,
+  "type": 5,
+  "name": "Daga de Rugnethuko",
+  "level": 70,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>69&CV>27",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

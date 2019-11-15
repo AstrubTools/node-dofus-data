@@ -1,0 +1,20 @@
+{
+  "id": 5609,
+  "type": 8,
+  "name": "Pala de Acudob",
+  "level": 21,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>23&CS>6",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

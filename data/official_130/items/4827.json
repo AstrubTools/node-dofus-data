@@ -1,0 +1,20 @@
+{
+  "id": 4827,
+  "type": 2,
+  "name": "Arco de Xohosta",
+  "level": 52,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>56",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

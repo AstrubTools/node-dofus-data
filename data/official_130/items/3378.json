@@ -1,0 +1,20 @@
+{
+  "id": 3378,
+  "type": 5,
+  "name": "Daga de Pelepev",
+  "level": 11,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>11",
+  "stats": [
+    "4",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

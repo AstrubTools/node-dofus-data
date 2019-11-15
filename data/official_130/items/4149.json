@@ -1,0 +1,20 @@
+{
+  "id": 4149,
+  "type": 4,
+  "name": "Bastón de Utiprutu",
+  "level": 120,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>138&CV>53",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

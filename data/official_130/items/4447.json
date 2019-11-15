@@ -1,0 +1,20 @@
+{
+  "id": 4447,
+  "type": 3,
+  "name": "Varita de Etham",
+  "level": 72,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>71",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

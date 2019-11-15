@@ -1,0 +1,20 @@
+{
+  "id": 4442,
+  "type": 3,
+  "name": "Varita Skivymi",
+  "level": 70,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>76",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

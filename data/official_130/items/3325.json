@@ -1,0 +1,20 @@
+{
+  "id": 3325,
+  "type": 6,
+  "name": "Espada de Istego",
+  "level": 120,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>130",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

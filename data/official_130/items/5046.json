@@ -1,0 +1,20 @@
+{
+  "id": 5046,
+  "type": 2,
+  "name": "Arco de Rodagobl",
+  "level": 125,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>138",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

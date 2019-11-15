@@ -1,0 +1,20 @@
+{
+  "id": 5680,
+  "type": 8,
+  "name": "Pala de Tycag",
+  "level": 44,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>38",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

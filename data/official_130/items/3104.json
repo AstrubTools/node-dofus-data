@@ -1,0 +1,20 @@
+{
+  "id": 3104,
+  "type": 6,
+  "name": "Espada de Etunuh",
+  "level": 101,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>112",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

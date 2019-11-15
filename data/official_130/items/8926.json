@@ -1,0 +1,20 @@
+{
+  "id": 8926,
+  "type": 5,
+  "name": "Daga Duh",
+  "level": 175,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>250&CC>250&CS>150",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "0",
+    "1"
+  ]
+}

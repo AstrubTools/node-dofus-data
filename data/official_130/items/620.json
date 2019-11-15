@@ -1,0 +1,20 @@
+{
+  "id": 620,
+  "type": 6,
+  "name": "Cortadora de kralamares",
+  "level": 61,
+  "pods": 50,
+  "ethereal": false,
+  "requirements": "CV>60&CW>60",
+  "stats": [
+    "10",
+    "7",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

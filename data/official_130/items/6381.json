@@ -1,0 +1,20 @@
+{
+  "id": 6381,
+  "type": 19,
+  "name": "Hacha de Iromuthu",
+  "level": 132,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>124",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

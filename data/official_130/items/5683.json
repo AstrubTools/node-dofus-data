@@ -1,0 +1,20 @@
+{
+  "id": 5683,
+  "type": 8,
+  "name": "Pala de Polede",
+  "level": 45,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>39",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

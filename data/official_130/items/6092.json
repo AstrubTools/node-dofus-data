@@ -1,0 +1,20 @@
+{
+  "id": 6092,
+  "type": 19,
+  "name": "Hacha de Groduker",
+  "level": 35,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>38",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

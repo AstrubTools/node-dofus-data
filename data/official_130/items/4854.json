@@ -1,0 +1,20 @@
+{
+  "id": 4854,
+  "type": 2,
+  "name": "Arco de Aquapramem",
+  "level": 61,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>59",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

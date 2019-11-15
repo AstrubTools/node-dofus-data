@@ -1,0 +1,10 @@
+{
+  "id": 710,
+  "type": 16,
+  "name": "Korko Klako",
+  "level": 17,
+  "pods": 9,
+  "ethereal": false,
+  "requirements": "PG=10",
+  "stats": ""
+}

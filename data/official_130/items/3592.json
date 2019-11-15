@@ -1,0 +1,20 @@
+{
+  "id": 3592,
+  "type": 5,
+  "name": "Daga de Aelelae",
+  "level": 82,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>88",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

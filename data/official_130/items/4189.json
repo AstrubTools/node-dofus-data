@@ -1,0 +1,20 @@
+{
+  "id": 4189,
+  "type": 4,
+  "name": "Bastón de Melawaso",
+  "level": 133,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CI>137",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

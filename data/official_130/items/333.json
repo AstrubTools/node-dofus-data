@@ -1,0 +1,20 @@
+{
+  "id": 333,
+  "type": 3,
+  "name": "Varita Depan",
+  "level": 50,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CW>40&CI>100",
+  "stats": [
+    "5",
+    "3",
+    "3",
+    "5",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

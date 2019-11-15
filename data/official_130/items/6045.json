@@ -1,0 +1,20 @@
+{
+  "id": 6045,
+  "type": 19,
+  "name": "Hacha de Ekored",
+  "level": 20,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>24",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

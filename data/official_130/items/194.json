@@ -1,0 +1,20 @@
+{
+  "id": 194,
+  "type": 4,
+  "name": "Bastón Espiritual",
+  "level": 16,
+  "pods": 16,
+  "ethereal": false,
+  "requirements": "CI>16",
+  "stats": [
+    "3",
+    "3",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

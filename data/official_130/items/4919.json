@@ -1,0 +1,20 @@
+{
+  "id": 4919,
+  "type": 2,
+  "name": "Arco de Felosae",
+  "level": 83,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>87",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

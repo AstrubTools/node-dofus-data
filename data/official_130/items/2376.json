@@ -1,0 +1,20 @@
+{
+  "id": 2376,
+  "type": 19,
+  "name": "Hacha Kemata",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PJ>2,79",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "45",
+    "45",
+    "0",
+    "0",
+    "0"
+  ]
+}

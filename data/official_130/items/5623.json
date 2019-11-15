@@ -1,0 +1,20 @@
+{
+  "id": 5623,
+  "type": 8,
+  "name": "Pala de Plalo",
+  "level": 25,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>26",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

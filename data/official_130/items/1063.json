@@ -1,0 +1,20 @@
+{
+  "id": 1063,
+  "type": 7,
+  "name": "Irrompible Maza Da",
+  "level": 24,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>24&CI>4",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "60",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

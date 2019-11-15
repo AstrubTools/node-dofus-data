@@ -1,0 +1,20 @@
+{
+  "id": 5189,
+  "type": 7,
+  "name": "Martillo de Uliffrit",
+  "level": 27,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CV>15&CI>11",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

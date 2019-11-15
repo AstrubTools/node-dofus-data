@@ -1,0 +1,20 @@
+{
+  "id": 3736,
+  "type": 5,
+  "name": "Daga de Bwabuse",
+  "level": 128,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>136",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

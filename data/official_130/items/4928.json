@@ -1,0 +1,20 @@
+{
+  "id": 4928,
+  "type": 2,
+  "name": "Arco de Athit",
+  "level": 86,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>79",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

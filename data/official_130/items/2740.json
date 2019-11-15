@@ -1,0 +1,20 @@
+{
+  "id": 2740,
+  "type": 6,
+  "name": "Espada de Nugaver",
+  "level": 19,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>22",
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

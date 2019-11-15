@@ -1,0 +1,20 @@
+{
+  "id": 5709,
+  "type": 8,
+  "name": "Pala de Etepielle",
+  "level": 54,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>58",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

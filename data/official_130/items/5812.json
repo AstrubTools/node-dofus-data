@@ -1,0 +1,20 @@
+{
+  "id": 5812,
+  "type": 8,
+  "name": "Pala de Haruketh",
+  "level": 88,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>89&CS>22",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

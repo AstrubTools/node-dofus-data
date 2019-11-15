@@ -1,0 +1,20 @@
+{
+  "id": 1862,
+  "type": 20,
+  "name": "El Palo de Amor",
+  "level": 1,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "PJ>36,59",
+  "stats": [
+    "1",
+    "6",
+    "1",
+    "6",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

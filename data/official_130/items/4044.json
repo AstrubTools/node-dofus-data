@@ -1,0 +1,20 @@
+{
+  "id": 4044,
+  "type": 4,
+  "name": "Bastón de Ipevulf",
+  "level": 85,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>69&CV>39",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

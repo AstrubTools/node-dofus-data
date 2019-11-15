@@ -1,0 +1,20 @@
+{
+  "id": 3606,
+  "type": 5,
+  "name": "Daga de Ezepole",
+  "level": 87,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>83",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4414,
+  "type": 3,
+  "name": "Varita Odesam",
+  "level": 61,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>67",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

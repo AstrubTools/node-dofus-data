@@ -1,0 +1,20 @@
+{
+  "id": 2945,
+  "type": 6,
+  "name": "Espada de Rukoti",
+  "level": 74,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>80",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

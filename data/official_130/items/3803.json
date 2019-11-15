@@ -1,0 +1,20 @@
+{
+  "id": 3803,
+  "type": 4,
+  "name": "Bastón de Labetouille",
+  "level": 5,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4631,
+  "type": 3,
+  "name": "Varita Unysa",
+  "level": 133,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>129",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

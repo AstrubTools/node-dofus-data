@@ -1,0 +1,20 @@
+{
+  "id": 5781,
+  "type": 8,
+  "name": "Pala de Unufupu",
+  "level": 78,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>64",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

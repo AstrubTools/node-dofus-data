@@ -1,0 +1,20 @@
+{
+  "id": 6411,
+  "type": 19,
+  "name": "Hacha de Manipu",
+  "level": 142,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>138",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

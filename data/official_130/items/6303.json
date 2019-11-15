@@ -1,0 +1,20 @@
+{
+  "id": 6303,
+  "type": 19,
+  "name": "Hacha de Ifabuda",
+  "level": 106,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CS>125",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

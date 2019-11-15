@@ -1,0 +1,20 @@
+{
+  "id": 6266,
+  "type": 19,
+  "name": "Hacha de Ilefuti",
+  "level": 93,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>112&CV>48",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

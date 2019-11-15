@@ -1,0 +1,20 @@
+{
+  "id": 3432,
+  "type": 5,
+  "name": "Daga de Sharekala",
+  "level": 29,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>33&CV>7",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

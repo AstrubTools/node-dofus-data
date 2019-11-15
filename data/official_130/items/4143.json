@@ -1,0 +1,20 @@
+{
+  "id": 4143,
+  "type": 4,
+  "name": "Bastón de Afelolap",
+  "level": 118,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>131",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

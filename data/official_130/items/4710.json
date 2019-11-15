@@ -1,0 +1,20 @@
+{
+  "id": 4710,
+  "type": 2,
+  "name": "Arco de Afogosak",
+  "level": 13,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>15&CS>3",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9137,
+  "type": 5,
+  "name": "Cuchillos corta-setas",
+  "level": 187,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>450",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

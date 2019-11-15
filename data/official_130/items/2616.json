@@ -1,0 +1,20 @@
+{
+  "id": 2616,
+  "type": 19,
+  "name": "Hala Barda",
+  "level": 99,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CV>100&CS>100",
+  "stats": [
+    "15",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

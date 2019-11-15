@@ -1,0 +1,20 @@
+{
+  "id": 3912,
+  "type": 4,
+  "name": "Bastón de Akehpur",
+  "level": 41,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>48&CS>8",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

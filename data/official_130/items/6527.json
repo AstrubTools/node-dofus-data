@@ -1,0 +1,20 @@
+{
+  "id": 6527,
+  "type": 8,
+  "name": "Pala Musical",
+  "level": 52,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>80&CI>50",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "20",
+    "20",
+    "0",
+    "0",
+    "0"
+  ]
+}

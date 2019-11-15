@@ -1,0 +1,20 @@
+{
+  "id": 4985,
+  "type": 2,
+  "name": "Arco de Zivosi",
+  "level": 105,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>107&CS>23",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

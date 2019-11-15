@@ -1,0 +1,20 @@
+{
+  "id": 4257,
+  "type": 3,
+  "name": "Varita Srona",
+  "level": 9,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>9",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

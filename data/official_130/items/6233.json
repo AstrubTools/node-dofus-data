@@ -1,0 +1,20 @@
+{
+  "id": 6233,
+  "type": 19,
+  "name": "Hacha de Exito",
+  "level": 82,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>95",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

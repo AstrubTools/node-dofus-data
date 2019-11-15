@@ -1,0 +1,20 @@
+{
+  "id": 1056,
+  "type": 8,
+  "name": "Pala de Kutulú",
+  "level": 28,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>24&CI>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

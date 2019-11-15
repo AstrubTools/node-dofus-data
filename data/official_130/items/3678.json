@@ -1,0 +1,20 @@
+{
+  "id": 3678,
+  "type": 5,
+  "name": "Daga de Mytezet",
+  "level": 109,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>105&CV>40",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

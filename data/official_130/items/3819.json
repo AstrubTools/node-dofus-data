@@ -1,0 +1,20 @@
+{
+  "id": 3819,
+  "type": 4,
+  "name": "Bastón de Resotod",
+  "level": 10,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>12",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "25",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

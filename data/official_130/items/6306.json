@@ -1,0 +1,20 @@
+{
+  "id": 6306,
+  "type": 19,
+  "name": "Hacha de Amphemij",
+  "level": 107,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>98",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

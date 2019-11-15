@@ -1,0 +1,20 @@
+{
+  "id": 5083,
+  "type": 2,
+  "name": "Arco de Srutexuf",
+  "level": 138,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>129",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

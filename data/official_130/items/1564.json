@@ -1,0 +1,20 @@
+{
+  "id": 1564,
+  "type": 5,
+  "name": "Talladora de varitas mágicas",
+  "level": 1,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "PJ=49",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

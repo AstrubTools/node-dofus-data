@@ -1,0 +1,20 @@
+{
+  "id": 6037,
+  "type": 19,
+  "name": "Hacha de Rugnuhuce",
+  "level": 17,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>20",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

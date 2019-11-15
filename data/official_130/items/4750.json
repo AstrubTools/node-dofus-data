@@ -1,0 +1,20 @@
+{
+  "id": 4750,
+  "type": 2,
+  "name": "Arco de Bimapa",
+  "level": 27,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>30",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

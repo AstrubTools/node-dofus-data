@@ -1,0 +1,20 @@
+{
+  "id": 3327,
+  "type": 6,
+  "name": "Espada de Ruredert",
+  "level": 122,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>117&CV>26",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

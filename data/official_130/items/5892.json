@@ -1,0 +1,20 @@
+{
+  "id": 5892,
+  "type": 8,
+  "name": "Pala de Regek",
+  "level": 115,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>126&CS>36",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 898,
+  "type": 5,
+  "name": "Dagas Afiladas",
+  "level": 33,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>33&CW>5",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 10055,
+  "type": 1,
+  "name": "Amuleto de Vampyro",
+  "level": 45,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PO!10119",
+  "stats": ""
+}

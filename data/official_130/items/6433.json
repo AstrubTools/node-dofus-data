@@ -1,0 +1,20 @@
+{
+  "id": 6433,
+  "type": 19,
+  "name": "Hacha de Tedosote",
+  "level": 149,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>161",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

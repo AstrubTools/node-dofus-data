@@ -1,0 +1,20 @@
+{
+  "id": 5954,
+  "type": 8,
+  "name": "Pala de Retugug",
+  "level": 136,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>125&CS>53",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9138,
+  "type": 19,
+  "name": "Hacha de Lamelas",
+  "level": 176,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CC>450",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

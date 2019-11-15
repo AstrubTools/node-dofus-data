@@ -1,0 +1,20 @@
+{
+  "id": 5158,
+  "type": 7,
+  "name": "Martillo de Bremam",
+  "level": 16,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CV>11&CI>4",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

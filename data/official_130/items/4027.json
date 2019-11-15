@@ -1,0 +1,20 @@
+{
+  "id": 4027,
+  "type": 4,
+  "name": "Bastón de Amoor",
+  "level": 79,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>66",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6013,
+  "type": 19,
+  "name": "Hacha de Dufunfla",
+  "level": 9,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>9&CW>6",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

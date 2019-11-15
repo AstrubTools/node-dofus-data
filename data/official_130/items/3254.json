@@ -1,0 +1,20 @@
+{
+  "id": 3254,
+  "type": 6,
+  "name": "Espada de Larabifiru",
+  "level": 49,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>47&CV>18",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

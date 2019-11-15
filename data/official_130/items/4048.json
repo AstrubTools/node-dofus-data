@@ -1,0 +1,20 @@
+{
+  "id": 4048,
+  "type": 4,
+  "name": "Bastón de Prunecad",
+  "level": 86,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>98",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

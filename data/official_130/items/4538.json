@@ -1,0 +1,20 @@
+{
+  "id": 4538,
+  "type": 3,
+  "name": "Varita de Dilof",
+  "level": 102,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>97",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

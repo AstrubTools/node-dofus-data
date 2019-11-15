@@ -1,0 +1,20 @@
+{
+  "id": 6984,
+  "type": 5,
+  "name": "Dagas del Aprendiz Matador de Jalatines",
+  "level": 113,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>300&CA>100",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "25",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

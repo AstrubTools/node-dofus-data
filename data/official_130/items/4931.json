@@ -1,0 +1,20 @@
+{
+  "id": 4931,
+  "type": 2,
+  "name": "Arco de Strokar",
+  "level": 87,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>86",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

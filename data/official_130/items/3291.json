@@ -1,0 +1,20 @@
+{
+  "id": 3291,
+  "type": 6,
+  "name": "Espada de Netotuth",
+  "level": 86,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>86",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

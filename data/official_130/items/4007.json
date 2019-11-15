@@ -1,0 +1,20 @@
+{
+  "id": 4007,
+  "type": 4,
+  "name": "Bastón de Tumufame",
+  "level": 73,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>70",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

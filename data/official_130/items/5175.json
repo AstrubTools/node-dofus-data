@@ -1,0 +1,20 @@
+{
+  "id": 5175,
+  "type": 7,
+  "name": "Martillo de Efutucu",
+  "level": 22,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CV>15&CI>11",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "20",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

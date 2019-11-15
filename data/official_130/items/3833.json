@@ -1,0 +1,20 @@
+{
+  "id": 3833,
+  "type": 4,
+  "name": "Bastón de Lopeau",
+  "level": 15,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>15",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

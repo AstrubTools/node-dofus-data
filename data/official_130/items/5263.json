@@ -1,0 +1,20 @@
+{
+  "id": 5263,
+  "type": 7,
+  "name": "Martillo de Ehukeju",
+  "level": 51,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CV>28&CI>13",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

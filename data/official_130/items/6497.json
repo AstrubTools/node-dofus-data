@@ -1,0 +1,20 @@
+{
+  "id": 6497,
+  "type": 3,
+  "name": "Balgurda de las Disculpas",
+  "level": 63,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>63&CW>30",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

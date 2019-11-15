@@ -1,0 +1,20 @@
+{
+  "id": 6325,
+  "type": 19,
+  "name": "Hacha de Blewa",
+  "level": 113,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>100",
+  "stats": [
+    "4",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

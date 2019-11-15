@@ -1,0 +1,20 @@
+{
+  "id": 834,
+  "type": 3,
+  "name": "Gran Varita de Sabiduría",
+  "level": 25,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>25&CW>9",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

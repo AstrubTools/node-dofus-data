@@ -1,0 +1,20 @@
+{
+  "id": 5949,
+  "type": 8,
+  "name": "Pala de Movydo",
+  "level": 134,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>160&CS>67",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

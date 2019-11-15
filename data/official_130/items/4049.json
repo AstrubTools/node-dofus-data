@@ -1,0 +1,20 @@
+{
+  "id": 4049,
+  "type": 4,
+  "name": "Bastón de Egrucuki",
+  "level": 87,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>96",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

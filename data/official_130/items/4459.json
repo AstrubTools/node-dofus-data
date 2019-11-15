@@ -1,0 +1,20 @@
+{
+  "id": 4459,
+  "type": 3,
+  "name": "Varita Ynelebe",
+  "level": 76,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>78",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

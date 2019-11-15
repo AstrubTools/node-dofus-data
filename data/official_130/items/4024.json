@@ -1,0 +1,20 @@
+{
+  "id": 4024,
+  "type": 4,
+  "name": "Bastón de Iteky",
+  "level": 78,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>87",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

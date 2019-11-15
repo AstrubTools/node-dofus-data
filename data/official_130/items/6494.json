@@ -1,0 +1,20 @@
+{
+  "id": 6494,
+  "type": 3,
+  "name": "Varita de Elya Wood",
+  "level": 120,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>300&CW>100",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

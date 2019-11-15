@@ -1,0 +1,20 @@
+{
+  "id": 2753,
+  "type": 6,
+  "name": "Espada de Bulaf",
+  "level": 26,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>26",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

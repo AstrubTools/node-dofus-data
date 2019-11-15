@@ -1,0 +1,10 @@
+{
+  "id": 1702,
+  "type": 81,
+  "name": "Mochila del Recolector",
+  "level": 15,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PJ>2,40|PJ>24,40|PJ>36,40|PJ>28,40|PJ>26,40|PJ>41,40",
+  "stats": ""
+}

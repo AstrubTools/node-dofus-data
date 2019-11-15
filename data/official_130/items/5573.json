@@ -1,0 +1,20 @@
+{
+  "id": 5573,
+  "type": 8,
+  "name": "Pala de Oresutal",
+  "level": 9,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>12&CS>5",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

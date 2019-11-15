@@ -1,0 +1,20 @@
+{
+  "id": 4465,
+  "type": 3,
+  "name": "Varita Ouputibi",
+  "level": 78,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>73",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5810,
+  "type": 8,
+  "name": "Pala de Sybiwib",
+  "level": 88,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>95",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

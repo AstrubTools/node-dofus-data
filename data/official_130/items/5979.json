@@ -1,0 +1,20 @@
+{
+  "id": 5979,
+  "type": 8,
+  "name": "Pala de Ehetuk",
+  "level": 144,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>140&CS>39&CV>35",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

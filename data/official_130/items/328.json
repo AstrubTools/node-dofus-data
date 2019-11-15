@@ -1,0 +1,20 @@
+{
+  "id": 328,
+  "type": 6,
+  "name": "Korta-Kotas",
+  "level": 18,
+  "pods": 28,
+  "ethereal": false,
+  "requirements": "CS>36",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "20",
+    "60",
+    "0",
+    "0",
+    "0"
+  ]
+}

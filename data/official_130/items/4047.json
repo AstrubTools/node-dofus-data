@@ -1,0 +1,20 @@
+{
+  "id": 4047,
+  "type": 4,
+  "name": "Bastón de Irovi",
+  "level": 86,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>80",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

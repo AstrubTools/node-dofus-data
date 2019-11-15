@@ -1,0 +1,20 @@
+{
+  "id": 6003,
+  "type": 19,
+  "name": "Hacha de Cifumfrit",
+  "level": 6,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CS>7",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

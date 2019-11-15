@@ -1,0 +1,20 @@
+{
+  "id": 8963,
+  "type": 6,
+  "name": "Pata de Zurcarák",
+  "level": 100,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>150",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

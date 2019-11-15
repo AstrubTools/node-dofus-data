@@ -1,0 +1,20 @@
+{
+  "id": 4934,
+  "type": 2,
+  "name": "Arco de Fanevla",
+  "level": 88,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>87",
+  "stats": [
+    "9",
+    "4",
+    "4",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

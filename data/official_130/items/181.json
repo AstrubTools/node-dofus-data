@@ -1,0 +1,20 @@
+{
+  "id": 181,
+  "type": 3,
+  "name": "Varita de los Cielos",
+  "level": 52,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CI>104&CV>20&CA>10",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

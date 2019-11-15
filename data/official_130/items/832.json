@@ -1,0 +1,20 @@
+{
+  "id": 832,
+  "type": 3,
+  "name": "Poderosa Varita de Inteligencia",
+  "level": 29,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>29",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "2",
+    "50",
+    "20",
+    "0",
+    "1",
+    "0"
+  ]
+}

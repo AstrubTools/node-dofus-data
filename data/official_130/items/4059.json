@@ -1,0 +1,20 @@
+{
+  "id": 4059,
+  "type": 4,
+  "name": "Bastón de Lafurife",
+  "level": 90,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>92",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

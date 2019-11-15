@@ -1,0 +1,20 @@
+{
+  "id": 5416,
+  "type": 7,
+  "name": "Martillo de Phamaihy",
+  "level": 102,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CV>66&CS>51",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

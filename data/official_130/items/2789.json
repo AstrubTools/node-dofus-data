@@ -1,0 +1,20 @@
+{
+  "id": 2789,
+  "type": 6,
+  "name": "Espada de Fecota",
+  "level": 44,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>40",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

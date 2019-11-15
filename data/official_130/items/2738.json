@@ -1,0 +1,20 @@
+{
+  "id": 2738,
+  "type": 6,
+  "name": "Espada de Fluriled",
+  "level": 18,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>19",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

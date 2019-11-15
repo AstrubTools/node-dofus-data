@@ -1,0 +1,20 @@
+{
+  "id": 1104,
+  "type": 3,
+  "name": "Terrorífica Varita Hora",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>31&CS>4",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

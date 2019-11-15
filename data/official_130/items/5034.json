@@ -1,0 +1,20 @@
+{
+  "id": 5034,
+  "type": 2,
+  "name": "Arco de Rogur",
+  "level": 121,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>110&CS>61",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

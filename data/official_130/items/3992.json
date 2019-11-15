@@ -1,0 +1,20 @@
+{
+  "id": 3992,
+  "type": 4,
+  "name": "Bastón de Uhutem",
+  "level": 68,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>82&CS>32",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

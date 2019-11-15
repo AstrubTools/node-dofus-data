@@ -1,0 +1,20 @@
+{
+  "id": 6026,
+  "type": 19,
+  "name": "Hacha de Hapofacu",
+  "level": 13,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>13",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

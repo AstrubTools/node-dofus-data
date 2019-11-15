@@ -1,0 +1,20 @@
+{
+  "id": 1936,
+  "type": 20,
+  "name": "Hacha de Caza",
+  "level": 1,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "PJ>41,9",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "30",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

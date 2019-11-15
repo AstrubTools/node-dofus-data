@@ -1,0 +1,20 @@
+{
+  "id": 1430,
+  "type": 8,
+  "name": "Pala Frutera",
+  "level": 45,
+  "pods": 23,
+  "ethereal": false,
+  "requirements": "CC>15&CI>15",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

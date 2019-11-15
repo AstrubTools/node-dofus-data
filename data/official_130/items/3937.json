@@ -1,0 +1,20 @@
+{
+  "id": 3937,
+  "type": 4,
+  "name": "Bastón de Pakber",
+  "level": 49,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>51",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

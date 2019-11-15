@@ -1,0 +1,20 @@
+{
+  "id": 6017,
+  "type": 19,
+  "name": "Hacha de Irebir",
+  "level": 10,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>12&CV>5",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

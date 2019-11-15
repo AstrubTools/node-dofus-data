@@ -1,0 +1,20 @@
+{
+  "id": 4731,
+  "type": 2,
+  "name": "Arco de Selelalle",
+  "level": 20,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>18",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

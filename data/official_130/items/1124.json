@@ -1,0 +1,20 @@
+{
+  "id": 1124,
+  "type": 2,
+  "name": "Arco de Cristal Puro",
+  "level": 56,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>50&CA>18",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

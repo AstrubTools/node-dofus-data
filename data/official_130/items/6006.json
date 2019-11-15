@@ -1,0 +1,20 @@
+{
+  "id": 6006,
+  "type": 19,
+  "name": "Hacha de Tobepone",
+  "level": 7,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CS>8&CV>2",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

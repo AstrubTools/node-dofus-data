@@ -1,0 +1,20 @@
+{
+  "id": 5780,
+  "type": 8,
+  "name": "Pala de Skogila",
+  "level": 78,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>74&CS>17",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

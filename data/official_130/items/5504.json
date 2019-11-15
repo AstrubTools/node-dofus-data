@@ -1,0 +1,20 @@
+{
+  "id": 5504,
+  "type": 7,
+  "name": "Martillo de Oupugolu",
+  "level": 132,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CV>66",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

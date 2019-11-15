@@ -1,0 +1,10 @@
+{
+  "id": 711,
+  "type": 16,
+  "name": "Juik Kramp",
+  "level": 26,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "PG=10",
+  "stats": ""
+}

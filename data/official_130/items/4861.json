@@ -1,0 +1,20 @@
+{
+  "id": 4861,
+  "type": 2,
+  "name": "Arco de Belafewa",
+  "level": 64,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>60",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

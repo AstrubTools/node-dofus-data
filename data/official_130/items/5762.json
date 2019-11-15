@@ -1,0 +1,20 @@
+{
+  "id": 5762,
+  "type": 8,
+  "name": "Pala de Apybae",
+  "level": 72,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>65",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

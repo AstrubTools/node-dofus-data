@@ -1,0 +1,20 @@
+{
+  "id": 5672,
+  "type": 8,
+  "name": "Pala de Velon",
+  "level": 42,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>34&CV>20",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

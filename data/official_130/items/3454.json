@@ -1,0 +1,20 @@
+{
+  "id": 3454,
+  "type": 5,
+  "name": "Daga de Laewema",
+  "level": 36,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>35",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

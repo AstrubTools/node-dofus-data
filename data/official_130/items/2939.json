@@ -1,0 +1,20 @@
+{
+  "id": 2939,
+  "type": 6,
+  "name": "Espada de Uregolum",
+  "level": 71,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>64",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

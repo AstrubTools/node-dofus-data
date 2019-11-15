@@ -1,0 +1,19 @@
+{
+  "id": 1945,
+  "type": 20,
+  "name": "Machete de carnicero",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "25",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

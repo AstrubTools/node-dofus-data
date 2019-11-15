@@ -1,0 +1,20 @@
+{
+  "id": 5107,
+  "type": 2,
+  "name": "Arco de Baurev",
+  "level": 146,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>149&CS>55",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

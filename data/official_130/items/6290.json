@@ -1,0 +1,20 @@
+{
+  "id": 6290,
+  "type": 19,
+  "name": "Hacha de Flalilu",
+  "level": 101,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CS>92&CV>33",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

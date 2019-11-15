@@ -1,0 +1,20 @@
+{
+  "id": 5595,
+  "type": 8,
+  "name": "Pala de Ucebubih",
+  "level": 16,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>19&CS>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

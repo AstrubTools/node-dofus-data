@@ -1,0 +1,20 @@
+{
+  "id": 4867,
+  "type": 2,
+  "name": "Arco de Flaplynale",
+  "level": 66,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>73",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

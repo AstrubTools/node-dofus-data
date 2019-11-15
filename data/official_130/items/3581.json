@@ -1,0 +1,20 @@
+{
+  "id": 3581,
+  "type": 5,
+  "name": "Daga de Kumefapre",
+  "level": 79,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>82&CV>22",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

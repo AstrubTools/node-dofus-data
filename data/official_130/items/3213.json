@@ -1,0 +1,20 @@
+{
+  "id": 3213,
+  "type": 6,
+  "name": "Espada de Gebag",
+  "level": 8,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CS>8",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

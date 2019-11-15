@@ -1,0 +1,20 @@
+{
+  "id": 6183,
+  "type": 19,
+  "name": "Hacha de Elediti",
+  "level": 66,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>59",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

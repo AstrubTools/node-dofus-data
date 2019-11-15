@@ -1,0 +1,20 @@
+{
+  "id": 6792,
+  "type": 4,
+  "name": "La Plantamaza de los Campos",
+  "level": 10,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>20",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "45",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

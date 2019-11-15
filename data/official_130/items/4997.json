@@ -1,0 +1,20 @@
+{
+  "id": 4997,
+  "type": 2,
+  "name": "Arco de Mamatdar",
+  "level": 109,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>112",
+  "stats": [
+    "9",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

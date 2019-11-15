@@ -1,0 +1,20 @@
+{
+  "id": 3345,
+  "type": 6,
+  "name": "Espada de Dofluk",
+  "level": 140,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>133",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

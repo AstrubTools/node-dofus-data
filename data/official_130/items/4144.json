@@ -1,0 +1,20 @@
+{
+  "id": 4144,
+  "type": 4,
+  "name": "Bastón de Ufretfrit",
+  "level": 118,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>95&CS>40",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

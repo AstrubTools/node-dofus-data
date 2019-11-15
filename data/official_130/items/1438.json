@@ -1,0 +1,20 @@
+{
+  "id": 1438,
+  "type": 21,
+  "name": "Buen Pico",
+  "level": 25,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CC>30",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

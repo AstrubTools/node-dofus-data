@@ -1,0 +1,20 @@
+{
+  "id": 4933,
+  "type": 2,
+  "name": "Arco de Etepielle",
+  "level": 88,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>97&CS>24",
+  "stats": [
+    "4",
+    "4",
+    "4",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7172,
+  "type": 3,
+  "name": "Varita Fekal",
+  "level": 105,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CI>200&CW>50",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "60",
+    "0",
+    "1",
+    "1"
+  ]
+}

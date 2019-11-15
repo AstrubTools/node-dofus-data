@@ -1,0 +1,20 @@
+{
+  "id": 7189,
+  "type": 4,
+  "name": "Rod Gers",
+  "level": 176,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>450",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "100",
+    "0",
+    "0",
+    "1"
+  ]
+}

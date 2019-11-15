@@ -1,0 +1,20 @@
+{
+  "id": 5117,
+  "type": 2,
+  "name": "Arco de Naleuv",
+  "level": 149,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>146",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

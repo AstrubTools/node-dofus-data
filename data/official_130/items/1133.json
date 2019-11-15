@@ -1,0 +1,20 @@
+{
+  "id": 1133,
+  "type": 3,
+  "name": "Pequeña Varita Plumero",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>50",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "2",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

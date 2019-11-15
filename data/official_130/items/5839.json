@@ -1,0 +1,20 @@
+{
+  "id": 5839,
+  "type": 8,
+  "name": "Pala de Romubber",
+  "level": 97,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>90&CS>39",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 619,
+  "type": 4,
+  "name": "Bastón del Amo de los Jalatós",
+  "level": 85,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CI>60&CW>20&CA>40",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "100",
+    "0",
+    "0",
+    "1"
+  ]
+}

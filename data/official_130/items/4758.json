@@ -1,0 +1,20 @@
+{
+  "id": 4758,
+  "type": 2,
+  "name": "Arco de Alofe",
+  "level": 29,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>30",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

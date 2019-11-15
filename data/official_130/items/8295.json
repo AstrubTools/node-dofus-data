@@ -1,0 +1,20 @@
+{
+  "id": 8295,
+  "type": 2,
+  "name": "Arco del Dragohuevo",
+  "level": 122,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>300&CV>250",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "40",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

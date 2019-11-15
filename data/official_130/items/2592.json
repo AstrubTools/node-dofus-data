@@ -1,0 +1,20 @@
+{
+  "id": 2592,
+  "type": 19,
+  "name": "Cortadora de bombú",
+  "level": 39,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CV>20&CW>20",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

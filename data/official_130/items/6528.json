@@ -1,0 +1,20 @@
+{
+  "id": 6528,
+  "type": 8,
+  "name": "Pala Grino",
+  "level": 88,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>80&CC>150&CW>40",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

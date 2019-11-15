@@ -1,0 +1,20 @@
+{
+  "id": 8610,
+  "type": 2,
+  "name": "El Arco Astral",
+  "level": 79,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>150&CC>150",
+  "stats": [
+    "7",
+    "5",
+    "4",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

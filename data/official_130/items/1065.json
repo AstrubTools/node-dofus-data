@@ -1,0 +1,20 @@
+{
+  "id": 1065,
+  "type": 7,
+  "name": "Martillo R\\'único",
+  "level": 24,
+  "pods": 45,
+  "ethereal": false,
+  "requirements": "CI>30&CS>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4235,
+  "type": 4,
+  "name": "Bastón de Umeke",
+  "level": 149,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>138",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

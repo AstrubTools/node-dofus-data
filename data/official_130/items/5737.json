@@ -1,0 +1,20 @@
+{
+  "id": 5737,
+  "type": 8,
+  "name": "Pala de Hecebaul",
+  "level": 63,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>63",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

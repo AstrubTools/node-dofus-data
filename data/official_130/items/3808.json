@@ -1,0 +1,20 @@
+{
+  "id": 3808,
+  "type": 4,
+  "name": "Bastón de Litherfu",
+  "level": 6,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>5",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

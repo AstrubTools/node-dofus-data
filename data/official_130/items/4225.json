@@ -1,0 +1,20 @@
+{
+  "id": 4225,
+  "type": 4,
+  "name": "Bastón de Ofeceku",
+  "level": 145,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>147&CV>29",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

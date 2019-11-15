@@ -1,0 +1,20 @@
+{
+  "id": 3823,
+  "type": 4,
+  "name": "Bastón de Xirev",
+  "level": 11,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>11&CS>4",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

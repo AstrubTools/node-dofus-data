@@ -1,0 +1,20 @@
+{
+  "id": 4213,
+  "type": 4,
+  "name": "Bastón de Keduthuh",
+  "level": 141,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>170",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4190,
+  "type": 4,
+  "name": "Bastón de Tugal",
+  "level": 134,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>162",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

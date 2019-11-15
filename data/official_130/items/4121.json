@@ -1,0 +1,20 @@
+{
+  "id": 4121,
+  "type": 4,
+  "name": "Bastón de Myfeco",
+  "level": 111,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>101",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

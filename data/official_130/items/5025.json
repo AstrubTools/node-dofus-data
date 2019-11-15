@@ -1,0 +1,20 @@
+{
+  "id": 5025,
+  "type": 2,
+  "name": "Arco de Elmawy",
+  "level": 118,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>123",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

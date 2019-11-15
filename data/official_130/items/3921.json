@@ -1,0 +1,20 @@
+{
+  "id": 3921,
+  "type": 4,
+  "name": "Bastón de Pebev",
+  "level": 44,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>40&CV>21",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

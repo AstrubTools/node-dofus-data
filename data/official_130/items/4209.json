@@ -1,0 +1,20 @@
+{
+  "id": 4209,
+  "type": 4,
+  "name": "Bastón de Satur",
+  "level": 140,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>145&CS>45",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

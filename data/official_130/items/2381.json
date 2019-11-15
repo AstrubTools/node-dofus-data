@@ -1,0 +1,10 @@
+{
+  "id": 2381,
+  "type": 17,
+  "name": "Capa Flotadora",
+  "level": 61,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>90",
+  "stats": ""
+}

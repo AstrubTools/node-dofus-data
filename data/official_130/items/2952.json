@@ -1,0 +1,20 @@
+{
+  "id": 2952,
+  "type": 6,
+  "name": "Espada de Bucure",
+  "level": 78,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>71",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "type": 6,
+  "name": "Gran Espada de Hierrucho",
+  "level": 14,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>28",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6198,
+  "type": 19,
+  "name": "Hacha de Iropi",
+  "level": 71,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>68",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

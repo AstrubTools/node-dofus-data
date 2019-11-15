@@ -1,0 +1,20 @@
+{
+  "id": 3797,
+  "type": 5,
+  "name": "Daga de Mocohi",
+  "level": 149,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>159",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

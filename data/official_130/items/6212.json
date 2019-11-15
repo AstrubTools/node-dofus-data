@@ -1,0 +1,20 @@
+{
+  "id": 6212,
+  "type": 19,
+  "name": "Hacha de Noelelo",
+  "level": 75,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>73",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

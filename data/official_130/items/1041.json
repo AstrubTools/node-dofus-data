@@ -1,0 +1,20 @@
+{
+  "id": 1041,
+  "type": 5,
+  "name": "Espada rota del Caballero Desafortunado",
+  "level": 35,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>20",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

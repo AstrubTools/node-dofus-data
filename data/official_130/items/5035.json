@@ -1,0 +1,20 @@
+{
+  "id": 5035,
+  "type": 2,
+  "name": "Arco de Evivac",
+  "level": 122,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>111",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

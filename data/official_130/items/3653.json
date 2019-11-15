@@ -1,0 +1,20 @@
+{
+  "id": 3653,
+  "type": 5,
+  "name": "Daga de Ourese",
+  "level": 101,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>104",
+  "stats": [
+    "11",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4999,
+  "type": 2,
+  "name": "Arco de Ugrerem",
+  "level": 110,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>122&CS>26",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4766,
+  "type": 2,
+  "name": "Arco de Otalague",
+  "level": 32,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>31",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

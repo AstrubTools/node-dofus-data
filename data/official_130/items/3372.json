@@ -1,0 +1,20 @@
+{
+  "id": 3372,
+  "type": 5,
+  "name": "Daga de Iluti",
+  "level": 9,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>10",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

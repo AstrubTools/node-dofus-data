@@ -1,0 +1,20 @@
+{
+  "id": 6752,
+  "type": 6,
+  "name": "Kwakhoja del Viento",
+  "level": 41,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "CA>50&CV>50",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

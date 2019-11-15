@@ -1,0 +1,20 @@
+{
+  "id": 3271,
+  "type": 6,
+  "name": "Espada de Balofeau",
+  "level": 66,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>73",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

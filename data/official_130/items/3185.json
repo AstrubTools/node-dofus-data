@@ -1,0 +1,20 @@
+{
+  "id": 3185,
+  "type": 6,
+  "name": "Espada de Nisudidli",
+  "level": 142,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>149&CV>63",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

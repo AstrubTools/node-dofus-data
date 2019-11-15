@@ -1,0 +1,20 @@
+{
+  "id": 3966,
+  "type": 4,
+  "name": "Bastón de Elinielle",
+  "level": 59,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>61&CV>30",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

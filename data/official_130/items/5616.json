@@ -1,0 +1,20 @@
+{
+  "id": 5616,
+  "type": 8,
+  "name": "Pala de Aquifag",
+  "level": 23,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>21",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

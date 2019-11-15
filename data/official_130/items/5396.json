@@ -1,0 +1,20 @@
+{
+  "id": 5396,
+  "type": 7,
+  "name": "Martillo de Lifenadem",
+  "level": 96,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CV>59&CI>45",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

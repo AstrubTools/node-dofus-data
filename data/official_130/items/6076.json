@@ -1,0 +1,20 @@
+{
+  "id": 6076,
+  "type": 19,
+  "name": "Hacha de Otener",
+  "level": 30,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>29&CV>13",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

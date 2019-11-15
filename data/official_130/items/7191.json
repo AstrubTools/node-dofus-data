@@ -1,0 +1,20 @@
+{
+  "id": 7191,
+  "type": 5,
+  "name": "Engastador de Ramugro",
+  "level": 127,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>200&CS>200",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "0",
+    "1"
+  ]
+}

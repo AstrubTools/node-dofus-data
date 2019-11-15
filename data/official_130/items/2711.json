@@ -1,0 +1,20 @@
+{
+  "id": 2711,
+  "type": 6,
+  "name": "Espada de Bretim",
+  "level": 5,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>6&CV>4",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

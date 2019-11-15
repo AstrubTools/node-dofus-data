@@ -1,0 +1,20 @@
+{
+  "id": 5985,
+  "type": 8,
+  "name": "Pala de Rugnoked",
+  "level": 146,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>148&CS>51",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

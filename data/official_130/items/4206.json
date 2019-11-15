@@ -1,0 +1,20 @@
+{
+  "id": 4206,
+  "type": 4,
+  "name": "Bastón de Lufetufuf",
+  "level": 139,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>136",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

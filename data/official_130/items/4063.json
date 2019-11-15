@@ -1,0 +1,20 @@
+{
+  "id": 4063,
+  "type": 4,
+  "name": "Bastón de Nogovim",
+  "level": 91,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>92",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

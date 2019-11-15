@@ -1,0 +1,20 @@
+{
+  "id": 2913,
+  "type": 6,
+  "name": "Espada de Lesece",
+  "level": 58,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>56",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

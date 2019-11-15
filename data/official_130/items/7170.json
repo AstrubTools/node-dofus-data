@@ -1,0 +1,20 @@
+{
+  "id": 7170,
+  "type": 3,
+  "name": "Varita Rosca",
+  "level": 112,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>350&CV>200",
+  "stats": [
+    "5",
+    "2",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

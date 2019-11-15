@@ -1,0 +1,20 @@
+{
+  "id": 5015,
+  "type": 2,
+  "name": "Arco de Unefelu",
+  "level": 115,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>125&CS>37",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

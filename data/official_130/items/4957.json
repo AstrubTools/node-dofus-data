@@ -1,0 +1,20 @@
+{
+  "id": 4957,
+  "type": 2,
+  "name": "Arco de Ulociri",
+  "level": 96,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>103",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5064,
+  "type": 2,
+  "name": "Arco de Brecabed",
+  "level": 131,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>123",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

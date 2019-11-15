@@ -1,0 +1,20 @@
+{
+  "id": 5071,
+  "type": 2,
+  "name": "Arco de Fogexnef",
+  "level": 134,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>135&CS>35",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

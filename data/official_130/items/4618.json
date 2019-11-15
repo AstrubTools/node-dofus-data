@@ -1,0 +1,20 @@
+{
+  "id": 4618,
+  "type": 3,
+  "name": "Varita Unima",
+  "level": 129,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>135",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3245,
+  "type": 6,
+  "name": "Espada de Mihatoru",
+  "level": 40,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>36&CV>8",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

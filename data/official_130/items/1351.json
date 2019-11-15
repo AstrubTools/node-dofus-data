@@ -1,0 +1,20 @@
+{
+  "id": 1351,
+  "type": 2,
+  "name": "Arco de Charra",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>30",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "6",
+    "10",
+    "10",
+    "0",
+    "1",
+    "1"
+  ]
+}

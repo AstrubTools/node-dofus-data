@@ -1,0 +1,20 @@
+{
+  "id": 5033,
+  "type": 2,
+  "name": "Arco de Suripillion",
+  "level": 121,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

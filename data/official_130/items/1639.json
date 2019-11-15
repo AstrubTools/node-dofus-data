@@ -1,0 +1,20 @@
+{
+  "id": 1639,
+  "type": 6,
+  "name": "Inmortal Estrella de la Noche",
+  "level": 52,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>40&CV>40&CS>15",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

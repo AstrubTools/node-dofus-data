@@ -1,0 +1,20 @@
+{
+  "id": 4452,
+  "type": 3,
+  "name": "Varita Tehoh",
+  "level": 74,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>78",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

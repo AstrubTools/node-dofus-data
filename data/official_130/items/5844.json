@@ -1,0 +1,20 @@
+{
+  "id": 5844,
+  "type": 8,
+  "name": "Pala de Rusoso",
+  "level": 99,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>116&CS>45",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

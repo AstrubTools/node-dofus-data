@@ -1,0 +1,19 @@
+{
+  "id": 7102,
+  "type": 6,
+  "name": "Espada del Caballero de Hielo",
+  "level": 12,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "60",
+    "0",
+    "0",
+    "0"
+  ]
+}

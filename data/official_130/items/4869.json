@@ -1,0 +1,20 @@
+{
+  "id": 4869,
+  "type": 2,
+  "name": "Arco de Iseul",
+  "level": 66,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>64",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

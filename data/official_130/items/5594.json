@@ -1,0 +1,20 @@
+{
+  "id": 5594,
+  "type": 8,
+  "name": "Pala de Srerokes",
+  "level": 16,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>14&CS>8",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

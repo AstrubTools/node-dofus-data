@@ -1,0 +1,20 @@
+{
+  "id": 6442,
+  "type": 4,
+  "name": "Bastón de Loh Doh",
+  "level": 81,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>80&CV>50",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

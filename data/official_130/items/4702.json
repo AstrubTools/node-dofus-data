@@ -1,0 +1,20 @@
+{
+  "id": 4702,
+  "type": 2,
+  "name": "Arco de Dinutum",
+  "level": 11,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>11",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

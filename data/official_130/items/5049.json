@@ -1,0 +1,20 @@
+{
+  "id": 5049,
+  "type": 2,
+  "name": "Arco de Avese",
+  "level": 126,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>134",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

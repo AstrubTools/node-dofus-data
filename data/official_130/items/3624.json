@@ -1,0 +1,20 @@
+{
+  "id": 3624,
+  "type": 5,
+  "name": "Daga de Evevone",
+  "level": 93,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>98",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

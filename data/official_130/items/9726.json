@@ -1,0 +1,20 @@
+{
+  "id": 9726,
+  "type": 8,
+  "name": "Pala Míh",
+  "level": 50,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>50&CV>50",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "50",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

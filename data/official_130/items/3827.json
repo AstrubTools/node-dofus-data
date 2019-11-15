@@ -1,0 +1,20 @@
+{
+  "id": 3827,
+  "type": 4,
+  "name": "Bastón de Juvefeva",
+  "level": 13,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>11",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

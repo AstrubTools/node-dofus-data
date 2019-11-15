@@ -1,0 +1,20 @@
+{
+  "id": 4843,
+  "type": 2,
+  "name": "Arco de Olugnef",
+  "level": 58,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>64",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

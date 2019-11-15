@@ -1,0 +1,20 @@
+{
+  "id": 5658,
+  "type": 8,
+  "name": "Pala de Trodortu",
+  "level": 37,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>42&CS>12",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

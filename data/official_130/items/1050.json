@@ -1,0 +1,20 @@
+{
+  "id": 1050,
+  "type": 8,
+  "name": "Palita de Wukis",
+  "level": 49,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CC>40&CS>40",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

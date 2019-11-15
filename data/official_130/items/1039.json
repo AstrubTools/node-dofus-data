@@ -1,0 +1,20 @@
+{
+  "id": 1039,
+  "type": 5,
+  "name": "Hipnótica Daga Engañadora",
+  "level": 67,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>67&CS>25",
+  "stats": [
+    "17",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

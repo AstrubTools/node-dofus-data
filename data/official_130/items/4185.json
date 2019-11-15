@@ -1,0 +1,20 @@
+{
+  "id": 4185,
+  "type": 4,
+  "name": "Bastón de Hutemuf",
+  "level": 132,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>127",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5826,
+  "type": 8,
+  "name": "Pala de Salog",
+  "level": 93,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CC>81",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8088,
+  "type": 3,
+  "name": "Varita Gyver",
+  "level": 128,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>250",
+  "stats": [
+    "5",
+    "5",
+    "2",
+    "5",
+    "40",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

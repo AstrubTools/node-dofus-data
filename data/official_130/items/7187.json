@@ -1,0 +1,20 @@
+{
+  "id": 7187,
+  "type": 2,
+  "name": "Jakchir Arco",
+  "level": 124,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>100&CC>100&PG=9",
+  "stats": [
+    "10",
+    "5",
+    "4",
+    "6",
+    "30",
+    "2",
+    "0",
+    "1",
+    "1"
+  ]
+}

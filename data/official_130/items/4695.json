@@ -1,0 +1,20 @@
+{
+  "id": 4695,
+  "type": 2,
+  "name": "Arco de Remut",
+  "level": 8,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>9",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

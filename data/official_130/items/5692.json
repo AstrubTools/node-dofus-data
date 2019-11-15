@@ -1,0 +1,20 @@
+{
+  "id": 5692,
+  "type": 8,
+  "name": "Pala de Apanewa",
+  "level": 48,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>51",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

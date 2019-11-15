@@ -1,0 +1,20 @@
+{
+  "id": 2747,
+  "type": 6,
+  "name": "Espada de Topaura",
+  "level": 23,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>26",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

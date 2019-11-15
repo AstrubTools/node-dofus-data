@@ -1,0 +1,20 @@
+{
+  "id": 3724,
+  "type": 5,
+  "name": "Daga de Vibezol",
+  "level": 124,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>119&CV>47",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

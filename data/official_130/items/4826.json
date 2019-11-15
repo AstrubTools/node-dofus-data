@@ -1,0 +1,20 @@
+{
+  "id": 4826,
+  "type": 2,
+  "name": "Arco de Elele",
+  "level": 52,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>51&CS>20",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

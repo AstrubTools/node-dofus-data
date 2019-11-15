@@ -1,0 +1,20 @@
+{
+  "id": 2943,
+  "type": 6,
+  "name": "Espada de Renen",
+  "level": 73,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>70",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

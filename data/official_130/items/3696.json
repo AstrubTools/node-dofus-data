@@ -1,0 +1,20 @@
+{
+  "id": 3696,
+  "type": 5,
+  "name": "Daga de Thorekeruh",
+  "level": 115,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>104",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

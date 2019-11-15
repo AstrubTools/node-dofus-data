@@ -1,0 +1,20 @@
+{
+  "id": 7193,
+  "type": 6,
+  "name": "Espada de Dark Vlad",
+  "level": 126,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CV>250&CI>300&PG=8",
+  "stats": [
+    "12",
+    "5",
+    "1",
+    "1",
+    "50",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

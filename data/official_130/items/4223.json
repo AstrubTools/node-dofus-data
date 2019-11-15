@@ -1,0 +1,20 @@
+{
+  "id": 4223,
+  "type": 4,
+  "name": "Bastón de Rokola",
+  "level": 145,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>119&CV>57",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

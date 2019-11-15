@@ -1,0 +1,20 @@
+{
+  "id": 2794,
+  "type": 6,
+  "name": "Espada de Carexe",
+  "level": 46,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>47",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

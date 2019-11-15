@@ -1,0 +1,20 @@
+{
+  "id": 5721,
+  "type": 8,
+  "name": "Pala de Cogrerm",
+  "level": 58,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CC>68&CS>28",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

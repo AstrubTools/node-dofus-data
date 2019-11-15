@@ -1,0 +1,20 @@
+{
+  "id": 4828,
+  "type": 2,
+  "name": "Arco de Ymutimi",
+  "level": 53,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>52&CS>20",
+  "stats": [
+    "3",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

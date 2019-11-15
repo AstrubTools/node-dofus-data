@@ -1,0 +1,20 @@
+{
+  "id": 329,
+  "type": 2,
+  "name": "Arco de Triunfo",
+  "level": 30,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>30&CC>5&CS>10",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

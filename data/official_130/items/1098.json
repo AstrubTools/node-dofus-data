@@ -1,0 +1,20 @@
+{
+  "id": 1098,
+  "type": 2,
+  "name": "Arco Pesado de Cuerno de Jalató",
+  "level": 35,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>47&CA>10",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

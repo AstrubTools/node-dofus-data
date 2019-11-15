@@ -1,0 +1,20 @@
+{
+  "id": 337,
+  "type": 2,
+  "name": "Arco del Bwork Arquero",
+  "level": 20,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>20&CA>20",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

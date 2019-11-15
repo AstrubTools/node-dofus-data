@@ -1,0 +1,20 @@
+{
+  "id": 5343,
+  "type": 7,
+  "name": "Martillo de Fisec",
+  "level": 78,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CV>44&CS>31",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

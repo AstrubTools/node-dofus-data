@@ -1,0 +1,20 @@
+{
+  "id": 4872,
+  "type": 2,
+  "name": "Arco de Butileuf",
+  "level": 67,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>71",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

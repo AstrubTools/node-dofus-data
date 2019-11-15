@@ -1,0 +1,20 @@
+{
+  "id": 1048,
+  "type": 8,
+  "name": "Gran pala enredaderada",
+  "level": 46,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>12&CC>33",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

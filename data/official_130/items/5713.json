@@ -1,0 +1,20 @@
+{
+  "id": 5713,
+  "type": 8,
+  "name": "Pala de Aqualosepa",
+  "level": 55,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>51",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

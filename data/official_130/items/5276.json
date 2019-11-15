@@ -1,0 +1,20 @@
+{
+  "id": 5276,
+  "type": 7,
+  "name": "Martillo de Rougath",
+  "level": 56,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CV>33&CS>19",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

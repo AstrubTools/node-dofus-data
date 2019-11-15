@@ -1,0 +1,20 @@
+{
+  "id": 5870,
+  "type": 8,
+  "name": "Pala de Evewe",
+  "level": 108,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>87",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

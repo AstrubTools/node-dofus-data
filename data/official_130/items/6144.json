@@ -1,0 +1,20 @@
+{
+  "id": 6144,
+  "type": 19,
+  "name": "Hacha de Struguh",
+  "level": 53,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>57",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

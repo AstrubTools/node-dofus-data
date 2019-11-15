@@ -1,0 +1,20 @@
+{
+  "id": 4021,
+  "type": 4,
+  "name": "Bastón de Ereus",
+  "level": 77,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>77",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

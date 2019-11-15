@@ -1,0 +1,20 @@
+{
+  "id": 592,
+  "type": 2,
+  "name": "Cuerda de Ivan Nowé",
+  "level": 36,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>30&CA>36",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "15",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

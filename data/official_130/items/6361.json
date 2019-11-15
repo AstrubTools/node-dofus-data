@@ -1,0 +1,20 @@
+{
+  "id": 6361,
+  "type": 19,
+  "name": "Hacha de Operdar",
+  "level": 125,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>148",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

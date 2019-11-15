@@ -1,0 +1,20 @@
+{
+  "id": 3241,
+  "type": 6,
+  "name": "Espada de Onaidum",
+  "level": 36,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>40",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

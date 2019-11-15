@@ -1,0 +1,20 @@
+{
+  "id": 4770,
+  "type": 2,
+  "name": "Arco de Ufahupri",
+  "level": 33,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>31&CS>6",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

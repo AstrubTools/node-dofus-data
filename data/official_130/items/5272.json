@@ -1,0 +1,20 @@
+{
+  "id": 5272,
+  "type": 7,
+  "name": "Martillo de Uhufip",
+  "level": 54,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CV>34&CS>20",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

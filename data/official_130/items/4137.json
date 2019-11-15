@@ -1,0 +1,20 @@
+{
+  "id": 4137,
+  "type": 4,
+  "name": "Bastón de Elisu",
+  "level": 116,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>108&CS>30",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

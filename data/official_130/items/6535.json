@@ -1,0 +1,20 @@
+{
+  "id": 6535,
+  "type": 8,
+  "name": "Pala Antikaspa",
+  "level": 121,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>300&CS>50&CV>100&CW>50",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

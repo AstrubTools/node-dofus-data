@@ -1,0 +1,20 @@
+{
+  "id": 3938,
+  "type": 4,
+  "name": "Bastón de Tatekoth",
+  "level": 50,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>58",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

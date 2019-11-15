@@ -1,0 +1,20 @@
+{
+  "id": 4970,
+  "type": 2,
+  "name": "Arco de Rurerer",
+  "level": 100,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>90",
+  "stats": [
+    "11",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

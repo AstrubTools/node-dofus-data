@@ -1,0 +1,20 @@
+{
+  "id": 4895,
+  "type": 2,
+  "name": "Arco de Cihesa",
+  "level": 75,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>70",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

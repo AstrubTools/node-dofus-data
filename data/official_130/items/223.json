@@ -1,0 +1,20 @@
+{
+  "id": 223,
+  "type": 7,
+  "name": "Gran Martillo de Paliza",
+  "level": 14,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CI>10&CS>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

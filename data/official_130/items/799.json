@@ -1,0 +1,10 @@
+{
+  "id": 799,
+  "type": 76,
+  "name": "Pergamino de Agilidad",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "Ca<50",
+  "stats": ""
+}

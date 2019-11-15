@@ -1,0 +1,20 @@
+{
+  "id": 8827,
+  "type": 19,
+  "name": "Hacha del Guerrero Zoth",
+  "level": 139,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CW>250&CV>500",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "60",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

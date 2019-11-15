@@ -1,0 +1,20 @@
+{
+  "id": 5583,
+  "type": 8,
+  "name": "Pala de Halacah",
+  "level": 12,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>12&CS>7",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

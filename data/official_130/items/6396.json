@@ -1,0 +1,20 @@
+{
+  "id": 6396,
+  "type": 19,
+  "name": "Hacha de Omizunob",
+  "level": 137,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>151",
+  "stats": [
+    "7",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

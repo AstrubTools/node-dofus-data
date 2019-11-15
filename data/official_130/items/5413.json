@@ -1,0 +1,20 @@
+{
+  "id": 5413,
+  "type": 7,
+  "name": "Martillo de Helukuth",
+  "level": 101,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CV>55&CS>38",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

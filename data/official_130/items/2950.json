@@ -1,0 +1,20 @@
+{
+  "id": 2950,
+  "type": 6,
+  "name": "Espada de Dufemu",
+  "level": 77,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>70",
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

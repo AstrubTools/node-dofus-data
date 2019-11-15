@@ -1,0 +1,20 @@
+{
+  "id": 4216,
+  "type": 4,
+  "name": "Bastón de Ufidecim",
+  "level": 142,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>166",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

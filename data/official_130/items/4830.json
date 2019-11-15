@@ -1,0 +1,20 @@
+{
+  "id": 4830,
+  "type": 2,
+  "name": "Arco de Bavloja",
+  "level": 53,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>54",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

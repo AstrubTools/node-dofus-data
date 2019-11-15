@@ -1,0 +1,20 @@
+{
+  "id": 3349,
+  "type": 6,
+  "name": "Espada de Esretha",
+  "level": 144,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>150&CV>45",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

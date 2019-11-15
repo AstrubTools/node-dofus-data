@@ -1,0 +1,20 @@
+{
+  "id": 6283,
+  "type": 19,
+  "name": "Hacha de Sotebdar",
+  "level": 99,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CS>81&CV>27",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

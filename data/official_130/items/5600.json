@@ -1,0 +1,20 @@
+{
+  "id": 5600,
+  "type": 8,
+  "name": "Pala de Ejuren",
+  "level": 18,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>16&CS>4",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

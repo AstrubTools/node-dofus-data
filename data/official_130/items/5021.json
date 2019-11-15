@@ -1,0 +1,20 @@
+{
+  "id": 5021,
+  "type": 2,
+  "name": "Arco de Elegelo",
+  "level": 117,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>112",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

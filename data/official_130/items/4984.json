@@ -1,0 +1,20 @@
+{
+  "id": 4984,
+  "type": 2,
+  "name": "Arco de Vilovi",
+  "level": 105,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>104&CS>30",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

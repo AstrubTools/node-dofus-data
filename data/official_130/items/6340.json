@@ -1,0 +1,20 @@
+{
+  "id": 6340,
+  "type": 19,
+  "name": "Hacha de Aelelydae",
+  "level": 118,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>106",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

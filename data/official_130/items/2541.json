@@ -1,0 +1,10 @@
+{
+  "id": 2541,
+  "type": 26,
+  "name": "Pócima de metal precioso líquido",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "Pj=17|Pj=31|Pj=14|Pj=11|Pj=20",
+  "stats": ""
+}

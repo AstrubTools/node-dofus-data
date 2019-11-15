@@ -1,0 +1,20 @@
+{
+  "id": 6149,
+  "type": 19,
+  "name": "Hacha de Jisotag",
+  "level": 54,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>58",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

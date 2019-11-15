@@ -1,0 +1,20 @@
+{
+  "id": 4239,
+  "type": 4,
+  "name": "Bastón de Zarazez",
+  "level": 150,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>179&CS>60",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

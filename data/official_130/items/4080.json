@@ -1,0 +1,20 @@
+{
+  "id": 4080,
+  "type": 4,
+  "name": "Bastón de Lafit",
+  "level": 97,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>104&CS>30",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5740,
+  "type": 8,
+  "name": "Pala de Pacyun",
+  "level": 64,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>61",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

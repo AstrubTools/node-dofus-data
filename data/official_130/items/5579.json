@@ -1,0 +1,20 @@
+{
+  "id": 5579,
+  "type": 8,
+  "name": "Pala de Aelowiw",
+  "level": 11,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>14",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

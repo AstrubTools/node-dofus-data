@@ -1,0 +1,20 @@
+{
+  "id": 3984,
+  "type": 4,
+  "name": "Bastón de Ogifegaf",
+  "level": 65,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>74",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

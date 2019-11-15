@@ -1,0 +1,20 @@
+{
+  "id": 4721,
+  "type": 2,
+  "name": "Arco de Elebeu",
+  "level": 17,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>18",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

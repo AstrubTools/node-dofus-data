@@ -1,0 +1,20 @@
+{
+  "id": 3817,
+  "type": 4,
+  "name": "Bastón de Unebete",
+  "level": 9,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>12",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

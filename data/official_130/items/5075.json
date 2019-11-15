@@ -1,0 +1,20 @@
+{
+  "id": 5075,
+  "type": 2,
+  "name": "Arco de Mezen",
+  "level": 135,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>140",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

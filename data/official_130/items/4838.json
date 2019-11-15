@@ -1,0 +1,20 @@
+{
+  "id": 4838,
+  "type": 2,
+  "name": "Arco de Manikibe",
+  "level": 56,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>58",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

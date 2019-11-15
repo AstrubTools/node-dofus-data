@@ -1,0 +1,20 @@
+{
+  "id": 5640,
+  "type": 8,
+  "name": "Pala de Henurver",
+  "level": 31,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>38&CV>10",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

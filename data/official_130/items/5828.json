@@ -1,0 +1,20 @@
+{
+  "id": 5828,
+  "type": 8,
+  "name": "Pala de Abipaca",
+  "level": 94,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>78",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

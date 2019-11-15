@@ -1,0 +1,20 @@
+{
+  "id": 4600,
+  "type": 3,
+  "name": "Varita de Bauro",
+  "level": 123,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>123&CV>33",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

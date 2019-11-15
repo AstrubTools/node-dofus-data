@@ -1,0 +1,20 @@
+{
+  "id": 4498,
+  "type": 3,
+  "name": "Varita Kaugoxu",
+  "level": 89,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>98",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 2229,
+  "type": 14,
+  "name": "Traje zurcaresco",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "Pg=10",
+  "stats": ""
+}

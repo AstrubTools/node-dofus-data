@@ -1,0 +1,20 @@
+{
+  "id": 2912,
+  "type": 6,
+  "name": "Espada de Khebab",
+  "level": 58,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>56&CV>16",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

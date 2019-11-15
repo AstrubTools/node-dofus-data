@@ -1,0 +1,20 @@
+{
+  "id": 1033,
+  "type": 5,
+  "name": "Hoja de Parra",
+  "level": 48,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>48&CC>8",
+  "stats": [
+    "13",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

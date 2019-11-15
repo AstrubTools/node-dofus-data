@@ -1,0 +1,20 @@
+{
+  "id": 6393,
+  "type": 19,
+  "name": "Hacha de Nudrame",
+  "level": 136,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>123",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

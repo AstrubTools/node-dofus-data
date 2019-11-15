@@ -1,0 +1,20 @@
+{
+  "id": 5657,
+  "type": 8,
+  "name": "Pala de Epule",
+  "level": 37,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>43",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10125,
+  "type": 2,
+  "name": "Arco del Bandido Arquero",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "2",
+    "6",
+    "3",
+    "5",
+    "40",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

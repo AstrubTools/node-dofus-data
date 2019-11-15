@@ -1,0 +1,20 @@
+{
+  "id": 5191,
+  "type": 7,
+  "name": "Martillo de Foleveda",
+  "level": 27,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CV>16",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

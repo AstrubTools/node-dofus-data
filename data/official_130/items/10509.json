@@ -1,0 +1,10 @@
+{
+  "id": 10509,
+  "type": 75,
+  "name": "Pergamino del hechizo especial Palabrómb",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "PG=7",
+  "stats": ""
+}

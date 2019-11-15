@@ -1,0 +1,20 @@
+{
+  "id": 6438,
+  "type": 3,
+  "name": "Varita Blanda",
+  "level": 85,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>85",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "70",
+    "0",
+    "1",
+    "0"
+  ]
+}

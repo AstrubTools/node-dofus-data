@@ -1,0 +1,20 @@
+{
+  "id": 6399,
+  "type": 19,
+  "name": "Hacha de Olulimov",
+  "level": 138,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>122",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

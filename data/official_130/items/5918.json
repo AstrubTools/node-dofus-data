@@ -1,0 +1,20 @@
+{
+  "id": 5918,
+  "type": 8,
+  "name": "Pala de Fokagor",
+  "level": 124,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>126&CS>51",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

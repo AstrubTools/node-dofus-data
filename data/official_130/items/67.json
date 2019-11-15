@@ -1,0 +1,20 @@
+{
+  "id": 67,
+  "type": 6,
+  "name": "El Filo Infernal",
+  "level": 22,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>44&CA>15",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

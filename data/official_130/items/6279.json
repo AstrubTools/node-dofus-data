@@ -1,0 +1,20 @@
+{
+  "id": 6279,
+  "type": 19,
+  "name": "Hacha de Melobnef",
+  "level": 98,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>86&CV>29",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

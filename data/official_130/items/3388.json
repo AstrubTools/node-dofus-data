@@ -1,0 +1,20 @@
+{
+  "id": 3388,
+  "type": 5,
+  "name": "Daga de Domemefut",
+  "level": 14,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>14",
+  "stats": [
+    "11",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1035,
+  "type": 5,
+  "name": "Poderosa Hoja de Parra",
+  "level": 56,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>56&CC>12",
+  "stats": [
+    "13",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6539,
+  "type": 8,
+  "name": "Pala Blega",
+  "level": 71,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>30&CC>150",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "25",
+    "60",
+    "0",
+    "0",
+    "1"
+  ]
+}

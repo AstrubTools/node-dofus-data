@@ -1,0 +1,20 @@
+{
+  "id": 4987,
+  "type": 2,
+  "name": "Arco de Eraros",
+  "level": 106,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>107",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

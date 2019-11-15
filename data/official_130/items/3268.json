@@ -1,0 +1,20 @@
+{
+  "id": 3268,
+  "type": 6,
+  "name": "Espada de Halypaul",
+  "level": 63,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>68&CV>19",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

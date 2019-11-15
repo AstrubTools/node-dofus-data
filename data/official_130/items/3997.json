@@ -1,0 +1,20 @@
+{
+  "id": 3997,
+  "type": 4,
+  "name": "Bastón de Dihus",
+  "level": 69,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>74",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

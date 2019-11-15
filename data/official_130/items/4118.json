@@ -1,0 +1,20 @@
+{
+  "id": 4118,
+  "type": 4,
+  "name": "Bastón de Inutefim",
+  "level": 110,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>92",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

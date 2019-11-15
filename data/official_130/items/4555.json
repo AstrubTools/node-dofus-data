@@ -1,0 +1,20 @@
+{
+  "id": 4555,
+  "type": 3,
+  "name": "Varita Ufufipl",
+  "level": 108,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>98",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

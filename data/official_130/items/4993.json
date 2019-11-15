@@ -1,0 +1,20 @@
+{
+  "id": 4993,
+  "type": 2,
+  "name": "Arco de Lisobleme",
+  "level": 108,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "9",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

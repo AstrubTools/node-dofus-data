@@ -1,0 +1,20 @@
+{
+  "id": 4896,
+  "type": 2,
+  "name": "Arco de Mufuie",
+  "level": 75,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>69",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

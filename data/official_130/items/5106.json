@@ -1,0 +1,20 @@
+{
+  "id": 5106,
+  "type": 2,
+  "name": "Arco de Ebonaplu",
+  "level": 145,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>151",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

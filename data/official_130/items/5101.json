@@ -1,0 +1,20 @@
+{
+  "id": 5101,
+  "type": 2,
+  "name": "Arco de Loboth",
+  "level": 144,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>146",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

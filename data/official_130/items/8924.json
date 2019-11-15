@@ -1,0 +1,20 @@
+{
+  "id": 8924,
+  "type": 2,
+  "name": "Arco de Lafrontera",
+  "level": 151,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>200",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

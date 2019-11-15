@@ -1,0 +1,20 @@
+{
+  "id": 4522,
+  "type": 3,
+  "name": "Varita de Flefec",
+  "level": 97,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>90",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

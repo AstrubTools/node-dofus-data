@@ -1,0 +1,20 @@
+{
+  "id": 6103,
+  "type": 19,
+  "name": "Hacha de Oliblur",
+  "level": 39,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>38",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 213,
+  "type": 5,
+  "name": "Grandes Dagas de Croclage",
+  "level": 15,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CA>15",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

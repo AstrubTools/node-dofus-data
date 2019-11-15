@@ -1,0 +1,20 @@
+{
+  "id": 6451,
+  "type": 2,
+  "name": "Arco Ángel",
+  "level": 82,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>80&CS>50",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

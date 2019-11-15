@@ -1,0 +1,20 @@
+{
+  "id": 5966,
+  "type": 8,
+  "name": "Pala de Elynague",
+  "level": 140,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>167",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

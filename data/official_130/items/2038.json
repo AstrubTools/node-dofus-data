@@ -1,0 +1,10 @@
+{
+  "id": 2038,
+  "type": 33,
+  "name": "Pan de copos de avena aurífera",
+  "level": 10,
+  "pods": 2,
+  "ethereal": false,
+  "requirements": "Cv<70",
+  "stats": ""
+}

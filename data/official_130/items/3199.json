@@ -1,0 +1,20 @@
+{
+  "id": 3199,
+  "type": 6,
+  "name": "Espada de Tijako",
+  "level": 149,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>160&CV>68",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

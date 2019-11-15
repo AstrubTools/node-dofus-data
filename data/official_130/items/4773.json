@@ -1,0 +1,20 @@
+{
+  "id": 4773,
+  "type": 2,
+  "name": "Arco de Efefe",
+  "level": 34,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>31",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

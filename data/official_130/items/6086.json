@@ -1,0 +1,20 @@
+{
+  "id": 6086,
+  "type": 19,
+  "name": "Hacha de Kuflek",
+  "level": 33,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>33",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

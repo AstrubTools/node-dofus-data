@@ -1,0 +1,20 @@
+{
+  "id": 9749,
+  "type": 3,
+  "name": "Varita Mar\\'Hiz",
+  "level": 70,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>35&CS>35&CI>35&CA>35&CV>70",
+  "stats": [
+    "2",
+    "5",
+    "2",
+    "3",
+    "40",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3339,
+  "type": 6,
+  "name": "Espada de Hecert",
+  "level": 134,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CS>123",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4127,
+  "type": 4,
+  "name": "Bastón de Hokoche",
+  "level": 113,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>125",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

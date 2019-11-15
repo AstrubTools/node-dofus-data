@@ -1,0 +1,20 @@
+{
+  "id": 5350,
+  "type": 7,
+  "name": "Martillo de Ludamain",
+  "level": 80,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CV>50&CS>26",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

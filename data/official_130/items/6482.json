@@ -1,0 +1,10 @@
+{
+  "id": 6482,
+  "type": 16,
+  "name": "Korko Kusko",
+  "level": 73,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PG=10",
+  "stats": ""
+}

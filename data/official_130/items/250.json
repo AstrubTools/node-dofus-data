@@ -1,0 +1,20 @@
+{
+  "id": 250,
+  "type": 8,
+  "name": "Ares",
+  "level": 72,
+  "pods": 50,
+  "ethereal": false,
+  "requirements": "CC>200",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

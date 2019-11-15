@@ -1,0 +1,20 @@
+{
+  "id": 5959,
+  "type": 8,
+  "name": "Pala de Usuroche",
+  "level": 137,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>156&CS>62",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

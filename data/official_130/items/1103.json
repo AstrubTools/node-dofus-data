@@ -1,0 +1,20 @@
+{
+  "id": 1103,
+  "type": 3,
+  "name": "Gran Varita Hora",
+  "level": 25,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>29&CS>3",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

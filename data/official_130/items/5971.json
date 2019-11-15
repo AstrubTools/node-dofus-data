@@ -1,0 +1,20 @@
+{
+  "id": 5971,
+  "type": 8,
+  "name": "Pala de Krekur",
+  "level": 141,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CC>170&CS>39",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

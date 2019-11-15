@@ -1,0 +1,20 @@
+{
+  "id": 3775,
+  "type": 5,
+  "name": "Daga de Thusahusar",
+  "level": 141,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>142",
+  "stats": [
+    "11",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

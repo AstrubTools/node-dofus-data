@@ -1,0 +1,10 @@
+{
+  "id": 2064,
+  "type": 14,
+  "name": "Pergamino de Camuflaje",
+  "level": 10,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "Pg=10&PM=B",
+  "stats": ""
+}

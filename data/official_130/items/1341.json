@@ -1,0 +1,10 @@
+{
+  "id": 1341,
+  "type": 26,
+  "name": "Pócima de Chaparrón",
+  "level": 25,
+  "pods": 6,
+  "ethereal": false,
+  "requirements": "Pj=48|Pj=49|Pj=50|Pj=46|Pj=44|Pj=45|Pj=43|Pj=47",
+  "stats": ""
+}

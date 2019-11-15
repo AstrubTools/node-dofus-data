@@ -1,0 +1,20 @@
+{
+  "id": 4405,
+  "type": 3,
+  "name": "Varita Lerabelu",
+  "level": 58,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>54",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

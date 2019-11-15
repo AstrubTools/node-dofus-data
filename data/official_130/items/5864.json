@@ -1,0 +1,20 @@
+{
+  "id": 5864,
+  "type": 8,
+  "name": "Pala de Ledikub",
+  "level": 106,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>114&CS>27",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

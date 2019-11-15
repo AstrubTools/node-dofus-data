@@ -1,0 +1,20 @@
+{
+  "id": 5998,
+  "type": 8,
+  "name": "Pala de Hozabele",
+  "level": 150,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>145",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

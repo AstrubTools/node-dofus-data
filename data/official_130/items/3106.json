@@ -1,0 +1,20 @@
+{
+  "id": 3106,
+  "type": 6,
+  "name": "Espada de Ireteh",
+  "level": 102,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>99",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

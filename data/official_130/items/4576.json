@@ -1,0 +1,20 @@
+{
+  "id": 4576,
+  "type": 3,
+  "name": "Varita Lifuv",
+  "level": 115,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>119",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

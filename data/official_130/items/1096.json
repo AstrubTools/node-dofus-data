@@ -1,0 +1,20 @@
+{
+  "id": 1096,
+  "type": 2,
+  "name": "Arquito de Cuerno de Jalató",
+  "level": 29,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>45&CA>5",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

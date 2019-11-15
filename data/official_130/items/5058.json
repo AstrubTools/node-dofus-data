@@ -1,0 +1,20 @@
+{
+  "id": 5058,
+  "type": 2,
+  "name": "Arco de Euteuvot",
+  "level": 129,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>118&CS>62",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

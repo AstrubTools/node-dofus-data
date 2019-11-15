@@ -1,0 +1,20 @@
+{
+  "id": 3955,
+  "type": 4,
+  "name": "Bastón de Tousog",
+  "level": 55,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>63",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6023,
+  "type": 19,
+  "name": "Hacha de Etacber",
+  "level": 12,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>10",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

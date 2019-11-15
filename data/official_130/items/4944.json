@@ -1,0 +1,20 @@
+{
+  "id": 4944,
+  "type": 2,
+  "name": "Arco de Uricitif",
+  "level": 91,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>96",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

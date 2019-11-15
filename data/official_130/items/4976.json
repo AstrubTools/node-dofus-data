@@ -1,0 +1,20 @@
+{
+  "id": 4976,
+  "type": 2,
+  "name": "Arco de Fluferup",
+  "level": 102,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>98",
+  "stats": [
+    "3",
+    "4",
+    "4",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

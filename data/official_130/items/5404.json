@@ -1,0 +1,20 @@
+{
+  "id": 5404,
+  "type": 7,
+  "name": "Martillo de Olagebe",
+  "level": 98,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CV>51&CS>26",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

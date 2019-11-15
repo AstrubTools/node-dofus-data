@@ -1,0 +1,20 @@
+{
+  "id": 3250,
+  "type": 6,
+  "name": "Espada de Hesroth",
+  "level": 45,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>49",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

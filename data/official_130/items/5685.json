@@ -1,0 +1,20 @@
+{
+  "id": 5685,
+  "type": 8,
+  "name": "Pala de Ithat",
+  "level": 46,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>47&CS>19",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

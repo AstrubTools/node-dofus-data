@@ -1,0 +1,20 @@
+{
+  "id": 6311,
+  "type": 19,
+  "name": "Hacha de Ulujim",
+  "level": 108,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>130&CV>48",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5743,
+  "type": 8,
+  "name": "Pala de Tejatule",
+  "level": 65,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CC>73",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

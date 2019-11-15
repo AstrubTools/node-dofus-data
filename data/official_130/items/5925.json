@@ -1,0 +1,20 @@
+{
+  "id": 5925,
+  "type": 8,
+  "name": "Pala de Kurore",
+  "level": 126,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>108&CS>47",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

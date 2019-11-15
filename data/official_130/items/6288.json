@@ -1,0 +1,20 @@
+{
+  "id": 6288,
+  "type": 19,
+  "name": "Hacha de Reufuke",
+  "level": 101,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>101",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

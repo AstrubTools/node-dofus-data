@@ -1,0 +1,20 @@
+{
+  "id": 5911,
+  "type": 8,
+  "name": "Pala de Flugit",
+  "level": 121,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>123",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

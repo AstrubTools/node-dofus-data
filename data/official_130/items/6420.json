@@ -1,0 +1,20 @@
+{
+  "id": 6420,
+  "type": 19,
+  "name": "Hacha de Nusta",
+  "level": 145,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>126",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 188,
+  "type": 4,
+  "name": "Bastón Cojomudo",
+  "level": 14,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CI>14",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 53,
+  "type": 6,
+  "name": "Espada Chifladora",
+  "level": 22,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CS>44&CI>12",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

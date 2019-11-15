@@ -1,0 +1,19 @@
+{
+  "id": 492,
+  "type": 20,
+  "name": "Rodillo de panadero",
+  "level": 1,
+  "pods": 8,
+  "ethereal": false,
+  "stats": [
+    "50",
+    "6",
+    "1",
+    "1",
+    "500",
+    "10",
+    "0",
+    "0",
+    "1"
+  ]
+}

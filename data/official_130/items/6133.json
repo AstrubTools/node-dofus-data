@@ -1,0 +1,20 @@
+{
+  "id": 6133,
+  "type": 19,
+  "name": "Hacha de Doreratu",
+  "level": 49,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>42",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

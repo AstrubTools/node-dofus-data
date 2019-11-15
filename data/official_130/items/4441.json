@@ -1,0 +1,20 @@
+{
+  "id": 4441,
+  "type": 3,
+  "name": "Varita Torede",
+  "level": 70,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>73",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

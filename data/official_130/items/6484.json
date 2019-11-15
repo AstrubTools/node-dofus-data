@@ -1,0 +1,20 @@
+{
+  "id": 6484,
+  "type": 2,
+  "name": "Arco del Sram Arquero",
+  "level": 90,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>90&CA>90&CW>50",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

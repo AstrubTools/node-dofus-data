@@ -1,0 +1,20 @@
+{
+  "id": 3634,
+  "type": 5,
+  "name": "Daga de Hogureke",
+  "level": 96,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>101",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

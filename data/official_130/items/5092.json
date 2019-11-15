@@ -1,0 +1,20 @@
+{
+  "id": 5092,
+  "type": 2,
+  "name": "Arco de Buguf",
+  "level": 141,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>135",
+  "stats": [
+    "3",
+    "4",
+    "4",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

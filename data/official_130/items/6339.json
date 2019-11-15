@@ -1,0 +1,20 @@
+{
+  "id": 6339,
+  "type": 19,
+  "name": "Hacha de Keuce",
+  "level": 118,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>130",
+  "stats": [
+    "4",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

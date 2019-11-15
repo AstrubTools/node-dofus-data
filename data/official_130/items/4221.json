@@ -1,0 +1,20 @@
+{
+  "id": 4221,
+  "type": 4,
+  "name": "Bastón de Hucufefu",
+  "level": 144,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>165&CS>32",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

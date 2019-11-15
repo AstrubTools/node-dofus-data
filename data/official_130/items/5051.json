@@ -1,0 +1,20 @@
+{
+  "id": 5051,
+  "type": 2,
+  "name": "Arco de Meveusem",
+  "level": 127,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>123",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

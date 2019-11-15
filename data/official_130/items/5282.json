@@ -1,0 +1,20 @@
+{
+  "id": 5282,
+  "type": 7,
+  "name": "Martillo de Lovumim",
+  "level": 58,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CV>29&CS>20",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

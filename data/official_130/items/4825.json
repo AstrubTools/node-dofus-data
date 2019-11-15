@@ -1,0 +1,20 @@
+{
+  "id": 4825,
+  "type": 2,
+  "name": "Arco de Ofebeke",
+  "level": 52,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>56",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

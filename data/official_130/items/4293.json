@@ -1,0 +1,20 @@
+{
+  "id": 4293,
+  "type": 3,
+  "name": "Varita Rehege",
+  "level": 21,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>19",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

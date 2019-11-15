@@ -1,0 +1,20 @@
+{
+  "id": 4716,
+  "type": 2,
+  "name": "Arco de Fomdar",
+  "level": 15,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>15",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

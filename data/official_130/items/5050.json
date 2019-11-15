@@ -1,0 +1,20 @@
+{
+  "id": 5050,
+  "type": 2,
+  "name": "Arco de Zamovet",
+  "level": 127,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>131",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

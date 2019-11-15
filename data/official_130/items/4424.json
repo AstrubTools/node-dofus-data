@@ -1,0 +1,20 @@
+{
+  "id": 4424,
+  "type": 3,
+  "name": "Varita de Eraknef",
+  "level": 64,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>58&CV>27",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

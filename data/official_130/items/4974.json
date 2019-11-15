@@ -1,0 +1,20 @@
+{
+  "id": 4974,
+  "type": 2,
+  "name": "Arco de Ugufa",
+  "level": 101,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>92",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

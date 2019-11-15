@@ -1,0 +1,20 @@
+{
+  "id": 3949,
+  "type": 4,
+  "name": "Bastón de Inurere",
+  "level": 53,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>64",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

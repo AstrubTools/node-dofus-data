@@ -1,0 +1,20 @@
+{
+  "id": 1152,
+  "type": 4,
+  "name": "Bastoncillo-Bola de Vidente",
+  "level": 28,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CW>10&CA>20",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

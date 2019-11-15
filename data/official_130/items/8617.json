@@ -1,0 +1,20 @@
+{
+  "id": 8617,
+  "type": 19,
+  "name": "Bast Hacha",
+  "level": 62,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>150",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "20",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

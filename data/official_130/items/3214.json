@@ -1,0 +1,20 @@
+{
+  "id": 3214,
+  "type": 6,
+  "name": "Espada de Cerorate",
+  "level": 9,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>11",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

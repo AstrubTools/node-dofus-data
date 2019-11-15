@@ -1,0 +1,20 @@
+{
+  "id": 4925,
+  "type": 2,
+  "name": "Arco de Utepe",
+  "level": 85,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>83&CS>26",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

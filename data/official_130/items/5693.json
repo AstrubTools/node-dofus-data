@@ -1,0 +1,20 @@
+{
+  "id": 5693,
+  "type": 8,
+  "name": "Pala de Pekeuf",
+  "level": 49,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>60",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

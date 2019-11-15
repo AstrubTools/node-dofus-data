@@ -1,0 +1,20 @@
+{
+  "id": 6427,
+  "type": 19,
+  "name": "Hacha de Repup",
+  "level": 147,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>163&CV>68",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

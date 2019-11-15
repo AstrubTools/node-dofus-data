@@ -1,0 +1,20 @@
+{
+  "id": 205,
+  "type": 5,
+  "name": "Pequeñas Dagas de Hierrucho",
+  "level": 10,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>10",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

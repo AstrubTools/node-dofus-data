@@ -1,0 +1,19 @@
+{
+  "id": 9961,
+  "type": 7,
+  "name": "Martillo Martel",
+  "level": 1,
+  "pods": 5,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "60",
+    "20",
+    "0",
+    "0",
+    "0"
+  ]
+}

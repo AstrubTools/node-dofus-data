@@ -1,0 +1,20 @@
+{
+  "id": 5605,
+  "type": 8,
+  "name": "Pala de Ycanae",
+  "level": 19,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>19",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

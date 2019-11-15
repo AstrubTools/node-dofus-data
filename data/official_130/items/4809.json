@@ -1,0 +1,20 @@
+{
+  "id": 4809,
+  "type": 2,
+  "name": "Arco de Uxipujus",
+  "level": 46,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>43",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

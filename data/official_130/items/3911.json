@@ -1,0 +1,20 @@
+{
+  "id": 3911,
+  "type": 4,
+  "name": "Bastón de Atecuci",
+  "level": 41,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>46",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

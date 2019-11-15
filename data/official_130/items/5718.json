@@ -1,0 +1,20 @@
+{
+  "id": 5718,
+  "type": 8,
+  "name": "Pala de Eveleau",
+  "level": 57,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>48",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

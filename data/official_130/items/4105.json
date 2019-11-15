@@ -1,0 +1,20 @@
+{
+  "id": 4105,
+  "type": 4,
+  "name": "Bastón de Mudrten",
+  "level": 105,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>96",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

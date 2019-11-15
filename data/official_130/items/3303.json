@@ -1,0 +1,20 @@
+{
+  "id": 3303,
+  "type": 6,
+  "name": "Espada de Godotu",
+  "level": 98,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CS>93&CV>47",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

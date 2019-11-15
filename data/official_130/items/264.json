@@ -1,0 +1,20 @@
+{
+  "id": 264,
+  "type": 2,
+  "name": "Arquito Desconcertante",
+  "level": 14,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CA>14&CS>4",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 331,
+  "type": 2,
+  "name": "Arco Yris",
+  "level": 22,
+  "pods": 19,
+  "ethereal": false,
+  "requirements": "CA>22&CC>15",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "11",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

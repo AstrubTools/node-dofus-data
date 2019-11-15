@@ -1,0 +1,20 @@
+{
+  "id": 4610,
+  "type": 3,
+  "name": "Varita de Flafaseh",
+  "level": 126,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>122",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

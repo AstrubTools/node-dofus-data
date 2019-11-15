@@ -1,0 +1,20 @@
+{
+  "id": 5639,
+  "type": 8,
+  "name": "Pala de Teraille",
+  "level": 31,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>32",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

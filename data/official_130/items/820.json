@@ -1,0 +1,20 @@
+{
+  "id": 820,
+  "type": 6,
+  "name": "Gran Espada Sagrada",
+  "level": 16,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>32&CV>4",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

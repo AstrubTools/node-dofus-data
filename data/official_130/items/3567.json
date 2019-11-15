@@ -1,0 +1,20 @@
+{
+  "id": 3567,
+  "type": 5,
+  "name": "Daga de Ozefibe",
+  "level": 74,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>67",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

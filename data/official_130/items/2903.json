@@ -1,0 +1,20 @@
+{
+  "id": 2903,
+  "type": 6,
+  "name": "Espada de Ubitum",
+  "level": 53,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>51",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

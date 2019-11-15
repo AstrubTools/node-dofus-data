@@ -1,0 +1,20 @@
+{
+  "id": 3541,
+  "type": 5,
+  "name": "Daga de Ilifa",
+  "level": 65,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>69&CV>18",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4691,
+  "type": 2,
+  "name": "Arco de Mesumber",
+  "level": 7,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>7",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

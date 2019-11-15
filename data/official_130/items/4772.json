@@ -1,0 +1,20 @@
+{
+  "id": 4772,
+  "type": 2,
+  "name": "Arco de Otikegoi",
+  "level": 34,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>34&CS>12",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

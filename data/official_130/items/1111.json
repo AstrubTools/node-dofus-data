@@ -1,0 +1,20 @@
+{
+  "id": 1111,
+  "type": 4,
+  "name": "Gran bastón de magia falsa",
+  "level": 30,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>40",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

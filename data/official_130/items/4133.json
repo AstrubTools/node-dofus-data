@@ -1,0 +1,20 @@
+{
+  "id": 4133,
+  "type": 4,
+  "name": "Bastón de Ahaxitof",
+  "level": 115,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>99",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

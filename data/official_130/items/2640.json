@@ -1,0 +1,19 @@
+{
+  "id": 2640,
+  "type": 4,
+  "name": "Bastón Carnívoro",
+  "level": 30,
+  "pods": 56,
+  "ethereal": false,
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "20",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

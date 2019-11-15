@@ -1,0 +1,20 @@
+{
+  "id": 4138,
+  "type": 4,
+  "name": "Bastón de Itoso",
+  "level": 116,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>98&CS>48",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

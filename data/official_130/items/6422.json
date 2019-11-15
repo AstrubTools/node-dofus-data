@@ -1,0 +1,20 @@
+{
+  "id": 6422,
+  "type": 19,
+  "name": "Hacha de Renyud",
+  "level": 145,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>152",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

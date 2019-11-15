@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "type": 6,
+  "name": "Raciela",
+  "level": 52,
+  "pods": 50,
+  "ethereal": false,
+  "requirements": "CS>104&CV>52&CA>20",
+  "stats": [
+    "15",
+    "5",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4839,
+  "type": 2,
+  "name": "Arco de Hygetpur",
+  "level": 56,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>62",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

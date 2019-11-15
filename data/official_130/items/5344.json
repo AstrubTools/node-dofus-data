@@ -1,0 +1,20 @@
+{
+  "id": 5344,
+  "type": 7,
+  "name": "Martillo de Etekour",
+  "level": 78,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CV>51&CS>40",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

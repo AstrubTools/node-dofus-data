@@ -1,0 +1,20 @@
+{
+  "id": 456,
+  "type": 19,
+  "name": "Exterminadora de Robles",
+  "level": 33,
+  "pods": 50,
+  "ethereal": false,
+  "requirements": "CS>66&CA>10",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

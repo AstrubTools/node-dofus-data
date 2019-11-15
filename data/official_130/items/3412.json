@@ -1,0 +1,20 @@
+{
+  "id": 3412,
+  "type": 5,
+  "name": "Daga de Astokum",
+  "level": 22,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>20",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

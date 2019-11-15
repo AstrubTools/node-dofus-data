@@ -1,0 +1,20 @@
+{
+  "id": 3229,
+  "type": 6,
+  "name": "Espada de Thoradog",
+  "level": 24,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>23&CV>10",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

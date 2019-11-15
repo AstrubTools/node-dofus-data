@@ -1,0 +1,20 @@
+{
+  "id": 5975,
+  "type": 8,
+  "name": "Pala de Omuplele",
+  "level": 143,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>121",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

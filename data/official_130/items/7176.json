@@ -1,0 +1,20 @@
+{
+  "id": 7176,
+  "type": 4,
+  "name": "Raíz Kyerda Unida",
+  "level": 143,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>150&CV>400&CI>50&CA>50",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "45",
+    "70",
+    "0",
+    "0",
+    "0"
+  ]
+}

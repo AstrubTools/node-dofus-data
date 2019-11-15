@@ -1,0 +1,20 @@
+{
+  "id": 5040,
+  "type": 2,
+  "name": "Arco de Doflim",
+  "level": 123,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>135",
+  "stats": [
+    "9",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

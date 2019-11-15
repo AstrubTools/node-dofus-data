@@ -1,0 +1,20 @@
+{
+  "id": 62,
+  "type": 6,
+  "name": "Potente Espada Dha",
+  "level": 17,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>34&CV>10",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

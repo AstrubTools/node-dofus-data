@@ -1,0 +1,20 @@
+{
+  "id": 4693,
+  "type": 2,
+  "name": "Arco de Besel",
+  "level": 8,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>9",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

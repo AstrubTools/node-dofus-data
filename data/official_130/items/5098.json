@@ -1,0 +1,20 @@
+{
+  "id": 5098,
+  "type": 2,
+  "name": "Arco de Evovaille",
+  "level": 143,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>135&CS>30",
+  "stats": [
+    "10",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

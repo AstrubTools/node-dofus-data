@@ -1,0 +1,20 @@
+{
+  "id": 4640,
+  "type": 3,
+  "name": "Varita Uzelliel",
+  "level": 136,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>143",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

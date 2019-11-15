@@ -1,0 +1,20 @@
+{
+  "id": 3790,
+  "type": 5,
+  "name": "Daga de Dofelam",
+  "level": 146,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>153",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

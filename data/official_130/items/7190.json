@@ -1,0 +1,20 @@
+{
+  "id": 7190,
+  "type": 5,
+  "name": "Dagas Maydhyn China",
+  "level": 100,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>150&CA>150",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "35",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

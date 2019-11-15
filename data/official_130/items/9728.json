@@ -1,0 +1,20 @@
+{
+  "id": 9728,
+  "type": 8,
+  "name": "Pala Den\\'Troh",
+  "level": 70,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>35&CA>35&CC>35&CS>35&CV>70",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

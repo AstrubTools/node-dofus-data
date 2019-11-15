@@ -1,0 +1,20 @@
+{
+  "id": 6383,
+  "type": 19,
+  "name": "Hacha de Prodleno",
+  "level": 132,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>126",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

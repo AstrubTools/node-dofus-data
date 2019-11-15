@@ -1,0 +1,20 @@
+{
+  "id": 1638,
+  "type": 6,
+  "name": "Brillante Estrella de la Noche",
+  "level": 48,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>38&CV>38&CS>13",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

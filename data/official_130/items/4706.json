@@ -1,0 +1,20 @@
+{
+  "id": 4706,
+  "type": 2,
+  "name": "Arco de Emodace",
+  "level": 12,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>14",
+  "stats": [
+    "10",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

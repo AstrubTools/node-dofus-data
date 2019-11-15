@@ -1,0 +1,20 @@
+{
+  "id": 3764,
+  "type": 5,
+  "name": "Daga de Guculim",
+  "level": 138,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>140",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

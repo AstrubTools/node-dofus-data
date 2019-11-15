@@ -1,0 +1,20 @@
+{
+  "id": 296,
+  "type": 8,
+  "name": "Potente Pala del Crujidor",
+  "level": 29,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CS>14&CC>15",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

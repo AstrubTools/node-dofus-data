@@ -1,0 +1,20 @@
+{
+  "id": 8297,
+  "type": 4,
+  "name": "Bastón del Dragohuevo",
+  "level": 124,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>300&CA>150&CV>300",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

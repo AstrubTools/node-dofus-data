@@ -1,0 +1,20 @@
+{
+  "id": 6437,
+  "type": 19,
+  "name": "Hacha de Ikalugi",
+  "level": 150,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>100&CW>7",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

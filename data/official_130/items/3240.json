@@ -1,0 +1,20 @@
+{
+  "id": 3240,
+  "type": 6,
+  "name": "Espada de Alalag",
+  "level": 35,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>39",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

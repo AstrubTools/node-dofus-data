@@ -1,0 +1,20 @@
+{
+  "id": 5852,
+  "type": 8,
+  "name": "Pala de Urotake",
+  "level": 102,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>120&CS>48",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

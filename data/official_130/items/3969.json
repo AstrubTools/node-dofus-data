@@ -1,0 +1,20 @@
+{
+  "id": 3969,
+  "type": 4,
+  "name": "Bastón de Elukogu",
+  "level": 60,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>59",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

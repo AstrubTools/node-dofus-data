@@ -1,0 +1,20 @@
+{
+  "id": 4170,
+  "type": 4,
+  "name": "Bastón de Orepere",
+  "level": 127,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>120",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

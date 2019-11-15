@@ -1,0 +1,20 @@
+{
+  "id": 4776,
+  "type": 2,
+  "name": "Arco de Rurererm",
+  "level": 35,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>35",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

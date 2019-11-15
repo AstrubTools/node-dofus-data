@@ -1,0 +1,20 @@
+{
+  "id": 6167,
+  "type": 19,
+  "name": "Hacha de Domitber",
+  "level": 60,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>54",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

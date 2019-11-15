@@ -1,0 +1,20 @@
+{
+  "id": 5566,
+  "type": 8,
+  "name": "Pala de Thuku",
+  "level": 6,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>5&CS>1",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

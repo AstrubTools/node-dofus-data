@@ -1,0 +1,20 @@
+{
+  "id": 5661,
+  "type": 8,
+  "name": "Pala de Kebyadu",
+  "level": 38,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CC>33&CS>7&CV>17",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

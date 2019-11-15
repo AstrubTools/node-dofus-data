@@ -1,0 +1,20 @@
+{
+  "id": 5933,
+  "type": 8,
+  "name": "Pala de Ipido",
+  "level": 129,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>154&CS>61",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

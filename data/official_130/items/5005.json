@@ -1,0 +1,20 @@
+{
+  "id": 5005,
+  "type": 2,
+  "name": "Arco de Atolepo",
+  "level": 112,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>112",
+  "stats": [
+    "6",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

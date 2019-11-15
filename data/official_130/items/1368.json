@@ -1,0 +1,20 @@
+{
+  "id": 1368,
+  "type": 4,
+  "name": "Bastón Extintor",
+  "level": 29,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CC>10",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

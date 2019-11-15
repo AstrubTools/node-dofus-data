@@ -1,0 +1,20 @@
+{
+  "id": 5052,
+  "type": 2,
+  "name": "Arco de Mesoleme",
+  "level": 127,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>138",
+  "stats": [
+    "11",
+    "4",
+    "4",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

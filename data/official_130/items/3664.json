@@ -1,0 +1,20 @@
+{
+  "id": 3664,
+  "type": 5,
+  "name": "Daga de Vibose",
+  "level": 104,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>94",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 515,
+  "type": 19,
+  "name": "Bulgurda de los Claros",
+  "level": 62,
+  "pods": 60,
+  "ethereal": false,
+  "requirements": "CI>124&CC>30&CV>10",
+  "stats": [
+    "15",
+    "6",
+    "1",
+    "1",
+    "50",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

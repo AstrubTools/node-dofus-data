@@ -1,0 +1,20 @@
+{
+  "id": 5937,
+  "type": 8,
+  "name": "Pala de Fepelali",
+  "level": 130,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>147&CV>63",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

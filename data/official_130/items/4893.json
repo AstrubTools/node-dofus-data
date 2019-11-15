@@ -1,0 +1,20 @@
+{
+  "id": 4893,
+  "type": 2,
+  "name": "Arco de Raratdar",
+  "level": 74,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>81",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

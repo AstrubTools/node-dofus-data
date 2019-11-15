@@ -1,0 +1,20 @@
+{
+  "id": 5353,
+  "type": 7,
+  "name": "Martillo de Agaglou",
+  "level": 81,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CV>50",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

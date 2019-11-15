@@ -1,0 +1,20 @@
+{
+  "id": 462,
+  "type": 2,
+  "name": "Arco hecho con la Raíz del Abráknido",
+  "level": 28,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>10&CA>28",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

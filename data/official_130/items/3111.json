@@ -1,0 +1,20 @@
+{
+  "id": 3111,
+  "type": 6,
+  "name": "Espada de Oupale",
+  "level": 105,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>104&CV>54",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

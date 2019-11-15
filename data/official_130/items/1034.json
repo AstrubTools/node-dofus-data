@@ -1,0 +1,20 @@
+{
+  "id": 1034,
+  "type": 5,
+  "name": "Gran hoja de Parra",
+  "level": 52,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>52&CC>10",
+  "stats": [
+    "13",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

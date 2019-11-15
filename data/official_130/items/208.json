@@ -1,0 +1,20 @@
+{
+  "id": 208,
+  "type": 5,
+  "name": "Poderosas Dagas de Hierrucho",
+  "level": 13,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>13",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

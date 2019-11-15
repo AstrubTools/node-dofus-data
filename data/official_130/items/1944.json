@@ -1,0 +1,20 @@
+{
+  "id": 1944,
+  "type": 20,
+  "name": "Tira-chinchas",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "requirements": "PJ>41,99",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "10",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

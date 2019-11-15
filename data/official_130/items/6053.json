@@ -1,0 +1,20 @@
+{
+  "id": 6053,
+  "type": 19,
+  "name": "Hacha de Aneloby",
+  "level": 22,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>19",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

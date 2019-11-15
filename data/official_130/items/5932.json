@@ -1,0 +1,20 @@
+{
+  "id": 5932,
+  "type": 8,
+  "name": "Pala de Ifuhilif",
+  "level": 128,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CC>130",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

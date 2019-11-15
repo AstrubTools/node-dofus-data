@@ -1,0 +1,20 @@
+{
+  "id": 320,
+  "type": 4,
+  "name": "Bastón del Poderoso Tabi",
+  "level": 40,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CA>30",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6124,
+  "type": 19,
+  "name": "Hacha de Theleruse",
+  "level": 46,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>53&CV>18",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

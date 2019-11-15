@@ -1,0 +1,20 @@
+{
+  "id": 4834,
+  "type": 2,
+  "name": "Arco de Umegaf",
+  "level": 55,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>56",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

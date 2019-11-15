@@ -1,0 +1,20 @@
+{
+  "id": 3661,
+  "type": 5,
+  "name": "Daga de Relem",
+  "level": 103,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>104&CV>37",
+  "stats": [
+    "13",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

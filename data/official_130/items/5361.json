@@ -1,0 +1,20 @@
+{
+  "id": 5361,
+  "type": 7,
+  "name": "Martillo de Rigidarth",
+  "level": 84,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CV>53&CS>21",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

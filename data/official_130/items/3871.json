@@ -1,0 +1,20 @@
+{
+  "id": 3871,
+  "type": 4,
+  "name": "Bastón de Dosedim",
+  "level": 27,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>25",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

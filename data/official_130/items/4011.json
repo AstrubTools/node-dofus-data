@@ -1,0 +1,20 @@
+{
+  "id": 4011,
+  "type": 4,
+  "name": "Bastón de Eugaboim",
+  "level": 74,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>68&CS>21",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

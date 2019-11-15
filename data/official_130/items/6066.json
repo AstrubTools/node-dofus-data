@@ -1,0 +1,20 @@
+{
+  "id": 6066,
+  "type": 19,
+  "name": "Hacha de Aquapaul",
+  "level": 27,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>30&CV>7",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

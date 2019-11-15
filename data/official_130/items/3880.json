@@ -1,0 +1,20 @@
+{
+  "id": 3880,
+  "type": 4,
+  "name": "Bastón de Strehete",
+  "level": 30,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>24",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

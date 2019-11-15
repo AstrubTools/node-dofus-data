@@ -1,0 +1,20 @@
+{
+  "id": 6329,
+  "type": 19,
+  "name": "Hacha de Bweter",
+  "level": 114,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>99",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

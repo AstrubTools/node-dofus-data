@@ -1,0 +1,20 @@
+{
+  "id": 3272,
+  "type": 6,
+  "name": "Espada de Rahelena",
+  "level": 67,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>61",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

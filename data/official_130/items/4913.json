@@ -1,0 +1,20 @@
+{
+  "id": 4913,
+  "type": 2,
+  "name": "Arco de Pisene",
+  "level": 81,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>74",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

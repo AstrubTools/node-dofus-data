@@ -1,0 +1,20 @@
+{
+  "id": 6400,
+  "type": 19,
+  "name": "Hacha de Cakutert",
+  "level": 138,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>161",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4771,
+  "type": 2,
+  "name": "Arco de Fekara",
+  "level": 34,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>35",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

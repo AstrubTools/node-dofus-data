@@ -1,0 +1,20 @@
+{
+  "id": 5367,
+  "type": 7,
+  "name": "Martillo de Izotetul",
+  "level": 86,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CV>50",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

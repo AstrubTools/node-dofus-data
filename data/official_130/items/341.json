@@ -1,0 +1,20 @@
+{
+  "id": 341,
+  "type": 5,
+  "name": "Las dagas chifladas",
+  "level": 46,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>46",
+  "stats": [
+    "10",
+    "2",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

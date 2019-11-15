@@ -1,0 +1,20 @@
+{
+  "id": 4892,
+  "type": 2,
+  "name": "Arco de Veneneze",
+  "level": 74,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>68&CS>26",
+  "stats": [
+    "4",
+    "4",
+    "4",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

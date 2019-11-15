@@ -1,0 +1,20 @@
+{
+  "id": 3619,
+  "type": 5,
+  "name": "Daga de Olabab",
+  "level": 91,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>95",
+  "stats": [
+    "9",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

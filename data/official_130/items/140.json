@@ -1,0 +1,20 @@
+{
+  "id": 140,
+  "type": 4,
+  "name": "Potente Bastón de Maderucha",
+  "level": 9,
+  "pods": 18,
+  "ethereal": false,
+  "requirements": "CI>9",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4980,
+  "type": 2,
+  "name": "Arco de Enanim",
+  "level": 103,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>101",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

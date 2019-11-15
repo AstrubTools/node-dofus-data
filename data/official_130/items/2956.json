@@ -1,0 +1,20 @@
+{
+  "id": 2956,
+  "type": 6,
+  "name": "Espada de Badgul",
+  "level": 80,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>76",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4907,
+  "type": 2,
+  "name": "Arco de Mefeviel",
+  "level": 79,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>84",
+  "stats": [
+    "10",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 49,
+  "type": 6,
+  "name": "Potente Espada de Hierrucho",
+  "level": 15,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>30",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

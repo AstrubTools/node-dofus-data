@@ -1,0 +1,20 @@
+{
+  "id": 4774,
+  "type": 2,
+  "name": "Arco de Rapugum",
+  "level": 35,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>34",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

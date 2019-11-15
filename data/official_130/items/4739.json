@@ -1,0 +1,20 @@
+{
+  "id": 4739,
+  "type": 2,
+  "name": "Arco de Apres",
+  "level": 23,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>23",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4215,
+  "type": 4,
+  "name": "Bastón de Hirefem",
+  "level": 142,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>143",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5112,
+  "type": 2,
+  "name": "Arco de Lomamel",
+  "level": 147,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>144",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

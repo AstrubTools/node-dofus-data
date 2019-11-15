@@ -1,0 +1,20 @@
+{
+  "id": 4918,
+  "type": 2,
+  "name": "Arco de Upenudil",
+  "level": 83,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>91",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

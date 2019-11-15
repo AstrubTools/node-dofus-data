@@ -1,0 +1,20 @@
+{
+  "id": 4199,
+  "type": 4,
+  "name": "Bastón de Saviamoja",
+  "level": 137,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>113",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

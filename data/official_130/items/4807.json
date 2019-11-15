@@ -1,0 +1,20 @@
+{
+  "id": 4807,
+  "type": 2,
+  "name": "Arco de Egibake",
+  "level": 46,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>42",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4449,
+  "type": 3,
+  "name": "Varita de Fisraci",
+  "level": 73,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>72",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

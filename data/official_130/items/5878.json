@@ -1,0 +1,20 @@
+{
+  "id": 5878,
+  "type": 8,
+  "name": "Pala de Nekak",
+  "level": 110,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>123&CS>44",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

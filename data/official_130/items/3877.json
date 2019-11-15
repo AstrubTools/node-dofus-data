@@ -1,0 +1,20 @@
+{
+  "id": 3877,
+  "type": 4,
+  "name": "Bastón de Vefem",
+  "level": 29,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>34",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

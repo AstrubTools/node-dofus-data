@@ -1,0 +1,20 @@
+{
+  "id": 6401,
+  "type": 19,
+  "name": "Hacha de Dlidr",
+  "level": 138,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>124",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

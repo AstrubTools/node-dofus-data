@@ -1,0 +1,20 @@
+{
+  "id": 4427,
+  "type": 3,
+  "name": "Varita de Fufesi",
+  "level": 65,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>62&CV>31",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5116,
+  "type": 2,
+  "name": "Arco de Bauxapec",
+  "level": 149,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>155",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

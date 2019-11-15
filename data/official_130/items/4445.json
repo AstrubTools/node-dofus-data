@@ -1,0 +1,20 @@
+{
+  "id": 4445,
+  "type": 3,
+  "name": "Varita de Afroseso",
+  "level": 71,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>67",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

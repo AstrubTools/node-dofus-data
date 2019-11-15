@@ -1,0 +1,20 @@
+{
+  "id": 4092,
+  "type": 4,
+  "name": "Bastón de Elenela",
+  "level": 101,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>97",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

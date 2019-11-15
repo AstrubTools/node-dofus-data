@@ -1,0 +1,20 @@
+{
+  "id": 6335,
+  "type": 19,
+  "name": "Hacha de Okimadit",
+  "level": 116,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>96&CV>59",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6270,
+  "type": 19,
+  "name": "Hacha de Vevel",
+  "level": 95,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>115",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

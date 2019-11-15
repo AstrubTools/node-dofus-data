@@ -1,0 +1,20 @@
+{
+  "id": 4813,
+  "type": 2,
+  "name": "Arco de Mozetaille",
+  "level": 48,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>47",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5941,
+  "type": 8,
+  "name": "Pala de Erugagug",
+  "level": 131,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>126&CS>27&CV>54",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

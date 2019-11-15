@@ -1,0 +1,20 @@
+{
+  "id": 5044,
+  "type": 2,
+  "name": "Arco de Uheud",
+  "level": 125,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>125",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

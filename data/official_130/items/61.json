@@ -1,0 +1,20 @@
+{
+  "id": 61,
+  "type": 6,
+  "name": "Gran Espada Dha",
+  "level": 16,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>32&CV>8",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

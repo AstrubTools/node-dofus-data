@@ -1,0 +1,20 @@
+{
+  "id": 6295,
+  "type": 19,
+  "name": "Hacha de Vaipope",
+  "level": 103,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>111",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

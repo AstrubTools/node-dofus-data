@@ -1,0 +1,20 @@
+{
+  "id": 6267,
+  "type": 19,
+  "name": "Hacha de Omuregot",
+  "level": 94,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>93",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

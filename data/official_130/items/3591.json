@@ -1,0 +1,20 @@
+{
+  "id": 3591,
+  "type": 5,
+  "name": "Daga de Jumim",
+  "level": 82,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>75",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4873,
+  "type": 2,
+  "name": "Arco de Yzizu",
+  "level": 68,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>62",
+  "stats": [
+    "11",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

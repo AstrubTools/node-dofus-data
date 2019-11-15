@@ -1,0 +1,20 @@
+{
+  "id": 4107,
+  "type": 4,
+  "name": "Bastón de Kotukodu",
+  "level": 106,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CI>102",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2774,
+  "type": 6,
+  "name": "Espada de Ozebel",
+  "level": 36,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>37",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6230,
+  "type": 19,
+  "name": "Hacha de Teheliel",
+  "level": 81,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>70&CV>41",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

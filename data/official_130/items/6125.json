@@ -1,0 +1,20 @@
+{
+  "id": 6125,
+  "type": 19,
+  "name": "Hacha de Isurileb",
+  "level": 46,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>45",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

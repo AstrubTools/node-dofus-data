@@ -1,0 +1,20 @@
+{
+  "id": 5113,
+  "type": 2,
+  "name": "Arco de Desamau",
+  "level": 148,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>146&CS>50",
+  "stats": [
+    "10",
+    "4",
+    "5",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

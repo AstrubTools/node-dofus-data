@@ -1,0 +1,20 @@
+{
+  "id": 1374,
+  "type": 5,
+  "name": "Daga Ligra Fía",
+  "level": 30,
+  "pods": 13,
+  "ethereal": false,
+  "requirements": "CS>50",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

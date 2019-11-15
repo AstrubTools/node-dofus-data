@@ -1,0 +1,20 @@
+{
+  "id": 3287,
+  "type": 6,
+  "name": "Espada de Mamestef",
+  "level": 82,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>76",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

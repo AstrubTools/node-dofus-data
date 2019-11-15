@@ -1,0 +1,20 @@
+{
+  "id": 6332,
+  "type": 19,
+  "name": "Hacha de Bitabapa",
+  "level": 115,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CS>138",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

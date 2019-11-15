@@ -1,0 +1,19 @@
+{
+  "id": 500,
+  "type": 5,
+  "name": "Talladora de arcos",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5647,
+  "type": 8,
+  "name": "Pala de Osedil",
+  "level": 33,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>40",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

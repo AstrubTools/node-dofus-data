@@ -1,0 +1,20 @@
+{
+  "id": 4726,
+  "type": 2,
+  "name": "Arco de Ragnesahor",
+  "level": 19,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>18",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

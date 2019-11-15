@@ -1,0 +1,20 @@
+{
+  "id": 4927,
+  "type": 2,
+  "name": "Arco de Tezanolu",
+  "level": 86,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>88",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

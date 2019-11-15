@@ -1,0 +1,20 @@
+{
+  "id": 1359,
+  "type": 3,
+  "name": "El Tizón Zippón",
+  "level": 59,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>70&CS>30",
+  "stats": [
+    "7",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

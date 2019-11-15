@@ -1,0 +1,20 @@
+{
+  "id": 9627,
+  "type": 4,
+  "name": "Bastón del aprendiz peregrino",
+  "level": 1,
+  "pods": 0,
+  "ethereal": false,
+  "requirements": "PL<6",
+  "stats": [
+    "0",
+    "42",
+    "1",
+    "1",
+    "42",
+    "42",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4863,
+  "type": 2,
+  "name": "Arco de Ezethiel",
+  "level": 64,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>58",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

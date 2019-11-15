@@ -1,0 +1,20 @@
+{
+  "id": 8097,
+  "type": 7,
+  "name": "Martillo Xiko",
+  "level": 129,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>250&CI>150",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "15",
+    "0",
+    "1",
+    "0"
+  ]
+}

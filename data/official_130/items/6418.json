@@ -1,0 +1,20 @@
+{
+  "id": 6418,
+  "type": 19,
+  "name": "Hacha de Hegoke",
+  "level": 144,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>171",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

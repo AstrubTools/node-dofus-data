@@ -1,0 +1,20 @@
+{
+  "id": 5610,
+  "type": 8,
+  "name": "Pala de Mumepeme",
+  "level": 21,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>26",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

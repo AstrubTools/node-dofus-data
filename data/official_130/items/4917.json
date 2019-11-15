@@ -1,0 +1,20 @@
+{
+  "id": 4917,
+  "type": 2,
+  "name": "Arco de Treku",
+  "level": 82,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>82",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

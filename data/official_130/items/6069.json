@@ -1,0 +1,20 @@
+{
+  "id": 6069,
+  "type": 19,
+  "name": "Hacha de Krovufume",
+  "level": 28,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>30",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

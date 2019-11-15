@@ -1,0 +1,20 @@
+{
+  "id": 4757,
+  "type": 2,
+  "name": "Arco de Vuvleb",
+  "level": 29,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>33",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

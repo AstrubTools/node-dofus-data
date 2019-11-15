@@ -1,0 +1,20 @@
+{
+  "id": 5942,
+  "type": 8,
+  "name": "Pala de Owanurel",
+  "level": 132,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>151",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

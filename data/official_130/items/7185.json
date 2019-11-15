@@ -1,0 +1,20 @@
+{
+  "id": 7185,
+  "type": 4,
+  "name": "Raíz Cúbica",
+  "level": 103,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CV>200&CW>150",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4956,
+  "type": 2,
+  "name": "Arco de Tehor",
+  "level": 95,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>89",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

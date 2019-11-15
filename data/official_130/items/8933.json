@@ -1,0 +1,20 @@
+{
+  "id": 8933,
+  "type": 19,
+  "name": "Hacha Sudor Rancio",
+  "level": 162,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CW>250&CS>300",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

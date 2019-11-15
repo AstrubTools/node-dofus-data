@@ -1,0 +1,20 @@
+{
+  "id": 3247,
+  "type": 6,
+  "name": "Espada de Vrebibel",
+  "level": 42,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>44",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

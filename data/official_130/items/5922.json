@@ -1,0 +1,20 @@
+{
+  "id": 5922,
+  "type": 8,
+  "name": "Pala de Avalelum",
+  "level": 125,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>129&CS>63",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

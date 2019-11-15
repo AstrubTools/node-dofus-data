@@ -1,0 +1,20 @@
+{
+  "id": 5109,
+  "type": 2,
+  "name": "Arco de Gotousu",
+  "level": 146,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>153",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

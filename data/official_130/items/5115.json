@@ -1,0 +1,20 @@
+{
+  "id": 5115,
+  "type": 2,
+  "name": "Arco de Esepeliz",
+  "level": 148,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>134",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

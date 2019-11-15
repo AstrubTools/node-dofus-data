@@ -1,0 +1,20 @@
+{
+  "id": 3902,
+  "type": 4,
+  "name": "Bastón de Kujefaille",
+  "level": 38,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>32",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

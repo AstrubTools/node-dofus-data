@@ -1,0 +1,20 @@
+{
+  "id": 4461,
+  "type": 3,
+  "name": "Varita Tikusimu",
+  "level": 77,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>77&CV>28",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

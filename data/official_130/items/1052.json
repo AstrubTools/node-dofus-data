@@ -1,0 +1,20 @@
+{
+  "id": 1052,
+  "type": 8,
+  "name": "Gran Pala de Wukis",
+  "level": 59,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CC>45&CS>45",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

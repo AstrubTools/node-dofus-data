@@ -1,0 +1,20 @@
+{
+  "id": 2752,
+  "type": 6,
+  "name": "Espada de Lithifru",
+  "level": 25,
+  "pods": 16,
+  "ethereal": true,
+  "requirements": "CS>27",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

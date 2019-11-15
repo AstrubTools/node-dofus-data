@@ -1,0 +1,20 @@
+{
+  "id": 1064,
+  "type": 7,
+  "name": "Pequeño Martillo R\\'único",
+  "level": 21,
+  "pods": 45,
+  "ethereal": false,
+  "requirements": "CI>28&CS>3",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5102,
+  "type": 2,
+  "name": "Arco de Mawacal",
+  "level": 144,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>153",
+  "stats": [
+    "5",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

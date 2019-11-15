@@ -1,0 +1,20 @@
+{
+  "id": 6179,
+  "type": 19,
+  "name": "Hacha de Filuc",
+  "level": 64,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>54",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

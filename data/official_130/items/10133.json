@@ -1,0 +1,19 @@
+{
+  "id": 10133,
+  "type": 3,
+  "name": "Varita del Bandido Hechicero",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "2",
+    "5",
+    "2",
+    "4",
+    "40",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

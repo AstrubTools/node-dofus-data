@@ -1,0 +1,20 @@
+{
+  "id": 7368,
+  "type": 3,
+  "name": "Varita Strella",
+  "level": 126,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>100&CV>150&CI>300",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

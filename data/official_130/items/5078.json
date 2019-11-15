@@ -1,0 +1,20 @@
+{
+  "id": 5078,
+  "type": 2,
+  "name": "Arco de Telozi",
+  "level": 136,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>140&CS>44",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5830,
+  "type": 8,
+  "name": "Pala de Kofel",
+  "level": 94,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>101",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6202,
+  "type": 19,
+  "name": "Hacha de Edripr",
+  "level": 72,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>78",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

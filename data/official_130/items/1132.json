@@ -1,0 +1,20 @@
+{
+  "id": 1132,
+  "type": 3,
+  "name": "Varita Ni\\'Ninnin",
+  "level": 50,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "CI>99&CW>20",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "50",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

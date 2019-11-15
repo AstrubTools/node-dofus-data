@@ -1,0 +1,20 @@
+{
+  "id": 5823,
+  "type": 8,
+  "name": "Pala de Rheurore",
+  "level": 92,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>111&CS>37",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

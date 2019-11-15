@@ -1,0 +1,20 @@
+{
+  "id": 5563,
+  "type": 8,
+  "name": "Pala de Bevose",
+  "level": 5,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>5",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

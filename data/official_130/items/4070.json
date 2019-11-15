@@ -1,0 +1,20 @@
+{
+  "id": 4070,
+  "type": 4,
+  "name": "Bastón de Sitha",
+  "level": 94,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>88&CS>48",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

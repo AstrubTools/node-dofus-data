@@ -1,0 +1,20 @@
+{
+  "id": 5750,
+  "type": 8,
+  "name": "Pala de Lezysi",
+  "level": 68,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>81",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

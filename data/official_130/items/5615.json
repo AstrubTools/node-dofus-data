@@ -1,0 +1,20 @@
+{
+  "id": 5615,
+  "type": 8,
+  "name": "Pala de Cemesam",
+  "level": 23,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CC>26",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

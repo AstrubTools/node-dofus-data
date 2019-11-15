@@ -1,0 +1,20 @@
+{
+  "id": 3195,
+  "type": 6,
+  "name": "Espada de Ronit",
+  "level": 147,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>152",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

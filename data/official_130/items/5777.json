@@ -1,0 +1,20 @@
+{
+  "id": 5777,
+  "type": 8,
+  "name": "Pala de Aelulae",
+  "level": 77,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>69",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5094,
+  "type": 2,
+  "name": "Arco de Othud",
+  "level": 141,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>154",
+  "stats": [
+    "12",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

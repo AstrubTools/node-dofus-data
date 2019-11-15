@@ -1,0 +1,20 @@
+{
+  "id": 3738,
+  "type": 5,
+  "name": "Daga de Metufef",
+  "level": 129,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>123",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

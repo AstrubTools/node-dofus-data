@@ -1,0 +1,20 @@
+{
+  "id": 5031,
+  "type": 2,
+  "name": "Arco de Pluter",
+  "level": 120,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>114",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

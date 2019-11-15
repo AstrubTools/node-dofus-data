@@ -1,0 +1,20 @@
+{
+  "id": 6355,
+  "type": 19,
+  "name": "Hacha de Geurithi",
+  "level": 123,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>146",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

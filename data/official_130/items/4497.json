@@ -1,0 +1,20 @@
+{
+  "id": 4497,
+  "type": 3,
+  "name": "Varita Tunuteh",
+  "level": 89,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>96&CV>43",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

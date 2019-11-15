@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "type": 6,
+  "name": "Gran Espada Chifladora",
+  "level": 24,
+  "pods": 25,
+  "ethereal": false,
+  "requirements": "CS>48&CI>14",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

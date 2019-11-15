@@ -1,0 +1,20 @@
+{
+  "id": 7164,
+  "type": 2,
+  "name": "Arco Angélico",
+  "level": 143,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>120&CI>120&CC>120&CV>300",
+  "stats": [
+    "5",
+    "5",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

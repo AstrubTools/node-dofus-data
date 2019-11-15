@@ -1,0 +1,20 @@
+{
+  "id": 3551,
+  "type": 5,
+  "name": "Daga de Tenerake",
+  "level": 69,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>75",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

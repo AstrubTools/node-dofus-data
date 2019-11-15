@@ -1,0 +1,20 @@
+{
+  "id": 6275,
+  "type": 19,
+  "name": "Hacha de Rareri",
+  "level": 96,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>96&CV>22",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

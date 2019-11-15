@@ -1,0 +1,20 @@
+{
+  "id": 9757,
+  "type": 4,
+  "name": "Bastón Boh\\'La",
+  "level": 50,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>50&CV>50",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

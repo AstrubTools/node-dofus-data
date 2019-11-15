@@ -1,0 +1,19 @@
+{
+  "id": 454,
+  "type": 19,
+  "name": "Hacha de leñador",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

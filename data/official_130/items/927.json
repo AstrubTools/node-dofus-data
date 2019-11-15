@@ -1,0 +1,20 @@
+{
+  "id": 927,
+  "type": 19,
+  "name": "Cortadora de abráknido ancestral",
+  "level": 93,
+  "pods": 100,
+  "ethereal": false,
+  "requirements": "CS>200&CI>100",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3308,
+  "type": 6,
+  "name": "Espada de Enucnef",
+  "level": 103,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>103",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

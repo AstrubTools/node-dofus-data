@@ -1,0 +1,20 @@
+{
+  "id": 4379,
+  "type": 3,
+  "name": "Varita Ytudocef",
+  "level": 50,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CI>46",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

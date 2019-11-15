@@ -1,0 +1,20 @@
+{
+  "id": 5063,
+  "type": 2,
+  "name": "Arco de Gadebad",
+  "level": 131,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>118",
+  "stats": [
+    "5",
+    "4",
+    "3",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

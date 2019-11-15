@@ -1,0 +1,20 @@
+{
+  "id": 7162,
+  "type": 2,
+  "name": "Arco Mustabante",
+  "level": 130,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>200&CC>70&PG=9",
+  "stats": [
+    "10",
+    "5",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

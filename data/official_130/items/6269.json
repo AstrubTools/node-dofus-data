@@ -1,0 +1,20 @@
+{
+  "id": 6269,
+  "type": 19,
+  "name": "Hacha de Rurehotho",
+  "level": 94,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>79",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

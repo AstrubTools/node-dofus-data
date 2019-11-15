@@ -1,0 +1,20 @@
+{
+  "id": 4849,
+  "type": 2,
+  "name": "Arco de Ebulevo",
+  "level": 60,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>54",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

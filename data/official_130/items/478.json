@@ -1,0 +1,20 @@
+{
+  "id": 478,
+  "type": 19,
+  "name": "Podadora de carpe",
+  "level": 47,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CW>20&CI>20&CC>20",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

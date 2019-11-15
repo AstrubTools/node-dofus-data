@@ -1,0 +1,20 @@
+{
+  "id": 5014,
+  "type": 2,
+  "name": "Arco de Thororuk",
+  "level": 115,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

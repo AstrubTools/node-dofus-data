@@ -1,0 +1,20 @@
+{
+  "id": 2986,
+  "type": 6,
+  "name": "Espada de Homawo",
+  "level": 95,
+  "pods": 17,
+  "ethereal": true,
+  "requirements": "CS>95",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

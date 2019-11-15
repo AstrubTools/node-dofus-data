@@ -1,0 +1,20 @@
+{
+  "id": 4653,
+  "type": 3,
+  "name": "Varita Trekuke",
+  "level": 141,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CI>136",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

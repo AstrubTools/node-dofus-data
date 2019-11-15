@@ -1,0 +1,20 @@
+{
+  "id": 4815,
+  "type": 2,
+  "name": "Arco de Atemelel",
+  "level": 48,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>45",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

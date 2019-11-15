@@ -1,0 +1,20 @@
+{
+  "id": 4234,
+  "type": 4,
+  "name": "Bastón de Vroomi",
+  "level": 148,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>154",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

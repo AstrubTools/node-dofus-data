@@ -1,0 +1,20 @@
+{
+  "id": 4332,
+  "type": 3,
+  "name": "Varita Nawablo",
+  "level": 34,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>32",
+  "stats": [
+    "2",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

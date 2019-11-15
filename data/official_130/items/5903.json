@@ -1,0 +1,20 @@
+{
+  "id": 5903,
+  "type": 8,
+  "name": "Pala de Sikupuf",
+  "level": 119,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CC>109",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

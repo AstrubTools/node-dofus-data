@@ -1,0 +1,20 @@
+{
+  "id": 6245,
+  "type": 19,
+  "name": "Hacha de Oletevo",
+  "level": 86,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>83",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

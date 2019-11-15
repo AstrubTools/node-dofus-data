@@ -1,0 +1,20 @@
+{
+  "id": 6178,
+  "type": 19,
+  "name": "Hacha de Eveliel",
+  "level": 64,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>68",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

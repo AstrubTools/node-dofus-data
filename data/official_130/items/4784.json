@@ -1,0 +1,20 @@
+{
+  "id": 4784,
+  "type": 2,
+  "name": "Arco de Oudocosu",
+  "level": 38,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>41",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

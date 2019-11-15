@@ -1,0 +1,20 @@
+{
+  "id": 1377,
+  "type": 19,
+  "name": "Hacha Mahn",
+  "level": 22,
+  "pods": 22,
+  "ethereal": false,
+  "requirements": "CW>30",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

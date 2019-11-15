@@ -1,0 +1,20 @@
+{
+  "id": 6362,
+  "type": 19,
+  "name": "Hacha de Ouruhecet",
+  "level": 125,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>123",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

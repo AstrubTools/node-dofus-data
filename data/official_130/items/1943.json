@@ -1,0 +1,20 @@
+{
+  "id": 1943,
+  "type": 20,
+  "name": "Varita de Caza",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "requirements": "PJ>41,29",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5997,
+  "type": 8,
+  "name": "Pala de Aquelelauc",
+  "level": 150,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>144",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

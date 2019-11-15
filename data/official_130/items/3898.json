@@ -1,0 +1,20 @@
+{
+  "id": 3898,
+  "type": 4,
+  "name": "Bastón de Ausili",
+  "level": 36,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>37",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

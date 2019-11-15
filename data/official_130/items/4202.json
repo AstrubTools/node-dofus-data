@@ -1,0 +1,20 @@
+{
+  "id": 4202,
+  "type": 4,
+  "name": "Bastón de Meutol",
+  "level": 138,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>145",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

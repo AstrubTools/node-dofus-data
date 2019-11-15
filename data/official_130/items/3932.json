@@ -1,0 +1,20 @@
+{
+  "id": 3932,
+  "type": 4,
+  "name": "Bastón de Koruheto",
+  "level": 48,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CI>41",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

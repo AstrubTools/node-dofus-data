@@ -1,0 +1,20 @@
+{
+  "id": 2948,
+  "type": 6,
+  "name": "Espada de Utete",
+  "level": 76,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>77",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

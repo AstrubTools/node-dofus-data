@@ -1,0 +1,19 @@
+{
+  "id": 1574,
+  "type": 6,
+  "name": "Trinchadora de Canes",
+  "level": 60,
+  "pods": 15,
+  "ethereal": false,
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

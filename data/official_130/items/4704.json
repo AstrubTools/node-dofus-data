@@ -1,0 +1,20 @@
+{
+  "id": 4704,
+  "type": 2,
+  "name": "Arco de Lolawofu",
+  "level": 11,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>10",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

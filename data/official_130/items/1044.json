@@ -1,0 +1,20 @@
+{
+  "id": 1044,
+  "type": 8,
+  "name": "Gran Pala de Vello Durmiente",
+  "level": 40,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>4&CC>28",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

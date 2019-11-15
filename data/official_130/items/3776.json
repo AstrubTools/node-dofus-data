@@ -1,0 +1,20 @@
+{
+  "id": 3776,
+  "type": 5,
+  "name": "Daga de Oluzuma",
+  "level": 142,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>153",
+  "stats": [
+    "11",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

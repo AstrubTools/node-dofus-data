@@ -1,0 +1,20 @@
+{
+  "id": 88,
+  "type": 2,
+  "name": "Arquito de Maderucha",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>1",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

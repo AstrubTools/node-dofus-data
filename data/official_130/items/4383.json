@@ -1,0 +1,20 @@
+{
+  "id": 4383,
+  "type": 3,
+  "name": "Varita de Ererek",
+  "level": 51,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>47",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

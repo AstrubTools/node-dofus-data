@@ -1,0 +1,20 @@
+{
+  "id": 6055,
+  "type": 19,
+  "name": "Hacha de Ithalasu",
+  "level": 23,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>20",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

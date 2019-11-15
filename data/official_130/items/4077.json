@@ -1,0 +1,20 @@
+{
+  "id": 4077,
+  "type": 4,
+  "name": "Bastón de Vepamu",
+  "level": 96,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>103",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

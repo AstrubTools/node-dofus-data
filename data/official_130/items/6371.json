@@ -1,0 +1,20 @@
+{
+  "id": 6371,
+  "type": 19,
+  "name": "Hacha de Enuge",
+  "level": 128,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>138&CV>45",
+  "stats": [
+    "3",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

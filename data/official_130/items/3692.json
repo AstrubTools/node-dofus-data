@@ -1,0 +1,20 @@
+{
+  "id": 3692,
+  "type": 5,
+  "name": "Daga de Niviful",
+  "level": 114,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "13",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

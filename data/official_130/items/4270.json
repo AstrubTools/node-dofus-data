@@ -1,0 +1,20 @@
+{
+  "id": 4270,
+  "type": 3,
+  "name": "Varita de Flacifeun",
+  "level": 14,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>13",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

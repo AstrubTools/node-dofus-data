@@ -1,0 +1,20 @@
+{
+  "id": 6166,
+  "type": 19,
+  "name": "Hacha de Ouxole",
+  "level": 60,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>61",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6109,
+  "type": 19,
+  "name": "Hacha de Acebavec",
+  "level": 41,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CS>47",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

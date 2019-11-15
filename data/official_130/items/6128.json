@@ -1,0 +1,20 @@
+{
+  "id": 6128,
+  "type": 19,
+  "name": "Hacha de Ilumunuv",
+  "level": 47,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>45",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

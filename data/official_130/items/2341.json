@@ -1,0 +1,20 @@
+{
+  "id": 2341,
+  "type": 2,
+  "name": "Arco de Mech Riorraw",
+  "level": 10,
+  "pods": 100,
+  "ethereal": false,
+  "requirements": "Ps=1",
+  "stats": [
+    "0",
+    "6",
+    "20",
+    "21",
+    "0",
+    "30",
+    "0",
+    "1",
+    "1"
+  ]
+}

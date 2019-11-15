@@ -1,0 +1,20 @@
+{
+  "id": 6186,
+  "type": 19,
+  "name": "Hacha de Welouille",
+  "level": 67,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>81&CV>14",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

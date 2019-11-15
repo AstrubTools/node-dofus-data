@@ -1,0 +1,20 @@
+{
+  "id": 1942,
+  "type": 20,
+  "name": "Arco de Caza",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "requirements": "PJ>41,29",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "6",
+    "35",
+    "40",
+    "0",
+    "0",
+    "1"
+  ]
+}

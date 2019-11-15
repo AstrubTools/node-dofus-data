@@ -1,0 +1,20 @@
+{
+  "id": 3693,
+  "type": 5,
+  "name": "Daga de Thijeful",
+  "level": 114,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>123",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

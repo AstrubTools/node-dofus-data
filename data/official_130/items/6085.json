@@ -1,0 +1,20 @@
+{
+  "id": 6085,
+  "type": 19,
+  "name": "Hacha de Lobafulu",
+  "level": 33,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>33",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

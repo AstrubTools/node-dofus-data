@@ -1,0 +1,20 @@
+{
+  "id": 185,
+  "type": 4,
+  "name": "Potente Bastón Hojudo",
+  "level": 15,
+  "pods": 16,
+  "ethereal": false,
+  "requirements": "CI>15",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

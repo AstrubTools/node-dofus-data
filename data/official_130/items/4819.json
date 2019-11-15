@@ -1,0 +1,20 @@
+{
+  "id": 4819,
+  "type": 2,
+  "name": "Arco de Tevlene",
+  "level": 50,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>55",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1503,
+  "type": 3,
+  "name": "Varita de Fuego Fatuo",
+  "level": 20,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>30",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

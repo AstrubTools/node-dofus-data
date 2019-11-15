@@ -1,0 +1,20 @@
+{
+  "id": 6187,
+  "type": 19,
+  "name": "Hacha de Ibuga",
+  "level": 67,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>81",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

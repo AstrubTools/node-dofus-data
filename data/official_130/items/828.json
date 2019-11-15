@@ -1,0 +1,20 @@
+{
+  "id": 828,
+  "type": 2,
+  "name": "Arco Silbante",
+  "level": 11,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>11&CS>5",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "6",
+    "30",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6130,
+  "type": 19,
+  "name": "Hacha de Evacu",
+  "level": 48,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>39",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

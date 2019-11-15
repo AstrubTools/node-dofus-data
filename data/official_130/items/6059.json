@@ -1,0 +1,20 @@
+{
+  "id": 6059,
+  "type": 19,
+  "name": "Hacha de Ourase",
+  "level": 24,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>23&CW>8",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 7029,
+  "type": 10,
+  "name": "Cinturón de Sanchoku",
+  "level": 86,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>100",
+  "stats": ""
+}

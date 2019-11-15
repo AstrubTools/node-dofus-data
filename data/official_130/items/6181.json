@@ -1,0 +1,20 @@
+{
+  "id": 6181,
+  "type": 19,
+  "name": "Hacha de Puvahate",
+  "level": 65,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>78&CV>16",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

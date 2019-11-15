@@ -1,0 +1,20 @@
+{
+  "id": 6318,
+  "type": 19,
+  "name": "Hacha de Olubutil",
+  "level": 111,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>97&CV>49",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

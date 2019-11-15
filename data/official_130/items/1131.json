@@ -1,0 +1,20 @@
+{
+  "id": 1131,
+  "type": 3,
+  "name": "Imponente varita de Iglesia",
+  "level": 52,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CI>51&CS>25",
+  "stats": [
+    "10",
+    "3",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

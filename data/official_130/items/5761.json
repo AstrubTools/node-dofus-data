@@ -1,0 +1,20 @@
+{
+  "id": 5761,
+  "type": 8,
+  "name": "Pala de Druke",
+  "level": 71,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CC>72",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3186,
+  "type": 6,
+  "name": "Espada de Arurev",
+  "level": 142,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>129",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

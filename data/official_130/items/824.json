@@ -1,0 +1,20 @@
+{
+  "id": 824,
+  "type": 6,
+  "name": "Espada del Poderoso Caballero",
+  "level": 26,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>52",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

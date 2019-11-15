@@ -1,0 +1,20 @@
+{
+  "id": 4881,
+  "type": 2,
+  "name": "Arco de Nometaille",
+  "level": 70,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CA>63",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

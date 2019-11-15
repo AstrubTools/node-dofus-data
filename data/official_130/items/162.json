@@ -1,0 +1,20 @@
+{
+  "id": 162,
+  "type": 3,
+  "name": "Pequeña Varita de Hielo",
+  "level": 13,
+  "pods": 12,
+  "ethereal": false,
+  "requirements": "CI>26",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

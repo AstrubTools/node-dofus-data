@@ -1,0 +1,20 @@
+{
+  "id": 6192,
+  "type": 19,
+  "name": "Hacha de Itubib",
+  "level": 69,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>70",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

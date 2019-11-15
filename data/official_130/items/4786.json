@@ -1,0 +1,20 @@
+{
+  "id": 4786,
+  "type": 2,
+  "name": "Arco de Aquivyfo",
+  "level": 39,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>37",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

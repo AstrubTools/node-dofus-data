@@ -1,0 +1,20 @@
+{
+  "id": 8101,
+  "type": 19,
+  "name": "El Parte Tura",
+  "level": 128,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CI>230&CA>60&CV>250",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "20",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3651,
+  "type": 5,
+  "name": "Daga Lomeración",
+  "level": 90,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>30&CA>100&CS>70",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4992,
+  "type": 2,
+  "name": "Arco de Cumeka",
+  "level": 107,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>110&CS>25",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

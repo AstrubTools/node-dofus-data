@@ -1,0 +1,20 @@
+{
+  "id": 6320,
+  "type": 19,
+  "name": "Hacha de Upitavum",
+  "level": 111,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>125",
+  "stats": [
+    "4",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

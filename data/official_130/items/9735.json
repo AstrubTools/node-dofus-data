@@ -1,0 +1,20 @@
+{
+  "id": 9735,
+  "type": 7,
+  "name": "Ata\\'Kah Martillo",
+  "level": 60,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>60&CV>60",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 91,
+  "type": 2,
+  "name": "Potente Arco de Maderucha",
+  "level": 4,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>4",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

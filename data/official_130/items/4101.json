@@ -1,0 +1,20 @@
+{
+  "id": 4101,
+  "type": 4,
+  "name": "Bastón de Kolakum",
+  "level": 104,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>93&CS>35",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

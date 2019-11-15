@@ -1,0 +1,10 @@
+{
+  "id": 10102,
+  "type": 16,
+  "name": "Máscara de Vampyro",
+  "level": 42,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PO!10119",
+  "stats": ""
+}

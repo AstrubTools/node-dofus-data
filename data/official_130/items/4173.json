@@ -1,0 +1,20 @@
+{
+  "id": 4173,
+  "type": 4,
+  "name": "Bastón de Metob",
+  "level": 128,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CI>112",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6111,
+  "type": 19,
+  "name": "Hacha de Araborat",
+  "level": 42,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>42",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8104,
+  "type": 2,
+  "name": "Arco Chtelión",
+  "level": 129,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CI>300&CV>300&CA>100",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "6",
+    "35",
+    "40",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4323,
+  "type": 3,
+  "name": "Varita Lamabam",
+  "level": 31,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>28",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

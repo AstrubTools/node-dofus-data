@@ -1,0 +1,20 @@
+{
+  "id": 6078,
+  "type": 19,
+  "name": "Hacha de Emohalas",
+  "level": 31,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>28",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

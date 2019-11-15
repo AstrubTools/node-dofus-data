@@ -1,0 +1,20 @@
+{
+  "id": 1379,
+  "type": 7,
+  "name": "El Skrunnchhh",
+  "level": 35,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CS>50&CA>20",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "30",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

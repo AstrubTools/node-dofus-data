@@ -1,0 +1,20 @@
+{
+  "id": 5767,
+  "type": 8,
+  "name": "Pala de Awocata",
+  "level": 73,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>85",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

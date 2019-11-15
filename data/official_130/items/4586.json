@@ -1,0 +1,20 @@
+{
+  "id": 4586,
+  "type": 3,
+  "name": "Varita de Bouhud",
+  "level": 118,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CI>122&CV>38",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

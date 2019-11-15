@@ -1,0 +1,20 @@
+{
+  "id": 5883,
+  "type": 8,
+  "name": "Pala de Sucnef",
+  "level": 112,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CC>122&CS>54",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

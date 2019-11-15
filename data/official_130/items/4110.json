@@ -1,0 +1,20 @@
+{
+  "id": 4110,
+  "type": 4,
+  "name": "Bastón de Molutele",
+  "level": 107,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>101",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

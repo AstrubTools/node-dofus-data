@@ -1,0 +1,20 @@
+{
+  "id": 5754,
+  "type": 8,
+  "name": "Pala de Bevosoli",
+  "level": 69,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>81",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

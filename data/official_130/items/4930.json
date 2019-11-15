@@ -1,0 +1,20 @@
+{
+  "id": 4930,
+  "type": 2,
+  "name": "Arco de Bazulen",
+  "level": 87,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>94&CS>44",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "9",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

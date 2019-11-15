@@ -1,0 +1,20 @@
+{
+  "id": 7195,
+  "type": 6,
+  "name": "Karnak",
+  "level": 158,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CV>300&CA>300&PG=8",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "80",
+    "0",
+    "0",
+    "1"
+  ]
+}

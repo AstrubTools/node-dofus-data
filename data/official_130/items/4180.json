@@ -1,0 +1,20 @@
+{
+  "id": 4180,
+  "type": 4,
+  "name": "Bastón de Upogru",
+  "level": 130,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>111",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

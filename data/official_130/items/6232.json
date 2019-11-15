@@ -1,0 +1,20 @@
+{
+  "id": 6232,
+  "type": 19,
+  "name": "Hacha de Lithefipac",
+  "level": 82,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>94",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

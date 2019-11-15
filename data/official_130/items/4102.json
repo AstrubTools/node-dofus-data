@@ -1,0 +1,20 @@
+{
+  "id": 4102,
+  "type": 4,
+  "name": "Bastón de Cikuf",
+  "level": 104,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CI>87",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

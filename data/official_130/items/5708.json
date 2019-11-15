@@ -1,0 +1,20 @@
+{
+  "id": 5708,
+  "type": 8,
+  "name": "Pala de Esufpur",
+  "level": 54,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>59&CS>19",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4859,
+  "type": 2,
+  "name": "Arco de Avovael",
+  "level": 63,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>60",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

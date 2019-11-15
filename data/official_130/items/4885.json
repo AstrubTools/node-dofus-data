@@ -1,0 +1,20 @@
+{
+  "id": 4885,
+  "type": 2,
+  "name": "Arco de Lebielle",
+  "level": 72,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>65&CS>36",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

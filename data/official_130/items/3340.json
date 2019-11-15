@@ -1,0 +1,20 @@
+{
+  "id": 3340,
+  "type": 6,
+  "name": "Espada de Uguluj",
+  "level": 135,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CS>139",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

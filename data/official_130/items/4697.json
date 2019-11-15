@@ -1,0 +1,20 @@
+{
+  "id": 4697,
+  "type": 2,
+  "name": "Arco de Evomi",
+  "level": 9,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>11",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

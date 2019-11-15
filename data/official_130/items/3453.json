@@ -1,0 +1,20 @@
+{
+  "id": 3453,
+  "type": 5,
+  "name": "Daga de Melefame",
+  "level": 36,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>38",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5197,
+  "type": 7,
+  "name": "Martillo de Kepirina",
+  "level": 29,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CV>15&CI>8",
+  "stats": [
+    "8",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

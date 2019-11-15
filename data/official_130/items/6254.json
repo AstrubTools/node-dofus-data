@@ -1,0 +1,20 @@
+{
+  "id": 6254,
+  "type": 19,
+  "name": "Hacha de Vosas",
+  "level": 89,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CS>84",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

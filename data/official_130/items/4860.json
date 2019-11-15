@@ -1,0 +1,20 @@
+{
+  "id": 4860,
+  "type": 2,
+  "name": "Arco de Nogusal",
+  "level": 63,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>61",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

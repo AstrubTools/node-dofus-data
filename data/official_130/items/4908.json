@@ -1,0 +1,20 @@
+{
+  "id": 4908,
+  "type": 2,
+  "name": "Arco de Bebos",
+  "level": 79,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>75",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

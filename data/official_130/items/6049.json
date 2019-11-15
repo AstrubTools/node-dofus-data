@@ -1,0 +1,20 @@
+{
+  "id": 6049,
+  "type": 19,
+  "name": "Hacha de Botorory",
+  "level": 21,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>21",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

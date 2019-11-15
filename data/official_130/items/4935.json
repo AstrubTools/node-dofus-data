@@ -1,0 +1,20 @@
+{
+  "id": 4935,
+  "type": 2,
+  "name": "Arco de Epelelag",
+  "level": 88,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>83",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5773,
+  "type": 8,
+  "name": "Pala de Edane",
+  "level": 75,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>89",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

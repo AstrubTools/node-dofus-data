@@ -1,0 +1,20 @@
+{
+  "id": 7183,
+  "type": 4,
+  "name": "Raíz atractiva",
+  "level": 88,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CV>70",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

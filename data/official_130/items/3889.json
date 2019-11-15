@@ -1,0 +1,20 @@
+{
+  "id": 3889,
+  "type": 4,
+  "name": "Bastón de Relifupi",
+  "level": 33,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CI>34&CS>9",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

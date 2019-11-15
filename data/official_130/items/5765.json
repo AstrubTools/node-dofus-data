@@ -1,0 +1,20 @@
+{
+  "id": 5765,
+  "type": 8,
+  "name": "Pala de Strude",
+  "level": 73,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>59&CS>29",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

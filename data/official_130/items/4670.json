@@ -1,0 +1,20 @@
+{
+  "id": 4670,
+  "type": 3,
+  "name": "Varita Ububuf",
+  "level": 146,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>137",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

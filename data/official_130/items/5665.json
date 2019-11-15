@@ -1,0 +1,20 @@
+{
+  "id": 5665,
+  "type": 8,
+  "name": "Pala de Lavyu",
+  "level": 39,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>36",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

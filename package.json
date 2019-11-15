@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/AstrubTools/node-dofus-data#readme",
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^12.0.1",
+    "xml-js": "^1.6.11"
   }
 }

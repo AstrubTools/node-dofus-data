@@ -1,0 +1,20 @@
+{
+  "id": 9756,
+  "type": 4,
+  "name": "Bastón Buk\\'Tûh",
+  "level": 40,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>40&CV>40",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

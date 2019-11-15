@@ -1,0 +1,20 @@
+{
+  "id": 7154,
+  "type": 7,
+  "name": "Martillo Polgarcito",
+  "level": 107,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>350&CV>200&CW>100",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

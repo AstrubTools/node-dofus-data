@@ -1,0 +1,20 @@
+{
+  "id": 4841,
+  "type": 2,
+  "name": "Arco de Genolaze",
+  "level": 57,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>58",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

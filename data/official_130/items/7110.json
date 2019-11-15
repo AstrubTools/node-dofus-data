@@ -1,0 +1,19 @@
+{
+  "id": 7110,
+  "type": 3,
+  "name": "Varita Larvesca",
+  "level": 40,
+  "pods": 5,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "4",
+    "40",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

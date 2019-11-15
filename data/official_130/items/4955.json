@@ -1,0 +1,20 @@
+{
+  "id": 4955,
+  "type": 2,
+  "name": "Arco de Badamael",
+  "level": 95,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>87",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

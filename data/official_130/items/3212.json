@@ -1,0 +1,20 @@
+{
+  "id": 3212,
+  "type": 6,
+  "name": "Espada de Secasoche",
+  "level": 7,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>8",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

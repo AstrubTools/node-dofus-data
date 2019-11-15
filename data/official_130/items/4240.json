@@ -1,0 +1,20 @@
+{
+  "id": 4240,
+  "type": 4,
+  "name": "Bastón de Daeblis",
+  "level": 150,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>181",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

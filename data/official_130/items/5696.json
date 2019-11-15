@@ -1,0 +1,20 @@
+{
+  "id": 5696,
+  "type": 8,
+  "name": "Pala de Ducih",
+  "level": 50,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CC>52&CS>20",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

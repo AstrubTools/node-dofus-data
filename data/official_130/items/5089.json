@@ -1,0 +1,20 @@
+{
+  "id": 5089,
+  "type": 2,
+  "name": "Arco de Umepolle",
+  "level": 140,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>128",
+  "stats": [
+    "12",
+    "4",
+    "4",
+    "10",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

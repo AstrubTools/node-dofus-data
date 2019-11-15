@@ -1,0 +1,20 @@
+{
+  "id": 6203,
+  "type": 19,
+  "name": "Hacha de Seherre",
+  "level": 72,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>74",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8932,
+  "type": 6,
+  "name": "Kukri Kura",
+  "level": 179,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>300&CA>150",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

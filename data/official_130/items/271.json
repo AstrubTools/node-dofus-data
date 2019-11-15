@@ -1,0 +1,20 @@
+{
+  "id": 271,
+  "type": 7,
+  "name": "El Martillo del Chafer",
+  "level": 21,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CS>10&CI>11",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

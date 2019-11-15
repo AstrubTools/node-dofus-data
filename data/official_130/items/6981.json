@@ -1,0 +1,20 @@
+{
+  "id": 6981,
+  "type": 5,
+  "name": "Dagas Heladas",
+  "level": 150,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>250&CS>150",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

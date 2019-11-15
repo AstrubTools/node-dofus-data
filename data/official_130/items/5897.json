@@ -1,0 +1,20 @@
+{
+  "id": 5897,
+  "type": 8,
+  "name": "Pala de Ibomo",
+  "level": 117,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>96&CS>34",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

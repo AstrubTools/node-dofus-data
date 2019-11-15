@@ -1,0 +1,20 @@
+{
+  "id": 1436,
+  "type": 8,
+  "name": "Pala Kran",
+  "level": 50,
+  "pods": 50,
+  "ethereal": false,
+  "requirements": "CC>30&CA>10",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

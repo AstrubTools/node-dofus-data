@@ -1,0 +1,20 @@
+{
+  "id": 4951,
+  "type": 2,
+  "name": "Arco de Coninim",
+  "level": 94,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>98",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4029,
+  "type": 4,
+  "name": "Bastón de Thororet",
+  "level": 80,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CI>72",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

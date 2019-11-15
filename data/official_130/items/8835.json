@@ -1,0 +1,20 @@
+{
+  "id": 8835,
+  "type": 3,
+  "name": "Rama del abrajidor claro",
+  "level": 132,
+  "pods": 5,
+  "ethereal": false,
+  "requirements": "CA>200&CS>200",
+  "stats": [
+    "4",
+    "5",
+    "2",
+    "5",
+    "10",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

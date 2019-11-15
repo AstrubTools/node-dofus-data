@@ -1,0 +1,20 @@
+{
+  "id": 6153,
+  "type": 19,
+  "name": "Hacha de Jekapnef",
+  "level": 56,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>59",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

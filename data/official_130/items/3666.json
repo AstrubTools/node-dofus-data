@@ -1,0 +1,20 @@
+{
+  "id": 3666,
+  "type": 5,
+  "name": "Daga de Obafice",
+  "level": 105,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>113&CV>21",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

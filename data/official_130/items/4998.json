@@ -1,0 +1,20 @@
+{
+  "id": 4998,
+  "type": 2,
+  "name": "Arco de Shakotamo",
+  "level": 109,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>102",
+  "stats": [
+    "3",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

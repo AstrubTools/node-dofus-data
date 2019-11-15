@@ -1,0 +1,20 @@
+{
+  "id": 819,
+  "type": 6,
+  "name": "Espada Sagrada",
+  "level": 15,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>30&CV>3",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

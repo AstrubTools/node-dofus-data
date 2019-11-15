@@ -1,0 +1,20 @@
+{
+  "id": 4914,
+  "type": 2,
+  "name": "Arco de Kifivlob",
+  "level": 81,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>88",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

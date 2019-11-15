@@ -1,0 +1,20 @@
+{
+  "id": 4686,
+  "type": 2,
+  "name": "Arco de Loxyfadi",
+  "level": 5,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>5",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

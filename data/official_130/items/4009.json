@@ -1,0 +1,20 @@
+{
+  "id": 4009,
+  "type": 4,
+  "name": "Bastón de Uromorth",
+  "level": 73,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CI>80",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

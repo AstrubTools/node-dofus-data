@@ -1,0 +1,20 @@
+{
+  "id": 2718,
+  "type": 6,
+  "name": "Espada de Ajara",
+  "level": 8,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CS>9",
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3972,
+  "type": 4,
+  "name": "Bastón de Tusraru",
+  "level": 61,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>61",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

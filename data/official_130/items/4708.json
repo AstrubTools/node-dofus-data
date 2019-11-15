@@ -1,0 +1,20 @@
+{
+  "id": 4708,
+  "type": 2,
+  "name": "Arco de Lyfema",
+  "level": 13,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>15",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

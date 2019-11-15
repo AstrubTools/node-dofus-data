@@ -1,0 +1,20 @@
+{
+  "id": 5813,
+  "type": 8,
+  "name": "Pala de Apivyco",
+  "level": 89,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>95",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

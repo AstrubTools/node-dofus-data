@@ -1,0 +1,20 @@
+{
+  "id": 6095,
+  "type": 19,
+  "name": "Hacha de Oraserre",
+  "level": 36,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>43",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

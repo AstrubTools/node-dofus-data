@@ -1,0 +1,20 @@
+{
+  "id": 3215,
+  "type": 6,
+  "name": "Espada de Sivevi",
+  "level": 10,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>9",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5921,
+  "type": 8,
+  "name": "Pala de Orylelel",
+  "level": 125,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>150",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

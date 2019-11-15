@@ -1,0 +1,20 @@
+{
+  "id": 180,
+  "type": 3,
+  "name": "La Varita del Limbo",
+  "level": 105,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CI>200&CW>100",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "4",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

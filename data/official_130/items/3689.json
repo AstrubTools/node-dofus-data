@@ -1,0 +1,20 @@
+{
+  "id": 3689,
+  "type": 5,
+  "name": "Daga de Ugluterre",
+  "level": 113,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>103",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

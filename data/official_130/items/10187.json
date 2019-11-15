@@ -1,0 +1,20 @@
+{
+  "id": 10187,
+  "type": 5,
+  "name": "Dagas de Noke",
+  "level": 41,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CS>50&CW>50&CV>80",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "45",
+    "0",
+    "0",
+    "1"
+  ]
+}

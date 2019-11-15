@@ -1,0 +1,20 @@
+{
+  "id": 6005,
+  "type": 19,
+  "name": "Hacha de Ekoroko",
+  "level": 6,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CS>6&CV>2",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

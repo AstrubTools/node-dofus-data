@@ -1,0 +1,20 @@
+{
+  "id": 3719,
+  "type": 5,
+  "name": "Daga de Ibemul",
+  "level": 123,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>125",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

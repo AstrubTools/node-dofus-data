@@ -1,0 +1,20 @@
+{
+  "id": 8596,
+  "type": 6,
+  "name": "Garra púrpura",
+  "level": 145,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>350&CV>400",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "45",
+    "100",
+    "0",
+    "0",
+    "1"
+  ]
+}

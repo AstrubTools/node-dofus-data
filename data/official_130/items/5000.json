@@ -1,0 +1,20 @@
+{
+  "id": 5000,
+  "type": 2,
+  "name": "Arco de Olebyku",
+  "level": 110,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>121&CS>27",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

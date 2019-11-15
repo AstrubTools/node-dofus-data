@@ -1,0 +1,20 @@
+{
+  "id": 5038,
+  "type": 2,
+  "name": "Arco de Ezete",
+  "level": 123,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CA>118",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

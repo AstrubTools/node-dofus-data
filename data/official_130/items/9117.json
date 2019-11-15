@@ -1,0 +1,20 @@
+{
+  "id": 9117,
+  "type": 7,
+  "name": "Ugartillo",
+  "level": 180,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CV>1200",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

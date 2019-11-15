@@ -1,0 +1,20 @@
+{
+  "id": 4051,
+  "type": 4,
+  "name": "Bastón de Ufele",
+  "level": 87,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>83",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

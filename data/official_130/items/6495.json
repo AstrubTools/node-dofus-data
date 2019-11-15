@@ -1,0 +1,20 @@
+{
+  "id": 6495,
+  "type": 3,
+  "name": "Varita del Roble Blando",
+  "level": 172,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>400&CC>250&CW>150",
+  "stats": [
+    "7",
+    "3",
+    "3",
+    "4",
+    "45",
+    "70",
+    "0",
+    "1",
+    "1"
+  ]
+}

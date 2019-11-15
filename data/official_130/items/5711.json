@@ -1,0 +1,20 @@
+{
+  "id": 5711,
+  "type": 8,
+  "name": "Pala de Nogihof",
+  "level": 55,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>49&CS>27",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

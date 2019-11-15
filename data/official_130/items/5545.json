@@ -1,0 +1,20 @@
+{
+  "id": 5545,
+  "type": 7,
+  "name": "Martillo de Likupafi",
+  "level": 145,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CV>84&CI>41",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

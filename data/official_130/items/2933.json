@@ -1,0 +1,20 @@
+{
+  "id": 2933,
+  "type": 6,
+  "name": "Espada de Adode",
+  "level": 68,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>63",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

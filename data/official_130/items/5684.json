@@ -1,0 +1,20 @@
+{
+  "id": 5684,
+  "type": 8,
+  "name": "Pala de Uhetu",
+  "level": 46,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>49&CS>24",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

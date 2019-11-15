@@ -1,0 +1,10 @@
+{
+  "id": 700,
+  "type": 16,
+  "name": "Pandawa",
+  "level": 6,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PG!10",
+  "stats": ""
+}

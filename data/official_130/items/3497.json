@@ -1,0 +1,20 @@
+{
+  "id": 3497,
+  "type": 5,
+  "name": "Daga de Edofu",
+  "level": 51,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>57&CV>12",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

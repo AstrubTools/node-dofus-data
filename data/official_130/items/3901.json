@@ -1,0 +1,20 @@
+{
+  "id": 3901,
+  "type": 4,
+  "name": "Bastón de Ifecho",
+  "level": 37,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>30",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

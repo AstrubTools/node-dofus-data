@@ -1,0 +1,19 @@
+{
+  "id": 497,
+  "type": 21,
+  "name": "Pico de minero",
+  "level": 1,
+  "pods": 20,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

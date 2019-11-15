@@ -1,0 +1,20 @@
+{
+  "id": 5821,
+  "type": 8,
+  "name": "Pala de Samebel",
+  "level": 91,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>90",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

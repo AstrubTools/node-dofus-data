@@ -1,0 +1,20 @@
+{
+  "id": 4230,
+  "type": 4,
+  "name": "Bastón de Ufumit",
+  "level": 147,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>128",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5561,
+  "type": 8,
+  "name": "Pala de Lipulu",
+  "level": 5,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>7",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

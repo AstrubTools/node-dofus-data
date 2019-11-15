@@ -1,0 +1,20 @@
+{
+  "id": 6304,
+  "type": 19,
+  "name": "Hacha de Tidet",
+  "level": 106,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>117",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

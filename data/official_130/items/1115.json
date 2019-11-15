@@ -1,0 +1,20 @@
+{
+  "id": 1115,
+  "type": 2,
+  "name": "Arco Diquea",
+  "level": 43,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>40&CS>9&CI>9",
+  "stats": [
+    "14",
+    "4",
+    "2",
+    "7",
+    "50",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4996,
+  "type": 2,
+  "name": "Arco de Volelemy",
+  "level": 109,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>116",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4795,
+  "type": 2,
+  "name": "Arco de Omememo",
+  "level": 42,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>42",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

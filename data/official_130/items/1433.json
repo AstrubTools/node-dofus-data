@@ -1,0 +1,20 @@
+{
+  "id": 1433,
+  "type": 8,
+  "name": "Pala Defensiva",
+  "level": 60,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>60&CS>30&CA>10",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

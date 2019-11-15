@@ -1,0 +1,20 @@
+{
+  "id": 153,
+  "type": 8,
+  "name": "Potente Pala de Maderucha",
+  "level": 6,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>1&CC>5",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9657,
+  "type": 4,
+  "name": "Kakapinxo",
+  "level": 42,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CV>60&CW>30",
+  "stats": [
+    "1",
+    "3",
+    "1",
+    "1",
+    "10",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

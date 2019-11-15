@@ -1,0 +1,20 @@
+{
+  "id": 3356,
+  "type": 8,
+  "name": "Pala Canastensa",
+  "level": 52,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>60&CV>40",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

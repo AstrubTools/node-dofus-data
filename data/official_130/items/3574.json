@@ -1,0 +1,20 @@
+{
+  "id": 3574,
+  "type": 5,
+  "name": "Daga de Itefdar",
+  "level": 76,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>81&CV>17",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

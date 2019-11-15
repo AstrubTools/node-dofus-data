@@ -1,0 +1,20 @@
+{
+  "id": 5769,
+  "type": 8,
+  "name": "Pala de Upepirai",
+  "level": 74,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>67&CS>23",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

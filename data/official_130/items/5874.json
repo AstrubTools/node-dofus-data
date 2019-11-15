@@ -1,0 +1,20 @@
+{
+  "id": 5874,
+  "type": 8,
+  "name": "Pala de Anesela",
+  "level": 109,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>99",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

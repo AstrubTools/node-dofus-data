@@ -1,0 +1,20 @@
+{
+  "id": 3721,
+  "type": 5,
+  "name": "Daga de Ukerok",
+  "level": 123,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>132",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

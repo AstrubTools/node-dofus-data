@@ -1,0 +1,20 @@
+{
+  "id": 6496,
+  "type": 3,
+  "name": "Varita de Raíz de Abráknido Oscuro",
+  "level": 67,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>70&CW>70",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "4",
+    "50",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9712,
+  "type": 5,
+  "name": "Daga Rü\\'Loh",
+  "level": 40,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>40&CV>40",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "35",
+    "45",
+    "0",
+    "0",
+    "1"
+  ]
+}

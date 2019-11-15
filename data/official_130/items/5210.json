@@ -1,0 +1,20 @@
+{
+  "id": 5210,
+  "type": 7,
+  "name": "Martillo de Druhog",
+  "level": 34,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CV>20&CS>16",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5024,
+  "type": 2,
+  "name": "Arco de Rarab",
+  "level": 118,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>109",
+  "stats": [
+    "3",
+    "4",
+    "3",
+    "4",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7160,
+  "type": 2,
+  "name": "Arco Mático",
+  "level": 120,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>150&CI>400&PG=9",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

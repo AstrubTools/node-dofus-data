@@ -1,0 +1,20 @@
+{
+  "id": 2973,
+  "type": 6,
+  "name": "Espada de Amuspu",
+  "level": 88,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>83",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

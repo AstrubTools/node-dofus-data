@@ -1,0 +1,20 @@
+{
+  "id": 6029,
+  "type": 19,
+  "name": "Hacha de Uropim",
+  "level": 14,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>17",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

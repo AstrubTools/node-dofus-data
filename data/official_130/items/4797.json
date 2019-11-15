@@ -1,0 +1,20 @@
+{
+  "id": 4797,
+  "type": 2,
+  "name": "Arco de Tixul",
+  "level": 42,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>46",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

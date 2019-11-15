@@ -1,0 +1,20 @@
+{
+  "id": 4013,
+  "type": 4,
+  "name": "Bastón de Ubijefic",
+  "level": 75,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CI>72",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

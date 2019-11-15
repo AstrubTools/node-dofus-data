@@ -1,0 +1,20 @@
+{
+  "id": 4238,
+  "type": 4,
+  "name": "Bastón de Greseg",
+  "level": 150,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CI>157",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1095,
+  "type": 2,
+  "name": "Potente Arco Buz",
+  "level": 24,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>23&CS>33",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

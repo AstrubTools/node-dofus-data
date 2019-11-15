@@ -1,0 +1,20 @@
+{
+  "id": 5788,
+  "type": 8,
+  "name": "Pala de Sodetum",
+  "level": 80,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CC>68&CS>37",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6080,
+  "type": 19,
+  "name": "Hacha de Javumy",
+  "level": 31,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CS>34",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

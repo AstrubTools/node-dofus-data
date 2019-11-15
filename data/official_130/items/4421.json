@@ -1,0 +1,20 @@
+{
+  "id": 4421,
+  "type": 3,
+  "name": "Varita Leleup",
+  "level": 63,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>58",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

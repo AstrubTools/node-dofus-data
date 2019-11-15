@@ -1,0 +1,20 @@
+{
+  "id": 5637,
+  "type": 8,
+  "name": "Pala de Pihimuta",
+  "level": 30,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CC>26",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

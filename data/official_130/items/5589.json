@@ -1,0 +1,20 @@
+{
+  "id": 5589,
+  "type": 8,
+  "name": "Pala de Roguddar",
+  "level": 14,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CC>16&CS>7",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8296,
+  "type": 3,
+  "name": "Varita de Dragohuevo",
+  "level": 124,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>100&CA>200",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "5",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

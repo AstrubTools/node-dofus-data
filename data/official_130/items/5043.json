@@ -1,0 +1,20 @@
+{
+  "id": 5043,
+  "type": 2,
+  "name": "Arco de Cugir",
+  "level": 124,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>119",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

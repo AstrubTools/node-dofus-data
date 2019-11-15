@@ -1,0 +1,20 @@
+{
+  "id": 1112,
+  "type": 2,
+  "name": "Arco Real de Cuerno de Jalató",
+  "level": 38,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CS>50&CA>12",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

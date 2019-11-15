@@ -1,0 +1,20 @@
+{
+  "id": 7203,
+  "type": 6,
+  "name": "Sable Yondanwa",
+  "level": 93,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>100",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

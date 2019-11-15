@@ -1,0 +1,20 @@
+{
+  "id": 4066,
+  "type": 4,
+  "name": "Bastón de Rulenuce",
+  "level": 92,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>77",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

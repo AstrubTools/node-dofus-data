@@ -1,0 +1,10 @@
+{
+  "id": 2387,
+  "type": 17,
+  "name": "La Peluda",
+  "level": 63,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CW>30&CV>50",
+  "stats": ""
+}

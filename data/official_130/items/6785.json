@@ -1,0 +1,19 @@
+{
+  "id": 6785,
+  "type": 7,
+  "name": "Martillo del Iniciado",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

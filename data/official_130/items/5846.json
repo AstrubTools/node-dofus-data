@@ -1,0 +1,20 @@
+{
+  "id": 5846,
+  "type": 8,
+  "name": "Pala de Akalorth",
+  "level": 100,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CC>92&CS>38",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

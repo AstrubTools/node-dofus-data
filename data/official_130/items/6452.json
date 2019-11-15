@@ -1,0 +1,20 @@
+{
+  "id": 6452,
+  "type": 2,
+  "name": "Arki Tekto",
+  "level": 120,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>200&CS>100&CI>30",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

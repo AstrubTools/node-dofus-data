@@ -1,0 +1,20 @@
+{
+  "id": 4840,
+  "type": 2,
+  "name": "Arco de Sohitake",
+  "level": 57,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CA>58&CS>13",
+  "stats": [
+    "4",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

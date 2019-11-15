@@ -1,0 +1,20 @@
+{
+  "id": 4237,
+  "type": 4,
+  "name": "Bastón de Luhuhu",
+  "level": 149,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>158",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

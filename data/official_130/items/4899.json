@@ -1,0 +1,20 @@
+{
+  "id": 4899,
+  "type": 2,
+  "name": "Arco de Tutatu",
+  "level": 76,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CA>69",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

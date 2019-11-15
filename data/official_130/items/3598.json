@@ -1,0 +1,20 @@
+{
+  "id": 3598,
+  "type": 5,
+  "name": "Daga de Unefugi",
+  "level": 84,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>83",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

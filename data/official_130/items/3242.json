@@ -1,0 +1,20 @@
+{
+  "id": 3242,
+  "type": 6,
+  "name": "Espada de Apleg",
+  "level": 37,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CS>36",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

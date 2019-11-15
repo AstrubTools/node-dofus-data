@@ -1,0 +1,20 @@
+{
+  "id": 5067,
+  "type": 2,
+  "name": "Arco de Ousoru",
+  "level": 132,
+  "pods": 40,
+  "ethereal": true,
+  "requirements": "CA>141",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

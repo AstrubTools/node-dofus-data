@@ -1,0 +1,20 @@
+{
+  "id": 5969,
+  "type": 8,
+  "name": "Pala de Fauceta",
+  "level": 141,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>130",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

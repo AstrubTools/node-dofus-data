@@ -1,0 +1,20 @@
+{
+  "id": 5241,
+  "type": 7,
+  "name": "Martillo de Femafu",
+  "level": 44,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CV>25&CI>14",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

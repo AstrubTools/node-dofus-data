@@ -1,0 +1,20 @@
+{
+  "id": 8935,
+  "type": 8,
+  "name": "La Pala de Mel",
+  "level": 176,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>250&CI>250",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "35",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

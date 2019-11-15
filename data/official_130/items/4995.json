@@ -1,0 +1,20 @@
+{
+  "id": 4995,
+  "type": 2,
+  "name": "Arco de Ikeloc",
+  "level": 108,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>113",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4495,
+  "type": 3,
+  "name": "Varita de Ateterre",
+  "level": 88,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>85&CV>20",
+  "stats": [
+    "1",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

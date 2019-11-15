@@ -1,0 +1,20 @@
+{
+  "id": 674,
+  "type": 19,
+  "name": "Hendedora de cerezo",
+  "level": 32,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CV>40",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "45",
+    "45",
+    "0",
+    "0",
+    "0"
+  ]
+}

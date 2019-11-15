@@ -1,0 +1,20 @@
+{
+  "id": 8838,
+  "type": 4,
+  "name": "Rizoma del Tynril",
+  "level": 186,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>250&CS>200",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

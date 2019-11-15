@@ -1,0 +1,20 @@
+{
+  "id": 6405,
+  "type": 19,
+  "name": "Hacha de Akifum",
+  "level": 140,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>149",
+  "stats": [
+    "8",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

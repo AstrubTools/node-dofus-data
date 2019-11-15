@@ -1,0 +1,20 @@
+{
+  "id": 3362,
+  "type": 5,
+  "name": "Daga de Bwaba",
+  "level": 6,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CA>7",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "25",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

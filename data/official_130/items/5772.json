@@ -1,0 +1,20 @@
+{
+  "id": 5772,
+  "type": 8,
+  "name": "Pala de Lahdar",
+  "level": 75,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CC>75&CS>39",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

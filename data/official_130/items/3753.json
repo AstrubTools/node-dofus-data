@@ -1,0 +1,20 @@
+{
+  "id": 3753,
+  "type": 5,
+  "name": "Daga de Mololo",
+  "level": 134,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>140&CV>44",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

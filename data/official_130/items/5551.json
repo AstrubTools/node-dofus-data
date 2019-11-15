@@ -1,0 +1,20 @@
+{
+  "id": 5551,
+  "type": 7,
+  "name": "Martillo de Levul",
+  "level": 147,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CV>76",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

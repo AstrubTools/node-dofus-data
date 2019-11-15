@@ -1,0 +1,20 @@
+{
+  "id": 6220,
+  "type": 19,
+  "name": "Hacha de Hamekesau",
+  "level": 78,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CS>80&CV>20",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

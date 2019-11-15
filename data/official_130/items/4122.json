@@ -1,0 +1,20 @@
+{
+  "id": 4122,
+  "type": 4,
+  "name": "Bastón de Kaful",
+  "level": 111,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CI>134",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

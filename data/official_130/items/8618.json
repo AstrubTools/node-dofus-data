@@ -1,0 +1,20 @@
+{
+  "id": 8618,
+  "type": 19,
+  "name": "Hacha Charear",
+  "level": 80,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>120&CA>60",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

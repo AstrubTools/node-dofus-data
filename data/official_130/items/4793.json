@@ -1,0 +1,20 @@
+{
+  "id": 4793,
+  "type": 2,
+  "name": "Arco de Feufefiki",
+  "level": 41,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>41",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

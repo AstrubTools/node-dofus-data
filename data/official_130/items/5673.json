@@ -1,0 +1,20 @@
+{
+  "id": 5673,
+  "type": 8,
+  "name": "Pala de Edasyp",
+  "level": 42,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CC>50",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

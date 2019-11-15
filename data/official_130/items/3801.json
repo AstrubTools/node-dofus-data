@@ -1,0 +1,20 @@
+{
+  "id": 3801,
+  "type": 5,
+  "name": "Daga de Pelteux",
+  "level": 150,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CA>157",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

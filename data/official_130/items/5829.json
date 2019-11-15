@@ -1,0 +1,20 @@
+{
+  "id": 5829,
+  "type": 8,
+  "name": "Pala de Ifrivum",
+  "level": 94,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CC>79",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

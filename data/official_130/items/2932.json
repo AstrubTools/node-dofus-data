@@ -1,0 +1,20 @@
+{
+  "id": 2932,
+  "type": 6,
+  "name": "Espada de Godag",
+  "level": 68,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CS>72",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

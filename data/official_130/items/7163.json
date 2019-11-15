@@ -1,0 +1,20 @@
+{
+  "id": 7163,
+  "type": 2,
+  "name": "Arco Disuasivo",
+  "level": 124,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "PG=9&CA>250",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

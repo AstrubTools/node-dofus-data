@@ -1,0 +1,20 @@
+{
+  "id": 6453,
+  "type": 2,
+  "name": "Arco del Pescador",
+  "level": 70,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "CS>70&CA>70",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

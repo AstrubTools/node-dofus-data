@@ -1,0 +1,20 @@
+{
+  "id": 2935,
+  "type": 6,
+  "name": "Espada de Hegareh",
+  "level": 69,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CS>67",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

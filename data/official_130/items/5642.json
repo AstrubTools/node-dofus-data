@@ -1,0 +1,20 @@
+{
+  "id": 5642,
+  "type": 8,
+  "name": "Pala de Roucehu",
+  "level": 32,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CC>29&CS>17",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

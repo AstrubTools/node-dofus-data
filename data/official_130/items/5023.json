@@ -1,0 +1,20 @@
+{
+  "id": 5023,
+  "type": 2,
+  "name": "Arco de Olebei",
+  "level": 118,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>121&CS>35",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

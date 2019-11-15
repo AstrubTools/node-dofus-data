@@ -1,0 +1,20 @@
+{
+  "id": 5062,
+  "type": 2,
+  "name": "Arco de Zoleo",
+  "level": 131,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>139",
+  "stats": [
+    "4",
+    "4",
+    "3",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

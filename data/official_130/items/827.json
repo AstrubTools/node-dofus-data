@@ -1,0 +1,20 @@
+{
+  "id": 827,
+  "type": 6,
+  "name": "Hoja del Poderoso Bwork",
+  "level": 26,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>52&CA>16",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "30",
+    "0",
+    "0",
+    "0"
+  ]
+}

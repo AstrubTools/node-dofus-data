@@ -1,0 +1,20 @@
+{
+  "id": 4487,
+  "type": 3,
+  "name": "Varita de Donefyru",
+  "level": 85,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CI>87",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "4",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

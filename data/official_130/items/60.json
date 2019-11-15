@@ -1,0 +1,20 @@
+{
+  "id": 60,
+  "type": 6,
+  "name": "Espada Dha",
+  "level": 15,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>30&CV>6",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

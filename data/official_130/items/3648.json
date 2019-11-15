@@ -1,0 +1,20 @@
+{
+  "id": 3648,
+  "type": 5,
+  "name": "Daguita de Capitán Chafer",
+  "level": 83,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>100&CS>50",
+  "stats": [
+    "10",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

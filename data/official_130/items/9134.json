@@ -1,0 +1,20 @@
+{
+  "id": 9134,
+  "type": 2,
+  "name": "Arco de Lamelas",
+  "level": 187,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>300&CI>300",
+  "stats": [
+    "10",
+    "5",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

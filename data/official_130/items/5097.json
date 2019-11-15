@@ -1,0 +1,20 @@
+{
+  "id": 5097,
+  "type": 2,
+  "name": "Arco de Aopeteze",
+  "level": 142,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>130",
+  "stats": [
+    "7",
+    "4",
+    "3",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

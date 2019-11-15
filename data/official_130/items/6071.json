@@ -1,0 +1,20 @@
+{
+  "id": 6071,
+  "type": 19,
+  "name": "Hacha de Thespur",
+  "level": 28,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>27",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

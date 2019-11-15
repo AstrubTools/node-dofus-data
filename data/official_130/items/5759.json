@@ -1,0 +1,20 @@
+{
+  "id": 5759,
+  "type": 8,
+  "name": "Pala de Rhestarh",
+  "level": 71,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CC>83&CS>22",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

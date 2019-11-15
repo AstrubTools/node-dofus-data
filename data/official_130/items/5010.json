@@ -1,0 +1,20 @@
+{
+  "id": 5010,
+  "type": 2,
+  "name": "Arco de Levifugu",
+  "level": 113,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>125",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3863,
+  "type": 4,
+  "name": "Bastón de Fubruf",
+  "level": 25,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>30",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3364,
+  "type": 5,
+  "name": "Daga de Humuda",
+  "level": 6,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>6&CV>1",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

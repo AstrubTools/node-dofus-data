@@ -1,0 +1,20 @@
+{
+  "id": 3501,
+  "type": 5,
+  "name": "Daga de Icofem",
+  "level": 52,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>52",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

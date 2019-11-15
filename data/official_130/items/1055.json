@@ -1,0 +1,20 @@
+{
+  "id": 1055,
+  "type": 8,
+  "name": "Pequeña Pala de Kutulú",
+  "level": 25,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>22&CI>3",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

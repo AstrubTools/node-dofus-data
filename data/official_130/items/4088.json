@@ -1,0 +1,20 @@
+{
+  "id": 4088,
+  "type": 4,
+  "name": "Bastón de Udirelou",
+  "level": 100,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>121",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

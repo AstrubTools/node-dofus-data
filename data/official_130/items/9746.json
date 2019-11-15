@@ -1,0 +1,20 @@
+{
+  "id": 9746,
+  "type": 3,
+  "name": "Varita N\\'Bulh",
+  "level": 40,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>40&CV>40",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "2",
+    "50",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

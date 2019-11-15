@@ -1,0 +1,20 @@
+{
+  "id": 4703,
+  "type": 2,
+  "name": "Arco de Vyfeveva",
+  "level": 11,
+  "pods": 23,
+  "ethereal": true,
+  "requirements": "CA>10",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4729,
+  "type": 2,
+  "name": "Arco de Oluce",
+  "level": 20,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>18&CS>8",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

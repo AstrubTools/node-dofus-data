@@ -1,0 +1,20 @@
+{
+  "id": 5724,
+  "type": 8,
+  "name": "Pala de Thokuru",
+  "level": 59,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CC>52&CS>23",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

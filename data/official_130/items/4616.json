@@ -1,0 +1,20 @@
+{
+  "id": 4616,
+  "type": 3,
+  "name": "Varita de Fitapupi",
+  "level": 128,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>138",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "2",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 9007,
+  "type": 82,
+  "name": "Escudo Slip",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PP>5",
+  "stats": ""
+}

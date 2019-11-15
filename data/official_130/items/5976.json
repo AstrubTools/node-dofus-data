@@ -1,0 +1,20 @@
+{
+  "id": 5976,
+  "type": 8,
+  "name": "Pala de Udurain",
+  "level": 143,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>144&CS>65&CV>31",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

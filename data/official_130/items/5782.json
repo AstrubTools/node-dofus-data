@@ -1,0 +1,20 @@
+{
+  "id": 5782,
+  "type": 8,
+  "name": "Pala de Apelep",
+  "level": 78,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CC>72",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

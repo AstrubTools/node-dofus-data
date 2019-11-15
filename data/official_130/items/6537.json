@@ -1,0 +1,20 @@
+{
+  "id": 6537,
+  "type": 8,
+  "name": "Pala Suegra",
+  "level": 88,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>200&CV>100&CA>70",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

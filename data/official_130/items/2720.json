@@ -1,0 +1,20 @@
+{
+  "id": 2720,
+  "type": 6,
+  "name": "Espada de Nezillion",
+  "level": 9,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>9",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

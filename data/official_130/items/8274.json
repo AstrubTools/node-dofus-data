@@ -1,0 +1,19 @@
+{
+  "id": 8274,
+  "type": 19,
+  "name": "Hacha del Minotauroro",
+  "level": 109,
+  "pods": 10,
+  "ethereal": false,
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

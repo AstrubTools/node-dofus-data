@@ -1,0 +1,20 @@
+{
+  "id": 8612,
+  "type": 3,
+  "name": "El Bidyiz",
+  "level": 79,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>150",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "5",
+    "40",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

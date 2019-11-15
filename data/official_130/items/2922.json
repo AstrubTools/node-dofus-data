@@ -1,0 +1,20 @@
+{
+  "id": 2922,
+  "type": 6,
+  "name": "Espada de Agaboo",
+  "level": 63,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>63",
+  "stats": [
+    "3",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

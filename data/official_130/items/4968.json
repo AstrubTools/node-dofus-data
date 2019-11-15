@@ -1,0 +1,20 @@
+{
+  "id": 4968,
+  "type": 2,
+  "name": "Arco de Druhap",
+  "level": 99,
+  "pods": 28,
+  "ethereal": true,
+  "requirements": "CA>93",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5208,
+  "type": 7,
+  "name": "Martillo de Todugo",
+  "level": 33,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CV>18&CS>18",
+  "stats": [
+    "4",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

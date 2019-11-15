@@ -1,0 +1,20 @@
+{
+  "id": 6285,
+  "type": 19,
+  "name": "Hacha de Nogynum",
+  "level": 100,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>106",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

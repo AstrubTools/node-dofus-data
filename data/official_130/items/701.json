@@ -1,0 +1,10 @@
+{
+  "id": 701,
+  "type": 16,
+  "name": "El Oiram",
+  "level": 22,
+  "pods": 12,
+  "ethereal": false,
+  "requirements": "PG!10",
+  "stats": ""
+}

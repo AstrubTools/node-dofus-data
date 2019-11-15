@@ -1,0 +1,20 @@
+{
+  "id": 5682,
+  "type": 8,
+  "name": "Pala de Uwilu",
+  "level": 45,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CC>45",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

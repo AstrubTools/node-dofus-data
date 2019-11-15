@@ -1,0 +1,10 @@
+{
+  "id": 10506,
+  "type": 75,
+  "name": "Pergamino del hechizo especial Flecha de Dispersió",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "PG=9",
+  "stats": ""
+}

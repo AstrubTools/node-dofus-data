@@ -1,0 +1,20 @@
+{
+  "id": 4719,
+  "type": 2,
+  "name": "Arco de Lefonun",
+  "level": 16,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CA>15",
+  "stats": [
+    "7",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

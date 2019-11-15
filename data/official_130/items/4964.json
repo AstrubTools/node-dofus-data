@@ -1,0 +1,20 @@
+{
+  "id": 4964,
+  "type": 2,
+  "name": "Arco de Depinege",
+  "level": 98,
+  "pods": 30,
+  "ethereal": true,
+  "requirements": "CA>107",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

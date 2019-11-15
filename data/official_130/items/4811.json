@@ -1,0 +1,20 @@
+{
+  "id": 4811,
+  "type": 2,
+  "name": "Arco de Pefubicu",
+  "level": 47,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>48",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

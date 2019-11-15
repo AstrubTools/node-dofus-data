@@ -1,0 +1,20 @@
+{
+  "id": 3954,
+  "type": 4,
+  "name": "Bastón de Lithudeul",
+  "level": 55,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CI>65",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4193,
+  "type": 4,
+  "name": "Bastón de Bemip",
+  "level": 135,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CI>145",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

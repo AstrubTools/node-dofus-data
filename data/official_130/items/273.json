@@ -1,0 +1,20 @@
+{
+  "id": 273,
+  "type": 2,
+  "name": "La Cuerda de Yamato",
+  "level": 33,
+  "pods": 18,
+  "ethereal": false,
+  "requirements": "CA>33&CS>10",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

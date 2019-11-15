@@ -1,0 +1,20 @@
+{
+  "id": 6840,
+  "type": 6,
+  "name": "Espada de Yanguiciado",
+  "level": 1,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "PG=6&PS=1",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

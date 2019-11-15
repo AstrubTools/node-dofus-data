@@ -1,0 +1,20 @@
+{
+  "id": 6210,
+  "type": 19,
+  "name": "Hacha de Hivalipe",
+  "level": 75,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>68",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

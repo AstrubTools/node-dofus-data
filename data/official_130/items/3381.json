@@ -1,0 +1,20 @@
+{
+  "id": 3381,
+  "type": 5,
+  "name": "Daga de Nirugotas",
+  "level": 12,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>14",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

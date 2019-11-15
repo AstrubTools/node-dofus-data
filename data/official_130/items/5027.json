@@ -1,0 +1,20 @@
+{
+  "id": 5027,
+  "type": 2,
+  "name": "Arco de Udarasug",
+  "level": 119,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>124&CS>50",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

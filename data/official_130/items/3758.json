@@ -1,0 +1,20 @@
+{
+  "id": 3758,
+  "type": 5,
+  "name": "Daga de Thufam",
+  "level": 136,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CA>131&CV>68",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

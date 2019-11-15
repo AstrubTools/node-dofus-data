@@ -1,0 +1,20 @@
+{
+  "id": 5587,
+  "type": 8,
+  "name": "Pala de Mimifame",
+  "level": 13,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CC>12",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

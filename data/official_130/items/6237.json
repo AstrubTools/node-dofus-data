@@ -1,0 +1,20 @@
+{
+  "id": 6237,
+  "type": 19,
+  "name": "Hacha de Hamocer",
+  "level": 84,
+  "pods": 33,
+  "ethereal": true,
+  "requirements": "CS>93",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

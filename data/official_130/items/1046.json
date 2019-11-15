@@ -1,0 +1,20 @@
+{
+  "id": 1046,
+  "type": 8,
+  "name": "Palita enredaderada",
+  "level": 38,
+  "pods": 40,
+  "ethereal": false,
+  "requirements": "CS>10&CC>28",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

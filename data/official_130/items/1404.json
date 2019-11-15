@@ -1,0 +1,20 @@
+{
+  "id": 1404,
+  "type": 7,
+  "name": "Martillo Bestial",
+  "level": 35,
+  "pods": 35,
+  "ethereal": false,
+  "requirements": "CI>80&CW>30",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

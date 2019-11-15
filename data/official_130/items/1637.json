@@ -1,0 +1,20 @@
+{
+  "id": 1637,
+  "type": 6,
+  "name": "Estrella de la Noche",
+  "level": 44,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>36&CV>36&CS>12",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2156,
+  "type": 6,
+  "name": "Espada de Justicia",
+  "level": 1,
+  "pods": 1,
+  "ethereal": false,
+  "requirements": "PN~Silaisie",
+  "stats": [
+    "30",
+    "5",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4103,
+  "type": 4,
+  "name": "Bastón de Nybocipek",
+  "level": 105,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CI>116",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

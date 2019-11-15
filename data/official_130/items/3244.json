@@ -1,0 +1,20 @@
+{
+  "id": 3244,
+  "type": 6,
+  "name": "Espada de Alunavim",
+  "level": 39,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>42",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

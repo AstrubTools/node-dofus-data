@@ -1,0 +1,20 @@
+{
+  "id": 4195,
+  "type": 4,
+  "name": "Bastón de Feukepisu",
+  "level": 135,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CI>162&CV>51",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

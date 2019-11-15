@@ -1,0 +1,20 @@
+{
+  "id": 831,
+  "type": 3,
+  "name": "Gran Varita de Inteligencia",
+  "level": 27,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>27",
+  "stats": [
+    "5",
+    "3",
+    "2",
+    "2",
+    "50",
+    "20",
+    "0",
+    "1",
+    "0"
+  ]
+}

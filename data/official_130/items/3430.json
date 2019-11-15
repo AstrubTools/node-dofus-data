@@ -1,0 +1,20 @@
+{
+  "id": 3430,
+  "type": 5,
+  "name": "Daga de Aleba",
+  "level": 28,
+  "pods": 26,
+  "ethereal": true,
+  "requirements": "CA>28",
+  "stats": [
+    "7",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

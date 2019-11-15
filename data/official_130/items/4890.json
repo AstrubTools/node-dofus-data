@@ -1,0 +1,20 @@
+{
+  "id": 4890,
+  "type": 2,
+  "name": "Arco de Rhuhusek",
+  "level": 73,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>66&CS>18",
+  "stats": [
+    "9",
+    "4",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

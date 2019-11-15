@@ -1,0 +1,20 @@
+{
+  "id": 3502,
+  "type": 5,
+  "name": "Daga de Thileufes",
+  "level": 52,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CA>52",
+  "stats": [
+    "11",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

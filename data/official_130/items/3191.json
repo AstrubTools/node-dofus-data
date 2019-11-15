@@ -1,0 +1,20 @@
+{
+  "id": 3191,
+  "type": 6,
+  "name": "Espada de Kugruk",
+  "level": 145,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CS>146&CV>45",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

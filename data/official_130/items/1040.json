@@ -1,0 +1,20 @@
+{
+  "id": 1040,
+  "type": 5,
+  "name": "Cuchillos Sangrientos de Ortimus Contrari",
+  "level": 80,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>79&CS>40",
+  "stats": [
+    "15",
+    "3",
+    "1",
+    "1",
+    "20",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8931,
+  "type": 6,
+  "name": "Az\\'teqka",
+  "level": 186,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CA>200&CC>200&CS>200",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "45",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

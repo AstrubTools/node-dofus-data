@@ -1,0 +1,20 @@
+{
+  "id": 4090,
+  "type": 4,
+  "name": "Bastón de Tifagre",
+  "level": 100,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CI>102&CV>37",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

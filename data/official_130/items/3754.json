@@ -1,0 +1,20 @@
+{
+  "id": 3754,
+  "type": 5,
+  "name": "Daga de Lulivlil",
+  "level": 134,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CA>145&CV>55",
+  "stats": [
+    "12",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3425,
+  "type": 5,
+  "name": "Daga de Sadifoce",
+  "level": 27,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>27",
+  "stats": [
+    "8",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5604,
+  "type": 8,
+  "name": "Pala de Otosugag",
+  "level": 19,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CC>19&CS>9",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

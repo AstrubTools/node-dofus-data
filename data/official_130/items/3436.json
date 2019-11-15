@@ -1,0 +1,20 @@
+{
+  "id": 3436,
+  "type": 5,
+  "name": "Daga de Vilot",
+  "level": 30,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CA>30",
+  "stats": [
+    "14",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

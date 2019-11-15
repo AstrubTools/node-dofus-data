@@ -1,0 +1,20 @@
+{
+  "id": 5818,
+  "type": 8,
+  "name": "Pala de Alawae",
+  "level": 90,
+  "pods": 35,
+  "ethereal": true,
+  "requirements": "CC>75",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

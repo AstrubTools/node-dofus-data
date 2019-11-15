@@ -1,0 +1,20 @@
+{
+  "id": 6284,
+  "type": 19,
+  "name": "Hacha de Flafafiti",
+  "level": 99,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>99",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

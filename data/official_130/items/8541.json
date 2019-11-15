@@ -1,0 +1,19 @@
+{
+  "id": 8541,
+  "type": 20,
+  "name": "Caña de aprendiz de pescador",
+  "level": 1,
+  "pods": 4,
+  "ethereal": false,
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

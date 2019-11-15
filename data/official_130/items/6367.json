@@ -1,0 +1,20 @@
+{
+  "id": 6367,
+  "type": 19,
+  "name": "Hacha de Ipihofi",
+  "level": 127,
+  "pods": 38,
+  "ethereal": true,
+  "requirements": "CS>115&CW>7",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

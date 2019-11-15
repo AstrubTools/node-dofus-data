@@ -1,0 +1,20 @@
+{
+  "id": 2969,
+  "type": 6,
+  "name": "Espada de Flelih",
+  "level": 86,
+  "pods": 16,
+  "ethereal": true,
+  "requirements": "CS>85",
+  "stats": [
+    "1",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

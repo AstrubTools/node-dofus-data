@@ -1,0 +1,20 @@
+{
+  "id": 3323,
+  "type": 6,
+  "name": "Espada de Fleceber",
+  "level": 118,
+  "pods": 21,
+  "ethereal": true,
+  "requirements": "CS>110",
+  "stats": [
+    "3",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

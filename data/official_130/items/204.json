@@ -1,0 +1,20 @@
+{
+  "id": 204,
+  "type": 4,
+  "name": "Krystobola",
+  "level": 59,
+  "pods": 23,
+  "ethereal": false,
+  "requirements": "CI>59&CA>5",
+  "stats": [
+    "5",
+    "3",
+    "1",
+    "1",
+    "30",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

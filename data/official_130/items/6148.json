@@ -1,0 +1,20 @@
+{
+  "id": 6148,
+  "type": 19,
+  "name": "Hacha de Usutor",
+  "level": 54,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>57",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

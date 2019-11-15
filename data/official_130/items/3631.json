@@ -1,0 +1,20 @@
+{
+  "id": 3631,
+  "type": 5,
+  "name": "Daga de Atatimos",
+  "level": 95,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>91&CV>47",
+  "stats": [
+    "6",
+    "3",
+    "1",
+    "1",
+    "30",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

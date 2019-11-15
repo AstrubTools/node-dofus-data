@@ -1,0 +1,20 @@
+{
+  "id": 1118,
+  "type": 2,
+  "name": "Arco Ecológico",
+  "level": 23,
+  "pods": 17,
+  "ethereal": false,
+  "requirements": "CI>25&CA>17",
+  "stats": [
+    "10",
+    "6",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

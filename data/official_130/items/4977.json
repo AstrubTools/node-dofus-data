@@ -1,0 +1,20 @@
+{
+  "id": 4977,
+  "type": 2,
+  "name": "Arco de Ofirusr",
+  "level": 102,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CA>99",
+  "stats": [
+    "8",
+    "4",
+    "3",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

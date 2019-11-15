@@ -1,0 +1,20 @@
+{
+  "id": 9753,
+  "type": 19,
+  "name": "Hacha Sinah\\'Mu\\'Sho",
+  "level": 60,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CI>60&CV>60",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

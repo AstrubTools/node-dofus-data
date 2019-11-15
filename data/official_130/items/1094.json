@@ -1,0 +1,20 @@
+{
+  "id": 1094,
+  "type": 2,
+  "name": "Gran Arco Buz",
+  "level": 21,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CA>20&CS>31",
+  "stats": [
+    "10",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

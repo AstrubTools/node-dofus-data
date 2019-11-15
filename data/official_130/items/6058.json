@@ -1,0 +1,20 @@
+{
+  "id": 6058,
+  "type": 19,
+  "name": "Hacha de Tevole",
+  "level": 24,
+  "pods": 31,
+  "ethereal": true,
+  "requirements": "CS>25&CV>13",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

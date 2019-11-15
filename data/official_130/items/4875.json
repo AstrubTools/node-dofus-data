@@ -1,0 +1,20 @@
+{
+  "id": 4875,
+  "type": 2,
+  "name": "Arco de Dikatugi",
+  "level": 68,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CA>64",
+  "stats": [
+    "8",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4166,
+  "type": 4,
+  "name": "Bastón de Kroras",
+  "level": 126,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CI>142",
+  "stats": [
+    "4",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2615,
+  "type": 19,
+  "name": "Hacha del Lookabeer",
+  "level": 96,
+  "pods": 23,
+  "ethereal": false,
+  "requirements": "CV>120",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "0",
+    "0"
+  ]
+}

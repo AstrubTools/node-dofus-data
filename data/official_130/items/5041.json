@@ -1,0 +1,20 @@
+{
+  "id": 5041,
+  "type": 2,
+  "name": "Arco de Legdar",
+  "level": 124,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CA>116",
+  "stats": [
+    "6",
+    "4",
+    "2",
+    "6",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

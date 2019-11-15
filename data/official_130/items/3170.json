@@ -1,0 +1,20 @@
+{
+  "id": 3170,
+  "type": 6,
+  "name": "Espada de Ourekrten",
+  "level": 134,
+  "pods": 18,
+  "ethereal": true,
+  "requirements": "CS>121",
+  "stats": [
+    "6",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

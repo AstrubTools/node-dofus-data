@@ -1,0 +1,20 @@
+{
+  "id": 2974,
+  "type": 6,
+  "name": "Espada de Ovruber",
+  "level": 89,
+  "pods": 25,
+  "ethereal": true,
+  "requirements": "CS>96",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

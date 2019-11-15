@@ -1,0 +1,20 @@
+{
+  "id": 4577,
+  "type": 3,
+  "name": "Varita de Domoli",
+  "level": 115,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>119&CV>47",
+  "stats": [
+    "5",
+    "4",
+    "2",
+    "3",
+    "50",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

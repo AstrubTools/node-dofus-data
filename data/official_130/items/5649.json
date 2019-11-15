@@ -1,0 +1,20 @@
+{
+  "id": 5649,
+  "type": 8,
+  "name": "Pala de Pagiraf",
+  "level": 34,
+  "pods": 32,
+  "ethereal": true,
+  "requirements": "CC>29&CS>13",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

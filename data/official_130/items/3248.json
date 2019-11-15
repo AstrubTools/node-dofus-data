@@ -1,0 +1,20 @@
+{
+  "id": 3248,
+  "type": 6,
+  "name": "Espada de Ehekit",
+  "level": 43,
+  "pods": 20,
+  "ethereal": true,
+  "requirements": "CS>40",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

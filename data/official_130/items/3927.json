@@ -1,0 +1,20 @@
+{
+  "id": 3927,
+  "type": 4,
+  "name": "Bastón de Upihelih",
+  "level": 46,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CI>41",
+  "stats": [
+    "7",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

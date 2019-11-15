@@ -1,0 +1,20 @@
+{
+  "id": 1128,
+  "type": 2,
+  "name": "Arco superpotente de Roberto del Monte",
+  "level": 72,
+  "pods": 20,
+  "ethereal": false,
+  "requirements": "CS>90&CA>55",
+  "stats": [
+    "14",
+    "5",
+    "2",
+    "8",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3990,
+  "type": 4,
+  "name": "Bastón de Betifumi",
+  "level": 67,
+  "pods": 36,
+  "ethereal": true,
+  "requirements": "CI>63",
+  "stats": [
+    "6",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

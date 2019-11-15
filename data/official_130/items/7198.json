@@ -1,0 +1,20 @@
+{
+  "id": 7198,
+  "type": 6,
+  "name": "Afeitadora Nocturna",
+  "level": 106,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CS>200&CA>100",
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

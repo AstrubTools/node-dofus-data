@@ -1,0 +1,20 @@
+{
+  "id": 5138,
+  "type": 7,
+  "name": "Martillo de Lofdar",
+  "level": 10,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CV>7&CS>6",
+  "stats": [
+    "7",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

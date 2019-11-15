@@ -1,0 +1,20 @@
+{
+  "id": 4698,
+  "type": 2,
+  "name": "Arco de Mezuten",
+  "level": 9,
+  "pods": 27,
+  "ethereal": true,
+  "requirements": "CA>11",
+  "stats": [
+    "3",
+    "4",
+    "2",
+    "5",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

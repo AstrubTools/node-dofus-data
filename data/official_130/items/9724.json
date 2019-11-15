@@ -1,0 +1,20 @@
+{
+  "id": 9724,
+  "type": 8,
+  "name": "Pala Di\\'Noh",
+  "level": 30,
+  "pods": 10,
+  "ethereal": false,
+  "requirements": "CC>30&CV>30",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "1"
+  ]
+}

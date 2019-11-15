@@ -1,0 +1,20 @@
+{
+  "id": 4188,
+  "type": 4,
+  "name": "Bastón de Evoelov",
+  "level": 133,
+  "pods": 34,
+  "ethereal": true,
+  "requirements": "CI>115&CV>61",
+  "stats": [
+    "8",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

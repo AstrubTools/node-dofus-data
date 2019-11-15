@@ -1,0 +1,20 @@
+{
+  "id": 3314,
+  "type": 6,
+  "name": "Espada de Kavahusa",
+  "level": 109,
+  "pods": 22,
+  "ethereal": true,
+  "requirements": "CS>109",
+  "stats": [
+    "2",
+    "4",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

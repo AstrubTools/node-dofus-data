@@ -1,0 +1,10 @@
+{
+  "id": 702,
+  "type": 16,
+  "name": "Kritter",
+  "level": 30,
+  "pods": 9,
+  "ethereal": false,
+  "requirements": "PG!10",
+  "stats": ""
+}

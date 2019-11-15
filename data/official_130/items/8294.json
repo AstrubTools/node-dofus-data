@@ -1,0 +1,20 @@
+{
+  "id": 8294,
+  "type": 7,
+  "name": "Martillo del dragohuevo",
+  "level": 123,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CI>200&CC>100",
+  "stats": [
+    "10",
+    "5",
+    "1",
+    "1",
+    "45",
+    "50",
+    "0",
+    "1",
+    "0"
+  ]
+}

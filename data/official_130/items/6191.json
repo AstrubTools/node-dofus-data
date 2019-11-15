@@ -1,0 +1,20 @@
+{
+  "id": 6191,
+  "type": 19,
+  "name": "Hacha de Ganumotte",
+  "level": 68,
+  "pods": 24,
+  "ethereal": true,
+  "requirements": "CS>63&CW>6",
+  "stats": [
+    "5",
+    "5",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

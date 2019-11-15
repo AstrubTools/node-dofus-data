@@ -1,0 +1,20 @@
+{
+  "id": 1431,
+  "type": 8,
+  "name": "Gran Pala Frutera",
+  "level": 60,
+  "pods": 30,
+  "ethereal": false,
+  "requirements": "CC>25&CI>25",
+  "stats": [
+    "5",
+    "6",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

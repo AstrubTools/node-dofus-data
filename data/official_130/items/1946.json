@@ -1,0 +1,19 @@
+{
+  "id": 1946,
+  "type": 20,
+  "name": "Machete de pescadero",
+  "level": 1,
+  "pods": 2,
+  "ethereal": false,
+  "stats": [
+    "10",
+    "4",
+    "1",
+    "1",
+    "25",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

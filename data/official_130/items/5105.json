@@ -1,0 +1,20 @@
+{
+  "id": 5105,
+  "type": 2,
+  "name": "Arco de Emexe",
+  "level": 145,
+  "pods": 29,
+  "ethereal": true,
+  "requirements": "CA>132",
+  "stats": [
+    "12",
+    "4",
+    "2",
+    "3",
+    "30",
+    "50",
+    "0",
+    "1",
+    "1"
+  ]
+}

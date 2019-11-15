@@ -1,0 +1,20 @@
+{
+  "id": 144,
+  "type": 7,
+  "name": "Martillito de Maderucha",
+  "level": 1,
+  "pods": 15,
+  "ethereal": false,
+  "requirements": "CI>1&CS>1",
+  "stats": [
+    "5",
+    "4",
+    "1",
+    "1",
+    "50",
+    "50",
+    "0",
+    "0",
+    "0"
+  ]
+}

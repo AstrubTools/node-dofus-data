@@ -1,0 +1,20 @@
+{
+  "id": 3122,
+  "type": 6,
+  "name": "Espada de Aelyake",
+  "level": 110,
+  "pods": 19,
+  "ethereal": true,
+  "requirements": "CS>112",
+  "stats": [
+    "2",
+    "5",
+    "1",
+    "1",
+    "40",
+    "40",
+    "0",
+    "1",
+    "0"
+  ]
+}

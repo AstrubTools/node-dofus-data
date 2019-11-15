@@ -1,0 +1,20 @@
+{
+  "id": 6382,
+  "type": 19,
+  "name": "Hacha de Zelel",
+  "level": 132,
+  "pods": 37,
+  "ethereal": true,
+  "requirements": "CS>126",
+  "stats": [
+    "6",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}

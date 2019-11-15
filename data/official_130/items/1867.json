@@ -1,0 +1,20 @@
+{
+  "id": 1867,
+  "type": 20,
+  "name": "Gran caña de pescar",
+  "level": 1,
+  "pods": 4,
+  "ethereal": false,
+  "requirements": "PJ>36,39",
+  "stats": [
+    "1",
+    "4",
+    "1",
+    "5",
+    "100",
+    "100",
+    "0",
+    "0",
+    "0"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6374,
+  "type": 19,
+  "name": "Hacha de Amehatos",
+  "level": 129,
+  "pods": 39,
+  "ethereal": true,
+  "requirements": "CS>141",
+  "stats": [
+    "2",
+    "6",
+    "1",
+    "1",
+    "40",
+    "30",
+    "0",
+    "1",
+    "0"
+  ]
+}
