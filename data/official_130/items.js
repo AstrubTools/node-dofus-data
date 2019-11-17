@@ -1,9098 +1,9098 @@
 const Items = {
-arcDitKeha1: 1113,
-arcDitKeha2: 1114,
-arcDitKeha3: 1115,
-arcDitKeha4: 1116,
-batonDeDina: 1367,
-lesProphetes: 8011,
-abraKadabra: 8153,
-abraKadabraBienLElever: 8318,
-abrabottes: 2423,
-abracapa: 2413,
-abracapaAncestrale: 8464,
-abracape: 948,
-abracaska: 2410,
-abracaskaAncestral: 8463,
-abraknydiVivitus: 791,
-abranneau: 836,
-abranneauMou: 1559,
-abranneauSombre: 1602,
-abrarc: 1620,
-abraton: 2417,
-abratonSombre: 6454,
-abrature: 2429,
-abratureAncestrale: 8468,
-abreuvoirClassique: 7605,
-abreuvoirEnBambou: 7602,
-abreuvoirEnBambouDore: 7676,
-abreuvoirEnBambouMagique: 7677,
-abreuvoirEnBambouSacre: 7604,
-abreuvoirEnBambouSombre: 7603,
-abreuvoirEnBoisAncestral: 7673,
-abreuvoirEnBoisDeBambouto: 7678,
-abreuvoirEnBoisDeBamboutoSacre: 7679,
-abreuvoirEnBoisDeKokoko: 7682,
-abreuvoirEnBoisDeTronknyde: 7675,
-abreuvoirEnBoisEnvoûte: 7674,
-abreuvoirEnBombu: 7600,
-abreuvoirEnCharme: 7594,
-abreuvoirEnChataigner: 7593,
-abreuvoirEnChene: 7591,
-abreuvoirEnEbene: 7598,
-abreuvoirEnErable: 7592,
-abreuvoirEnFrene: 7590,
-abreuvoirEnIf: 7597,
-abreuvoirEnMerisier: 7596,
-abreuvoirEnNoyer: 7595,
-abreuvoirEnOliviolet: 7601,
-abreuvoirEnOrme: 7599,
-accord: 1480,
-acteDePropriete: 2360
-adresseDeRimaraf: 2176
-aermyneBracoScalptaras: 7350
-agathe: 7028
-agride: 782
-aigueMarine: 7026
-aiguilleDuCostumage: 7494
-aiguillesEtFil: 951
-aileDeDragodinde: 2588
-aileDeDragodindeRousseSauvage: 2586
-aileDeDragoeufVolant: 8359
-aileDeRaie2: 1815
-aileDeRaie3: 1816
-aileDeRaie4: 1831
-aileDuBitoufDesPlaines: 8767
-aileDuTofuMalefique: 376
-ailesCassees: 1022
-ailesDeMoskito: 307
-ailesDeScarafeuilleBlanc: 1456
-ailesDeScarafeuilleBleu: 1455
-ailesDeScarafeuilleRouge: 1457
-ailesDeScarafeuilleVert: 1458
-ailesDuScarabosseDore: 8161
-ailesDuScarafeuilleNoir: 8141
-ailesEnBois: 1021
-ailesEnBoisAmeliorees: 8919
-alliance: 1501
-allianceAerdala: 7249
-allianceAkwadala: 7246
-allianceBoletee: 9133
-allianceDElyaWood: 6998
-allianceDeCorail: 8860
-allianceDeFarle: 6469
-allianceDeLHommeOurs: 6722
-allianceDeSilimelle: 732
-allianceDuChampChamp: 6920
-allianceEthnique: 7117
-allianceFeudala: 7248
-allianceTerrdala: 7247
-aluminite: 747
-ambramuletteArackne: 1662
-ambramuletteMoskito: 1661
-ambre: 463
-ambreAncestrale: 918
-ambreDAbraknyde: 464
-ambreDAbraknydeSombre: 1660
-ambreDeBambouto: 7369
-ambreDeBamboutoSacre: 7370
-ambreDuCheneMou: 6490
-ambreDuTynril: 8916
-ameDuKralamoure: 9720
-amrothiline: 6518
-amublopCoco: 9151
-amublopCocoRoyale: 9155
-amublopGriotte: 9149
-amublopGriotteRoyale: 9153
-amublopIndigo: 9152
-amublopIndigoRoyale: 9156
-amublopMulticoloreRoyale: 9157
-amublopReinette: 9150
-amublopReinetteRoyale: 9154
-amufafah: 8880
-amukwakDeFlammes: 2424
-amukwakDeGlace: 6731
-amukwakDeTerre: 6746
-amukwakDuVent: 6747
-amuletteDentsDeWabbits: 6499
-amuletteAerdala: 7253
-amuletteAkwadala: 7250
-amuletteArgie: 4381
-amuletteDeJiva: 2155
-amuletteDeKrokette: 324
-amuletteDeLAventurier: 2478
-amuletteDeLHommeOurs: 6723
-amuletteDeLOurs: 75
-amuletteDeLaBouboule: 2391
-amuletteDeLaBoule: 2390
-amuletteDeLear: 9528
-amuletteDePandala: 7105
-amuletteDeShika: 6466
-amuletteDeSilicate: 916
-amuletteDeXelor: 1474
-amuletteDesAbîmes: 639
-amuletteDesChamps: 6789
-amuletteDeulegarnoulle: 326
-amuletteDuBadoul: 2389
-amuletteDuBandit: 6923
-amuletteDuBoufcoul: 7880
-amuletteDuBouftou: 2425
-amuletteDuBûcheron: 783
-amuletteDuChafer: 458
-amuletteDuChefBwork: 6804
-amuletteDuChefCrocodaille: 6817
-amuletteDuCraqueleur: 1476
-amuletteDuCraqueleurDesPlaines: 4684
-amuletteDuCraqueleurLegendaire: 8150
-amuletteDuDragoeuf: 8290
-amuletteDuHibou: 68
-amuletteDuKamAssutra: 323
-amuletteDuKitsou: 7342
-amuletteDuKoalak: 8003
-amuletteDuLoup: 82
-amuletteDuMarin: 616
-amuletteDuMineurSombre: 6459
-amuletteDuMominotor: 8411
-amuletteDuMoskito: 6918
-amuletteDuPecheurDeSomoon: 638
-amuletteDuPetitHibou: 764
-amuletteDuPetitOurs: 854
-amuletteDuPiouBleu: 8214
-amuletteDuPiouJaune: 8217
-amuletteDuPiouRose: 8218
-amuletteDuPiouRouge: 8213
-amuletteDuPiouVert: 8216
-amuletteDuPiouViolet: 8215
-amuletteDuPirate: 617
-amuletteDuRenouveau: 6443
-amuletteDuSram: 325
-amuletteDuTofu: 8108
-amuletteDuVampyre: 10055
-amuletteElementaire: 1099
-amuletteEnCrabe: 610
-amuletteEnMousse: 8253
-amuletteFeudala: 7252
-amuletteItby: 1330
-amuletteItbyRemaniee: 1484
-amuletteObvijevan: 9255
-amulettePapayou: 9658
-amulettePaysanne: 8123
-amuletteRipage: 9179
-amuletteRoyaleDuBouftou: 2443
-amuletteScarabosseDore: 8120
-amuletteTerrdala: 7251
-amuletteTude: 6773
-amuletteTurquoise: 6444
-amuloumulette: 8129
-amunite: 9463
-amygdalesDuBitoufSombre: 8783
-analyseDeSangDeWabbitGm: 1747
-angesDemons: 7367
-anneauAgilesque: 850
-anneauAncestral: 8466
-anneauBhli: 8714
-anneauBlitere: 9178
-anneauBsene: 7123
-anneauCeremonialDuSeigneurDesRats: 8460
-anneauChampetre: 6791
-anneauChevelu: 9132
-anneauColerette: 9131
-anneauCristalin: 9452
-anneauDAgilite: 119
-anneauDeBouzeLeClerc: 2419
-anneauDeChance: 110
-anneauDeLAventurier: 2475
-anneauDeLInvocateurSatisfait: 6464
-anneauDeLaMort: 9942
-anneauDeLoopine: 6465
-anneauDeSagesse: 101
-anneauDeSatisfaction: 841
-anneauDeSlait: 9662
-anneauDesRocheuses: 278
-anneauDuBandit: 6961
-anneauDuBoufcoul: 7881
-anneauDuChampChamp: 6919
-anneauDuCheneMou: 8470
-anneauDuDragoeuf: 8289
-anneauDuDragonCochon: 8271
-anneauDuJeuneVald: 6468
-anneauDuKitsou: 7341
-anneauDuKoalak: 8004
-anneauDuMental: 1087
-anneauDuMeulou: 8263
-anneauDuMineurGogorifiant: 6506
-anneauDuMinotoror: 8269
-anneauDuMominotor: 8412
-anneauDuMulou: 6956
-anneauDuPiouBleu: 8220
-anneauDuPiouJaune: 8223
-anneauDuPiouRose: 8224
-anneauDuPiouRouge: 8219
-anneauDuPiouVert: 8222
-anneauDuPiouViolet: 8221
-anneauDuPrespic: 6928
-anneauDuRatNoir: 8448
-anneauDuSanglier: 6910
-anneauDuScarabosseDore: 8121
-anneauDuTofu: 8109
-anneauDuVampyre: 10054
-anneauEnMousse: 8254
-anneauFioutioure: 6997
-anneauForain: 6463
-anneauForcesque: 849
-anneauFortifiant: 785
-anneauHa: 7119
-anneauHe: 7120
-anneauHell: 8722
-anneauKTuelle: 7118
-anneauKarina: 7128
-anneauMer: 1729
-anneauMerta: 7116
-anneauNime: 6467
-anneauObvijevan: 9256
-anneauPaupayahn: 9198
-anneauPiaume: 7131
-anneauPitale: 8725
-anneauPoli: 8879
-anneauPwal: 8724
-anneauRaille: 8721
-anneauRak: 346
-anneauRexik: 787
-anneauRigami: 7132
-anneauRoyalDuBouftou: 2441
-anneauSkargo: 8865
-anneauSolo: 8881
-anneauStalgik: 8719
-anneauStradamus: 6996
-anneauTassion: 8718
-anneauThe: 1: 6771
-anneauThe: 2: 6793
-anneauTilus: 8723
-anneauTribal: 3203
-anneauVice: 7122
-anneauVitalesque: 851
-anneauZamour: 8720
-anneauZest: 9416
-anneauZocomial: 7121
-annobuseDeMaîtreJarbo: 9031
-annolamour: 8991
-anobra: 2420
-anodindo: 7555
-antenneDuScarafeuilleBlanc: 1467
-antenneDuScarafeuilleBleu: 1464
-antenneDuScarafeuilleRouge: 1465
-antenneDuScarafeuilleVert: 1466
-antennesDuScarabosseDore: 8160
-antennesDuScarafeuilleNoir: 8140
-anticipation: 2567
-appatsSpeciaux: 2107
-arakneMajeureMorte: 2653
-araknoton: 6911
-araknoture: 6912
-arcAChon: 8924
-arcALamelles: 9134
-arcAPoulieSciee: 1353
-arcAnge: 6451
-arcAnum: 7194
-arcAssin: 7161
-arcBoutant: 6445
-arcBuse: 1093
-arcChiduc: 6446
-arcChitecte: 6452
-arcChtelion: 8104
-arcDEgibake: 4807
-arcDElozyme: 4833
-arcDEpifuca: 4804
-arcDHatake: 4690
-arcDIrurat: 4810
-arcDUmegaf: 4834
-arcDUvilin: 4796
-arcDUxipujus: 4809
-arcDYmutimi: 4828
-arcDeAcero: 4952
-arcDeAdaga: 4962
-arcDeAegefauc: 4946
-arcDeAfesifru: 5057
-arcDeAfirufel: 4752
-arcDeAfogosak: 4710
-arcDeAgimnef: 5118
-arcDeAlethylo: 4879
-arcDeAlofe: 4758
-arcDeAmelate: 5119
-arcDeAmphaemelo: 4779
-arcDeAmphemem: 4816
-arcDeAmpholojae: 5059
-arcDeAmphoplo: 4971
-arcDeAmphowy: 4705
-arcDeAomiel: 4950
-arcDeAquatamem: 5093
-arcDeAquivyfo: 4786
-arcDeAtemelel: 4815
-arcDeAthit: 4928
-arcDeAturej: 5114
-arcDeAvona: 5100
-arcDeAvovael: 4859
-arcDeAzepl: 4973
-arcDeBadamael: 4955
-arcDeBaurev: 5107
-arcDeBazulen: 4930
-arcDeBebos: 4908
-arcDeBelafewa: 4861
-arcDeBesel: 4693
-arcDeBevenaille: 4887
-arcDeBimapa: 4750
-arcDeBlabaul: 5032
-arcDeBlezo: 4722
-arcDeBoisaille: 89
-arcDeBolofa: 4724
-arcDeBoo: 1352
-arcDeBoragau: 4882
-arcDeBoufareg: 4780
-arcDeBouro: 4712
-arcDeBrecabed: 5064
-arcDeBreustute: 4718
-arcDeBugedeh: 4937
-arcDeButileuf: 4872
-arcDeBydenow: 4915
-arcDeChasse: 1942
-arcDeCihesa: 4895
-arcDeCijiri: 4922
-arcDeConinim: 4951
-arcDeCristal: 1122
-arcDeCristalOpaque: 1121
-arcDeCristalPur: 1124
-arcDeCristalTranslucide: 1123
-arcDeCugir: 5043
-arcDeCumeka: 4992
-arcDeDepinege: 4964
-arcDeDikatugi: 4875
-arcDeDinutum: 4702
-arcDeDoflim: 5040
-arcDeDoumaki: 4979
-arcDeDruhap: 4968
-arcDeDutotahe: 4744
-arcDeEbaluto: 4981
-arcDeEculec: 4886
-arcDeEfefe: 4773
-arcDeEgemuz: 4715
-arcDeEheura: 4920
-arcDeEhobic: 4941
-arcDeEhonevov: 4733
-arcDeEhouf: 5087
-arcDeEhusur: 4921
-arcDeEkejuneh: 4923
-arcDeElazol: 4990
-arcDeElebeu: 4721
-arcDeElegelo: 5021
-arcDeElele: 4826
-arcDeElelo: 4835
-arcDeElemolo: 4865
-arcDeElepteux: 4700
-arcDeElilos: 5009
-arcDeElmawy: 5025
-arcDeEmenina: 4694
-arcDeEmexe: 5105
-arcDeEmotila: 4864
-arcDeEmuseneb: 4688
-arcDeEnavulap: 4954
-arcDeEnevege: 4837
-arcDeEnihil: 4991
-arcDeEpabib: 4689
-arcDeEpelelag: 4935
-arcDeEraros: 4987
-arcDeEresa: 4884
-arcDeEsepeliz: 5115
-arcDeEtepielle: 4933
-arcDeEtopegal: 4857
-arcDeEuteuvot: 5058
-arcDeEvenol: 4728
-arcDeEvezegr: 4821
-arcDeEvivac: 5035
-arcDeEvomi: 4697
-arcDeEvovaille: 5098
-arcDeEzelov: 5086
-arcDeEzete: 5038
-arcDeEzutole: 4983
-arcDeFanevla: 4934
-arcDeFelosae: 4919
-arcDeFeninit: 5001
-arcDeFeugeuf: 5096
-arcDeFihut: 4844
-arcDeFlaplynale: 4867
-arcDeFlegafr: 4902
-arcDeFluferup: 4976
-arcDeFlyfesevu: 4817
-arcDeFomdar: 4716
-arcDeFoteguz: 4763
-arcDeFurudog: 4751
-arcDeGenolaze: 4841
-arcDeGofisebe: 4880
-arcDeGrodicaik: 4778
-arcDeGuhuk: 4725
-arcDeGuleva: 4687
-arcDeGytnef: 4696
-arcDeHakalat: 4734
-arcDeHebonteux: 5085
-arcDeHevemilu: 4701
-arcDeHufefifi: 4802
-arcDeHygetpur: 4839
-arcDeIdafubap: 4749
-arcDeIdapyb: 4963
-arcDeIkaldar: 4782
-arcDeIkeloc: 4995
-arcDeIkimeju: 4745
-arcDeIsuro: 4889
-arcDeItauly: 4803
-arcDeIvliel: 4871
-arcDeIzomu: 5007
-arcDeJeanne: 332
-arcDeJumab: 4775
-arcDeKanokuk: 4888
-arcDeKewepauw: 5006
-arcDeKifivlob: 4914
-arcDeKoces: 5077
-arcDeKofob: 4764
-arcDeKrodate: 5079
-arcDeKuri: 7040
-arcDeLInitie: 6783
-arcDeLalamu: 4683
-arcDeLallimel: 4878
-arcDeLaracetadi: 4799
-arcDeLauwe: 5110
-arcDeLebevaille: 4852
-arcDeLebielle: 4885
-arcDeLebojody: 5070
-arcDeLefonun: 4719
-arcDeLegdar: 5041
-arcDeLekehab: 4994
-arcDeLevifugu: 5010
-arcDeLiseti: 4717
-arcDeLisinuzel: 5072
-arcDeLisobleme: 4993
-arcDeLisosele: 4800
-arcDeLoboth: 5101
-arcDeLomos: 5056
-arcDeLoxyfadi: 4686
-arcDeLusurut: 5099
-arcDeLyfema: 4708
-arcDeMalage: 4929
-arcDeMamatdar: 4997
-arcDeManikibe: 4838
-arcDeMawacal: 5102
-arcDeMebrirut: 4742
-arcDeMechRiorraw: 2341
-arcDeMefeviel: 4907
-arcDeMerufam: 4746
-arcDeMesoleme: 5052
-arcDeMesumber: 4691
-arcDeMeveusem: 5051
-arcDeMezen: 5075
-arcDeMibumug: 4760
-arcDeMikydopo: 4847
-arcDeMisolet: 5019
-arcDeMolelete: 4824
-arcDeMufuie: 4896
-arcDeMulicBere: 2361
-arcDeNaikas: 4747
-arcDeNaleuv: 5117
-arcDeNeribam: 4738
-arcDeNetamebe: 4753
-arcDeNinemoit: 5069
-arcDeNogakaso: 4791
-arcDeNogusal: 4860
-arcDeNometaille: 4881
-arcDeNybabapu: 4685
-arcDeObonin: 4741
-arcDeOfebeke: 4825
-arcDeOfirusr: 4977
-arcDeOfitol: 4988
-arcDeOhesato: 5030
-arcDeOhodemap: 4874
-arcDeOitdar: 4982
-arcDeOlalo: 5012
-arcDeOlebyku: 5000
-arcDeOluce: 4729
-arcDeOlugnef: 4843
-arcDeOnaleses: 4953
-arcDeOnocih: 4958
-arcDeOpagyp: 4790
-arcDeOsekert: 4894
-arcDeOtalague: 4766
-arcDeOtetetif: 5045
-arcDeOthud: 5094
-arcDeOtikegoi: 4772
-arcDeOurenoth: 5090
-arcDeOurogest: 4942
-arcDeOusoru: 5067
-arcDeOvelezil: 4794
-arcDeOvoze: 4713
-arcDePezeo: 4891
-arcDePhararosi: 4769
-arcDePlinate: 4737
-arcDePluter: 5031
-arcDePolavaille: 5053
-arcDePosyur: 5039
-arcDePuvandar: 5080
-arcDeRadofotte: 4781
-arcDeRagnesahor: 4726
-arcDeRapugum: 4774
-arcDeRedibesu: 5008
-arcDeReguth: 4788
-arcDeRemut: 4695
-arcDeRhuhusek: 4890
-arcDeRososore: 4756
-arcDeRufuveje: 5004
-arcDeRugnudleda: 4765
-arcDeRukutu: 4965
-arcDeRurarorth: 4978
-arcDeRurerer: 4970
-arcDeRurererm: 4776
-arcDeRuvahi: 5065
-arcDeSamukpur: 4768
-arcDeSefekpur: 4832
-arcDeSelelalle: 4731
-arcDeShakotamo: 4998
-arcDeSileuf: 5026
-arcDeSohitake: 4840
-arcDeSrutexuf: 5083
-arcDeStrokar: 4931
-arcDeStrorus: 4730
-arcDeStrulehu: 4989
-arcDeSuripillion: 5033
-arcDeTagifber: 4814
-arcDeTandar: 4866
-arcDeTapiroug: 5018
-arcDeTawes: 4850
-arcDeTelemal: 4851
-arcDeTelozi: 5078
-arcDeTetelaci: 4949
-arcDeTezanolu: 4927
-arcDeThelas: 5088
-arcDeThelule: 4846
-arcDeTherupa: 4831
-arcDeThororuk: 5014
-arcDeTixul: 4797
-arcDeTreku: 4917
-arcDeTriomphe: 329
-arcDeTucert: 5081
-arcDeTutatu: 4899
-arcDeUbomele: 5017
-arcDeUciri: 4820
-arcDeUfahupri: 4770
-arcDeUfipebu: 4842
-arcDeUfloruxe: 4940
-arcDeUfufalu: 4932
-arcDeUgrerem: 4999
-arcDeUheud: 5044
-arcDeUlociri: 4957
-arcDeUlufuli: 4727
-arcDeUnulilu: 4876
-arcDeUtepe: 4925
-arcDeUtokasu: 5016
-arcDeUtomielle: 4714
-arcDeUzeplielle: 4707
-arcDeVabahe: 5082
-arcDeVarkedehi: 5037
-arcDeVarkeguro: 4848
-arcDeVebefu: 4735
-arcDeVeneneze: 4892
-arcDeVolelemy: 4996
-arcDeVonaveva: 5042
-arcDeVulevume: 5013
-arcDeVuvleb: 4757
-arcDeVyfeveva: 4703
-arcDeWycebe: 4808
-arcDeXohosta: 4827
-arcDeXorak: 4855
-arcDeYmelei: 4911
-arcDeYubaedu: 4777
-arcDeYzizu: 4873
-arcDeZamovet: 5050
-arcDeZarevillion: 4975
-arcDeZarolillion: 5011
-arcDeZarume: 5061
-arcDeZebemep: 5103
-arcDeZelenile: 5002
-arcDeZeloeve: 4986
-arcDeZevasa: 5076
-arcDeZeviel: 4938
-arcDeZilofone: 4759
-arcDeZivosi: 4985
-arcDeZotaille: 4785
-arcDeroutant: 265
-arcDesRivages: 640
-arcDuAelomul: 4897
-arcDuAlomihe: 5121
-arcDuAopeteze: 5097
-arcDuApres: 4739
-arcDuApukim: 5084
-arcDuAquapael: 4947
-arcDuAquapramem: 4854
-arcDuAqueputate: 4858
-arcDuAtolepo: 5005
-arcDuAvese: 5049
-arcDuBadob: 4762
-arcDuBanditArcher: 10125
-arcDuBauxapec: 5116
-arcDuBavloja: 4830
-arcDuBelotte: 4743
-arcDuBethisog: 5104
-arcDuBevav: 4823
-arcDuBimigufe: 4926
-arcDuBuguf: 5092
-arcDuBworkArcher: 337
-arcDuChaferArcher: 6485
-arcDuCofnef: 5068
-arcDuCutagim: 5091
-arcDuDesamau: 5113
-arcDuDofemim: 4883
-arcDuDragoeuf: 8295
-arcDuDucefegi: 4936
-arcDuDuref: 4818
-arcDuDywipece: 4906
-arcDuEbonaplu: 5106
-arcDuEbulevo: 4849
-arcDuEceda: 5073
-arcDuEdyguh: 5036
-arcDuEfoga: 4969
-arcDuEhemi: 5066
-arcDuElivebo: 4862
-arcDuElutim: 5060
-arcDuEmodace: 4706
-arcDuEnanim: 4980
-arcDuEolozyp: 4960
-arcDuEprosber: 4870
-arcDuEthocaca: 4853
-arcDuEulezez: 4755
-arcDuEwemuw: 4740
-arcDuEzethiel: 4863
-arcDuFebixes: 5120
-arcDuFekara: 4771
-arcDuFeufefiki: 4793
-arcDuFeufikipl: 4916
-arcDuFififife: 5048
-arcDuFihukit: 4924
-arcDuFimeti: 4692
-arcDuFlapevemen: 4754
-arcDuFlesifu: 5028
-arcDuFlulile: 4787
-arcDuFogexnef: 5071
-arcDuFurekam: 5074
-arcDuFurodeb: 4943
-arcDuGadebad: 5063
-arcDuGecewup: 4798
-arcDuGotousu: 5109
-arcDuGutarofa: 4972
-arcDuHejef: 4948
-arcDuHuhan: 4736
-arcDuIcumaba: 4877
-arcDuIfeplif: 4961
-arcDuIfreflu: 4868
-arcDuIgatim: 4939
-arcDuInolosyv: 5095
-arcDuIperon: 4720
-arcDuIseul: 4869
-arcDuKegeceth: 4966
-arcDuKegour: 4856
-arcDuKekerarh: 5047
-arcDuKoalak: 8005
-arcDuKusute: 4967
-arcDuLifeth: 4711
-arcDuLithuheleg: 4801
-arcDuLolawofu: 4704
-arcDuLomamel: 5112
-arcDuLompur: 5003
-arcDuLosom: 4903
-arcDuLosouille: 4822
-arcDuLuliziel: 4836
-arcDuMakal: 4900
-arcDuMasoezop: 5111
-arcDuMelyat: 5108
-arcDuMepadice: 4748
-arcDuMevoli: 4910
-arcDuMezuten: 4698
-arcDuMozetaille: 4813
-arcDuMusojuto: 4783
-arcDuNirecupur: 4805
-arcDuNuwope: 4829
-arcDuNybalixi: 4792
-arcDuOlebei: 5023
-arcDuOlelevul: 4845
-arcDuOmememo: 4795
-arcDuOsedolo: 5020
-arcDuOsehur: 5022
-arcDuOtodokop: 4699
-arcDuOudocosu: 4784
-arcDuPecheur: 6453
-arcDuPefubicu: 4811
-arcDuPelegele: 4709
-arcDuPetivber: 4767
-arcDuPisene: 4913
-arcDuPluhuf: 4898
-arcDuPuhetiel: 4812
-arcDuPuhfla: 4723
-arcDuRarab: 5024
-arcDuRaratdar: 4893
-arcDuRodagobl: 5046
-arcDuRogur: 5034
-arcDuRoiDesBorins: 1126
-arcDuRugnogusru: 4904
-arcDuScoxezebe: 4806
-arcDuScoxule: 4761
-arcDuSilakuna: 4905
-arcDuSogdar: 4789
-arcDuSomutalle: 4945
-arcDuSramArcher: 6484
-arcDuSurevlel: 5055
-arcDuTehor: 4956
-arcDuTevlene: 4819
-arcDuUdarasug: 5027
-arcDuUgufa: 4974
-arcDuUmepolle: 5089
-arcDuUnaim: 4901
-arcDuUnefelu: 5015
-arcDuUpenudil: 4918
-arcDuUricitif: 4944
-arcDuUtabonal: 4732
-arcDuVilovi: 4984
-arcDuVlesep: 4959
-arcDuWyunobu: 4912
-arcDuXueluom: 1351
-arcDuZeluvize: 5054
-arcDuZoleo: 5062
-arcDuZonelev: 4909
-arcDuZubezevl: 5029
-arcEcologique: 1118
-arcEnCorneDeBouftou: 1097
-arcEnRacineDAbraknyde: 462
-arcHade: 829
-arcHancihaile: 331
-arcHanne: 7160
-arcHeubHuz: 9743
-arcHidsad: 1355
-arcHisedaisange: 7164
-arcHolic: 1350
-arcHordEon: 9741
-arcHuledela: 7163
-arcKoNeun: 9744
-arcLavoine: 7162
-arcLourdEnCorneDeBouftou: 1098
-arcOleptik: 8925
-arcPlassTik: 9739
-arcRainier: 8103
-arcRoyalEnCorneDeBouftou: 1112
-arcSifflant: 828
-arcTarHuss: 9742
-ares: 250
-argent: 350
-armeeDeTiques: 2449
-armistice: 2163
-arracheurDeDents: 1869
-artefactAir: 1630
-artefactEau: 1631
-artefactFeu: 1628
-artefactLumiere: 1632
-artefactPandawushuAir: 7223
-artefactPandawushuEau: 7222
-artefactPandawushuFeu: 7225
-artefactPandawushuTerre: 7224
-artefactTerre: 1629
-artefactVie: 1633
-assistantDuShaman: 7057
-astrocoiffe: 1090
-atouin: 7714
-aubaine: 2206
-aubergine: 2331
-aveuxBishomPot: 2051
-aveuxDOniTnec: 2146
-aveuxDeGuerrierNagerNacmeil: 2050
-aveuxDuGuerrierXaleDugros: 2049
-avoine: 533
-avoineAurifere: 2036
-avoineMagique: 1671
-azTech: 8931
-babinesDOuginak: 2321
-badgeBontarien: 1920
-badgeBrakmarien: 2308
-badgeDAigurraf: 2110
-badgeDOniTnec: 2149
-badgeDeLyeno: 2153
-badgeDeMilicienAllenTokar: 2053
-badgeDeMilicienBillIedebar: 2055
-badgeDeMilicienTekAput: 2054
-badgeDeTabach: 2108
-badgeDeYbaul: 2109
-badgeDuChefDesRenegats: 9539
-badgeDuPuissantMilicien: 9097
-baffeurClassique: 7625
-baffeurEnBambou: 7762
-baffeurEnBambouDore: 7770
-baffeurEnBambouMagique: 7772
-baffeurEnBambouSacre: 7766
-baffeurEnBambouSombre: 7765
-baffeurEnBoisAncestral: 7767
-baffeurEnBoisDeBambouto: 7773
-baffeurEnBoisDeBamboutoSacre: 7774
-baffeurEnBoisDeKokoko: 7771
-baffeurEnBoisDeTronknyde: 7769
-baffeurEnBoisEnvoûte: 7768
-baffeurEnBombu: 7763
-baffeurEnCharme: 7758
-baffeurEnChataignier: 7626
-baffeurEnChene: 7627
-baffeurEnEbene: 7755
-baffeurEnErable: 7757
-baffeurEnFrene: 7759
-baffeurEnIf: 7629
-baffeurEnMerisier: 7761
-baffeurEnNoyer: 7760
-baffeurEnOliviolet: 7764
-baffeurEnOrme: 7756
-bagdetteCafe: 8611
-bagueDAllegeance: 2342
-bagueDeSendar: 2154
-bagueDuHibou: 9919
-bagueHarre: 8717
-bagueHera: 8716
-bagueHoux: 8715
-baguetteAPans: 1134
-baguetteAcabague: 4559
-baguetteAcaplut: 4664
-baguetteAcofituf: 4662
-baguetteAenon: 4493
-baguetteAfekileg: 4611
-baguetteAffeulante: 1739
-baguetteAfikek: 4542
-baguetteAfroseso: 4445
-baguetteAhitem: 4349
-baguetteAkeku: 4594
-baguetteAkifit: 4446
-baguetteAlagluma: 4344
-baguetteAlavlaille: 4593
-baguetteAlebel: 4453
-baguetteAleze: 4612
-baguetteAligif: 4523
-baguetteAlwyle: 4354
-baguetteAmiflum: 4269
-baguetteAmphelalod: 4315
-baguetteAmphele: 4507
-baguetteAmphigo: 4666
-baguetteAololuth: 4385
-baguetteAosyl: 4410
-baguetteApecofov: 4386
-baguetteAquebeleve: 4654
-baguetteAquedlali: 4432
-baguetteAquewaepre: 4415
-baguetteAquidecol: 4482
-baguetteAquivobeme: 4672
-baguetteAredl: 4469
-baguetteAregeto: 4649
-baguetteAsesevic: 4364
-baguetteAteterre: 4495
-baguetteAtubut: 4347
-baguetteAwefukad: 4248
-baguetteBauro: 4600
-baguetteBedire: 4268
-baguetteBegnef: 4561
-baguetteBelepol: 4603
-baguetteBepru: 4484
-baguetteBeroro: 4648
-baguetteBetoluge: 4492
-baguetteBetyki: 4570
-baguetteBevasi: 4598
-baguetteBibikini: 4366
-baguetteBigifaif: 4676
-baguetteBocah: 4380
-baguetteBolelice: 4599
-baguetteBolim: 4416
-baguetteBoruhef: 4329
-baguetteBouhud: 4586
-baguetteBufegit: 4335
-baguetteBunafu: 4250
-baguetteBwodelo: 4502
-baguetteBwotog: 4430
-baguetteCetera: 7167
-baguetteCevutim: 4658
-baguetteCihif: 4326
-baguetteCulufuf: 4338
-baguetteDEglise: 1107
-baguetteDElyaWood: 6494
-baguetteDHouvette: 1138
-baguetteDIntelligence: 830
-baguetteDeBoisaille: 132
-baguetteDeChasse: 1943
-baguetteDeFeuFollesque: 1503
-baguetteDeGlace: 163
-baguetteDeKouartz: 6519
-baguetteDeLInitie: 6781
-baguetteDeLiriel: 334
-baguetteDeSagesse: 833
-baguetteDesCieux: 181
-baguetteDeuhPain: 333
-baguetteDewekota: 4485
-baguetteDilof: 4538
-baguetteDisif: 4428
-baguetteDofelafr: 4346
-baguetteDolipogu: 4355
-baguetteDometi: 4562
-baguetteDomoba: 4451
-baguetteDomoli: 4577
-baguetteDonefyru: 4487
-baguetteDoumudave: 4572
-baguetteDrupif: 4613
-baguetteDuBanditEnsorceleur: 10133
-baguetteDuCheneMou: 6495
-baguetteDuDragoeuf: 8296
-baguetteDuScarabosseDore: 8118
-baguetteDuTofu: 8110
-baguetteDuTournoiMj: 7920
-baguetteDusebum: 4638
-baguetteDuxpur: 4363
-baguetteEbuheni: 4373
-baguetteEcisulf: 4457
-baguetteEdape: 4433
-baguetteEdudl: 4657
-baguetteEfelem: 4265
-baguetteEfufefih: 4317
-baguetteEgaga: 4560
-baguetteEherum: 4680
-baguetteEhifule: 4617
-baguetteElelej: 4331
-baguetteElmabahou: 4528
-baguetteElmareg: 4374
-baguetteElmelof: 4407
-baguetteElogonaf: 4556
-baguetteEmatub: 4547
-baguetteEmecnef: 4574
-baguetteEmepes: 4519
-baguetteEmupulu: 4514
-baguetteEnRacineDAbraknyde: 469
-baguetteEnRacineDAbraknydeSombre: 6496
-baguetteEnenala: 4422
-baguetteEneutber: 4636
-baguetteEniladic: 4284
-baguetteEolalel: 4513
-baguetteEplifi: 4458
-baguetteEpogdar: 4548
-baguetteEpuhas: 4588
-baguetteEpuhifl: 4262
-baguetteEpyug: 4408
-baguetteEraknef: 4424
-baguetteErasuteg: 4650
-baguetteErerek: 4383
-baguetteEruderre: 4624
-baguetteEteuva: 4524
-baguetteEtham: 4447
-baguetteEuhLailleFe: 9749
-baguetteFaivuf: 4330
-baguetteFeciri: 4333
-baguetteFedulogi: 4243
-baguetteFelem: 4343
-baguetteFepogar: 4437
-baguetteFeubucih: 4365
-baguetteFeuhek: 4285
-baguetteFeunup: 4299
-baguetteFeupef: 4251
-baguetteFewag: 4353
-baguetteFigenunu: 4277
-baguetteFilufumu: 4255
-baguetteFiniseg: 4677
-baguetteFisar: 4589
-baguetteFisraci: 4449
-baguetteFitapupi: 4616
-baguetteFlacifeun: 4270
-baguetteFlafaseh: 4610
-baguetteFlalufepe: 4575
-baguetteFlamin: 4328
-baguetteFlaplozelo: 4263
-baguetteFlapufu: 4667
-baguetteFlefec: 4522
-baguetteFlefi: 4319
-baguetteFlefuk: 4520
-baguetteFleluri: 4552
-baguetteFleuhalel: 4302
-baguetteFlilihe: 4396
-baguetteFlulebu: 4282
-baguetteFlulem: 4314
-baguetteFlyutybub: 4646
-baguetteFucutiti: 4491
-baguetteFudifipa: 4582
-baguetteFufesi: 4427
-baguetteFufuru: 4625
-baguetteFuhulen: 4448
-baguetteGadico: 4505
-baguetteGasusim: 4352
-baguetteGifete: 4283
-baguetteGiflen: 4409
-baguetteGikic: 4391
-baguetteGyver: 8088
-baguetteHanDar: 9747
-baguetteHebubruf: 4258
-baguetteHeferdar: 4454
-baguetteHelles: 5999
-baguetteHepadaun: 4463
-baguetteHerek: 4275
-baguetteHethuj: 4295
-baguetteHeure: 1102
-baguetteHevifel: 4434
-baguetteHikekpur: 4397
-baguetteHincelle: 7169
-baguetteHoh: 9745
-baguetteHoualle: 7368
-baguetteHouffeCraitien: 7170
-baguetteHusuth: 4280
-baguetteHylique: 7168
-baguetteIdetupen: 4539
-baguetteIfefupuk: 4253
-baguetteIfegeleh: 4401
-baguetteIfeluguh: 4508
-baguetteIfifut: 4474
-baguetteIfimdar: 4532
-baguetteIfrefa: 4246
-baguetteIfupefi: 4367
-baguetteIkagogu: 4301
-baguetteIkagum: 4675
-baguetteIkecumih: 4504
-baguetteIkeruplu: 4652
-baguetteIkitune: 4633
-baguetteIlith: 4336
-baguetteInebidu: 4639
-baguetteInehit: 4259
-baguetteInogomo: 4635
-baguetteInulu: 4462
-baguetteIots: 8089
-baguetteIpefimu: 4628
-baguetteIpuligit: 4472
-baguetteIrepikef: 4573
-baguetteIrinil: 4249
-baguetteIrreelle: 6439
-baguetteIrupule: 4499
-baguetteIsarorim: 4272
-baguetteIsocdar: 4312
-baguetteItanonir: 4431
-baguetteItebe: 4291
-baguetteItotata: 4553
-baguetteItuhelix: 4296
-baguetteIvepamol: 4490
-baguetteIzinov: 4244
-baguetteJesobae: 4543
-baguetteJestefi: 4311
-baguetteJewew: 4378
-baguetteJijurir: 4479
-baguetteKafrit: 4534
-baguetteKahotoru: 4377
-baguetteKasut: 4417
-baguetteKaugoxu: 4498
-baguetteKekefulf: 4287
-baguetteKerok: 4614
-baguetteKetela: 4619
-baguetteKidymibie: 4679
-baguetteKifamum: 4290
-baguetteKoducarh: 4473
-baguetteKrosobi: 4500
-baguetteKudus: 4535
-baguetteKukulil: 4608
-baguetteKysebpur: 4339
-baguetteLacber: 4601
-baguetteLamabam: 4323
-baguetteLameubo: 4663
-baguetteLapumiki: 4660
-baguetteLaradeti: 4300
-baguetteLarvesque: 7110
-baguetteLasesei: 4518
-baguetteLazoehol: 4655
-baguetteLebepu: 4413
-baguetteLefefifi: 4607
-baguetteLefulifu: 4439
-baguetteLegadlol: 4659
-baguetteLekika: 4324
-baguetteLekude: 4477
-baguetteLekututu: 4306
-baguetteLeleup: 4421
-baguetteLerabelu: 4405
-baguetteLeustutut: 4634
-baguetteLeuvit: 4309
-baguetteLifar: 4665
-baguetteLifekupru: 4419
-baguetteLififaser: 4510
-baguetteLifufe: 4371
-baguetteLifufuhen: 4651
-baguetteLifuv: 4576
-baguetteLilit: 4591
-baguetteLirup: 4615
-baguetteLithahehin: 4325
-baguetteLitinupe: 4643
-baguetteLofpur: 4488
-baguetteLohim: 4567
-baguetteLolylom: 4305
-baguetteLovobup: 4400
-baguetteLufarun: 4481
-baguetteLufulis: 4501
-baguetteLufululud: 4489
-baguetteLufuputi: 4585
-baguetteLufurefi: 4443
-baguetteLufuriha: 4247
-baguetteLumira: 4399
-baguetteLuvin: 4468
-baguetteLyucicil: 4313
-baguetteMalimeo: 4435
-baguetteMawuie: 4571
-baguetteMebamnef: 4420
-baguetteMecemi: 4388
-baguetteMecot: 4412
-baguetteMefetuvi: 4480
-baguetteMegelle: 4669
-baguetteMekelep: 4322
-baguetteMeneuse: 1144
-baguetteMolle: 6438
-baguetteMonyal: 4526
-baguetteMucenber: 4537
-baguetteMugrem: 4390
-baguetteMukogumu: 4348
-baguetteMuleupov: 4521
-baguetteMurefat: 4256
-baguetteMutokap: 4605
-baguetteNacitufe: 4642
-baguetteNah: 7165
-baguetteNalip: 4376
-baguetteNalubillion: 4475
-baguetteNanibi: 4629
-baguetteNawablo: 4332
-baguetteNefogas: 4444
-baguetteNeuruhe: 4359
-baguetteNevel: 4320
-baguetteNevemim: 4516
-baguetteNiNinnin: 1132
-baguetteNicfla: 4630
-baguetteNirolil: 4278
-baguetteNoufuboh: 4647
-baguetteNuhic: 4342
-baguetteNybami: 4426
-baguetteObeget: 4644
-baguetteObikousa: 4580
-baguetteObute: 4584
-baguetteOcebl: 4307
-baguetteOdesam: 4414
-baguetteOfavame: 4592
-baguetteOfikidal: 4590
-baguetteOfujisi: 4375
-baguetteOgosiri: 4673
-baguetteOhedoce: 4456
-baguetteOicadluc: 4321
-baguetteOlamob: 4425
-baguetteOlezeve: 4496
-baguetteOmauroc: 4595
-baguetteOplerere: 4478
-baguetteOrilefla: 4527
-baguetteOtatafep: 4361
-baguetteOucibim: 4494
-baguetteOuputibi: 4465
-baguetteOuramis: 4558
-baguetteOuratagou: 4393
-baguetteOurderie: 7171
-baguetteOurehecon: 4551
-baguetteOvlev: 4288
-baguettePamuvaip: 4403
-baguettePelielle: 4395
-baguettePhaniba: 4279
-baguettePhareryda: 4368
-baguettePigyuta: 4350
-baguettePloelehe: 4334
-baguettePrahur: 4545
-baguettePrefifa: 4276
-baguettePucesuke: 4506
-baguettePuseb: 4423
-baguettePusfla: 4541
-baguettePusoh: 4563
-baguetteRagneguk: 4264
-baguetteRangleuse: 7173
-baguetteRasoha: 4549
-baguetteRaugou: 4261
-baguetteRebeknef: 4358
-baguetteRehege: 4293
-baguetteRetaguku: 4467
-baguetteRhon: 7172
-baguetteRihimud: 4429
-baguetteRirokyk: 4455
-baguetteRisthegu: 4568
-baguetteRitaille: 4565
-baguetteRotus: 4486
-baguetteRufif: 4360
-baguetteRugebusu: 4341
-baguetteRusim: 4569
-baguetteSahatuhu: 4271
-baguetteSahehami: 4281
-baguetteSaupam: 4304
-baguetteSedyug: 4274
-baguetteSelato: 4503
-baguetteSesepo: 4440
-baguetteShakemud: 4294
-baguetteSifegisr: 4621
-baguetteSigywe: 4471
-baguetteSkivymi: 4442
-baguetteSogoth: 4411
-baguetteSohaiha: 4557
-baguetteSohemitol: 4583
-baguetteSohupo: 4389
-baguetteSotardar: 4286
-baguetteSrafdar: 4266
-baguetteSrona: 4257
-baguetteSrugert: 4345
-baguetteStobo: 4566
-baguetteStrorDiNer: 9746
-baguetteStrurod: 4554
-baguetteStusulaf: 4620
-baguetteSusto: 4438
-baguetteSylvien: 1361
-baguetteTaLay: 9748
-baguetteTabake: 4402
-baguetteTafesfla: 4533
-baguetteTahapo: 4476
-baguetteTakisefo: 4254
-baguetteTamefole: 4529
-baguetteTarilome: 4292
-baguetteTeblade: 4661
-baguetteTedil: 4668
-baguetteTefen: 4604
-baguetteTehoh: 4452
-baguetteTelolibo: 4436
-baguetteTeloluve: 4460
-baguetteTeluwida: 4623
-baguetteTememe: 4298
-baguetteTethuzyv: 4392
-baguetteTethyri: 4273
-baguetteThelapota: 4351
-baguetteThigenu: 4645
-baguetteThilavudo: 4483
-baguetteThilyse: 4587
-baguetteThoha: 4597
-baguetteThorururer: 4327
-baguetteThuronum: 4387
-baguetteThusyuf: 4678
-baguetteTicos: 4578
-baguetteTikusimu: 4461
-baguetteTimohe: 4637
-baguetteTofilij: 4450
-baguetteTorede: 4441
-baguetteTouka: 4564
-baguetteTrekuke: 4653
-baguetteTucukis: 4626
-baguetteTufifl: 4297
-baguetteTunuteh: 4497
-baguetteUbubuf: 4670
-baguetteUcagroce: 4579
-baguetteUdelefu: 4289
-baguetteUdrukad: 4602
-baguetteUfegukus: 4512
-baguetteUfehed: 4369
-baguetteUfetif: 4362
-baguetteUfirutuf: 4581
-baguetteUfremafen: 4511
-baguetteUfrifif: 4525
-baguetteUfrigfla: 4546
-baguetteUfrile: 4337
-baguetteUfrivem: 4550
-baguetteUfufipl: 4555
-baguetteUgegus: 4466
-baguetteUgiselem: 4515
-baguetteUgisum: 4310
-baguetteUguteni: 4406
-baguetteUheri: 4384
-baguetteUheufit: 4318
-baguetteUhuci: 4536
-baguetteUkorukou: 4606
-baguetteUlegem: 4596
-baguetteUlelyu: 4464
-baguetteUmesila: 4682
-baguetteUnima: 4618
-baguetteUnysa: 4631
-baguetteUridfrit: 4681
-baguetteUrisem: 4267
-baguetteUrutoh: 4260
-baguetteUsacebi: 4544
-baguetteUsifaille: 4398
-baguetteUsuruc: 4303
-baguetteUtiruluf: 4316
-baguetteUwawam: 4470
-baguetteUzelliel: 4640
-baguetteVaelojaf: 4671
-baguetteVaesotte: 4340
-baguetteVarkode: 4245
-baguetteVaziziel: 4609
-baguetteVehukuf: 4357
-baguetteVelevil: 4632
-baguetteVelue: 6440
-baguetteVemeno: 4370
-baguetteVesele: 4404
-baguetteVetometh: 4517
-baguetteVibimob: 4418
-baguetteVihomiel: 4308
-baguetteVimut: 4372
-baguetteVithekuf: 4509
-baguetteVivamema: 4252
-baguetteVolemele: 4622
-baguetteVozelele: 4627
-baguetteVyzevu: 4674
-baguetteWawulibie: 4530
-baguetteWijakuie: 4540
-baguetteXubdar: 4656
-baguetteYlevyze: 4531
-baguetteYnelebe: 4459
-baguetteYrurukev: 4394
-baguetteYtudocef: 4379
-baguetteYxesapud: 4356
-baguetteZezitteux: 4641
-baguetterelle: 9135
-bakelelite: 749
-balgourdeDesClairettes: 6497
-ballonBleu: 6649
-ballonBleuMagique: 8624
-ballonJaune: 6651
-ballonJauneMagique: 8430
-ballonRouge: 6648
-ballonRougeMagique: 8435
-ballonVert: 6650
-ballonVertMagique: 8625
-ballotinDeChocolat: 9379
-bambamulette: 7000
-banane: 2325
-bandeauDeVitalite: 944
-bandeauDuBlackTiwabbit: 372
-bandeauKaliptus: 8260
-bandeauKomintot: 941
-bandeauPandawushu: 7177
-bandeauPapayou: 9652
-bandeletteDeLaMomieNova: 6706
-bandeletteDuGuerrierKoalak: 8001
-bandeletteDuMominotor: 8326
-bandelettes: 2286
-barGrille: 2: 1809
-barGrille: 3: 1810
-barGrille: 4: 1828
-barIton: 1792
-barItonVide: 1793
-barRikain: 1779
-barRikainVide: 1780
-barabas: 236
-barbeDuChouque: 2621
-barbeGrise: 251
-barbeInexistanteDuBarbroussa: 8754
-bardicheDuMilicien: 2604
-bashers: 218
-batonAkwadala: 7254
-batonBahPik: 9755
-batonBohLa: 9757
-batonBoukTou: 9756
-batonCarnivore: 2640
-batonChampmanique: 9136
-batonCornu: 742
-batonDAcoseude: 3854
-batonDAdamu: 3867
-batonDAfriolu: 3832
-batonDAgaDou: 6442
-batonDAkehpur: 3912
-batonDAkimipo: 3993
-batonDAlumin: 3821
-batonDAmhur: 3806
-batonDAmimiru: 3916
-batonDAmoor: 4027
-batonDAplaning: 3941
-batonDAquapul: 3910
-batonDAtecuci: 3911
-batonDAvaelo: 4046
-batonDEfritas: 3967
-batonDIfecho: 3901
-batonDIgiplam: 3913
-batonDIjugomo: 3909
-batonDInurere: 3949
-batonDIrovi: 4047
-batonDOfreleker: 3811
-batonDOubli: 1364
-batonDUbrehun: 3951
-batonDUdirelou: 4088
-batonDUfrege: 3810
-batonDUfrufidus: 4084
-batonDUlapek: 3804
-batonDUmeke: 4235
-batonDUnebete: 3817
-batonDUxesage: 3822
-batonDakn: 1149
-batonDeAbefun: 4017
-batonDeAculepa: 3885
-batonDeAeladague: 3835
-batonDeAfelolap: 4143
-batonDeAfutfrit: 4176
-batonDeAgele: 3994
-batonDeAgoconaw: 4020
-batonDeAhaxitof: 4133
-batonDeAkeloth: 4097
-batonDeAkurosr: 4033
-batonDeAkutogop: 4119
-batonDeAlimuva: 4108
-batonDeAluneok: 4050
-batonDeAroinite: 3824
-batonDeArucocu: 4211
-batonDeAruhes: 3917
-batonDeAusili: 3898
-batonDeBeknef: 3844
-batonDeBemip: 4193
-batonDeBezelin: 3887
-batonDeBohoig: 4031
-batonDeBoisaille: 138
-batonDeBotite: 4079
-batonDeBouftier: 1366
-batonDeBregarad: 4052
-batonDeBucetim: 3856
-batonDeCerukerre: 3888
-batonDeCifise: 3908
-batonDeCouteste: 4186
-batonDeCrabe: 2: 1764
-batonDeCrabe: 3: 1765
-batonDeCrabe: 4: 1766
-batonDeCubarth: 4233
-batonDeCuhop: 3864
-batonDeDaeblis: 4240
-batonDeDifewy: 4085
-batonDeDofisim: 4179
-batonDeDutatipa: 3860
-batonDeEfeke: 4130
-batonDeEgrucuki: 4049
-batonDeEhotugu: 3961
-batonDeEladolaw: 3843
-batonDeElefepouf: 3816
-batonDeElelebig: 4228
-batonDeElenela: 4092
-batonDeElinielle: 3966
-batonDeElitufi: 4028
-batonDeElobuv: 4076
-batonDeEmehipu: 4214
-batonDeEnavyb: 4151
-batonDeEnolu: 4026
-batonDeEpebumol: 3840
-batonDeEpemete: 3998
-batonDeErela: 3812
-batonDeEreus: 4021
-batonDeErukaku: 3855
-batonDeErusuho: 3981
-batonDeEselim: 4083
-batonDeEsevalle: 4040
-batonDeEsufurom: 3847
-batonDeEtahapa: 3869
-batonDeEtatu: 3968
-batonDeEtulire: 4131
-batonDeEugaboim: 4011
-batonDeEutain: 3839
-batonDeEvile: 4155
-batonDeEwelova: 4089
-batonDeFacerej: 4175
-batonDeFarle: 6769
-batonDeFasolel: 4169
-batonDeFausseMagie: 1110
-batonDeFehunej: 4192
-batonDeFepus: 3820
-batonDeFeukepisu: 4195
-batonDeFeutaf: 3939
-batonDeFisit: 4057
-batonDeFiyeule: 3923
-batonDeFlagisuh: 3862
-batonDeFlaulahev: 3876
-batonDeFleke: 3929
-batonDeFleked: 4152
-batonDeFlekufif: 4158
-batonDeFlepadute: 3983
-batonDeFlimu: 3926
-batonDeFlinuf: 3884
-batonDeFlukefef: 3866
-batonDeFrytuf: 3826
-batonDeFudelig: 4071
-batonDeFuhifufa: 3925
-batonDeFuluk: 4039
-batonDeFurida: 3958
-batonDeGadafilu: 4091
-batonDeGahetexo: 3933
-batonDeGegotid: 4178
-batonDeGinar: 3920
-batonDeGisosr: 4082
-batonDeGladacy: 3985
-batonDeGodoteko: 4012
-batonDeGostorak: 4045
-batonDeGotete: 4224
-batonDeGreseg: 4238
-batonDeGrojedi: 3814
-batonDeHaflim: 4098
-batonDeHafude: 3897
-batonDeHapiku: 4111
-batonDeHarutaka: 3881
-batonDeHekorate: 4161
-batonDeHereg: 3970
-batonDeHifeflul: 4174
-batonDeHilibie: 4002
-batonDeHililu: 3813
-batonDeHimarber: 4198
-batonDeHiraeille: 3886
-batonDeHitour: 4099
-batonDeHokoche: 4127
-batonDeHufuni: 3942
-batonDeHutemuf: 4185
-batonDeIfimok: 4148
-batonDeIfresec: 3974
-batonDeIfreufiv: 4068
-batonDeIfucith: 4208
-batonDeInutefim: 4118
-batonDeIpevulf: 4044
-batonDeIpufive: 3943
-batonDeIsakoko: 4201
-batonDeItoso: 4138
-batonDeJihit: 4204
-batonDeJisau: 3900
-batonDeJuvefeva: 3827
-batonDeKaketal: 4030
-batonDeKeduthuh: 4213
-batonDeKeruhes: 4139
-batonDeKolakum: 4101
-batonDeKolole: 4069
-batonDeKorasuhe: 4140
-batonDeKoruheto: 3932
-batonDeKotukodu: 4107
-batonDeKrerar: 4236
-batonDeKroras: 4166
-batonDeKudut: 4164
-batonDeKufisa: 4006
-batonDeKufixok: 3930
-batonDeKujefaille: 3902
-batonDeKuregour: 3907
-batonDeKuturika: 3828
-batonDeLApprentiPelerin: 9627
-batonDeLHommeOurs: 6725
-batonDeLInitie: 6782
-batonDeLabetouille: 3803
-batonDeLafit: 4080
-batonDeLafurife: 4059
-batonDeLamudace: 3971
-batonDeLaputub: 4159
-batonDeLawajuv: 4032
-batonDeLedelfrit: 4062
-batonDeLeluhfrit: 3837
-batonDeLereuc: 3858
-batonDeLethulus: 3940
-batonDeLeunure: 4168
-batonDeLeustisaked: 4182
-batonDeLifimam: 3975
-batonDeLikodum: 4124
-batonDeLilamil: 4162
-batonDeLirikapl: 4100
-batonDeLisilo: 4023
-batonDeLithihu: 4181
-batonDeLithudeul: 3954
-batonDeLithupri: 4093
-batonDeLomelov: 3807
-batonDeLopeau: 3833
-batonDeLotopale: 4196
-batonDeLufakihi: 4145
-batonDeLufelufu: 4014
-batonDeLufetufuf: 4206
-batonDeLufine: 4064
-batonDeLufulumel: 3893
-batonDeLugilufu: 4134
-batonDeLuhuhu: 4237
-batonDeLuifurut: 3904
-batonDeLutife: 3924
-batonDeLuvutali: 3841
-batonDeMaladiseh: 4226
-batonDeMalulo: 3999
-batonDeMarieAigue: 3652
-batonDeMelawaso: 4189
-batonDeMetidaluk: 3892
-batonDeMidodrap: 4043
-batonDeMirel: 4112
-batonDeMudrten: 4105
-batonDeMyzotitu: 4095
-batonDeNebujit: 4038
-batonDeNepuhel: 4065
-batonDeNifik: 4067
-batonDeNikejoba: 3883
-batonDeNilolovo: 4167
-batonDeNogovim: 4063
-batonDeNoherehe: 4114
-batonDeNuvudaso: 4003
-batonDeNypelete: 3846
-batonDeOfirepud: 3987
-batonDeOflupipu: 3906
-batonDeOgetim: 3834
-batonDeOgifegaf: 3984
-batonDeOgurapat: 3977
-batonDeOjodl: 4219
-batonDeOkairub: 4056
-batonDeOlevaz: 3838
-batonDeOpukber: 4160
-batonDeOrepere: 4170
-batonDeOteponav: 3895
-batonDeOtitus: 4034
-batonDeOuresu: 3980
-batonDeOurostesr: 4150
-batonDePakber: 3937
-batonDePebev: 3921
-batonDePezumo: 3918
-batonDePififa: 4177
-batonDePrebuper: 3831
-batonDePrunecad: 4048
-batonDePubam: 4042
-batonDeRaehoces: 4191
-batonDeRagnoduhuh: 4231
-batonDeReduga: 4078
-batonDeRelifupi: 3889
-batonDeRelocyra: 3830
-batonDeResotod: 3819
-batonDeReucated: 4074
-batonDeRheucuth: 4073
-batonDeRificaille: 3950
-batonDeRihem: 3919
-batonDeRihokour: 4019
-batonDeRokola: 4223
-batonDeRomaroj: 3870
-batonDeRuhitetu: 3865
-batonDeRukisaur: 4203
-batonDeRulenuce: 4066
-batonDeRupere: 3842
-batonDeRurehuser: 4041
-batonDeRurikehe: 3947
-batonDeRurukunu: 4154
-batonDeRusatoga: 3978
-batonDeSaekae: 3852
-batonDeSangroku: 7022
-batonDeSehuf: 3963
-batonDeSekethet: 3903
-batonDeSetirici: 3915
-batonDeSeuvolev: 4163
-batonDeSevemouille: 4199
-batonDeShika: 8300
-batonDeSitha: 4070
-batonDeSohibum: 3829
-batonDeSoukede: 3953
-batonDeSteug: 3988
-batonDeStrehete: 3880
-batonDeStrukatuk: 4165
-batonDeSucecuc: 4156
-batonDeSudothod: 4232
-batonDeSuhiruf: 3848
-batonDeSuhya: 3818
-batonDeSureze: 4205
-batonDeTatekoth: 3938
-batonDeTegenolo: 3882
-batonDeThoradekuh: 3850
-batonDeThoreru: 4060
-batonDeThoresut: 4132
-batonDeThororet: 4029
-batonDeTifagre: 4090
-batonDeTigeno: 3809
-batonDeTousog: 3955
-batonDeTristen: 3962
-batonDeTugupu: 3979
-batonDeTumufame: 4007
-batonDeTusraru: 3972
-batonDeTuteth: 4146
-batonDeUdepinil: 4016
-batonDeUfekudo: 4142
-batonDeUfidecim: 4216
-batonDeUfretfrit: 4144
-batonDeUfrufalir: 4000
-batonDeUfumit: 4230
-batonDeUlimelou: 3896
-batonDeUlujfrit: 4104
-batonDeUluluri: 4153
-batonDeUlutas: 3957
-batonDeUmegalle: 4123
-batonDeUmoel: 4106
-batonDeUpihelih: 3927
-batonDeUpogru: 4180
-batonDeUpuje: 3868
-batonDeUrimet: 4096
-batonDeUromorth: 4009
-batonDeUtonevez: 4001
-batonDeUzezolo: 4010
-batonDeVaboub: 3935
-batonDeVarkagah: 3890
-batonDeVarkoge: 4126
-batonDeVefem: 3877
-batonDeVenalole: 4086
-batonDeVepamu: 4077
-batonDeVosoboc: 3874
-batonDeVroomi: 4234
-batonDeVuble: 4128
-batonDeVumoel: 3861
-batonDeXexanoxu: 4120
-batonDeXirev: 3823
-batonDeYmobiel: 4117
-batonDeYnait: 4061
-batonDeYzomelo: 4194
-batonDeZarazez: 4239
-batonDeZemetepe: 4035
-batonDeZezotiva: 3934
-batonDeZuselo: 3853
-batonDesCaraibes: 8090
-batonDesRois: 1163
-batonDuAkohonop: 3914
-batonDuAnumikuf: 4172
-batonDuAquapago: 4212
-batonDuAredarag: 4081
-batonDuArefaka: 3976
-batonDuArodarh: 4109
-batonDuBanditBaroudeur: 10127
-batonDuBetifumi: 3990
-batonDuBibez: 4157
-batonDuBicuk: 3849
-batonDuBworkMage: 335
-batonDuCikuf: 4102
-batonDuDihus: 3997
-batonDuDogopur: 3944
-batonDuDosedim: 3871
-batonDuDragoeuf: 8297
-batonDuEgatuhyr: 3851
-batonDuEgouc: 4125
-batonDuEkodumut: 4113
-batonDuElenez: 3945
-batonDuElisu: 4137
-batonDuElole: 3960
-batonDuElukogu: 3969
-batonDuEmelel: 4222
-batonDuEnenyvl: 4129
-batonDuEtufete: 4055
-batonDuEufim: 4200
-batonDuEvoelov: 4188
-batonDuEwabaul: 3873
-batonDuFeca: 6525
-batonDuFemaf: 4008
-batonDuFetusoli: 3948
-batonDuFlalud: 3899
-batonDuFlalulil: 4218
-batonDuFlefefuc: 3905
-batonDuFubruf: 3863
-batonDuFugokum: 4220
-batonDuFutumi: 3891
-batonDuGeherm: 4004
-batonDuGoreh: 3845
-batonDuGrandPaWabbit: 336
-batonDuGrandTabi: 319
-batonDuGubalulu: 3991
-batonDuGugert: 4207
-batonDuHirefem: 4215
-batonDuHoreho: 3922
-batonDuHucufefu: 4221
-batonDuIbihule: 3989
-batonDuIhevavu: 4005
-batonDuIhudfla: 4229
-batonDuIleceuhi: 4025
-batonDuImivoheb: 4053
-batonDuIteky: 4024
-batonDuKaful: 4122
-batonDuKanigrou: 2066
-batonDuKehuke: 3875
-batonDuKilibriss: 8765
-batonDuKoulosse: 7890
-batonDuKrevar: 3959
-batonDuKukot: 3894
-batonDuLesiballe: 3857
-batonDuLififa: 4141
-batonDuLifige: 4094
-batonDuLigekik: 3952
-batonDuLithahi: 3956
-batonDuLithehipi: 4197
-batonDuLitherfu: 3808
-batonDuLufemfrit: 4187
-batonDuLuflukug: 3982
-batonDuLurodare: 3995
-batonDuMaîtreDesBouftous: 619
-batonDuMaîtreDesTabis: 658
-batonDuMaîtreDesTofus: 657
-batonDuMaîtreZoth: 8837
-batonDuMaurim: 3928
-batonDuMavih: 3859
-batonDuMerus: 3965
-batonDuMetefdar: 4072
-batonDuMetob: 4173
-batonDuMeutol: 4202
-batonDuMifasti: 3879
-batonDuMolutele: 4110
-batonDuMubber: 4210
-batonDuMufagaille: 4147
-batonDuMuwih: 4015
-batonDuMyfeco: 4121
-batonDuNabela: 3964
-batonDuNeubem: 4183
-batonDuNidanwa: 7205
-batonDuNybememet: 3996
-batonDuNybocipek: 4103
-batonDuOfeceku: 4225
-batonDuOpobet: 3878
-batonDuOruhu: 4058
-batonDuOsopdar: 4115
-batonDuPetitTabi: 317
-batonDuPrikuho: 4037
-batonDuPuissantTabi: 320
-batonDuRekoth: 4136
-batonDuRhorethu: 4171
-batonDuRoukain: 4018
-batonDuRugnaku: 3836
-batonDuSandanwa: 7206
-batonDuSatur: 4209
-batonDuShodanwa: 7204
-batonDuTabi: 318
-batonDuThelemum: 4022
-batonDuThelerog: 3936
-batonDuThorere: 3872
-batonDuThorukusuh: 4184
-batonDuThuror: 4054
-batonDuThusecuger: 4087
-batonDuTrogr: 4227
-batonDuTugal: 4190
-batonDuUbijefic: 4013
-batonDuUfegid: 3986
-batonDuUfele: 4051
-batonDuUfuku: 4135
-batonDuUhesul: 3931
-batonDuUhutem: 3992
-batonDuUkathudo: 3946
-batonDuUtiprutu: 4149
-batonDuUvuhuf: 4075
-batonDuVomizela: 3815
-batonDuVupibie: 3973
-batonDuWaWabbit: 970
-batonDuWaelew: 3805
-batonDuWejaro: 3825
-batonDuWobot: 6492
-batonDuYondanwa: 7207
-batonDuZepivem: 4217
-batonDuZeveniv: 4036
-batonDuZovteux: 4116
-batonEnRacineDAbraknyde: 436
-batonFeuillu: 183
-batonKouyu: 188
-batonLapLouz: 9759
-batonLavHeur: 9758
-batonPoupinateur: 9657
-batonRenifleurDeSang: 2263
-batonSpirituel: 194
-batonTontAta: 1363
-batonBouleDeVoyante: 1153
-bauxite: 446
-baveDeBouftou: 385
-baveDeChampAGnons: 9279
-baveDeRoseDemoniaque: 2662
-baveDuBouftouRoyal: 9064
-baveDuKaskargo: 8832
-bebePandawa: 8561
-becDuKido: 8741
-becDuKwakDeFlamme: 412
-becDuKwakDeGlace: 411
-becDuKwakDeTerre: 1142
-becDuKwakDuVent: 413
-becDuTofu: 366
-beignature: 9192
-beignetDeGreuVette: 2: 1811
-beignetDeGreuVette: 3: 1812
-beignetDeGreuVette: 4: 1829
-belleAmuletteDeLOurs: 76
-belleAmuletteDuHibou: 69
-belleAmuletteDuLoup: 83
-biereDAmakna: 351
-biereDAstrub: 6857
-biereDeBwork: 8145
-biereDeLaBagrutte: 2087
-biereDeLaChopenbois: 2088
-biereDeLaTabasse: 2085
-biereDuAlakarte: 2086
-biereDuChabrule: 2044
-biereDuFerayeur: 2090
-biereDuFeubuk: 1895
-biereDuPinchaut: 2089
-biereDuRipate: 7517
-bifstequeDeDragoviande: 1958
-bifstequeDeDragoviande: 2: 1959
-bifstequeDeDragoviande: 3: 1960
-bifstequeDeDragoviande: 4: 1961
-bijouDAmayiro: 9074
-bijouDAmayiroFaux: 9076
-bilboquetDuMaîtreCorbac: 6625
-bilby: 7706
-billreole: 8441
-blagueDeSoufre: 1334
-ble: 289
-bleDOr: 2018
-blemiche: 7144
-blessdags: 219
-blessureDuSacrieur: 1493
-blocDePierre: 1873
-blopMort: 2558
-blopanneauCoco: 9124
-blopanneauCocoRoyal: 9128
-blopanneauGriotte: 9122
-blopanneauGriotteRoyal: 9126
-blopanneauIndigo: 9125
-blopanneauIndigoRoyal: 9129
-blopanneauMulticoloreRoyal: 9148
-blopanneauReinette: 9123
-blopanneauReinetteRoyal: 9127
-blopisierEmpoisonne: 2151
-blopronneRoyale: 9395
-bloptesCoco: 9160
-bloptesCocoRoyales: 9164
-bloptesGriotteRoyales: 9162
-bloptesGriottes: 9158
-bloptesIndigo: 9161
-bloptesIndigoRoyales: 9165
-bloptesMulticoloresRoyales: 9166
-bloptesReinette: 9159
-bloptesReinetteRoyales: 9163
-bloptureCoco: 9169
-bloptureCocoRoyale: 9173
-bloptureGriotte: 9167
-bloptureGriotteRoyale: 9171
-bloptureIndigo: 9170
-bloptureIndigoRoyale: 9174
-bloptureMulticoloreRoyale: 9175
-bloptureReinette: 9168
-bloptureReinetteRoyale: 9172
-blugely: 995
-bobDuPaysan: 8125
-bocal: 1468
-boisAncestral: 920
-boisDArash: 6853
-boisDEbene: 449
-boisDErable: 471
-boisDIf: 461
-boisDOliviolet: 2357
-boisDOrme: 470
-boisDeBambou: 7013
-boisDeBambouDore: 7017
-boisDeBambouMagique: 7261
-boisDeBambouSacre: 7014
-boisDeBambouSombre: 7016
-boisDeBambouto: 7286
-boisDeBamboutoSacre: 7289
-boisDeBombu: 2358
-boisDeCharme: 472
-boisDeChataignier: 473
-boisDeChene: 460
-boisDeCheneMou: 6489
-boisDeFrene: 303
-boisDeKaerlier: 2379
-boisDeKaliptus: 7925
-boisDeMerisier: 474
-boisDeNoyer: 476
-boisDeTronknyde: 2250
-boisElastique: 1329
-boisEnvoûte: 926
-boisFioriture: 6848
-boîteDeChabon: 1880
-boîteDeKanigrou: 2549
-boîteDeSuborhube: 6849
-bol: 1732
-bon: 1000Kek: 1507
-bon: 10000Kek: 1510
-bon: 2000Kek: 1508
-bon: 5000Kek: 1509
-bonbonDeCompensationDuChanceux: 7801
-bonbonDeCompensationDuSage: 7800
-bonbonDeConsolation: 2332
-bonbonDuChanceux: 7803
-bonbonDuSage: 7802
-bonbonEnergetique: 7804
-bonbonRougeSurpuissant: 1: 1723
-bonbonRougeSurpuissant: 2: 2333
-bonnePioche: 1438
-bonnetNufar: 8630
-bonnetSpairance: 8633
-bonnetToual: 8637
-bontaAttitude: 2234
-boodenGlace: 6643
-boomerangDuDokAlako: 8075
-boomerangDuKoalakSanguin: 8064
-boomerangDuMaîtreKoalak: 8076
-boomerangDuWarkoMarron: 8077
-borsalinoDuParrain: 9541
-borsitrono: 9414
-botodindo: 7554
-bottananas: 8341
-botteHairo: 8666
-botteTroueeDeBwork: 3002
-botteUlisme: 8667
-bottesAgilesques: 863
-bottesAnimales: 2384
-bottesAnimalesSombres: 2400
-bottesAntouche: 8727
-bottesAntrin: 8663
-bottesCeremonialesDuSeigneurDesRats: 8462
-bottesChampetres: 6794
-bottesDAnticipation: 1623
-bottesDApprentissage: 1665
-bottesDHogmeiser: 910
-bottesDeBowisse: 127
-bottesDeCeleriThe: 348
-bottesDeChance: 864
-bottesDeConcentration: 129
-bottesDeFaillete: 299
-bottesDeKlime: 903
-bottesDeKluh: 837
-bottesDeLApprentiInvocateur: 1666
-bottesDeLAventurier: 2476
-bottesDeLEleveurDeBouftous: 6470
-bottesDeLHommeOurs: 6721
-bottesDeLympheATik: 2372
-bottesDeMaîtrise: 1621
-bottesDeNexus: 1624
-bottesDePoursuite: 907
-bottesDePuissance: 1622
-bottesDeRagalde: 733
-bottesDeSatisfaction: 3207
-bottesDeSlait: 9667
-bottesDesBouftonsRouges: 10562
-bottesDeuradi: 8728
-bottesDoreesDHogmeiser: 912
-bottesDuBoisDeLEst: 9413
-bottesDuBoufcoul: 7883
-bottesDuBouftou: 890
-bottesDuChampion: 8067
-bottesDuChatBute: 784
-bottesDuChefBwork: 6807
-bottesDuCraqueleur: 6933
-bottesDuCraqueleurLegendaire: 8146
-bottesDuDragoeuf: 8291
-bottesDuGardienDesEgoûts: 6654
-bottesDuGrandBouftou: 891
-bottesDuKoalak: 8006
-bottesDuKoulosse: 7889
-bottesDuMeulou: 8264
-bottesDuMinotoror: 8276
-bottesDuMominotor: 8415
-bottesDuPetitBouftou: 297
-bottesDuPuissantBouftou: 892
-bottesDuRatBlanc: 8456
-bottesDuRatNoir: 8446
-bottesDuRealBoitar: 10561
-bottesDuVampyre: 10061
-bottesEnMousse: 8256
-bottesHanik: 8668
-bottesHarry: 7514
-bottesHorchons: 8858
-bottesHox: 8665
-bottesOrino: 2375
-bottesPaupayahn: 9199
-bottesPaysannes: 8128
-bottesRepane: 9182
-bottesSiksWonNaine: 9928
-bottesSwana: 8670
-bottesTarsy: 2374
-bottesUseesDHogmeiser: 911
-bottesVioutifoule: 2522
-bottesVolatiles: 2063
-bottinesDeLaDenree: 10190
-bottinesDesSousBois: 9139
-bottinesDuBlackWab: 9576
-bottinesDuMulou: 6953
-bottinesEnBoisDAbrakleur: 8869
-boucleDuChouque: 2622
-bouclierAbraknyde: 9009
-bouclierAbraknydeLichene: 7086
-bouclierAerdala: 9030
-bouclierAerdalaEnvole: 7237
-bouclierAkwadala: 9004
-bouclierAkwadalaEnglouti: 7234
-bouclierBohBihn: 9483
-bouclierDAsse: 9008
-bouclierDAsseEvapore: 7083
-bouclierDEntraînement: 7097
-bouclierDeBowisse: 9026
-bouclierDeBowisseDeserte: 7088
-bouclierDeChaferLancier: 2307
-bouclierDeSidimote: 9001
-bouclierDeSidimoteEnfonce: 7069
-bouclierDesBouftonsRouges: 10556
-bouclierDesBrigandins: 9017
-bouclierDesBrigandinsEcorche: 7070
-bouclierDuBawbawe: 9019
-bouclierDuBawbaweExplose: 7075
-bouclierDuBouftou: 9025
-bouclierDuBouftouParasite: 7087
-bouclierDuBûcheron: 9015
-bouclierDuBûcheronFendu: 7071
-bouclierDuCaptainAmakna: 9021
-bouclierDuCaptainAmaknaVieilli: 7081
-bouclierDuChouque: 9024
-bouclierDuChouqueSaborde: 7085
-bouclierDuCraqueleur: 9027
-bouclierDuCraqueleurCraquele: 7090
-bouclierDuMontKipou: 9016
-bouclierDuMontKipouBrise: 6986
-bouclierDuRealBoitar: 10555
-bouclierDuSadida: 9006
-bouclierDuSadidaFatigue: 7079
-bouclierEnMousse: 7077
-bouclierEnSlip: 9007
-bouclierEnSlipSali: 7080
-bouclierFeudala: 9029
-bouclierFeudalaBrule: 7236
-bouclierFiSquale: 8855
-bouclierHispanique: 10073
-bouclierHispaniqueUnique: 10076
-bouclierPandawa: 9010
-bouclierPandawaBourre: 7089
-bouclierPararayon: 9566
-bouclierReptilien: 2296
-bouclierTaverne: 9003
-bouclierTavernePerce: 7073
-bouclierTerrdala: 9028
-bouclierTerrdalaEnterre: 7235
-bouclierTigre: 9484
-bouclierTropheeDuBworker: 10167
-bouclierTropheeDuCheneMou: 10160
-bouclierTropheeDuDarkVlad: 10158
-bouclierTropheeDuDragonCochon: 10161
-bouclierTropheeDuKimbo: 10163
-bouclierTropheeDuKoulosse: 10165
-bouclierTropheeDuMinotoror: 10162
-bouclierTropheeDuMoon: 10159
-bouclierTropheeDuSphincterCell: 10166
-bouclierTropheeDuWaWabbit: 10164
-bouclierVentaille: 9005
-bouclierVentailleFroisse: 7078
-bouclierVolant: 9023
-bouclierVolantVoile: 7084
-boue: 1881
-boueDuBoo: 417
-boufbottes: 2422
-boufbottesRoyales: 2442
-boufcoiffeRoyale: 2438
-bougieBleue: 2311
-bougieDuMineurSombre: 2274
-bougieMagiqueDuMineurSombre: 6476
-bougieRouge: 2309
-bougieVerte: 2310
-bouillieInfame: 10075
-bouleANeigeFoireDuTrooll: 6652
-boulePolie: 8737
-boulesDuMinotoboule: 6963
-boulettesDInsecte: 1952
-boulettesDInsecte: 2: 1953
-boulgourdeDesClairieres: 515
-bouloute: 8151
-boulouteBienLElever: 8319
-boulouteDuParrain: 9594
-bouquetDeRosesDemoniaques: 6663
-bourgeonDAbraknyde: 437
-bourgeonDAbraknydeSombre: 1611
-bourgeonDeFourbasse: 6736
-bourgeonDeLAbraknydeAncestral: 8495
-bourgeonDuCheneMou: 6487
-bourseDe: 1000Kamas: 8815
-bourseDe: 10000Kamas: 8425
-bourseDe: 5000Kamas: 8814
-bourseDeKamas: 8922
-bourseDeKamasDouteuse: 6833
-boutDeBlopCoco: 1770
-boutDeBlopGriotte: 1775
-boutDeBlopIndigo: 1777
-boutDeBlopReinette: 1773
-boutDeGoldemort: 8712
-bouteilleDeRhum: 1023
-braceletDeDjaul: 2343
-braceletDeForceDeTrool: 2561
-braceletDuChefBwork: 6805
-braceletDuChefCrocodaille: 6819
-braceletDuMinotot: 8270
-braceletDuTetounik: 9921
-braceletMagiqueDeFarle: 6767
-braceletMagiqueDeShika: 8299
-braceletVentre: 9177
-bracteeDeChiendent: 8782
-braguetteDuMaîtreZoth: 8804
-brakmarAttitude: 2235
-brancheDeLAbrakleurClair: 8835
-brancheDeLAbrakleurSombre: 8834
-brillanteEtoileDuSoir: 1638
-briocheDoree: 743
-briochette: 2024
-briochetteMagique: 2025
-brocheDeDanathor: 2177
-brocheDeGueurle: 9990
-brocheDeHeticiliUfot: 2359
-brocheDeSbab: 2145
-brocheDiamant: 7938
-brocheEmeraude: 7936
-brocheRubis: 7937
-brocheSaphir: 7935
-brochet: 1847
-brochetFarci: 2: 1835
-brochetFarci: 3: 1836
-brochetFarci: 4: 1837
-brochetTupeHalett: 1849
-brochetTupeHalettVide: 1851
-brochetVide: 1848
-bronze: 442
-brumenTinctorias: 6874
-bulbeKouraçao: 8749
-bulbeMalibout: 8750
-bulbeMorito: 8752
-bulbePassaoh: 8751
-burgerDeTrool: 6669
-butinDuConvoi: 9966
-bwakDAir: 2076
-bwakDEau: 2075
-bwakDeFeu: 2074
-bwakDeTerre: 2077
-bwakSquelettique: 2623
-bworky: 8000
-cacheOreilles: 6802
-cadeauAbraKadabra: 8165
-cadeauAmuletteDuVampyre: 10141
-cadeauAmuletteObvijevan: 9360
-cadeauAmulettePapayou: 9893
-cadeauAnneauCristalin: 9519
-cadeauAnneauDeLaMort: 10149
-cadeauAnneauDeSlait: 9891
-cadeauAnneauDuVampyre: 10140
-cadeauAnneauObvijevan: 9361
-cadeauAnneauPaupayahn: 9345
-cadeauAnneauZest: 9506
-cadeauArcHeubHuz: 9816
-cadeauArcHordEon: 9814
-cadeauArcKoNeun: 9817
-cadeauArcPlassTik: 9813
-cadeauArcTarHuss: 9815
-cadeauAstrocoiffe: 8898
-cadeauBaguetteEuhLailleFe: 9822
-cadeauBaguetteHanDar: 9820
-cadeauBaguetteHoh: 9818
-cadeauBaguetteStrorDiNer: 9819
-cadeauBaguetteTaLay: 9821
-cadeauBandeauPapayou: 9896
-cadeauBatonBahPik: 9823
-cadeauBatonBohLa: 9825
-cadeauBatonBoukTou: 9824
-cadeauBatonLapLouz: 9827
-cadeauBatonLavHeur: 9826
-cadeauBatonPoupinateur: 10359
-cadeauBebePandawa: 8568
-cadeauBeignature: 9350
-cadeauBilby: 8687
-cadeauBorsalinoDuParrain: 9590
-cadeauBorsitrono: 9504
-cadeauBottananas: 8895
-cadeauBottesDeSlait: 9889
-cadeauBottesDesBouftonsRouges: 10652
-cadeauBottesDuBoisDeLEst: 9503
-cadeauBottesDuRealBoitar: 10647
-cadeauBottesDuVampyre: 10144
-cadeauBottesPaupayahn: 9346
-cadeauBottesSiksWonNaine: 10195
-cadeauBottesVioutifoules: 8905
-cadeauBottinesDeLaDenree: 10335
-cadeauBottinesDuBlackWab: 9581
-cadeauBouclierBohBihn: 9522
-cadeauBouclierDesBouftonsRouges: 10655
-cadeauBouclierDuRealBoitar: 10650
-cadeauBouclierTigre: 9524
-cadeauBouloute: 8164
-cadeauBoulouteDuParrain: 9596
-cadeauBraceletDuTetounik: 10325
-cadeauCaleçonABretellesDuParrain: 9592
-cadeauCapananas: 8894
-cadeauCapeBouchon: 9497
-cadeauCapeCristaline: 9520
-cadeauCapeDeNoke: 10340
-cadeauCapeDeSlait: 9892
-cadeauCapeDuBlackWab: 9579
-cadeauCapeDuBoisDeLEst: 9501
-cadeauCapeDuLapinoBlase: 8909
-cadeauCapeDuParrain: 9593
-cadeauCapeDuVampyre: 10143
-cadeauCapeGrume: 9505
-cadeauCapeKifebzz: 9494
-cadeauCapeObvijevan: 9362
-cadeauCapePapayou: 9895
-cadeauCapePaupayahn: 9339
-cadeauCapeSiksWonNaine: 10192
-cadeauCapeVioutifoule: 8903
-cadeauCapogato: 9348
-cadeauCaskabeille: 9495
-cadeauCaskogato: 9349
-cadeauCaskostar: 10147
-cadeauCasqueDeGalgarion: 9359
-cadeauCasqueVioutifoule: 8904
-cadeauCeintureCristaline: 9518
-cadeauCeintureDeFlashGorgone: 9357
-cadeauCeintureDeMounu: 10653
-cadeauCeintureDeTolot: 10648
-cadeauCeintureDuBlackWab: 9580
-cadeauCeintureDuBoisDeLEst: 9502
-cadeauCeintureDuTetounik: 10326
-cadeauCeintureDuVampyre: 10142
-cadeauCeintureLardiere: 9499
-cadeauCeintureSiksWonNaine: 10194
-cadeauCeintureVioutifoule: 8906
-cadeauChachaAngora: 9645
-cadeauChachaTigre: 8890
-cadeauChapeauDeBeneji: 10656
-cadeauChapeauDeTolot: 10651
-cadeauChapeauDuBoisDeLEst: 9500
-cadeauChapeauDuLapino: 8910
-cadeauChapeauObvijevan: 9363
-cadeauChapeauPaupayahn: 9344
-cadeauChapeauSatanusse: 8817
-cadeauChapleau: 10150
-cadeauChauffeSouris: 10132
-cadeauChaussuresDuTetounik: 10327
-cadeauCigalocape: 9509
-cadeauCigaloclier: 9510
-cadeauCigalocoiffe: 9508
-cadeauCochobits: 9496
-cadeauCoiffeCristaline: 9521
-cadeauCoiffeDeCraCrame: 9353
-cadeauCoiffeDeGoultard: 9358
-cadeauCoiffeDeLaDenree: 10337
-cadeauCoiffeDeMaîtreNoirJack: 9356
-cadeauCoiffeDuBlackWab: 9578
-cadeauCoiffeMuletDuTetounik: 10328
-cadeauCollierDeNoke: 10339
-cadeauCollierSleump: 10358
-cadeauCornesDeXvii: 9354
-cadeauCouronneKoninginnedag: 10515
-cadeauCrocodaille: 9649
-cadeauCroum: 7526
-cadeauDHalouine: 8168
-cadeauDagueHaihRiDon: 9831
-cadeauDagueHiBol: 9829
-cadeauDagueHiDon: 9828
-cadeauDagueHiMov: 9830
-cadeauDagueHoRille: 9832
-cadeauDaguesDeNoke: 10338
-cadeauDeCompensation: 7917
-cadeauDeCompensationDeLEleveur: 8424
-cadeauDeLaSainBallotin: 9525
-cadeauDeNowel: 8337
-cadeauDindo: 7556
-cadeauDofusien: 1: 6962
-cadeauDofusien: 2: 10675
-cadeauDragodindeEnArmure: 9651
-cadeauDragodindeKramelehon: 9964
-cadeauDragouneNoire: 9650
-cadeauDragouneRose: 7525
-cadeauEcureuilChenapan: 8891
-cadeauElScarador: 8166
-cadeauEpeeCerpTeurh: 9837
-cadeauEpeeDalDouss: 9835
-cadeauEpeeDePym: 9352
-cadeauEpeeHiZan: 9834
-cadeauEpeeQuiPete: 8816
-cadeauEpeeRnohHel: 9836
-cadeauEpeeTaRad: 9833
-cadeauEventShika: 9118
-cadeauFëanor: 8711
-cadeauFotome: 7521
-cadeauGanteletDesBouftonsRouges: 10654
-cadeauGanteletDuRealBoitar: 10649
-cadeauGelutin: 10598
-cadeauGeniallissimeCoiffeDeTorteHou: 8912
-cadeauGriffeDEcaflip: 1: 8969
-cadeauGriffeDEcaflip: 2: 8970
-cadeauGriffeDEcaflip: 3: 8973
-cadeauGriffeDEcaflip: 4: 8974
-cadeauGriffeDEcaflip: 5: 8976
-cadeauGriffeDEcaflip: 6: 8978
-cadeauGriffeDEcaflip: 7: 8979
-cadeauGriffeDEcaflip: 8: 8980
-cadeauGriffeDEcaflip: 9: 8981
-cadeauGriffeDEcaflip: 10: 8982
-cadeauGriffeDEcaflip: 11: 8983
-cadeauGriffeDEcaflipParfaite: 8984
-cadeauGrosseBagouzeDuParrain: 9618
-cadeauHacheHevLeu: 9841
-cadeauHacheHichKeBab: 9838
-cadeauHachePerGe: 9842
-cadeauHachePiVeuhNin: 9840
-cadeauHachePiraTeur: 9839
-cadeauHmmmmmmmmm: 8907
-cadeauJambanneau: 9498
-cadeauKaskwette: 10361
-cadeauLOxolature: 10334
-cadeauLaChaplivate: 10153
-cadeauLapinocoiffe: 8908
-cadeauLeChaplanne: 10151
-cadeauLeopardo: 8892
-cadeauLesChaplures: 10152
-cadeauLesSleumpettes: 10360
-cadeauMarcassin: 9644
-cadeauMarteauBoGan: 9846
-cadeauMarteauLeStoye: 9843
-cadeauMarteauMahTurj: 9844
-cadeauMarteauNiHok: 9847
-cadeauMarteauReuhDeuhPiz: 9845
-cadeauMaskananas: 8893
-cadeauMasqueDeNoke: 10341
-cadeauMasqueDuVampyre: 10145
-cadeauMasqueSiksWonNaine: 10193
-cadeauMasseODard: 9493
-cadeauMegabottes: 8901
-cadeauMegacape: 8899
-cadeauMegacoiffe: 8900
-cadeauMegature: 8902
-cadeauMiniWa: 7897
-cadeauMinimino: 7527
-cadeauMiniminotot: 9648
-cadeauNoreillesDeSlait: 9890
-cadeauOeufDeChercheurDOgrines: 10660
-cadeauOreillesDeLapineupe: 8911
-cadeauOxano: 10336
-cadeauPailleton: 9507
-cadeauPanoplieBlackWab: 9583
-cadeauPantoufrelons: 9492
-cadeauPelleAgHeuze: 9850
-cadeauPelleAssTik: 9849
-cadeauPelleHiSeMoun: 9852
-cadeauPelleRailZeur: 9851
-cadeauPelleRin: 9848
-cadeauPioute: 9646
-cadeauPompamulette: 9514
-cadeauPompanneau: 9515
-cadeauPompocape: 9516
-cadeauPompocoiffe: 9517
-cadeauPoshocape: 9512
-cadeauPoshoclier: 9513
-cadeauPoshocoiffe: 9511
-cadeauRoss: 8686
-cadeauSabroh: 10148
-cadeauSacDeBoubaLeProphete: 10146
-cadeauSakananas: 8897
-cadeauSandalesPapayou: 9894
-cadeauShika: 9119
-cadeauShushuDeRushu: 9808
-cadeauSombreroDePepitox: 9355
-cadeauSouliersLaquesDuParrain: 9591
-cadeauTartamulette: 9351
-cadeauTifoux: 8167
-cadeauTiwabbitKiafin: 9647
-cadeauTourmenteurDeFeuille: 9554
-cadeauTourmenteurDeFlamme: 9553
-cadeauTourmenteurDeGoutte: 9555
-cadeauTourmenteurDeNuage: 9556
-cadeauTourmenteurDeTenebres: 9552
-cadeauVampyrette: 10131
-cadeauVenuDAilleurs: 9621
-cadeauWalk: 8683
-cadeauWillyLeRelou: 7898
-cadeauYugolette: 10332
-cadeauYugonnet: 10333
-cadeauYugoufle: 10331
-cadeauYugure: 10330
-cadranDAir: 9012
-cadranDAirDeregle: 7092
-cadranDEau: 9014
-cadranDEauDeregle: 7094
-cadranDeFeu: 9011
-cadranDeFeuDeregle: 7091
-cadranDeTerre: 9013
-cadranDeTerreDeregle: 7093
-caisseDArmesBlanches: 1879
-caisseDEquipementBontarien: 9958
-caisseDOutilsDeNara: 9101
-caisseDeMarchandises: 10089
-caisseDeMinerai: 9962
-caleEnBoisDuTronknyde: 2563
-caleçonABretellesDuParrain: 9549
-caleçonDeLenglad: 9100
-caleçonDeMilicien: 2340
-caleçonMignonDuCapitainePirate: 998
-caliceDeFecorce: 8781
-camaineux: 768
-camouflage: 2062
-camouflageImmobile: 9911
-canineDeBanditDesPlaines: 10086
-canineDuMulou: 439
-canineDuVampireCaptif: 975
-canneAChô: 1863
-canneAKoinkoin: 6661
-canneAKralamour: 2366
-canneAPecheCourte: 596
-canneAPecheStandard: 1866
-canneAPecheTelescopique: 1868
-canneAPichon: 2188
-canneAPichonEnsorcelee: 9530
-canneCubique: 1865
-canneDeLApprentiPecheur: 8541
-canneDeMamieBonbon: 7037
-canneHarpon: 1860
-capananas: 7999
-capeAbilite: 775
-capeAerdala: 7233
-capeAille: 8640
-capeAkwadala: 7230
-capeAurale: 8639
-capeBanale: 6800
-capeBleutee: 936
-capeBontarienne: 2119
-capeBouchon: 9407
-capeBouffante: 2414
-capeBouffanteRoyale: 2445
-capeBrakmarienne: 2118
-capeCeremonialeDuSeigneurDesRats: 8458
-capeCristaline: 9451
-capeDElyaWood: 1695
-capeDeBonneEsperance: 790
-capeDeBou: 2380
-capeDeBowisse: 744
-capeDeFarle: 6775
-capeDeJulesYanos: 1693
-capeDeLAventurier: 2473
-capeDeLHommeOurs: 6720
-capeDeLaMeupette: 8867
-capeDeLaMomieNova: 6707
-capeDeLaOuassingue: 8819
-capeDeMoriArty: 778
-capeDeNoke: 10185
-capeDeRougeur: 933
-capeDeShika: 8302
-capeDeSlait: 9660
-capeDesMercenairesDAstrub: 6886
-capeDragoeuf: 8286
-capeDuBlackWab: 9569
-capeDuBoisDeLEst: 9411
-capeDuBoufcoul: 7884
-capeDuChampChamp: 6922
-capeDuChampion: 8068
-capeDuChefBwork: 6811
-capeDuCoqHû: 777
-capeDuCorbac: 2061
-capeDuDesirOBoul: 7011
-capeDuDragonCochon: 8281
-capeDuJusticier: 758
-capeDuKitsou: 7340
-capeDuKoalak: 8007
-capeDuLapinoBlase: 8532
-capeDuMeulou: 8265
-capeDuMinotoror: 8279
-capeDuMinotot: 8280
-capeDuMominotor: 8416
-capeDuMulou: 6954
-capeDuMulouFou: 952
-capeDuPapaNowel: 8333
-capeDuParrain: 9540
-capeDuPetitChaponRouge: 8366
-capeDuPiouBleu: 8232
-capeDuPiouJaune: 8236
-capeDuPiouRose: 8235
-capeDuPiouRouge: 8231
-capeDuPiouVert: 8233
-capeDuPiouViolet: 8234
-capeDuPirate: 677
-capeDuPoolayChogrelotant: 759
-capeDuPrespic: 6927
-capeDuRatBlanc: 8452
-capeDuRatNoir: 8443
-capeDuTofu: 8112
-capeDuTofuFou: 953
-capeDuVampire: 754
-capeDuVampyre: 10058
-capeDuWaWabbit: 971
-capeEdepee: 772
-capeEllinie: 773
-capeEnMousse: 8258
-capeErforee: 9180
-capeFeudala: 7232
-capeFlotteuse: 2381
-capeFulgurante: 967
-capeGrume: 9415
-capeHadosse: 8649
-capeHaharnum: 8650
-capeHilere: 955
-capeHitton: 8644
-capeHivernale: 6801
-capeHôte: 6994
-capeHoute: 6995
-capeHuccino: 7137
-capeHuchon: 8642
-capeHucine: 6712
-capeHulco: 8648
-capeItaineflam: 7515
-capeItouLascione: 781
-capeKifebzz: 9404
-capeLyne: 8646
-capeMaimpa: 2382
-capeMajHic: 779
-capeObvijevan: 9233
-capeOuginak: 1910
-capePandawushu: 7174
-capePapayou: 9654
-capePaupayahn: 9196
-capeRice: 956
-capeRicefini: 6993
-capeRouth: 8641
-capeSanguine: 2383
-capeShika: 9121
-capeSiksWonNaine: 9933
-capeSombre: 946
-capeSouveraineDuRoissingue: 8818
-capeSulcorpe: 776
-capeSulhit: 8643
-capeTerrdala: 7231
-capeUlais: 774
-capeUseeDuCheneMou: 8472
-capeVioutifoule: 2518
-capeWera: 8647
-capeYtale: 8645
-capignon: 9142
-capodindo: 7552
-capogato: 9195
-capouzeDesChamps: 6795
-caprin: 9141
-capsuleExplosive: 2330
-capucheApin: 8634
-capucheDeLaOuassingue: 8845
-capucheSouveraineDuRoissingue: 8844
-carabottes: 2530
-caracape: 2532
-caracapeMinotoris: 2629
-caracoiffe: 2531
-carapaceBleue: 1013
-carapaceBleueVide: 2613
-carapaceDeScarafeuilleBlanc: 2290
-carapaceDeScarafeuilleBleu: 2291
-carapaceDeScarafeuilleNoir: 8138
-carapaceDeScarafeuilleRouge: 2292
-carapaceDeScarafeuilleVert: 2293
-carapaceDeScaratos: 8308
-carapaceDeScorbute: 2487
-carapaceDuScarabosseDore: 8159
-carapaceJaune: 1011
-carapaceJauneVide: 2611
-carapaceRouge: 1012
-carapaceRougeVide: 2610
-carapaceVerte: 1010
-carapaceVerteVide: 2609
-carapaceVideDeCrabe: 2303
-carcasseDeRatDEgouts: 2256
-caresseurClassique: 7628
-caresseurEnPlumeDeCorbac: 7738
-caresseurEnPlumeDeKwakDeFlamme: 7740
-caresseurEnPlumeDeKwakDeGlace: 7739
-caresseurEnPlumeDeKwakDeTerre: 7742
-caresseurEnPlumeDeKwakDeVent: 7741
-caresseurEnPlumeDePiouBleu: 7623
-caresseurEnPlumeDePiouJaune: 7735
-caresseurEnPlumeDePiouRose: 7736
-caresseurEnPlumeDePiouRouge: 7734
-caresseurEnPlumeDePiouVert: 7733
-caresseurEnPlumeDePiouViolet: 7624
-caresseurEnPlumeDeTofu: 7622
-caresseurEnPlumeDeTofuMalefique: 7737
-caresseurEnPlumeDeTofuRoyal: 7746
-caresseurEnPlumeDuDernierPoolay: 7743
-caresseurEnPlumeDuMaîtreCorbac: 7745
-caresseurEnPlumePointueDeKwak: 7744
-carpeDIem: 1794
-carpeDIemVidee: 1795
-carpeVapeur: 2: 1818
-carpeVapeur: 3: 1819
-carpeVapeur: 4: 1817
-carpelleDeBrouture: 8779
-carpetteDesSables: 1796
-carpetteDesSablesVidee: 1797
-carreDeChocolatNoir: 7149
-carreDePorc: 1917
-carreDePorc: 2: 1918
-carreDePorc: 3: 1921
-carreDePorc: 4: 1919
-carreDePorcConserve: 2004
-carreDePorcConserve: 2: 2005
-carreDePorcConserve: 3: 2006
-carreDePorcConserve: 4: 2007
-carreauDArbalete: 2297
-carteAuTresor: 5: 959
-carteAuTresorDesBoulangersSombres: 931
-carteAuTresorDesBworks: 939
-carteAuTresorDesForgeronsSombres: 938
-carteAuTresorDesMineursSombres: 930
-carteDUnBrakmarien: 2260
-carteDUnEnqueteur: 2182
-carteDeKwelsh: 2401
-carteSpeciale: 1878
-caskabeille: 9405
-caskogato: 9194
-caskostar: 9936
-casque: 1019
-casqueAmeliore: 8918
-casqueCasse: 1020
-casqueCasseDeBwork: 3000
-casqueCasseDuChafer: 6475
-casqueDeChaferDElite: 2065
-casqueDeGalgarion: 9184
-casqueDeMaîtreNabur: 7034
-casqueDesMercenairesDAstrub: 6863
-casqueDragoeuf: 8287
-casqueDuBitoufAerien: 8989
-casqueDuBworkDeBronze: 6483
-casqueDuChafer: 1908
-casqueDuChefBwork: 6813
-casqueDuCraqueleur: 6930
-casqueDuCraqueleurLegendaire: 8147
-casqueDuGuerrierZoth: 8847
-casqueHarnage: 9181
-casqueKeutumedi: 8619
-casqueVioutifoule: 2520
-cawotte: 361
-cawotteMaudite: 8621
-ceintureAerdala: 7241
-ceintureAgilesque: 261
-ceintureAkwadala: 7238
-ceintureBanisation: 2689
-ceintureBanisationSauvage: 2710
-ceintureBitoufaleDeProsperYoupla: 8862
-ceintureBodiezele: 8658
-ceintureBontarienne: 3204
-ceintureBrakmarienne: 3205
-ceintureBuhlent: 8652
-ceintureCeremonialeDuSeigneurDesRats: 8461
-ceintureChafeuse: 2809
-ceintureChouqueuse: 2677
-ceintureClaireEnAbrakleur: 8871
-ceintureCorbaquiale: 2655
-ceintureCristaline: 9453
-ceintureDAgilite: 859
-ceintureDEndurance: 356
-ceintureDUneFemmeEnOr: 7902
-ceintureDeCelerite: 1700
-ceintureDeChance: 860
-ceintureDeFlashGorgone: 9186
-ceintureDeLAmantDHa: 6450
-ceintureDeLAventurier: 2477
-ceintureDeLHommeOurs: 6724
-ceintureDeMounu: 10560
-ceintureDePoche: 1701
-ceintureDePuissance: 156
-ceintureDeSangroku: 7029
-ceintureDeSecurite: 734
-ceintureDeTolot: 10559
-ceintureDesVents: 1669
-ceintureDracochoune: 2808
-ceintureDuBandit: 6925
-ceintureDuBlackWab: 9575
-ceintureDuBoisDeLEst: 9412
-ceintureDuBoufcoul: 7885
-ceintureDuBouftou: 2428
-ceintureDuChampion: 8070
-ceintureDuChefCrocodaille: 6831
-ceintureDuCraqueleur: 6935
-ceintureDuCraqueleurLegendaire: 8152
-ceintureDuDoduTrembleur: 1668
-ceintureDuDragoeuf: 8288
-ceintureDuKoalak: 8008
-ceintureDuKobeer: 789
-ceintureDuKwabe: 2803
-ceintureDuMeulou: 8266
-ceintureDuMinotoror: 8282
-ceintureDuMinotot: 8283
-ceintureDuMominotor: 8418
-ceintureDuPiouBleu: 8238
-ceintureDuPiouJaune: 8241
-ceintureDuPiouRose: 8242
-ceintureDuPiouRouge: 8237
-ceintureDuPiouVert: 8240
-ceintureDuPiouViolet: 8239
-ceintureDuPrespic: 6929
-ceintureDuRat: 2404
-ceintureDuRatBlanc: 8455
-ceintureDuRatNoir: 8447
-ceintureDuTetounik: 9922
-ceintureDuTofu: 8113
-ceintureDuTot: 203
-ceintureDuVampyre: 10056
-ceintureEnMousse: 8257
-ceintureFeudala: 7240
-ceintureFleurie: 6796
-ceintureForcesque: 257
-ceintureFourbissante: 6745
-ceintureFulgurante: 968
-ceintureGessant: 8662
-ceintureKokokette: 2678
-ceintureKolante: 2688
-ceintureLardiere: 9409
-ceintureLupine: 8654
-ceintureLuthe: 8656
-ceintureLuthuthu: 1667
-ceintureMeulante: 2807
-ceintureMulante: 2804
-ceintureMycosine: 9144
-ceintureNoireDeFrankLeeBruce: 7039
-ceintureOuginakale: 2811
-ceinturePiquante: 2810
-ceintureRasboulaireDuRasboul: 8856
-ceintureRoyaleDuBouftou: 2444
-ceintureSiksWonNaine: 9929
-ceintureSombreEnAbrakleur: 8870
-ceintureSula: 7139
-ceintureTerrdala: 7239
-ceintureTore: 9183
-ceintureTortueBleue: 2683
-ceintureTortueJaune: 2681
-ceintureTortueRouge: 2687
-ceintureTortueVerte: 2685
-ceintureVioutifoule: 2524
-ceintureVitalesque: 253
-ceinturemudaDuPaysan: 8124
-celebreArcEcologique: 1120
-cerberus: 235
-cerise: 1734
-certificatDeBonVote: 2189
-certificatDeChangementDAlignement: 9487
-certificatDeMauvaisVote: 2191
-certificatDeMiseEnChanilAbraKadabra: 8175
-certificatDeMiseEnChanilAtouin: 8708
-certificatDeMiseEnChanilBebePandawa: 8564
-certificatDeMiseEnChanilBilby: 8685
-certificatDeMiseEnChanilBouloute: 8176
-certificatDeMiseEnChanilBoulouteDuParrain: 9598
-certificatDeMiseEnChanilBwakDAir: 2101
-certificatDeMiseEnChanilBwakDEau: 2100
-certificatDeMiseEnChanilBwakDeFeu: 2099
-certificatDeMiseEnChanilBwakDeTerre: 2098
-certificatDeMiseEnChanilBworky: 8180
-certificatDeMiseEnChanilChacha: 1735
-certificatDeMiseEnChanilChachaAngora: 9675
-certificatDeMiseEnChanilChachaTigre: 8887
-certificatDeMiseEnChanilChauffeSouris: 10135
-certificatDeMiseEnChanilChercheurDOgrines: 10661
-certificatDeMiseEnChanilCrocodaille: 9684
-certificatDeMiseEnChanilCroum: 7533
-certificatDeMiseEnChanilDragouneNoire: 9685
-certificatDeMiseEnChanilDragouneRose: 7534
-certificatDeMiseEnChanilEcureuilChenapan: 8888
-certificatDeMiseEnChanilElScarador: 8178
-certificatDeMiseEnChanilFëanor: 8707
-certificatDeMiseEnChanilFotome: 7532
-certificatDeMiseEnChanilGelutin: 10599
-certificatDeMiseEnChanilKoalakSanguin: 8526
-certificatDeMiseEnChanilLeopardo: 8889
-certificatDeMiseEnChanilMarcassin: 9674
-certificatDeMiseEnChanilMiniWa: 7895
-certificatDeMiseEnChanilMinimino: 7535
-certificatDeMiseEnChanilMiniminotot: 9683
-certificatDeMiseEnChanilNomoon: 7420
-certificatDeMiseEnChanilPekiPeki: 7417
-certificatDeMiseEnChanilPetitChachaBlanc: 7418
-certificatDeMiseEnChanilPetitChienchienNoir: 7419
-certificatDeMiseEnChanilPiouteBleu: 9676
-certificatDeMiseEnChanilPiouteJaune: 9677
-certificatDeMiseEnChanilPiouteRose: 9678
-certificatDeMiseEnChanilPiouteRouge: 9679
-certificatDeMiseEnChanilPiouteVert: 9680
-certificatDeMiseEnChanilPiouteViolet: 9681
-certificatDeMiseEnChanilRoss: 8684
-certificatDeMiseEnChanilShushuDeRushu: 9810
-certificatDeMiseEnChanilTifoux: 8179
-certificatDeMiseEnChanilTiwabbitKiafin: 9682
-certificatDeMiseEnChanilVampyrette: 10134
-certificatDeMiseEnChanilVilainPetitCorbac: 8421
-certificatDeMiseEnChanilWabbit: 2102
-certificatDeMiseEnChanilWalk: 8544
-certificatDeMiseEnChanilWillyLeRelou: 7896
-certificatDeMonture: 7806
-certificatDeReconstitution: 10601
-certificatDesOrdresNumero: 5: 9490
-certificatDopeul: 6708
-certificatDopeulCra: 10289
-certificatDopeulEcaflip: 10290
-certificatDopeulEniripsa: 10291
-certificatDopeulEnutrof: 10292
-certificatDopeulFeca: 10293
-certificatDopeulIop: 10294
-certificatDopeulOsamodas: 10295
-certificatDopeulPandawa: 10296
-certificatDopeulSacrieur: 10297
-certificatDopeulSadida: 10298
-certificatDopeulSram: 10299
-certificatDopeulXelor: 10300
-certificatDuDojoDAerdala: 7344
-certificatDuDojoDAkwadala: 7347
-certificatDuDojoDeFeudala: 7348
-certificatDuDojoDePandala: 7346
-certificatDuDojoDeTerrdala: 7345
-certificatShamanique: 7175
-cervelleDeBouftou: 2448
-cervelleDeChefDeGuerreBouftou: 2462
-cervelleDeTortue: 2354
-cervelleDeVampire: 8514
-chacha: 1728
-chachaAngora: 9617
-chachaBlanc: 6718
-chachaTigre: 7524
-chachateRousse: 7523
-chaîneDeLOuginak: 2492
-chaîneDeLaLiche: 1491
-chairDInsecte: 1915
-chairDInsecte: 2: 1916
-chairDInsecteConservee: 1993
-chairDInsecteConservee: 2: 1994
-chairDeLarve: 1898
-chairDeLarve: 2: 1899
-chairDeLarve: 3: 1900
-chairDeLarveConservee: 1990
-chairDeLarveConservee: 2: 1991
-chairDeLarveConservee: 3: 1992
-chakraStyle: 220
-champcoiffe: 6921
-champignon: 290
-champignonLuidegît: 1674
-champo: 2097
-champoBanal: 2144
-chanceAMulette: 1477
-chanceDEcaflip: 1496
-changementDOrdre: 2205
-chanvre: 425
-chanvreEuphorique: 2035
-chapblopignon: 9394
-chapeauAerdala: 7229
-chapeauAkwadala: 7226
-chapeauDeBarbroussa: 8829
-chapeauDeBeneji: 10554
-chapeauDeCrocodailleDandi: 8843
-chapeauDeLAventurier: 2474
-chapeauDeLaGamineZoth: 8846
-chapeauDeLaMariee: 6662
-chapeauDeLaSainBallotin: 9471
-chapeauDeSatanusse: 8678
-chapeauDeTolot: 10553
-chapeauDuBoisDeLEst: 9410
-chapeauDuLapino: 8558
-chapeauDuMarie: 6660
-chapeauDuMineurSombre: 6477
-chapeauDuPapaNowel: 8334
-chapeauDuPiouBleu: 8244
-chapeauDuPiouJaune: 8247
-chapeauDuPiouRose: 8248
-chapeauDuPiouRouge: 8243
-chapeauDuPiouVert: 8246
-chapeauDuPiouViolet: 8245
-chapeauFeudala: 7228
-chapeauGrave: 8629
-chapeauLeufere: 8628
-chapeauLithique: 8635
-chapeauObvijevan: 9234
-chapeauPaupayahn: 9197
-chapeauPirate: 1006
-chapeauPointu: 629
-chapeauShika: 9120
-chapeauTaufeu: 8638
-chapeauTerrdala: 7227
-chapeauTyron: 8632
-chapignon: 9147
-chapodindo: 7553
-charbon: 447
-charentaisesAPoils: 8664
-chatonPerche: 1803
-chatonPercheVide: 1804
-chauffeSouris: 10107
-chaussetteDuKimbo: 8789
-chaussonsPignons: 9140
-chaussuresDuTetounik: 9923
-chaussuresLeponDavignon: 8726
-chauveSouris: 2669
-chequeDe: 100000Kamas: 1935
-chequeDeLaTaverneAuVerDOs: 2138
-chequeDeLaTaverneBworkIvre: 2135
-chequeDeLaTaverneChabrule: 2133
-chequeDeLaTaverneChezDjaul: 2136
-chequeDeLaTaverneGothgrotte: 13: 2137
-chercheurDOgrines: 10657
-chicotDuFlib: 8740
-chienchien: 1711
-chienchienNoir: 6717
-choipoPodlard: 698
-chtevu: 2403
-cigalocape: 9485
-cigaloclier: 9482
-cigalocoiffe: 9486
-ciseauxARoseDemoniaque: 6856
-citron: 1736
-citrouille: 302
-citrouillette: 2674
-citwouille: 976
-clairvoyance: 2128
-clakoss: 2527
-cleDesSrvtmercenaryShortName: 2143
-cleEnRocheDeDedAleicar: 818
-cleWabbit: 1: 961
-cleWabbit: 2: 962
-cleWabbit: 3: 963
-clefDeBrakmar: 2046
-clefDeLAntreDuBlopMulticolore: 9254
-clefDeLAntreDuDragonCochon: 8320
-clefDeLArcheDOtomai: 8971
-clefDeLEnclos: 9934
-clefDeLaCanopeeDuKimbo: 8977
-clefDeLaCaverneDesBulbes: 7310
-clefDeLaGrotteHesque: 8917
-clefDeLaSalleDuMinotot: 8307
-clefDesChamps: 8143
-clefDesPandikazes: 7309
-clefDuCoffre: 9557
-clefDuDonjonAbraknyde: 7557
-clefDuDonjonDIncarnam: 8545
-clefDuDonjonDesBlops: 9248
-clefDuDonjonDesBouftous: 1568
-clefDuDonjonDesBworks: 8135
-clefDuDonjonDesCanides: 8156
-clefDuDonjonDesCraqueleurs: 7927
-clefDuDonjonDesDragoeufs: 8343
-clefDuDonjonDesFirefoux: 7312
-clefDuDonjonDesForgerons: 1569
-clefDuDonjonDesKitsounes: 7311
-clefDuDonjonDesRatsDeBonta: 8439
-clefDuDonjonDesRatsDeBrakmar: 8438
-clefDuDonjonDesScarafeuilles: 8139
-clefDuDonjonDesSquelettes: 1570
-clefDuDonjonDesTofus: 7918
-clefDuDonjonDuBworker: 6884
-clefDuDonjonDuCheneMou: 8436
-clefDuDonjonDuKoulosse: 7908
-clefDuDonjonDuMaîtreCorbac: 7926
-clefDuDonjonEnsable: 8437
-clefDuDonjonFungus: 9247
-clefDuGouletDuRasboul: 8972
-clefDuLaboratoireDuTynril: 8975
-clefDuLabyrintheDuDragonCochon: 7511
-clefDuLabyrintheDuMinotoror: 7924
-clefDuRepaireDeSkeunk: 8073
-clefDuRepaireDesBandits: 9997
-clefDuSanctuaireDesDragoeufs: 8342
-clefSecreteDuTofulaillerRoyal: 8142
-clefsDeLEntrepôt: 9960
-clint: 2157
-clintDuDiscipleSrvtmercenaryShortName: 6971
-clintDuNeophyteSrvtmercenaryShortName: 6975
-cloaqueDuPoolay: 8787
-clochettes: 1339
-coccyxDuCorailleur: 8730
-cochobits: 9406
-cocktailMoritov: 10082
-cocoDuBitoufAerien: 8792
-cocoDuBitoufDesPlaines: 8769
-cocoDuBitoufSombre: 8776
-coconDeVerASoie: 642
-coeurDOuginak: 2493
-coeurDeBoueDuBoo: 2585
-coeurDeBrandon: 2058
-coeurDeBworkcelhaine: 8516
-coeurDeCraqueleur: 2306
-coeurDePierrePoli: 8736
-coeurDuMaitreCorbac: 2525
-coffreCacheDeTsog: 2040
-coffretMauditDuFlib: 8759
-coiffeCeremonialeDuSeigneurDesRats: 8457
-coiffeChampetre: 6797
-coiffeCristaline: 9418
-coiffeDeCraCrame: 9190
-coiffeDeGoultard: 9185
-coiffeDeLHommeOurs: 6719
-coiffeDeLaDenree: 10188
-coiffeDeLaDragueuse: 8331
-coiffeDeMaîtreNoirJack: 9187
-coiffeDeRobbieCapuche: 8636
-coiffeDechiqueteeDeDrakoalak: 8086
-coiffeDuBimdOule: 7516
-coiffeDuBlackWab: 9567
-coiffeDuBoufcoul: 7886
-coiffeDuBouftou: 2411
-coiffeDuChampion: 8069
-coiffeDuChefCrocodaille: 6834
-coiffeDuCheneMou: 8474
-coiffeDuDiscipleZoth: 8821
-coiffeDuDragoeufVolant: 8330
-coiffeDuDragonCochon: 8285
-coiffeDuGaddie: 7145
-coiffeDuKitsou: 7339
-coiffeDuKoalak: 8009
-coiffeDuKoulosse: 7887
-coiffeDuMaîtreZoth: 8848
-coiffeDuMeulou: 8267
-coiffeDuMinotot: 8284
-coiffeDuMominotor: 8325
-coiffeDuMulou: 6952
-coiffeDuPrespic: 6926
-coiffeDuRatBlanc: 8451
-coiffeDuTynril: 8699
-coiffeEnMousse: 8259
-coiffeFere: 8631
-coiffeMuletDuTetounik: 9931
-collier: 1871
-collierCasseDOuginak: 2320
-collierCeremonialDuSeigneurDesRats: 8459
-collierDeLArcEnCiel: 280
-collierDeNoke: 10186
-collierDuDragonCochon: 8273
-collierDuMinotoror: 8268
-collierDuMinotot: 8272
-collierDuRatBlanc: 8453
-collierDuRatNoir: 8445
-collierDuTanukouiSan: 7221
-collierRepare: 1883
-collierSleump: 9659
-colonelLyeno: 1: 2130
-colonelLyeno: 2: 2152
-colonneVertebrale: 2323
-compteRenduDeMission: 2347
-compteRenduInterrogatoire: 1: 2148
-compteRenduInterrogatoire: 2: 2180
-compteRenduInterrogatoire: 3: 2181
-côneWayal: 6644
-connaissance: 2196
-contratEntreVilSmisseEtYseVewybad: 8590
-copieDeLaClefDuRepaireDesBandits: 9999
-coqueDeNoix: 1325
-coquilleDeDragoeufBlanc: 308
-coquilleDeDragoeufDore: 842
-coquilleDeDragoeufNoir: 843
-coquilleDeDragoeufSaphir: 1129
-coquilleDeDragossBlanc: 8350
-coquilleDeDragossDeSaphir: 8349
-coquilleDeDragossDore: 8351
-coquilleDeDragossNoir: 8348
-coquilleDuKaskargo: 8793
-coquilleEmeraude: 8700
-corailKouraçao: 8732
-corailMagistral: 8731
-corailMalibout: 8733
-corailMorito: 8735
-corailPassaoh: 8734
-corailUse: 8729
-corbacMort: 2059
-corbacape: 6449
-corbacapeMastralis: 2547
-corbacoiffe: 2546
-corbalame: 2544
-corbottes: 2545
-cordeASauterDuCaptainChafer: 6626
-cordeDEscalade: 9935
-cordeDIvanNowe: 592
-coriacite: 7399
-corneBriseeDeCrocabulia: 8365
-corneBrûleeDuMinotoror: 1680
-corneDeBouftou: 383
-corneDeBrume: 7651
-corneDeChefDeGuerreBouftou: 2465
-corneDeDeminoboule: 8327
-corneDeDragoeufGuerrier: 8363
-corneDeDragoeufVolant: 8361
-corneDeDragossBlanc: 8346
-corneDeDragossDeSaphire: 8345
-corneDeDragossDore: 8347
-corneDeDragossNoir: 8344
-corneDeDragueuse: 8357
-corneDeMominotor: 8328
-corneDuBoufcoul: 7906
-corneDuMinotot: 8409
-cornesDeXvii: 9189
-costumeBontesque: 2236
-costumeBrakmaresque: 2237
-costumeCraesque: 2231
-costumeEcaflipesque: 2229
-costumeEniripsesque: 2219
-costumeEnutrofesque: 2221
-costumeFecaesque: 2217
-costumeIopesque: 2211
-costumeOsamodesque: 2227
-costumeRoublardesque: 2346
-costumeSacriesque: 2223
-costumeSadidesque: 2213
-costumeSramesque: 2225
-costumeXeloresque: 2212
-côtesDePorkass: 2554
-côtesDuRib: 432
-cotonAncestral: 641
-coupeCuir: 579
-coupeCuirDuCordomage: 7495
-coupeuseDeBombu: 2592
-coupeuseDeSifflet: 2600
-courage: 1724
-couronneBriseeDuTofuRoyal: 2246
-couronneDuRoiGelax: 7038
-couronneDuTofuRoyal: 7921
-couronneDuWaWabbit: 969
-couronneKoninginnedag: 10414
-couteauAStek: 1027
-couteauDeChasse: 1934
-couteauxAChampignons: 9137
-couvreChefPandawa: 7042
-craAttitude: 2232
-crabeSourimi: 1757
-crabeSourimiExotique: 1759
-crabeSourimiExotiqueVide: 1760
-crabeSourimiVide: 1758
-cracheBoulette: 1944
-crackSparrowSOwnWitheredHat: 8854
-craneDEcaflip: 9082
-craneDEniripsa: 9083
-craneDEnutrof: 9079
-craneDOsamodas: 9078
-craneDeChafer: 2336
-craneDeChefCrocodaille: 6738
-craneDeCra: 9085
-craneDeFeca: 9077
-craneDeIop: 9084
-craneDePandawa: 9088
-craneDePirate: 1009
-craneDeSacrieur: 9087
-craneDeSadida: 9086
-craneDeSram: 9080
-craneDeXelor: 9081
-craneDuDragonCochon: 481
-craquamulette: 6934
-craquanneauLegendaire: 8149
-craquelocape: 6931
-craquelocapeLegendaire: 8181
-creationDObjetMagiquePourLesNuls: 1572
-creteDePorkass: 2479
-criniereDePrespic: 2574
-criniereDeTrool: 2559
-criniereFleurie: 8753
-cristal: 465
-cristalDeKainDharyn: 9946
-cristalDeKainDharynEnchante: 9947
-crocGlandFraichementDompte: 10118
-crocJaune: 2316
-crochet: 1007
-crocodaille: 9623
-crocsDeRats: 2322
-croissantDeLune: 1710
-croquette: 2505
-croum: 7520
-croupionDuBitoufAerien: 8788
-cruellePelleTruelle: 1054
-crystalOBoul: 706
-cubitusDeMomieKoalak: 8058
-cubitusDuRatNoir: 8488
-cuirDeBouftonBlanc: 883
-cuirDeBouftonNoir: 884
-cuirDeBouftou: 304
-cuirDeBouftouRoyal: 886
-cuirDeDeminoboule: 8323
-cuirDeMinotoror: 2999
-cuirDeMominotor: 8324
-cuirDePorkass: 2275
-cuirDeSanglier: 486
-cuirDeSanglierDesPlaines: 2511
-cuirDuBoufcoul: 7907
-cuirDuChefDeGuerreBouftou: 887
-cuirDuCochonDeLait: 901
-cuirDuDragonCochon: 487
-cuirDuMinotot: 8407
-cuirNoir: 2287
-cuirVioletDeBwork: 2271
-cuisseDeBoufton: 1911
-cuisseDeBouftou: 2: 1912
-cuisseDeBouftou: 3: 1913
-cuisseDeBouftou: 4: 1914
-cuisseDeBouftouConservee: 1995
-cuisseDeBouftouConservee: 2: 1997
-cuisseDeBouftouConservee: 3: 1998
-cuisseDeBouftouConservee: 4: 1999
-cuisseDeBouftouRôti: 1954
-cuisseDeBouftouRôti: 2: 1955
-cuisseDeBouftouRôti: 3: 1956
-cuisseDeBouftouRôti: 4: 1957
-cuisseDeWabbit: 1902
-cuisseDeWabbit: 2: 1903
-cuisseDeWabbit: 3: 1905
-cuisseDeWabbit: 4: 1901
-cuisseDeWabbitConservee: 2000
-cuisseDeWabbitConservee: 2: 2001
-cuisseDeWabbitConservee: 3: 2002
-cuisseDeWabbitConservee: 4: 2003
-cuisseMalodoranteDeBouftou: 2041
-cuivre: 441
-culotteALEnversDuRoissingue: 8809
-dagueAdou: 8926
-dagueDAkurobig: 3669
-dagueDAligatito: 3601
-dagueDAsatucos: 3802
-dagueDAvagawe: 3391
-dagueDEdgar: 3582
-dagueDEfekiro: 3733
-dagueDEfore: 3359
-dagueDEgulux: 3600
-dagueDEmeution: 3559
-dagueDErotail: 3641
-dagueDEtaleur: 3578
-dagueDEtolou: 3755
-dagueDHarmebeton: 3392
-dagueDHorare: 3687
-dagueDItitub: 3360
-dagueDObukum: 3585
-dagueDOiduber: 3586
-dagueDOlepev: 3560
-dagueDOsomielle: 3681
-dagueDOtukule: 3587
-dagueDUgluterre: 3689
-dagueDUgrinie: 3613
-dagueDUnefugi: 3598
-dagueDeAbomirol: 3561
-dagueDeAcehofa: 3675
-dagueDeAdonop: 3622
-dagueDeAelefoma: 3717
-dagueDeAelelae: 3592
-dagueDeAfelezu: 3389
-dagueDeAfilu: 3767
-dagueDeAlamice: 3403
-dagueDeAleba: 3430
-dagueDeAlelae: 3444
-dagueDeAmphamase: 3397
-dagueDeAmphyuwo: 3623
-dagueDeAnelalle: 3748
-dagueDeAnojeba: 3644
-dagueDeAomebel: 3446
-dagueDeApaujyl: 3593
-dagueDeAquanewul: 3548
-dagueDeAquapawe: 3402
-dagueDeAquauli: 3786
-dagueDeAqueles: 3768
-dagueDeAqueovavag: 3709
-dagueDeAruri: 3714
-dagueDeAstokum: 3412
-dagueDeAtatimos: 3631
-dagueDeAtufest: 3499
-dagueDeBamegel: 3417
-dagueDeBemiel: 3682
-dagueDeBevimielle: 3737
-dagueDeBiwilague: 3426
-dagueDeBleric: 3471
-dagueDeBofyf: 3395
-dagueDeBorefale: 3771
-dagueDeBotol: 3566
-dagueDeBrecag: 3629
-dagueDeBwaba: 3362
-dagueDeBywudopa: 3478
-dagueDeCedagape: 3626
-dagueDeCuhurerre: 3660
-dagueDeCyamabru: 3399
-dagueDeDeguci: 3390
-dagueDeDlaedos: 3369
-dagueDeDofelam: 3790
-dagueDeDoimotu: 3506
-dagueDeEbabemov: 3570
-dagueDeEbepolou: 3603
-dagueDeEbogezan: 3515
-dagueDeEdacejac: 3455
-dagueDeEfocu: 3762
-dagueDeEgexeme: 3519
-dagueDeEhefafeh: 3617
-dagueDeElatalem: 3398
-dagueDeEleba: 3734
-dagueDeElezo: 3545
-dagueDeElmulo: 3739
-dagueDeElomei: 3535
-dagueDeEmime: 3448
-dagueDeEnobu: 3463
-dagueDeEolez: 3528
-dagueDeEozub: 3657
-dagueDeEpubam: 3728
-dagueDeEtaemuie: 3759
-dagueDeEtehotov: 3565
-dagueDeEtelei: 3481
-dagueDeEtokimo: 3779
-dagueDeEvevone: 3624
-dagueDeEvoeleli: 3627
-dagueDeEvohalla: 3370
-dagueDeEvolu: 3504
-dagueDeEvumewau: 3784
-dagueDeEzepole: 3606
-dagueDeEzola: 3530
-dagueDeFelin: 3520
-dagueDeFeukuluf: 3363
-dagueDeFihifumi: 3518
-dagueDeFlapegel: 3470
-dagueDeFlaplelema: 3421
-dagueDeFlinen: 3408
-dagueDeFlymeloz: 3594
-dagueDeFobep: 3715
-dagueDeFufivul: 3756
-dagueDeFufotte: 3404
-dagueDeFuhupa: 3672
-dagueDeFumdifrit: 3628
-dagueDeFurado: 3597
-dagueDeFuremid: 3411
-dagueDeFurufam: 3725
-dagueDeGileumel: 3763
-dagueDeGouther: 3583
-dagueDeGubub: 3642
-dagueDeGuculim: 3764
-dagueDeHamekosat: 3688
-dagueDeHamela: 3442
-dagueDeHarurot: 3367
-dagueDeHekoruru: 3730
-dagueDeHoisiba: 3614
-dagueDeHolene: 3419
-dagueDeHuciby: 3793
-dagueDeHulihul: 3498
-dagueDeHumuda: 3364
-dagueDeIbemul: 3719
-dagueDeIcofem: 3501
-dagueDeIfudi: 3780
-dagueDeIkelae: 3787
-dagueDeIlefe: 3513
-dagueDeIlifa: 3541
-dagueDeIluhame: 3572
-dagueDeIluti: 3372
-dagueDeIplevl: 3379
-dagueDeIritim: 3480
-dagueDeIsamodub: 3711
-dagueDeIsozele: 3743
-dagueDeIsuhaille: 3632
-dagueDeJulurith: 3726
-dagueDeJumim: 3591
-dagueDeKeprogu: 3702
-dagueDeKrobic: 3568
-dagueDeKrodeke: 3746
-dagueDeKufam: 3563
-dagueDeKumefapre: 3581
-dagueDeKureukeu: 3677
-dagueDeKyhep: 3670
-dagueDeLaewema: 3454
-dagueDeLafaul: 3550
-dagueDeLeblam: 3698
-dagueDeLecurif: 3375
-dagueDeLesoly: 3517
-dagueDeLethifocof: 3450
-dagueDeLetipeve: 3766
-dagueDeLeuhome: 3777
-dagueDeLibakum: 3795
-dagueDeLinuhi: 3684
-dagueDeLosubeve: 3636
-dagueDeLotisri: 3385
-dagueDeLufamefu: 3723
-dagueDeLurohu: 3393
-dagueDeMamefa: 3599
-dagueDeMamekber: 3368
-dagueDeMamema: 3440
-dagueDeMangapa: 3751
-dagueDeMapleveb: 3697
-dagueDeMasyl: 3774
-dagueDeMatubus: 3447
-dagueDeMelem: 3538
-dagueDeMeloro: 3792
-dagueDeMeteu: 3376
-dagueDeMethei: 3720
-dagueDeMibifem: 3749
-dagueDeMizeleo: 3685
-dagueDeMocohi: 3797
-dagueDeMolel: 3396
-dagueDeMoleli: 3413
-dagueDeMololo: 3753
-dagueDeMuplige: 3441
-dagueDeMutuke: 3694
-dagueDeMyzevillion: 3553
-dagueDeNaisusa: 3655
-dagueDeNazon: 3467
-dagueDeNemokim: 3429
-dagueDeNezetete: 3365
-dagueDeNirufilu: 3637
-dagueDeNirugotas: 3381
-dagueDeNisibet: 3476
-dagueDeNiviful: 3692
-dagueDeNobela: 3387
-dagueDeNogoru: 3491
-dagueDeNupit: 3707
-dagueDeObafice: 3666
-dagueDeObatitob: 3377
-dagueDeOcyum: 3512
-dagueDeOdahedus: 3543
-dagueDeOenythab: 3643
-dagueDeOfefefig: 3633
-dagueDeOlabab: 3619
-dagueDeOlefeno: 3487
-dagueDeOlezepl: 3382
-dagueDeOlukico: 3782
-dagueDeOluzuma: 3776
-dagueDeOrira: 3604
-dagueDeOsutin: 3514
-dagueDeOtamilad: 3531
-dagueDeOtovabon: 3420
-dagueDeOtusa: 3616
-dagueDeOubiso: 3605
-dagueDeOugustec: 3485
-dagueDeOumague: 3667
-dagueDeOurese: 3653
-dagueDeOuriketut: 3665
-dagueDeOvalenel: 3540
-dagueDeOwugato: 3555
-dagueDeOzefibe: 3567
-dagueDePelepev: 3378
-dagueDePelteux: 3801
-dagueDePeteo: 3788
-dagueDePevihem: 3493
-dagueDePhabocadl: 3472
-dagueDePhahor: 3747
-dagueDePilal: 3384
-dagueDePleloz: 3596
-dagueDePlemele: 3433
-dagueDePomep: 3620
-dagueDePrefin: 3789
-dagueDePumefam: 3610
-dagueDePumiveme: 3742
-dagueDeRagnedede: 3588
-dagueDeRagnosot: 3558
-dagueDeRastive: 3527
-dagueDeReduta: 3427
-dagueDeRelem: 3661
-dagueDeRetuk: 3516
-dagueDeReucedu: 3663
-dagueDeRhemehi: 3700
-dagueDeRhukoh: 3673
-dagueDeRipohefo: 3683
-dagueDeRivlun: 3576
-dagueDeRudeko: 3418
-dagueDeRugnethuko: 3554
-dagueDeRugnoker: 3461
-dagueDeRugnurigat: 3511
-dagueDeSadifoce: 3425
-dagueDeSalauvi: 3695
-dagueDeSaudurus: 3490
-dagueDeSedum: 3659
-dagueDeSeduva: 3464
-dagueDeSegrillion: 3394
-dagueDeSenureru: 3638
-dagueDeSeralose: 3544
-dagueDeSharekala: 3432
-dagueDeSiteulun: 3580
-dagueDeSohunim: 3602
-dagueDeSozetege: 3546
-dagueDeStresro: 3371
-dagueDeTahak: 3656
-dagueDeTebof: 3615
-dagueDeTecocu: 3635
-dagueDeTemelo: 3564
-dagueDeTevemielle: 3757
-dagueDeTevet: 3414
-dagueDeThazefle: 3691
-dagueDeThemeb: 3701
-dagueDeThemoi: 3486
-dagueDeThene: 3383
-dagueDeThijeful: 3693
-dagueDeThileufes: 3502
-dagueDeThilibata: 3589
-dagueDeThorekeruh: 3696
-dagueDeThoruthede: 3438
-dagueDeThudebe: 3410
-dagueDeThufam: 3758
-dagueDeThutasaf: 3796
-dagueDeTorukati: 3716
-dagueDeTrasesu: 3496
-dagueDeTulknef: 3761
-dagueDeTuplylo: 3646
-dagueDeUbulof: 3783
-dagueDeUdacaxeg: 3529
-dagueDeUdupli: 3521
-dagueDeUfarfla: 3752
-dagueDeUfrifulf: 3722
-dagueDeUfrudif: 3380
-dagueDeUgaram: 3579
-dagueDeUgatode: 3740
-dagueDeUgefrit: 3765
-dagueDeUhugrefi: 3679
-dagueDeUladise: 3556
-dagueDeUletet: 3630
-dagueDeUluni: 3422
-dagueDeUlupome: 3469
-dagueDeUlutol: 3523
-dagueDeUmifu: 3772
-dagueDeUnorare: 3562
-dagueDeUpohi: 3658
-dagueDeUpokose: 3532
-dagueDeUrapi: 3760
-dagueDeUrufub: 3406
-dagueDeUseluf: 3703
-dagueDeUsovl: 3729
-dagueDeUsurnef: 3434
-dagueDeVabejere: 3458
-dagueDeVarkuheh: 3745
-dagueDeVavehillion: 3424
-dagueDeVebol: 3536
-dagueDeVibezol: 3724
-dagueDeVilot: 3436
-dagueDeVlebevet: 3465
-dagueDeVolul: 3625
-dagueDeVylebe: 3507
-dagueDeWogow: 3510
-dagueDeYcewuse: 3537
-dagueDeYuzybevy: 3569
-dagueDeZaderapav: 3731
-dagueDeZelaleze: 3798
-dagueDeZeleuziz: 3699
-dagueDeZelivene: 3457
-dagueDeZeloem: 3690
-dagueDeZemupiel: 3549
-dagueDeZetehely: 3428
-dagueDeZezollu: 3415
-dagueDeZilesuz: 3374
-dagueDeZubolo: 3361
-dagueDeZulegeum: 3489
-dagueDeZuvab: 3522
-dagueDuAbebeh: 3744
-dagueDuAgakur: 3621
-dagueDuAkust: 3473
-dagueDuAlalev: 3645
-dagueDuAleril: 3503
-dagueDuAletelu: 3769
-dagueDuAlitose: 3484
-dagueDuAlognef: 3468
-dagueDuBenovaille: 3423
-dagueDuBeseo: 3524
-dagueDuBirelil: 3386
-dagueDuBlufago: 3462
-dagueDuBukohomu: 3609
-dagueDuBwabuse: 3736
-dagueDuDivac: 3459
-dagueDuDomemefut: 3388
-dagueDuDoumobede: 3671
-dagueDuDrocotud: 3483
-dagueDuDrukuf: 3533
-dagueDuDutok: 3770
-dagueDuEdofu: 3497
-dagueDuEfamaf: 3475
-dagueDuElamym: 3400
-dagueDuElotiel: 3785
-dagueDuElyvone: 3437
-dagueDuEmebdar: 3713
-dagueDuEogeveti: 3552
-dagueDuEozovezo: 3479
-dagueDuErudro: 3509
-dagueDuEtememuv: 3712
-dagueDuEvetelo: 3611
-dagueDuEzavesi: 3456
-dagueDuFelul: 3639
-dagueDuFlalevru: 3773
-dagueDuFlehfla: 3791
-dagueDuFlyzel: 3547
-dagueDuFougou: 3727
-dagueDuFrete: 3640
-dagueDuGestuli: 3794
-dagueDuGozoimul: 3778
-dagueDuGrali: 3505
-dagueDuGrotah: 3732
-dagueDuGuhotu: 3557
-dagueDuHilara: 3718
-dagueDuHogureke: 3634
-dagueDuHokud: 3366
-dagueDuIgudeju: 3431
-dagueDuItefdar: 3574
-dagueDuKauvowyl: 3706
-dagueDuKipim: 3708
-dagueDuKotakust: 3590
-dagueDuKurete: 3525
-dagueDuLaduie: 3474
-dagueDuLalaplim: 3452
-dagueDuLamisu: 3443
-dagueDuLepezo: 3686
-dagueDuLesafal: 3508
-dagueDuLihuli: 3668
-dagueDuLitielle: 3373
-dagueDuLobolabe: 3607
-dagueDuLolole: 3482
-dagueDuLulivlil: 3754
-dagueDuMelefame: 3453
-dagueDuMetufef: 3738
-dagueDuMytezet: 3678
-dagueDuMyuzalel: 3460
-dagueDuNecucane: 3435
-dagueDuNevaille: 3409
-dagueDuNevamete: 3500
-dagueDuNiolovi: 3595
-dagueDuNirudauxo: 3735
-dagueDuNybihogob: 3526
-dagueDuObimat: 3577
-dagueDuOdomata: 3799
-dagueDuOlehilu: 3405
-dagueDuOplarev: 3676
-dagueDuOranadop: 3407
-dagueDuOrysat: 3680
-dagueDuOthodolu: 3800
-dagueDuPharamoka: 3662
-dagueDuPyogum: 3445
-dagueDuRemuleva: 3449
-dagueDuRugnegud: 3466
-dagueDuRugokest: 3608
-dagueDuScoxolelo: 3573
-dagueDuShanof: 3534
-dagueDuSufufuhe: 3705
-dagueDuTenerake: 3551
-dagueDuThiladifas: 3704
-dagueDuThusahusar: 3775
-dagueDuTolei: 3488
-dagueDuTrogruk: 3584
-dagueDuTudib: 3618
-dagueDuUkerok: 3721
-dagueDuUmesu: 3439
-dagueDuUmitdar: 3494
-dagueDuUpely: 3575
-dagueDuUplaul: 3571
-dagueDuUpuve: 3495
-dagueDuUtofet: 3674
-dagueDuUturuk: 3741
-dagueDuVenygoth: 3416
-dagueDuViblumi: 3612
-dagueDuVibose: 3664
-dagueDuVinole: 3750
-dagueDuVivafefa: 3710
-dagueDuVubei: 3492
-dagueDuYhyulo: 3539
-dagueDuYrasber: 3542
-dagueDuZarelomol: 3654
-dagueDuZarolel: 3401
-dagueDuZigotho: 3781
-dagueDuZivolel: 3451
-dagueDuZoble: 3477
-dagueFourbesque: 1037
-dagueHaihRiDon: 9716
-dagueHiBol: 9712
-dagueHiDon: 9711
-dagueHiMov: 9713
-dagueHoRille: 9717
-dagueLutination: 3651
-dagueRafeuse: 3649
-dagueRegah: 3650
-daguesAerdala: 7256
-daguesAjDehLa: 1372
-daguesAncestrales: 919
-daguesCruellesDElorieEntuwan: 1031
-daguesDeBoisaille: 95
-daguesDeCroclage: 212
-daguesDeFouraille: 206
-daguesDeLApprentiTueurDeBouftons: 6984
-daguesDeLInitie: 6784
-daguesDeNoke: 10187
-daguesDuBandit: 6924
-daguesDuDragoeuf: 8414
-daguesDuRatNoir: 8444
-daguesEguisees: 898
-daguesEudin: 8927
-daguesEulasse: 1371
-daguesEurfolles: 341
-daguesHischantes: 6517
-daguesHonies: 6982
-daguesLassay: 6981
-daguesMaydhynChina: 7190
-daguesOBert: 1504
-daguesRHoh: 6516
-daguesReceuses: 6983
-daguesRhumes: 7188
-daguesRistocrates: 8093
-daguesRuik: 8928
-daguesRuyere: 8598
-daguesSylvestres: 894
-daguesTylo: 1374
-daguette: 1357
-daguetteDuCaptainChafer: 3648
-dantgoule: 704
-debutDeRapport: 2168
-decoupeuseDeKralamoure: 620
-decoupeuseDeYench: 1574
-decourage: 1725
-decretDeLaTaxe: 51: 11B: 2131
-defenseDeDragonCochon: 2643
-defenseDeSanglierAgressif: 1928
-defenseDeSanglierDesPlaines: 2516
-defenseDuSanglier: 387
-demandeDAideDAmayiro: 9099
-demiBaguette: 1356
-demonteur: 8010
-dent: 2195
-dentDOurs: 6842
-dentDeBouftou: 1870
-dentDeChefDeGuerreBouftou: 2463
-dentDeCrocGlandEnrage: 2117
-dentDeCrocabulia: 8368
-dentDeCrocodaille: 1664
-dentDeDragodinde: 2179
-dentDeKarne: 2259
-dentDeRatBlanc: 8489
-dentDeSerpentin: 2509
-dentDeShinLarve: 8386
-dentDeWabbit: 305
-dentDuTofuMalefique: 375
-dentEnOrDuCraqueleur: 2252
-dentMagiqueDeCooleuvre: 7274
-dentPointue: 2279
-dentierDePorkass: 2483
-dentierDuChaferDElite: 408
-dentsDeChefCrocodaille: 1614
-dentsDeMeulou: 2581
-dermaTho: 9020
-dermaThoFletri: 7076
-descriptionApproximative: 6809
-descriptionDUnBontarien: 2265
-descriptionDeLAssassin: 2262
-deuxiemeClefDuDonjonDeSphincter: 8477
-deuxiemePartieDeLaClefDuLabyrintheDuDragonCochon: 7510
-diamant: 315
-dieuxDemons: 7366
-diplômeDHelMunster: 1566
-discreteBaguetteDHouvette: 1137
-documentSurXephires: 9062
-documentsConfidentiels: 10005
-documentsSecretsFroisses: 9114
-documentsVoles: 2192
-dofawa: 7113
-dofusAuChocolatBlanc: 7125
-dofusAuLait: 7124
-dofusCawotte: 972
-dofusDesGlaces: 7043
-dofusEbene: 7114
-dofusEmeraude: 737
-dofusIvoire: 7115
-dofusKaliptus: 8072
-dofusOcre: 7754
-dofusPourpre: 694
-dofusTachete: 7112
-dofusTurquoise: 739
-dofusVinaigrette: 8574
-dofusVulbis: 6980
-dofusteuse: 958
-dolomite: 7033
-doplonCra: 10302
-doplonEcaflip: 10303
-doplonEniripsa: 10304
-doplonEnutrof: 10305
-doplonFeca: 10306
-doplonIop: 10307
-doplonOsamodas: 10308
-doplonPandawa: 10309
-doplonSacrieur: 10310
-doplonSadida: 10311
-doplonSram: 10312
-doplonXelor: 10313
-dora: 703
-doraBora: 6481
-doraSombreDeBrave: 2096
-doroLeBlak: 8569
-doseDeJusGoûtu: 1731
-doubleEffetKillCoos: 10676
-dragocoiffeBlanche: 1904
-dragocoiffeDeSaphire: 6473
-dragocoiffeDoree: 6472
-dragocoiffeNoire: 6474
-dragodindeAmande: 7819
-dragodindeAmandeEtDoree: 7823
-dragodindeAmandeEtEbene: 7824
-dragodindeAmandeEtEmeraude: 7825
-dragodindeAmandeEtIndigo: 7826
-dragodindeAmandeEtIvoire: 7827
-dragodindeAmandeEtOrchidee: 7830
-dragodindeAmandeEtPourpre: 7831
-dragodindeAmandeEtRousse: 7828
-dragodindeAmandeEtTurquoise: 7829
-dragodindeAmandeSauvage: 7807
-dragodindeDoree: 7817
-dragodindeDoreeEtEbene: 7832
-dragodindeDoreeEtEmeraude: 7833
-dragodindeDoreeEtIndigo: 7834
-dragodindeDoreeEtIvoire: 7835
-dragodindeDoreeEtOrchidee: 7838
-dragodindeDoreeEtPourpre: 7839
-dragodindeDoreeEtRousse: 7836
-dragodindeDoreeEtTurquoise: 7837
-dragodindeDoreeSauvage: 7864
-dragodindeEbene: 7808
-dragodindeEbeneEtEmeraude: 7840
-dragodindeEbeneEtIndigo: 7841
-dragodindeEbeneEtIvoire: 7810
-dragodindeEbeneEtOrchidee: 7843
-dragodindeEbeneEtPourpre: 7844
-dragodindeEbeneEtRousse: 7813
-dragodindeEbeneEtTurquoise: 7842
-dragodindeEmeraude: 7820
-dragodindeEmeraudeEtIndigo: 7845
-dragodindeEmeraudeEtIvoire: 7846
-dragodindeEmeraudeEtOrchidee: 7849
-dragodindeEmeraudeEtPourpre: 7850
-dragodindeEmeraudeEtRousse: 7847
-dragodindeEmeraudeEtTurquoise: 7848
-dragodindeEnArmure: 9582
-dragodindeIndigo: 7816
-dragodindeIndigoEtIvoire: 7851
-dragodindeIndigoEtOrchidee: 7854
-dragodindeIndigoEtPourpre: 7855
-dragodindeIndigoEtRousse: 7852
-dragodindeIndigoEtTurquoise: 7853
-dragodindeIvoire: 7815
-dragodindeIvoireEtOrchidee: 7857
-dragodindeIvoireEtPourpre: 7858
-dragodindeIvoireEtRousse: 7812
-dragodindeIvoireEtTurquoise: 7856
-dragodindeOrchidee: 7821
-dragodindeOrchideeEtPourpre: 7866
-dragodindeOrchideeEtRousse: 7860
-dragodindePourpre: 7818
-dragodindePourpreEtRousse: 7861
-dragodindePrune: 7822
-dragodindePruneEtAmande: 7867
-dragodindePruneEtDoree: 7868
-dragodindePruneEtEbene: 7869
-dragodindePruneEtEmeraude: 7870
-dragodindePruneEtIndigo: 7871
-dragodindePruneEtIvoire: 7872
-dragodindePruneEtOrchidee: 7875
-dragodindePruneEtPourpre: 7876
-dragodindePruneEtRousse: 7873
-dragodindePruneEtTurquoise: 7874
-dragodindeRousse: 7811
-dragodindeRousseSauvage: 7809
-dragodindeSquelette: 7865
-dragodindeTurquoise: 7814
-dragodindeTurquoiseEtOrchidee: 7862
-dragodindeTurquoiseEtPourpre: 7863
-dragodindeTurquoiseEtRousse: 7859
-dragofesseClassique: 7634
-dragofesseEnCuirDeBouftonBlanc: 7635
-dragofesseEnCuirDeBouftonNoir: 7636
-dragofesseEnCuirDeBouftou: 7637
-dragofesseEnCuirDeBouftouRoyal: 7692
-dragofesseEnCuirDeChefDeGuerreBouftou: 7691
-dragofesseEnCuirDeCochonDeLait: 7695
-dragofesseEnCuirDeDragonCochon: 7694
-dragofesseEnCuirDeMinotoror: 7700
-dragofesseEnCuirDePorkass: 7697
-dragofesseEnCuirDeSanglier: 7693
-dragofesseEnCuirDeSanglierDesPlaines: 7699
-dragofesseEnCuirNoir: 7698
-dragofesseEnCuirVioletDeBwork: 7696
-dragolait: 2267
-dragolyre: 867
-dragolyreRemaniee: 2392
-dragouneNoire: 9624
-dragouneRose: 7519
-dragoviande: 1922
-dragoviande: 2: 1923
-dragoviande: 3: 1924
-dragoviande: 4: 1926
-dragoviandeConservee: 2014
-dragoviandeConservee: 2: 2015
-dragoviandeConservee: 3: 2016
-dragoviandeConservee: 4: 2017
-duvetDuKilibriss: 8756
-eau: 311
-ebonite: 746
-ecaflipAttitude: 2230
-ecailleDeChefCrocodaille: 1613
-ecailleDeCrocodaille: 1663
-ecailleDeDragossBlanc: 8354
-ecailleDeDragossDeSaphire: 8353
-ecailleDeDragossDore: 8355
-ecailleDeDragossNoir: 8352
-ecaillePoisseuse: 8680
-echantillonDeLave: 1: 2164
-echantillonDeLave: 2: 2165
-echantillonDeLave: 3: 2166
-echantillonDeLave: 4: 2167
-echantillonDeSang: 6816
-ecorceDAbraknyde: 434
-ecorceDAbraknydeAncestral: 8494
-ecorceDAbraknydeSombre: 1610
-ecorceDeBrouture: 8772
-ecorceDeChampaknyde: 9263
-ecorceDeChiendent: 8775
-ecorceDeFecorce: 8774
-ecorceDeFloribonde: 8771
-ecorceDeFourbasse: 6737
-ecorceDeLiroyeMerline: 1682
-ecorceDeNerbe: 8773
-ecorceDuCheneMou: 6486
-ecorceDuTynril: 8770
-ecorceMagiqueDeBulbambou: 7272
-ecorceMagiqueDeBulbiflore: 7270
-ecorceMagiqueDeBulbig: 7269
-ecorceMagiqueDeBulbuisson: 7271
-ecureuilChenapan: 7704
-ecussonDuSergentZoth: 8806
-edelweiss: 594
-effrayantePelleDeKoutoulou: 1058
-einekeineux: 769
-elScarador: 8154
-elScaradorBienLElever: 8317
-elagueuseDOliviolet: 2593
-elagueuseDeCharme: 478
-elasticite: 7398
-elegantArcDuRoiDesBorins: 1127
-elixirCra: 10212
-elixirEcaflip: 10214
-elixirEniripsa: 10210
-elixirEnutrof: 10217
-elixirFeca: 10216
-elixirIop: 10213
-elixirOsamodas: 10218
-elixirPandawa: 10208
-elixirSacrieur: 10209
-elixirSadida: 10211
-elixirSram: 10219
-elixirXelor: 10215
-emblemeLivide: 1482
-emeraude: 316
-emplacementDuChamp: 9550
-encreDuKralamoureGeant: 8812
-encyclopedieDAlchimieAnnexeAMetiers: 1626
-encyclopedieDAlchimieTomeGPercepteurs: 7330
-engrais: 2663
-eniHoube: 10078
-eniripsaAttitude: 2220
-enormeBatonDakn: 1151
-enormePierreDAme: 7331
-enormePierreDAmeHasardeuse: 7006
-enormePierreDAmeHeureuse: 7335
-enormePierreDAmeParfaite: 9689
-ensembleDeBoutsDeBois: 6814
-entente: 1481
-entrecôteDeCrocodaille: 8506
-entrecôteDeKanigrou: 8504
-enutrofAttitude: 2222
-enveloppe: 2140
-epauletteDeBwork: 3001
-epauletteDeTrool: 2560
-epauletteDuDarkVlad: 2299
-epeeBondissante: 6837
-epeeCasseeDuChevalierMalchanceux: 1041
-epeeCerpTeurh: 9710
-epeeChoh: 8701
-epeeDAdaumu: 2941
-epeeDAdepouille: 2742
-epeeDAdode: 2933
-epeeDAgaboo: 2922
-epeeDAgaceto: 2731
-epeeDAgalomo: 3354
-epeeDAgino: 2951
-epeeDAjara: 2718
-epeeDAlkolo: 2917
-epeeDAlle: 53
-epeeDAmauk: 2746
-epeeDAmikibo: 2728
-epeeDAmuspu: 2973
-epeeDAqualoum: 2714
-epeeDArakuris: 2985
-epeeDArecule: 2962
-epeeDAremofa: 2982
-epeeDAruta: 2937
-epeeDAtake: 2990
-epeeDAufemir: 2959
-epeeDEfese: 2751
-epeeDEfufuc: 3353
-epeeDEnflimel: 2793
-epeeDEpitafe: 2715
-epeeDErunoril: 2749
-epeeDEsespur: 2757
-epeeDEsete: 2756
-epeeDEsretha: 3349
-epeeDEvalina: 2734
-epeeDEviper: 2957
-epeeDEzale: 2771
-epeeDHa: 60
-epeeDHemagram: 2737
-epeeDHeritor: 2729
-epeeDHomawo: 2986
-epeeDIcekya: 2905
-epeeDIfrusifel: 2995
-epeeDIfrusiful: 2722
-epeeDIgniflam: 2761
-epeeDIluminite: 2725
-epeeDIrehotes: 2994
-epeeDIreteh: 3106
-epeeDIvurit: 2713
-epeeDObruku: 2755
-epeeDOctopur: 2915
-epeeDOcuca: 2927
-epeeDOfule: 2979
-epeeDOlilune: 2748
-epeeDOskour: 2899
-epeeDOsokure: 3348
-epeeDOtustal: 2733
-epeeDOuruketh: 2760
-epeeDOvruber: 2974
-epeeDOwela: 2770
-epeeDOzebel: 2774
-epeeDUbitum: 2903
-epeeDUgrogoth: 2783
-epeeDUldeber: 2920
-epeeDUleki: 2787
-epeeDUrandal: 6676
-epeeDUregolum: 2939
-epeeDUsito: 2784
-epeeDUtete: 2948
-epeeDalDouss: 9708
-epeeDeAdili: 3275
-epeeDeAelewawac: 3177
-epeeDeAelowawe: 3189
-epeeDeAgunadlo: 3226
-epeeDeAkiteudo: 3228
-epeeDeAlaly: 3131
-epeeDeAlunavim: 3244
-epeeDeAotohet: 3273
-epeeDeAquejineno: 3269
-epeeDeAquenabava: 3338
-epeeDeAsehoca: 3318
-epeeDeAturul: 3256
-epeeDeAvogocop: 3234
-epeeDeBacber: 3116
-epeeDeBalelen: 2802
-epeeDeBesumaku: 3311
-epeeDeBilosudr: 3347
-epeeDeBoisaille: 42
-epeeDeBrenilafu: 3328
-epeeDeBretim: 2711
-epeeDeBulaf: 2753
-epeeDeBuruman: 2989
-epeeDeCarexe: 2794
-epeeDeCarvelim: 2971
-epeeDeCatusotu: 3253
-epeeDeCerorate: 3214
-epeeDeCouritis: 2797
-epeeDeDafulaille: 3163
-epeeDeDolouille: 2775
-epeeDeDomodana: 3333
-epeeDeDorehek: 3236
-epeeDeDufemu: 2950
-epeeDeEfumale: 3109
-epeeDeEgipuf: 3110
-epeeDeEguruhod: 2727
-epeeDeEhekit: 3248
-epeeDeEjevyfe: 3341
-epeeDeEkekir: 3136
-epeeDeEkereno: 3173
-epeeDeEkohu: 3142
-epeeDeEllalle: 3285
-epeeDeElmidepr: 3137
-epeeDeEmovlemo: 3187
-epeeDeEstar: 3222
-epeeDeEsukur: 3123
-epeeDeEtunuh: 3104
-epeeDeEtutrouv: 2777
-epeeDeEurucoru: 3305
-epeeDeExege: 3125
-epeeDeFacolet: 2798
-epeeDeFamufoke: 3201
-epeeDeFarurit: 2980
-epeeDeFebob: 2769
-epeeDeFeciceuf: 2736
-epeeDeFecota: 2789
-epeeDeFendaf: 2947
-epeeDeFeuGrossiere: 6838
-epeeDeFiholube: 3319
-epeeDeFihutuvu: 3160
-epeeDeFilisnef: 2782
-epeeDeFlesgelis: 2739
-epeeDeFluriled: 2738
-epeeDeFlymoz: 3283
-epeeDeFouraille: 47
-epeeDeGaflim: 3162
-epeeDeGakuda: 3260
-epeeDeGanereh: 2791
-epeeDeGatades: 2730
-epeeDeGebag: 3213
-epeeDeGeluhert: 2924
-epeeDeGereliel: 2799
-epeeDeGetikuth: 2762
-epeeDeGeurtuk: 2946
-epeeDeGiterre: 2767
-epeeDeGlateron: 2781
-epeeDeGosarth: 2904
-epeeDeGraheu: 2911
-epeeDeGribaf: 2790
-epeeDeGrodimep: 3351
-epeeDeGrodotiri: 3114
-epeeDeGrokert: 3267
-epeeDeGrokoche: 3350
-epeeDeGumagi: 3193
-epeeDeHahedor: 3306
-epeeDeHalypaul: 3268
-epeeDeHecert: 3339
-epeeDeHegareh: 2935
-epeeDeHerekug: 3288
-epeeDeHesroth: 3250
-epeeDeHigreter: 2993
-epeeDeHorire: 3295
-epeeDeHububaci: 3181
-epeeDeHudure: 3159
-epeeDeHuguh: 3310
-epeeDeHuluffrit: 3326
-epeeDeHulurig: 3211
-epeeDeHupriket: 3182
-epeeDeHyumuie: 2906
-epeeDeIborori: 3219
-epeeDeIcuste: 3145
-epeeDeIfefulf: 3298
-epeeDeIfefuli: 3198
-epeeDeIstego: 3325
-epeeDeJustice: 2156
-epeeDeKasterug: 3221
-epeeDeKatatose: 2750
-epeeDeKavahusa: 3314
-epeeDeKesdutab: 2923
-epeeDeKibaxuta: 3152
-epeeDeKicabuh: 2930
-epeeDeKifasum: 3334
-epeeDeKithehi: 3332
-epeeDeKopum: 2732
-epeeDeKrekece: 3192
-epeeDeKrogrede: 2967
-epeeDeKroruth: 3276
-epeeDeKugruk: 3191
-epeeDeKukegr: 3235
-epeeDeKulujuk: 3231
-epeeDeLEkere: 2764
-epeeDeLEples: 2938
-epeeDeLIkaril: 2765
-epeeDeLInitie: 6780
-epeeDeLOpela: 2776
-epeeDeLaldar: 3225
-epeeDeLalomnef: 3264
-epeeDeLanam: 3179
-epeeDeLarabifiru: 3254
-epeeDeLarabobyb: 3161
-epeeDeLavalu: 3217
-epeeDeLavuie: 2908
-epeeDeLefuv: 2965
-epeeDeLeliv: 2931
-epeeDeLesece: 2913
-epeeDeLetilihu: 3238
-epeeDeLezely: 2918
-epeeDeLibeziel: 3316
-epeeDeLifituful: 3330
-epeeDeLiftgun: 2901
-epeeDeLifufaille: 3190
-epeeDeLignare: 2954
-epeeDeLileniru: 3265
-epeeDeLipemame: 3279
-epeeDeLisolomev: 3180
-epeeDeLithifru: 2752
-epeeDeLoberi: 2953
-epeeDeLodag: 2900
-epeeDeLotom: 3169
-epeeDeLovmiteder: 2936
-epeeDeLucifrit: 2792
-epeeDeLudak: 2724
-epeeDeLuris: 3336
-epeeDeMamestef: 3287
-epeeDeMeflufa: 2788
-epeeDeMefusto: 2942
-epeeDeMercenaire: 2170
-epeeDeMineto: 2741
-epeeDeMulnef: 2981
-epeeDeMuves: 2978
-epeeDeMyplei: 3289
-epeeDeNaititag: 3282
-epeeDeNetotuth: 3291
-epeeDeNezillion: 2720
-epeeDeNilja: 2970
-epeeDeNirytetas: 3255
-epeeDeNisudidli: 3185
-epeeDeNopera: 2801
-epeeDeNostam: 3274
-epeeDeNowel: 8338
-epeeDeNubakope: 3126
-epeeDeNugaver: 2740
-epeeDeNupuraille: 3342
-epeeDeNuratu: 2926
-epeeDeOcokero: 3284
-epeeDeOifes: 3107
-epeeDeOnaidum: 3241
-epeeDeOrunagag: 3224
-epeeDeOupale: 3111
-epeeDeOurekrten: 3170
-epeeDeOurene: 3312
-epeeDeOutugo: 3158
-epeeDeOzeufluo: 3172
-epeeDePagahdar: 2758
-epeeDePakum: 2744
-epeeDePalterre: 2916
-epeeDePavetava: 3292
-epeeDePiberuf: 3154
-epeeDePouille: 2914
-epeeDePozel: 2949
-epeeDePym: 9191
-epeeDeRagnetes: 3210
-epeeDeRahelena: 3272
-epeeDeRamosi: 3344
-epeeDeRatoti: 2919
-epeeDeRebodur: 2743
-epeeDeRedistro: 2772
-epeeDeRefubef: 2960
-epeeDeRehele: 2925
-epeeDeRelanape: 3118
-epeeDeRelewe: 2716
-epeeDeRemav: 2944
-epeeDeRenen: 2943
-epeeDeResosrud: 3329
-epeeDeResusec: 2958
-epeeDeRewylibie: 3281
-epeeDeRhesain: 2780
-epeeDeRhude: 3270
-epeeDeRicoche: 2759
-epeeDeRimuvel: 2940
-epeeDeRogehedas: 2800
-epeeDeRokeryhu: 3352
-epeeDeRosoh: 2763
-epeeDeRugiri: 2796
-epeeDeRugnome: 2983
-epeeDeRukoti: 2945
-epeeDeRurathego: 3301
-epeeDeRurigar: 3266
-epeeDeRuruketon: 3299
-epeeDeRusrony: 2773
-epeeDeRutofob: 2778
-epeeDeSarthos: 2929
-epeeDeSartoky: 2961
-epeeDeSatekog: 3183
-epeeDeScoxese: 3168
-epeeDeSecasoche: 3212
-epeeDeSekekapo: 3261
-epeeDeSergotu: 2902
-epeeDeSerianeKerm: 2402
-epeeDeSerukute: 3315
-epeeDeShamabuc: 3321
-epeeDeSivevi: 3215
-epeeDeSoltedel: 2987
-epeeDeSorebo: 2921
-epeeDeSoset: 3197
-epeeDeSrubele: 3277
-epeeDeStorpur: 3129
-epeeDeStoupur: 2717
-epeeDeSucupret: 3149
-epeeDeSudamu: 2968
-epeeDeSurevele: 3302
-epeeDeSuroround: 2991
-epeeDeTaigage: 2766
-epeeDeTaledeau: 2997
-epeeDeTebok: 3324
-epeeDeTecuroli: 2996
-epeeDeTepacap: 2786
-epeeDeTeram: 3117
-epeeDeTerere: 3164
-epeeDeTesuki: 2726
-epeeDeTetum: 3230
-epeeDeThesrel: 2964
-epeeDeThoradog: 3229
-epeeDeThorederoh: 3147
-epeeDeThorog: 2977
-epeeDeThorogeda: 3232
-epeeDeThutes: 3322
-epeeDeTijako: 3199
-epeeDeTofyta: 3220
-epeeDeTokag: 3262
-epeeDeTopaura: 2747
-epeeDeTosrug: 2785
-epeeDeTreluj: 2963
-epeeDeTrerolo: 2934
-epeeDeTrudik: 2972
-epeeDeTuged: 2723
-epeeDeTulerat: 2735
-epeeDeTuthefil: 3132
-epeeDeUbotibie: 3127
-epeeDeUdojisth: 3194
-epeeDeUhusto: 3153
-epeeDeUkanadra: 3139
-epeeDeUkeda: 3320
-epeeDeUledir: 3280
-epeeDeUtahetot: 3112
-epeeDeUtoxe: 3216
-epeeDeVadesmor: 2754
-epeeDeVarkehe: 3249
-epeeDeVarkisekut: 3259
-epeeDeVarkugepe: 3251
-epeeDeVebevez: 3115
-epeeDeVenigile: 2984
-epeeDeVezel: 3150
-epeeDeVlele: 3246
-epeeDeVlylepoe: 3296
-epeeDeVolmate: 2966
-epeeDeVrebibel: 3247
-epeeDeWemama: 3133
-epeeDeWiladice: 3105
-epeeDeWonague: 3120
-epeeDeWulalelu: 3243
-epeeDeYanguru: 6840
-epeeDeYingnitie: 6839
-epeeDeZaeole: 2719
-epeeDeZefula: 2795
-epeeDeZemuz: 3202
-epeeDeZyufillion: 3223
-epeeDoncule: 8604
-epeeDuAelab: 3166
-epeeDuAelyake: 3122
-epeeDuAgrur: 3175
-epeeDuAlalag: 3240
-epeeDuApleg: 3242
-epeeDuAquaebu: 3337
-epeeDuArurev: 3186
-epeeDuAturerun: 3143
-epeeDuAuplepru: 3313
-epeeDuBadgul: 2956
-epeeDuBalofeau: 3271
-epeeDuBanditFineLame: 10126
-epeeDuBigper: 2745
-epeeDuBilenpur: 3263
-epeeDuBucure: 2952
-epeeDuChevalier: 822
-epeeDuChevalierDeGlace: 7102
-epeeDuColom: 2721
-epeeDuDarkVlad: 7193
-epeeDuDofluk: 3345
-epeeDuDragoeuf: 8292
-epeeDuDudotim: 2975
-epeeDuEgelibu: 3239
-epeeDuEmefe: 2768
-epeeDuEnergur: 3103
-epeeDuEnucnef: 3308
-epeeDuEpusiku: 3331
-epeeDuEredlag: 3138
-epeeDuEsteu: 2928
-epeeDuFider: 2976
-epeeDuFlavuf: 3294
-epeeDuFleceber: 3323
-epeeDuFlelih: 2969
-epeeDuFlesin: 3157
-epeeDuFonae: 3184
-epeeDuGanip: 2907
-epeeDuGapuh: 3176
-epeeDuGeluteco: 3355
-epeeDuGilupog: 3156
-epeeDuGodag: 2932
-epeeDuGodotu: 3303
-epeeDuGrandChevalier: 823
-epeeDuGrano: 2712
-epeeDuGrukireu: 3188
-epeeDuGudinake: 3146
-epeeDuHamumixo: 3257
-epeeDuHamuth: 2992
-epeeDuHegohorth: 3346
-epeeDuHekese: 3252
-epeeDuHuhukego: 3227
-epeeDuHusimuh: 3278
-epeeDuIgeroth: 3135
-epeeDuIlele: 3144
-epeeDuItezei: 3124
-epeeDuKhebab: 2912
-epeeDuKinuvige: 3237
-epeeDuKogeced: 3128
-epeeDuKrobaxoba: 3218
-epeeDuKromaker: 3155
-epeeDuKuhur: 2988
-epeeDuLekahut: 3196
-epeeDuLolevya: 3119
-epeeDuMihatoru: 3245
-epeeDuMolec: 3200
-epeeDuMourour: 3297
-epeeDuNifuh: 3178
-epeeDuNirogim: 3174
-epeeDuOketuh: 3307
-epeeDuOsukul: 3151
-epeeDuOtokain: 3140
-epeeDuOurekesuh: 3293
-epeeDuPenarber: 3343
-epeeDuPetitChevalier: 353
-epeeDuPuissantChevalier: 824
-epeeDuRagora: 3171
-epeeDuRatBlanc: 8450
-epeeDuRhetu: 2955
-epeeDuRiruh: 3134
-epeeDuRisdar: 3121
-epeeDuRohnain: 2910
-epeeDuRokil: 3167
-epeeDuRonit: 3195
-epeeDuRoradep: 3108
-epeeDuRuredert: 3327
-epeeDuSomoce: 3148
-epeeDuTabuk: 2909
-epeeDuTegafdar: 3304
-epeeDuTepas: 3335
-epeeDuThorerures: 3286
-epeeDuTilepeuf: 3130
-epeeDuTreru: 2898
-epeeDuTurista: 2779
-epeeDuUdanam: 3165
-epeeDuUguluj: 3340
-epeeDuUkiniher: 3233
-epeeDuUkokug: 3309
-epeeDuUnebut: 3300
-epeeDuUrenehe: 3113
-epeeDuUteknef: 3141
-epeeDuUwohenaw: 3290
-epeeDuVafusura: 3258
-epeeDuVarkasu: 3317
-epeeEtrange: 9070
-epeeGrossiere: 6836
-epeeHiZan: 9707
-epeeLoponeze: 9469
-epeeMauditeDuSaigneurGuerrier: 8993
-epeeQuiPete: 8676
-epeeRnohHel: 9709
-epeeRoyaleDuBouftou: 2440
-epeeSacree: 819
-epeeTaRad: 9706
-epeeToutJusteForgee: 6829
-epeeZervatif: 8605
-epices: 1977
-epineDOugah: 9280
-epineDuChampChamp: 377
-episDeFarle: 6766
-episDeShika: 8298
-espritDeCrocoburio: 1719
-espritRenifleur: 2261
-estomacDeBouftou: 2454
-estomacDeChefDeGuerreBouftou: 2468
-estomacDeGloutovore: 2631
-estomacDePrespic: 2572
-estomacDeSanglierDesPlaines: 2510
-estomacDeWoWabbit: 406
-etain: 444
-etamineDeFloribonde: 8778
-etoffeCorailleuse: 8994
-etoffeDOurs: 6841
-etoffeDeCrocGland: 2503
-etoffeDeDokAlako: 8002
-etoffeDeFantômeLeopardo: 7382
-etoffeDeFantômeMahoFirefoux: 7380
-etoffeDeFantômePandikaze: 7379
-etoffeDeFantômePandore: 7393
-etoffeDeFantômePandule: 7384
-etoffeDeFantômeSoryoFirefoux: 7381
-etoffeDeFantômeTanukouiSan: 7385
-etoffeDeFantômeYokaiFirefoux: 7383
-etoffeDeGourloLeTerrible: 8995
-etoffeDeKanigrou: 2550
-etoffeDeMahoFirefoux: 7304
-etoffeDeMaîtrePandore: 8400
-etoffeDeMeupette: 8791
-etoffeDeOuassingue: 8801
-etoffeDePandikaze: 7259
-etoffeDePandore: 7307
-etoffeDePandule: 7308
-etoffeDePeki: 8380
-etoffeDeSanglierDesPlaines: 2513
-etoffeDeSoryoFirefoux: 7305
-etoffeDeSphincterCell: 8487
-etoffeDeYokaiFirefoux: 7306
-etoffeDuFauchalak: 8082
-etoffeDuMeulou: 1696
-etoffeDuMulou: 651
-etoffeDuPrespic: 653
-etoffeDuRatBlanc: 8486
-etoffeDuRatNoir: 8485
-etoffeDuRoissingue: 8808
-etoffeDuSanglier: 652
-etoffeDuWaWabbit: 8398
-etoffeDuWabbit: 654
-etoffeMagiqueDeMoon: 8384
-etoffeZoth: 8800
-etoileDuSoir: 1637
-eupeohPourAbraKadabraEtMinimino: 8988
-eupeohPourBoulouteEtFotome: 8986
-eupeohPourDragouneEtTifoux: 8985
-eupeohPourElScaradorEtCroum: 8987
-eventailTranchant: 4242
-excellentBatonDesRois: 1162
-excellenteBaguetteMeneuse: 1146
-exoram: 9061
-extraitDeFleurDeDzibi: 6803
-fantômeBebePandawa: 8565
-fantômeBoulouteDuParrain: 9595
-fantômeChachaAngora: 9661
-fantômeChachaTigre: 8885
-fantômeCrocodaille: 9671
-fantômeDAbraKadabra: 8171
-fantômeDAtouin: 8020
-fantômeDEcureuilChenapan: 7722
-fantômeDElScarador: 8173
-fantômeDeBilby: 7724
-fantômeDeBouloute: 8172
-fantômeDeBwakDAir: 7541
-fantômeDeBwakDEau: 7540
-fantômeDeBwakDeFeu: 7539
-fantômeDeBwakDeTerre: 7542
-fantômeDeBworky: 8017
-fantômeDeChacha: 7537
-fantômeDeChauffeSouris: 10109
-fantômeDeChercheurDOgrines: 10658
-fantômeDeChienchien: 7536
-fantômeDeCroum: 7550
-fantômeDeDragouneRose: 7549
-fantômeDeFotome: 7548
-fantômeDeGelutin: 10597
-fantômeDeKoalakSanguin: 8016
-fantômeDeKouinKouin: 7543
-fantômeDeLeopardo: 7723
-fantômeDeMarcassin: 7725
-fantômeDeMiniWa: 7893
-fantômeDeMinimino: 7551
-fantômeDeNomoon: 7544
-fantômeDePeki: 7545
-fantômeDePetitChachaBlanc: 7546
-fantômeDePetitChienchienNoir: 7547
-fantômeDePiouteBleu: 7726
-fantômeDePiouteJaune: 7727
-fantômeDePiouteRose: 7728
-fantômeDePiouteRouge: 7729
-fantômeDePiouteVert: 7730
-fantômeDePiouteViolet: 7731
-fantômeDeShushuDeRushu: 9786
-fantômeDeTifoux: 8174
-fantômeDeVampyrette: 10108
-fantômeDeWabbit: 7538
-fantômeDeWillyLeRelou: 7894
-fantômeDragouneNoire: 9666
-fantômeDuVilainPetitCorbac: 7721
-fantômeFëanor: 8706
-fantômeMarcassin: 9616
-fantômeMiniminotot: 9665
-fantômeRoss: 8679
-fantômeTiwabbitKiafin: 9664
-fantômeWalk: 8524
-farineBise: 583
-farineBlanche: 582
-farineComplete: 587
-farineDAvoine: 531
-farineDAvoineAurifere: 2037
-farineDOrge: 529
-farineDOrgeEnSucre: 2033
-farineDeBle: 285
-farineDeBleMagique: 2019
-farineDeHoublon: 535
-farineDeHoublonMagique: 2022
-farineDeLin: 690
-farineDeLinMagique: 2027
-farineDeMalt: 534
-farineDeRiz: 7068
-farineDeSeigle: 530
-farineDeSeigleMagique: 2030
-farineDeXavierLeBoulanger: 6672
-farinePaysanne: 586
-farlacoiffe: 6778
-farlature: 6776
-fausseGriffeDeCeangal: 2639
-fauxDeFarleIngalsse: 765
-fauxDeLApprentiPaysan: 8540
-fauxDofus: 7044
-fauxDuMaîtreCorbac: 1875
-fauxDuMaitreCorbac: 2526
-fauxDuPaysan: 577
-fauxKoinkoin: 6659
-fauxMauditeDuSaigneurGuerrier: 8992
-fauxMentonDuBourbassingue: 8811
-fauxUseeDuPaysan: 8127
-fëanor: 8693
-fecaAttitude: 2218
-fecaflip: 770
-fecaliseurDuGuerrier: 1657
-fecaliseurDuMagicien: 1656
-feeDArtificeBleue: 6571
-feeDArtificeBleueCrepitante: 6580
-feeDArtificeBleueFontaine: 6577
-feeDArtificeBleueTournoyante: 6574
-feeDArtificeBleueVirevoltante: 6583
-feeDArtificeInvocatriceDeCoeurs: 9380
-feeDArtificeJaune: 6586
-feeDArtificeJauneCrepitante: 6595
-feeDArtificeJauneFontaine: 6592
-feeDArtificeJauneTournoyante: 6589
-feeDArtificeJauneVirevoltante: 6598
-feeDArtificeMulticolore: 6628
-feeDArtificeMulticoloreCrepitante: 6637
-feeDArtificeMulticoloreFontaine: 6634
-feeDArtificeMulticoloreTournoyante: 6631
-feeDArtificeMulticoloreVirevoltante: 6640
-feeDArtificeRouge: 6541
-feeDArtificeRougeCrepitante: 6550
-feeDArtificeRougeFontaine: 6547
-feeDArtificeRougeTournoyante: 6544
-feeDArtificeRougeVirevoltante: 6553
-feeDArtificeVerte: 6556
-feeDArtificeVerteCrepitante: 6565
-feeDArtificeVerteFontaine: 6562
-feeDArtificeVerteTournoyante: 6559
-feeDArtificeVerteVirevoltante: 6568
-feeLanceuseDeGriffeJoueuse: 10036
-feeLanceuseDeLangueRapeuse: 10042
-femurDeKoalakFarouche: 8056
-femurDeSphincterCell: 8490
-femurDuChaferArcher: 433
-femurDuMinotoror: 8313
-femurDuMinotot: 8410
-fendeuseDAbraknyde: 923
-fendeuseDAbraknydeAncestral: 927
-fendeuseDeMerisier: 674
-fer: 312
-feuilleDeBambouto: 7287
-feuilleDeBamboutoSacre: 7288
-feuilleDeBlopMulticoloreRoyal: 9389
-feuilleDeBlopRoyal: 9388
-feuilleDeBulbuisson: 7267
-feuilleDeFourbasse: 2254
-feuilleDeKaliptus: 7903
-feuilleDeKokoko: 2624
-feuilleDeMentheSauvage: 380
-feuilleDeRonceDHestia: 2365
-feuilleDeSalace: 1974
-feuilleDeTournesolSauvage: 2661
-feuilleDeTronknyde: 2249
-fibreDeChanvre: 426
-fibreDeLin: 424
-ficelleEnLin: 420
-ficheARemplir: 6790
-ficheDescriptiveDUnBricoleur: 8914
-ficheDuBricoleurARemplir: 8915
-ficheRemplieMaisNonValide: 6858
-ficheRemplieValide: 6787
-filDeSoie: 643
-filResistant: 2656
-filetDeKoalak: 8505
-filetSimpleDeCapture: 597
-fiole: 490
-fioleAElement: 1463
-fioleCristalDePaleAnthir: 6846
-fioleDePoisonBrakmarien: 10007
-fioleDeSoin: 283
-fioleDeSoinSuperieure: 282
-fiolesDeJiva: 2314
-firefact: 1: 7373
-firefact: 2: 7374
-firefact: 3: 7375
-firefact: 4: 7376
-firefact: 5: 7377
-firefact: 6: 7378
-flaqueDeGeleeBleue: 2430
-flaqueDeGeleeCitron: 2431
-flaqueDeGeleeFraise: 2432
-flaqueDeGeleeMenthe: 2433
-fleurDeBlopCoco: 1772
-fleurDeBlopCocoRoyal: 9385
-fleurDeBlopGriotte: 1776
-fleurDeBlopGriotteRoyal: 9384
-fleurDeBlopIndigo: 1778
-fleurDeBlopIndigoRoyal: 9386
-fleurDeBlopMulticoloreRoyal: 9391
-fleurDeBlopReinette: 1774
-fleurDeBlopReinetteRoyal: 9387
-fleurDeBlopignon: 9382
-fleurDeBulbiflore: 7266
-fleurDeChanvre: 428
-fleurDeDzibi: 6798
-fleurDeGloutoblop: 9381
-fleurDeGloutovore: 2253
-fleurDeKaliptus: 7904
-fleurDeLin: 421
-fleurDeLotus: 7020
-fleurDePissenlitDiabolique: 306
-fleurDeRoseObscure: 6864
-fleursDeBlopConcasse: 1882
-flûte: 1505
-flûteDeSarrYs: 8627
-foiDeDonRouann: 1: 1653
-foiDeDonRouann: 2: 1654
-foiDeDonRouann: 3: 1655
-forceDeCrocoburio: 1718
-formulaireDEnqueteN33: 2190
-formulaireDEnqueteN36: 2178
-formulaireDInspection: 1876
-formulaireDInspectionRempli: 2124
-formulaireDeDesertion: 9812
-formulaireDeNeutralite: 9811
-formulaireDeRapportVierge: 2105
-formulaireDeWelloyCab: 2103
-formuleDePotionDeTransformation: 8692
-formuleMagiqueDesQuatreFreresBandits: 10287
-fotome: 7518
-foudroyeurClassique: 7798
-foudroyeurEnBambou: 7787
-foudroyeurEnBambouDore: 7793
-foudroyeurEnBambouMagique: 7794
-foudroyeurEnBambouSacre: 7789
-foudroyeurEnBambouSombre: 7788
-foudroyeurEnBoisAncestral: 7790
-foudroyeurEnBoisDeBambouto: 7795
-foudroyeurEnBoisDeBamboutoSacre: 7796
-foudroyeurEnBoisDeKokoko: 7797
-foudroyeurEnBoisDeTronknyde: 7792
-foudroyeurEnBoisEnvoûte: 7791
-foudroyeurEnBombu: 7785
-foudroyeurEnCharme: 7781
-foudroyeurEnChataignier: 7782
-foudroyeurEnChene: 7776
-foudroyeurEnEbene: 7778
-foudroyeurEnErable: 7780
-foudroyeurEnFrene: 7775
-foudroyeurEnIf: 7777
-foudroyeurEnMerisier: 7784
-foudroyeurEnNoyer: 7783
-foudroyeurEnOliviolet: 7786
-foudroyeurEnOrme: 7779
-fouduglen: 6875
-foulardDuSparo: 8760
-fourbabottes: 6744
-fourbacapa: 6763
-fourbacoiffe: 6764
-fourballiance: 6743
-fourbamulette: 6742
-fourbasseTon: 6762
-fragmentCritique: 9806
-fragmentCritiqueMajeur: 9807
-fragmentCritiqueMineur: 9805
-fragmentDAgilite: 9794
-fragmentDAgiliteMajeur: 9795
-fragmentDAgiliteMineur: 9793
-fragmentDEpeeReptilienne: 2295
-fragmentDIntelligence: 9788
-fragmentDIntelligenceMajeur: 9789
-fragmentDIntelligenceMineur: 9787
-fragmentDOs: 2300
-fragmentDOugalurette: 9281
-fragmentDeBois: 6806
-fragmentDeCerveauPoli: 8762
-fragmentDeChance: 9791
-fragmentDeChanceMajeur: 9792
-fragmentDeChanceMineur: 9790
-fragmentDeCoquilleDAerohouctorLeGuerrier: 8371
-fragmentDeCoquilleDAquabralakLeGuerrier: 8372
-fragmentDeCoquilleDIgnelicroburLeGuerrier: 8370
-fragmentDeCoquilleDeTerrakoubiakLeGuerrier: 8369
-fragmentDeForce: 9715
-fragmentDeForceMajeur: 9760
-fragmentDeForceMineur: 9714
-fragmentDePierrePointue: 2305
-fragmentDePierrePolie: 2304
-fragmentDeProspection: 9803
-fragmentDeProspectionMajeur: 9804
-fragmentDeProspectionMineur: 9802
-fragmentDeSagesse: 9800
-fragmentDeSagesseMajeur: 9801
-fragmentDeSagesseMineur: 9799
-fragmentDeVitalite: 9797
-fragmentDeVitaliteMajeur: 9798
-fragmentDeVitaliteMineur: 9796
-fragmentDuSocleDeLaCrocobur: 1543
-fragmentMagique: 8378
-fraise: 381
-frakaciaLeukocytine: 6871
-franciqueBasquaise: 2608
-francisqueABreles: 1378
-fritesDeTournesolSauvage: 6670
-fruitDePalme: 398
-ftalmo: 9002
-ftalmoDechire: 7072
-fuschia: 8930
-gaineHage: 8661
-ganteletDesBouftonsRouges: 10558
-ganteletDuRatBlanc: 8454
-ganteletDuRealBoitar: 10557
-gantieRoyal: 767
-gantsDeLApprentiAlchimiste: 8542
-gargantuesquePierreDAmeParfaite: 9718
-gateaux: 6788
-gatrool: 8519
-geishArc: 8609
-gelamu: 2472
-gelano: 2469
-geleeALaFraise: 368
-geleeALaMenthe: 369
-geleeBleutee: 757
-geleeBleuteeRoyale: 370
-geleeCitron: 2436
-geleeCitronRoyale: 2437
-geleeDeDegelee: 8310
-geleeFraiseRoyale: 2242
-geleeMentheRoyale: 2241
-geleeSbihaine: 10003
-gelobottes: 2470
-gelocape: 2446
-gelocoiffe: 2447
-geloture: 2471
-gelutin: 10544
-gemmeSpirituelleDeAbraknydeAncestral: 10259
-gemmeSpirituelleDeBlopCocoRoyal: 10238
-gemmeSpirituelleDeBlopGriotteRoyal: 10239
-gemmeSpirituelleDeBlopIndigoRoyal: 10240
-gemmeSpirituelleDeBlopMulticoloreRoyal: 10251
-gemmeSpirituelleDeBlopReinetteRoyal: 10241
-gemmeSpirituelleDeBouftouRoyal: 10228
-gemmeSpirituelleDeBworker: 10263
-gemmeSpirituelleDeBworkette: 10234
-gemmeSpirituelleDeCheneMou: 10268
-gemmeSpirituelleDeCorailleurMagistral: 10252
-gemmeSpirituelleDeCraqueleurLegendaire: 10247
-gemmeSpirituelleDeCrocabulia: 10278
-gemmeSpirituelleDeDarkVlad: 10245
-gemmeSpirituelleDeDragonCochon: 10235
-gemmeSpirituelleDeGardienneDesEgouts: 10248
-gemmeSpirituelleDeGeleeRoyaleBleue: 10230
-gemmeSpirituelleDeGeleeRoyaleCitron: 10262
-gemmeSpirituelleDeGeleeRoyaleFraise: 10249
-gemmeSpirituelleDeGeleeRoyaleMenthe: 10236
-gemmeSpirituelleDeGourloLeTerrible: 10253
-gemmeSpirituelleDeKimbo: 10270
-gemmeSpirituelleDeKoulosse: 10257
-gemmeSpirituelleDeMaîtreCorbac: 10250
-gemmeSpirituelleDeMaîtrePandore: 10260
-gemmeSpirituelleDeMeulou: 10254
-gemmeSpirituelleDeMinotoror: 10244
-gemmeSpirituelleDeMinotot: 10265
-gemmeSpirituelleDeMobLEponge: 10227
-gemmeSpirituelleDeMoon: 10256
-gemmeSpirituelleDeOugah: 10269
-gemmeSpirituelleDePekiPeki: 10267
-gemmeSpirituelleDeRatBlanc: 10606
-gemmeSpirituelleDeRatNoir: 10242
-gemmeSpirituelleDeScarabosseDore: 10233
-gemmeSpirituelleDeShinLarve: 10231
-gemmeSpirituelleDeSilfLeRasboulMajeur: 10266
-gemmeSpirituelleDeSkeunk: 10258
-gemmeSpirituelleDeSphincterCell: 10264
-gemmeSpirituelleDeTanukouiSan: 10246
-gemmeSpirituelleDeTofuRoyal: 10237
-gemmeSpirituelleDeTournesolAffame: 10229
-gemmeSpirituelleDeTynril: 10261
-gemmeSpirituelleDeWaWabbit: 10255
-geniallissimeCoiffeDeTorteHou: 6958
-getaAerdala: 7245
-getaAkwadala: 7242
-getaFeudala: 7244
-getaTerrdala: 7243
-getasBernacle: 8713
-gigaPierreDAme: 7337
-gigaPierreDAmeHasardeuse: 7336
-gigaPierreDAmeHeureuse: 7338
-gigantesquePierreDAmeParfaite: 9690
-glaceBontarienne: 6646
-glaiveIceration: 7199
-gland: 393
-gloutoRhum: 2632
-gobtroteur: 8527
-godRod: 200
-goldoture: 7559
-goujon: 1782
-goujonEnTranche: 2: 1813
-goujonEnTranche: 3: 1814
-goujonEnTranche: 4: 1830
-goujonKiye: 1790
-goujonKiyeVide: 1791
-goujonVide: 1783
-goultard: 65
-goulyfie: 10119
-goyave: 6991
-graineDeChanvre: 427
-graineDeLAbrakleurSombre: 8785
-graineDeLin: 422
-graineDePandouille: 7059
-graineDePavot: 300
-graineDeScorbute: 2150
-graineDeScorbuteModifiee: 9551
-graineDeSesame: 287
-graineDeTournesolSauvage: 288
-graisseDeBiblop: 1984
-graisseDeGelee: 1983
-grandAnneauDAgilite: 120
-grandAnneauDeChance: 111
-grandAnneauDeSagesse: 102
-grandArcBuse: 1094
-grandArcDeBoisaille: 90
-grandArcDeroutant: 266
-grandArcEcologique: 1119
-grandBandeauDeVitalite: 949
-grandBatonDeBoisaille: 139
-grandBatonDeFausseMagie: 1111
-grandBatonDesRois: 1164
-grandBatonFeuillu: 184
-grandBatonBouleDeVoyante: 1154
-grandCadeauDeNowel: 8339
-grandCouteauAStek: 1028
-grandMarteauDIvoire: 229
-grandMarteauDeBoisaille: 146
-grandMarteauDeRaclage: 223
-grandMarteauOutar: 1074
-grandMarteauPospodrol: 1082
-grandMarteauRUnique: 1066
-grandParcheminDAgilite: 800
-grandParcheminDIntelligence: 816
-grandParcheminDeChance: 812
-grandParcheminDeForce: 796
-grandParcheminDeSagesse: 804
-grandParcheminDeVitalite: 808
-grandeBaguetteAPans: 1135
-grandeBaguetteDHouvette: 1139
-grandeBaguetteDIntelligence: 831
-grandeBaguetteDeBoisaille: 133
-grandeBaguetteDeGlace: 164
-grandeBaguetteDeSagesse: 834
-grandeBaguetteHeure: 1103
-grandeBaguetteMeneuse: 1145
-grandeCanneAPeche: 1867
-grandeCapeBleutee: 937
-grandeCapeDeRougeur: 934
-grandeCapeSombre: 947
-grandeCeintureAgilesque: 262
-grandeCeintureForcesque: 258
-grandeCeintureVitalesque: 254
-grandeEpeeDAlle: 54
-grandeEpeeDHa: 61
-grandeEpeeDeBoisaille: 43
-grandeEpeeDeFouraille: 48
-grandeEpeeSacree: 820
-grandeFeeDArtificeBleue: 6572
-grandeFeeDArtificeBleueCrepitante: 6581
-grandeFeeDArtificeBleueFontaine: 6578
-grandeFeeDArtificeBleueTournoyante: 6575
-grandeFeeDArtificeBleueVirevoltante: 6584
-grandeFeeDArtificeInvocatriceDeTofu: 6600
-grandeFeeDArtificeJaune: 6587
-grandeFeeDArtificeJauneCrepitante: 6596
-grandeFeeDArtificeJauneFontaine: 6593
-grandeFeeDArtificeJauneTournoyante: 6590
-grandeFeeDArtificeJauneVirevoltante: 6599
-grandeFeeDArtificeMulticolore: 6629
-grandeFeeDArtificeMulticoloreCrepitante: 6638
-grandeFeeDArtificeMulticoloreFontaine: 6635
-grandeFeeDArtificeMulticoloreTournoyante: 6632
-grandeFeeDArtificeMulticoloreVirevoltante: 6641
-grandeFeeDArtificeRouge: 6542
-grandeFeeDArtificeRougeCrepitante: 6551
-grandeFeeDArtificeRougeFontaine: 6548
-grandeFeeDArtificeRougeTournoyante: 6545
-grandeFeeDArtificeRougeVirevoltante: 6554
-grandeFeeDArtificeVerte: 6557
-grandeFeeDArtificeVerteCrepitante: 6566
-grandeFeeDArtificeVerteFontaine: 6563
-grandeFeeDArtificeVerteTournoyante: 6560
-grandeFeeDArtificeVerteVirevoltante: 6569
-grandeFiole: 1460
-grandeGarde: 9723
-grandeLameDeFon: 1034
-grandeMasseAjTaye: 1078
-grandePelleDeBoisDormant: 1044
-grandePelleDeBoisaille: 152
-grandePelleDeCrapouille: 240
-grandePelleDeKoutoulou: 1057
-grandePelleDeRapage: 246
-grandePelleDuCraqueleur: 295
-grandePelleMechba: 1431
-grandePelleMelle: 1048
-grandePelleTeuze: 483
-grandePelleWoukuis: 1052
-grandePierreDAme: 7009
-grandePierreDAmeHasardeuse: 7005
-grandePierreDAmeHeureuse: 7334
-grandePierreDAmeParfaite: 9688
-grandePotionDAgression: 9041
-grandePotionDeSoinDeMasse: 9899
-grandesBottesDeConcentration: 888
-grandesBottesDeKlime: 904
-grandesBottesDePoursuite: 908
-grandesDaguesDeBoisaille: 96
-grandesDaguesDeCroclage: 213
-grandesDaguesDeFouraille: 207
-grandesDaguesEguisees: 899
-grandesDaguesSylvestres: 895
-grappeDOeufsDeLarve: 2270
-gratrooll: 8520
-grelot: 2506
-grenouillette: 856
-greuVette: 598
-greuVetteHorreur: 1786
-greuVetteHorreurVide: 1787
-greuVetteVidee: 1781
-griffeDeGrizmine: 7192
-griffeDuMulou: 440
-griffePourpre: 8596
-griffeRose: 4241
-griffesDeKwak: 2648
-griffettes: 8599
-groinDeDragonCochon: 2645
-groinDePorkass: 2481
-groinDeSanglierDesPlaines: 2515
-groinDuSanglier: 386
-grosBatonDakn: 1150
-grosBoulet: 2553
-grosseBagouzeDuParrain: 9543
-guigne: 2208
-guildalogemme: 1575
-gulliver: 712
-hacheALamelles: 9138
-hacheDIkalugi: 6437
-hacheDarsson: 2601
-hacheDeAcebavec: 6109
-hacheDeAcebugu: 6234
-hacheDeAelelydae: 6340
-hacheDeAfapisu: 6089
-hacheDeAgunelig: 6062
-hacheDeAidesani: 6236
-hacheDeAkuduk: 6315
-hacheDeAlewepl: 6004
-hacheDeAlicatyp: 6262
-hacheDeAlisice: 6163
-hacheDeAmafevu: 6204
-hacheDeAmehatos: 6374
-hacheDeAmphawou: 6067
-hacheDeAmphemij: 6306
-hacheDeAneloby: 6053
-hacheDeAnobe: 6375
-hacheDeAqualaelu: 6087
-hacheDeAquepice: 6231
-hacheDeAquilavepa: 6241
-hacheDeAreji: 6110
-hacheDeArirugu: 6404
-hacheDeAuviel: 6255
-hacheDeAvurout: 6048
-hacheDeBabuga: 6359
-hacheDeBenuie: 6081
-hacheDeBiporac: 6107
-hacheDeBitabapa: 6332
-hacheDeBlewa: 6325
-hacheDeBoleva: 6419
-hacheDeBotorory: 6049
-hacheDeBreche: 2597
-hacheDeBrefilufu: 6352
-hacheDeBremamo: 6094
-hacheDeBûcheron: 454
-hacheDeBweter: 6329
-hacheDeCakutert: 6400
-hacheDeCelanema: 6256
-hacheDeChasse: 1936
-hacheDeCifumfrit: 6003
-hacheDeCukuho: 6118
-hacheDeDacodac: 6131
-hacheDeDameOise: 2614
-hacheDeDegodoku: 6328
-hacheDeDenylobe: 6289
-hacheDeDetusagi: 6129
-hacheDeDlidr: 6401
-hacheDeDocota: 6104
-hacheDeDofopi: 6425
-hacheDeDoreratu: 6133
-hacheDeDoumabi: 6326
-hacheDeDufunfla: 6013
-hacheDeDugerah: 6157
-hacheDeEbetaille: 6012
-hacheDeEbujim: 6415
-hacheDeEcobowe: 6337
-hacheDeEdatum: 6410
-hacheDeEdulawo: 6077
-hacheDeEfeutar: 6398
-hacheDeEfeva: 6253
-hacheDeEgurifis: 6039
-hacheDeEketuti: 6308
-hacheDeEkodet: 6309
-hacheDeEkored: 6045
-hacheDeElediti: 6183
-hacheDeElogi: 6347
-hacheDeElomikuk: 6271
-hacheDeElucebic: 6211
-hacheDeEmohalas: 6078
-hacheDeEnatorob: 6246
-hacheDeEnuge: 6371
-hacheDeEovteux: 6225
-hacheDeErosec: 6171
-hacheDeEsemare: 6194
-hacheDeEsikini: 6333
-hacheDeEsutadid: 6098
-hacheDeEtacber: 6023
-hacheDeEureheg: 6373
-hacheDeEutert: 6378
-hacheDeEvacu: 6130
-hacheDeEvakegot: 6022
-hacheDeEveliel: 6178
-hacheDeExito: 6233
-hacheDeFatol: 6397
-hacheDeFemefu: 6184
-hacheDeFened: 6172
-hacheDeFetivefe: 6108
-hacheDeFeufijuk: 6342
-hacheDeFeuhekel: 6155
-hacheDeFeutufuca: 6150
-hacheDeFinfla: 6391
-hacheDeFinocufe: 6417
-hacheDeFlafafiti: 6284
-hacheDeFlalilu: 6290
-hacheDeFlapezo: 6302
-hacheDeFlesa: 6364
-hacheDeFlyzolav: 6216
-hacheDeFofpur: 6390
-hacheDeFupus: 6242
-hacheDeFurokohe: 6388
-hacheDeGetitaille: 6307
-hacheDeGeurithi: 6355
-hacheDeGilaefif: 6123
-hacheDeGototuku: 6031
-hacheDeGrodagi: 6041
-hacheDeHamocer: 6237
-hacheDeHamor: 6227
-hacheDeHamuvel: 6291
-hacheDeHapofacu: 6026
-hacheDeHegeffrit: 6251
-hacheDeHegoke: 6418
-hacheDeHelyulaw: 6054
-hacheDeHopuhu: 6044
-hacheDeHoziel: 6272
-hacheDeHudeut: 6073
-hacheDeHugam: 6341
-hacheDeIbogim: 6117
-hacheDeIbuga: 6187
-hacheDeIfabuda: 6303
-hacheDeIfofuti: 6165
-hacheDeIfricufu: 6040
-hacheDeIfrinu: 6252
-hacheDeIlefo: 6063
-hacheDeIlefuti: 6266
-hacheDeIlelath: 6093
-hacheDeIlosury: 6008
-hacheDeIlumunuv: 6128
-hacheDeIraludl: 6368
-hacheDeIrebir: 6017
-hacheDeIromuthu: 6381
-hacheDeItanali: 6395
-hacheDeIthalasu: 6055
-hacheDeItubib: 6192
-hacheDeIvidupu: 6035
-hacheDeJavumy: 6080
-hacheDeJijig: 6126
-hacheDeJisotag: 6149
-hacheDeJurobuti: 6428
-hacheDeKagid: 6226
-hacheDeKeuce: 6339
-hacheDeKodlode: 6292
-hacheDeKoredo: 6301
-hacheDeKrekarh: 6376
-hacheDeKromobofe: 6156
-hacheDeKrour: 6276
-hacheDeKrourice: 6268
-hacheDeKrovufume: 6069
-hacheDeKusrec: 6314
-hacheDeLApprentiBûcheron: 8539
-hacheDeLamikape: 6196
-hacheDeLaramnef: 6338
-hacheDeLatum: 6091
-hacheDeLawewege: 6116
-hacheDeLeroni: 6312
-hacheDeLilaculf: 6316
-hacheDeLimib: 6322
-hacheDeLithefipac: 6232
-hacheDeLobabouille: 6173
-hacheDeLobafulu: 6085
-hacheDeLocema: 6416
-hacheDeLookabeer: 2615
-hacheDeLotiste: 6052
-hacheDeLugorotu: 6057
-hacheDeMadae: 6287
-hacheDeMalabri: 6386
-hacheDeMalonum: 6134
-hacheDeMamemole: 6248
-hacheDeManipu: 6411
-hacheDeMarenu: 6177
-hacheDeMavac: 6406
-hacheDeMelobnef: 6279
-hacheDeMigolos: 6010
-hacheDeMolevielle: 6206
-hacheDeMudathof: 6394
-hacheDeMuguleri: 6380
-hacheDeMusippur: 6409
-hacheDeNelielle: 6199
-hacheDeNesur: 6182
-hacheDeNeteso: 6372
-hacheDeNisikim: 6136
-hacheDeNisumam: 6208
-hacheDeNisusuka: 6135
-hacheDeNoelelo: 6212
-hacheDeNogubugav: 6176
-hacheDeNogynum: 6285
-hacheDeNokam: 6024
-hacheDeNudrame: 6393
-hacheDeNufak: 6002
-hacheDeNusta: 6420
-hacheDeNybrofe: 6034
-hacheDeNybusotu: 6033
-hacheDeObyzona: 6350
-hacheDeOdurug: 6407
-hacheDeOirustet: 6218
-hacheDeOkibop: 6323
-hacheDeOkimadit: 6335
-hacheDeOliblur: 6103
-hacheDeOloce: 6119
-hacheDeOlozev: 6036
-hacheDeOlubutil: 6318
-hacheDeOlulimov: 6399
-hacheDeOmizunob: 6396
-hacheDeOmuregot: 6267
-hacheDeOperdar: 6361
-hacheDeOtekodur: 6142
-hacheDeOtener: 6076
-hacheDeOtotoche: 6430
-hacheDeOtozop: 6344
-hacheDeOtugu: 6188
-hacheDeOufufek: 6105
-hacheDeOumufeno: 6096
-hacheDeOurase: 6059
-hacheDeOuruhecet: 6362
-hacheDeOuxole: 6166
-hacheDeOvimucup: 6030
-hacheDePemoh: 6027
-hacheDePhadaituj: 6083
-hacheDePibadecu: 6247
-hacheDePierre: 2595
-hacheDePuvahate: 6181
-hacheDeRagnahunut: 6413
-hacheDeRagneuk: 6215
-hacheDeRareri: 6275
-hacheDeReceno: 6025
-hacheDeRenar: 6403
-hacheDeRepup: 6427
-hacheDeRhehuru: 6263
-hacheDeRitim: 6180
-hacheDeRitokerm: 6079
-hacheDeRogut: 6354
-hacheDeRoruge: 6358
-hacheDeRoucetot: 6115
-hacheDeRufou: 6145
-hacheDeRugnure: 6009
-hacheDeRuleulul: 6015
-hacheDeRuregehu: 6121
-hacheDeRusade: 6200
-hacheDeRykac: 6075
-hacheDeSasel: 6213
-hacheDeSatocam: 6127
-hacheDeSawobotte: 6293
-hacheDeScoxoze: 6175
-hacheDeSegosyf: 6348
-hacheDeSeherre: 6203
-hacheDeSistohe: 6238
-hacheDeSohoja: 6000
-hacheDeSotebdar: 6283
-hacheDeSrehitur: 6387
-hacheDeSteubaud: 6164
-hacheDeStharh: 6114
-hacheDeStruguh: 6144
-hacheDeStumour: 6310
-hacheDeSuneserre: 6113
-hacheDeSurunesu: 6273
-hacheDeTastarh: 6147
-hacheDeTehekeh: 6221
-hacheDeTelihi: 6021
-hacheDeTepufpur: 6324
-hacheDeTevole: 6058
-hacheDeTewela: 6305
-hacheDeThoruhen: 6050
-hacheDeTigehour: 6402
-hacheDeTobepone: 6006
-hacheDeTocona: 6298
-hacheDeTokedra: 6229
-hacheDeTolori: 6286
-hacheDeTrehare: 6389
-hacheDeTuhetur: 6207
-hacheDeTuthem: 6074
-hacheDeUcetac: 6070
-hacheDeUcibatev: 6436
-hacheDeUfaflep: 6346
-hacheDeUfepa: 6068
-hacheDeUfucehek: 6088
-hacheDeUfunuvu: 6257
-hacheDeUheruker: 6137
-hacheDeUhugegoc: 6047
-hacheDeUkodeth: 6016
-hacheDeUkufame: 6239
-hacheDeUlogarac: 6313
-hacheDeUpitavum: 6320
-hacheDeUralo: 6160
-hacheDeUralu: 6072
-hacheDeUropim: 6029
-hacheDeUstuke: 6429
-hacheDeUsutor: 6148
-hacheDeUtitero: 6060
-hacheDeUtureste: 6084
-hacheDeUvagpur: 6274
-hacheDeUvozumef: 6278
-hacheDeVafedus: 6112
-hacheDeVaipope: 6295
-hacheDeVarkasrok: 6097
-hacheDeVarkehu: 6281
-hacheDeVarkogohah: 6353
-hacheDeVemeki: 6235
-hacheDeVenolos: 6018
-hacheDeVlanethy: 6201
-hacheDeVohillion: 6043
-hacheDeVosas: 6254
-hacheDeVotem: 6365
-hacheDeWanyv: 6038
-hacheDeWelouille: 6186
-hacheDeXuthoke: 6260
-hacheDeYmatyvo: 6100
-hacheDeYsethefu: 6240
-hacheDeYunipan: 6209
-hacheDeZareme: 6056
-hacheDeZelebe: 6334
-hacheDeZelel: 6382
-hacheDuAdageola: 6151
-hacheDuAkifum: 6405
-hacheDuAleloni: 6424
-hacheDuAlikim: 6243
-hacheDuAquapaul: 6066
-hacheDuAraborat: 6111
-hacheDuBeufrim: 6357
-hacheDuCegute: 6064
-hacheDuComeg: 6011
-hacheDuCosto: 6299
-hacheDuDletuhe: 6366
-hacheDuDloroth: 6392
-hacheDuDoknef: 6138
-hacheDuDomitber: 6167
-hacheDuDragoeuf: 8293
-hacheDuDukotu: 6369
-hacheDuEbadake: 6244
-hacheDuEbesove: 6224
-hacheDuEdripr: 6202
-hacheDuEgafube: 6432
-hacheDuEhedere: 6360
-hacheDuEkekekuk: 6385
-hacheDuEkoroko: 6005
-hacheDuElesulun: 6356
-hacheDuEstedorth: 6321
-hacheDuEutaru: 6120
-hacheDuEzetemai: 6082
-hacheDuFecofuf: 6258
-hacheDuFegenu: 6174
-hacheDuFifrulu: 6223
-hacheDuFiluc: 6179
-hacheDuFlaplem: 6195
-hacheDuFourib: 6101
-hacheDuGanumotte: 6191
-hacheDuGawewuwe: 6384
-hacheDuGekaxe: 6042
-hacheDuGekusu: 6261
-hacheDuGroduker: 6092
-hacheDuGuerrierZoth: 8827
-hacheDuHamait: 6370
-hacheDuHamekesau: 6220
-hacheDuHivalipe: 6210
-hacheDuHohoth: 6019
-hacheDuHopap: 6435
-hacheDuHuruseru: 6139
-hacheDuIbyufono: 6158
-hacheDuIpihofi: 6367
-hacheDuIropi: 6198
-hacheDuIsupe: 6028
-hacheDuIsurileb: 6125
-hacheDuItoupas: 6264
-hacheDuJekapnef: 6153
-hacheDuKemerum: 6423
-hacheDuKirondar: 6168
-hacheDuKorarede: 6219
-hacheDuKronone: 6193
-hacheDuKrorim: 6143
-hacheDuKuflek: 6086
-hacheDuLemecalo: 6061
-hacheDuLetebielle: 6351
-hacheDuLuflirugi: 6259
-hacheDuMabisom: 6170
-hacheDuMalokeuru: 6032
-hacheDuMamifnef: 6297
-hacheDuMamunum: 6001
-hacheDuMegofik: 6122
-hacheDuMinotoror: 8274
-hacheDuMulou: 8130
-hacheDuNaimogol: 6141
-hacheDuNidanwa: 7209
-hacheDuNisrpur: 6349
-hacheDuNumukur: 6408
-hacheDuNybepe: 6265
-hacheDuNybrihete: 6282
-hacheDuOgetetef: 6162
-hacheDuOleleo: 6065
-hacheDuOletevo: 6245
-hacheDuOplene: 6161
-hacheDuOpofacim: 6159
-hacheDuOraserre: 6095
-hacheDuOsylel: 6217
-hacheDuOtoker: 6190
-hacheDuOudosdar: 6294
-hacheDuOurolor: 6154
-hacheDuPlasopr: 6189
-hacheDuPofatok: 6412
-hacheDuProdleno: 6383
-hacheDuPugosahi: 6414
-hacheDuPulalevo: 6296
-hacheDuPyrab: 6106
-hacheDuRaibexa: 6007
-hacheDuRenyud: 6422
-hacheDuRerenath: 6250
-hacheDuReufuke: 6288
-hacheDuRherelo: 6197
-hacheDuRhuhert: 6020
-hacheDuRoruke: 6331
-hacheDuRugnuhuce: 6037
-hacheDuRurehotho: 6269
-hacheDuRurogak: 6345
-hacheDuRurosarh: 6102
-hacheDuRurukoku: 6169
-hacheDuRymosana: 6152
-hacheDuSandanwa: 7210
-hacheDuSaroc: 6421
-hacheDuSelehielle: 6249
-hacheDuShodanwa: 7208
-hacheDuSohileku: 6363
-hacheDuSomenevo: 6319
-hacheDuSoumor: 6090
-hacheDuStretakug: 6431
-hacheDuSucep: 6222
-hacheDuSurofe: 6277
-hacheDuSuterure: 6300
-hacheDuTakebeg: 6330
-hacheDuTebyv: 6343
-hacheDuTedosote: 6433
-hacheDuTeheliel: 6230
-hacheDuTejiha: 6051
-hacheDuTemora: 6214
-hacheDuTenorub: 6280
-hacheDuTheleruse: 6124
-hacheDuThelolir: 6140
-hacheDuThespur: 6071
-hacheDuThoreke: 6185
-hacheDuThoroceren: 6327
-hacheDuThougo: 6014
-hacheDuThutelez: 6099
-hacheDuTidet: 6304
-hacheDuTorukuta: 6426
-hacheDuTuguteu: 6336
-hacheDuTustelud: 6377
-hacheDuUbocumu: 6317
-hacheDuUgrefluh: 6046
-hacheDuUguse: 6205
-hacheDuUgutuf: 6379
-hacheDuUlujim: 6311
-hacheDuUsitucu: 6132
-hacheDuVebutezo: 6228
-hacheDuVevel: 6270
-hacheDuVoevum: 6146
-hacheDuVucaluie: 6434
-hacheDuYondanwa: 7211
-hacheEbbah: 8617
-hacheEulouh: 8618
-hacheHarnee: 8934
-hacheHemal: 2376
-hacheHeuvante: 1376
-hacheHevLeu: 9753
-hacheHichKeBab: 9750
-hacheHure: 1377
-hacheLeenne: 10016
-hachePerGe: 9754
-hachePiVeuhNin: 9752
-hachePiraTeur: 9751
-hacheSueurRance: 8933
-hacheTerophyle: 1375
-hacheTerrdala: 7255
-hacheVôrOm: 2590
-hachetteDeBûcheron: 2587
-hachetteHevlalav: 2589
-hachetteSavante: 2606
-hachoirDeBoucher: 1945
-hachoirDePoissonnier: 1946
-halleDeBarde: 2616
-haricot: 6671
-harmonie: 1478
-herbeAChat: 1324
-herbeCurative: 6820
-herbeFolle: 2665
-hochetDuDarkVlad: 6622
-holoune: 7141
-hoodTroue: 1877
-hook: 201
-hotDogDeTofu: 6668
-houblon: 401
-houblonBrillant: 2021
-houde: 708
-houeDapyus: 2132
-huileAFrire: 1973
-huileDeKoode: 397
-huileDeNoix: 390
-huileDePalme: 396
-huileDeSesame: 399
-huileDeTournesolSauvage: 389
-humerusDuSparo: 8739
-hypnotiqueDagueFourbesque: 1039
-immortelle: 1428
-immortelleEtoileDuSoir: 1639
-imposantMarteauOutar: 1075
-imposantMarteauRUnique: 1067
-imposanteBaguetteDEglise: 1131
-imposanteCeintureAgilesque: 263
-imposanteCeintureForcesque: 259
-imposanteCeintureVitalesque: 255
-imposantePelleWoukuis: 1053
-impressionantesDaguesDeCroclage: 214
-impressionnanteGarde: 9902
-impressionnantePotionDAgression: 9043
-incassableMasseDHa: 1063
-incroyableCadeauDeNowel: 8340
-incroyablePotionDeSoinDeMasse: 9900
-indispensableBaguetteAPans: 1136
-indispensableCorde: 1004
-insigneDeBanditEcaflip: 9073
-insigneDeLaPatrouilleDeBonta: 9089
-insigneDeLaPatrouilleDeBrakmar: 9090
-insigneDeLaPatrouilleDuCimetiere: 9104
-insigneRoublard: 8588
-iopAttitude: 2214
-ivoire: 479
-jakchirArc: 7187
-jambanneau: 9408
-jambonCuit: 1966
-jambonCuit: 2: 1967
-jambonCuit: 3: 1968
-jambonCuit: 4: 1969
-jetonDeLaFoireDuTrool: 1749
-jetonDuBworker: 6885
-jetonDuMaîtreDeJeu: 7919
-jouikKrampe: 711
-joyauDeMilone: 9068
-jusDeGloutovore: 2080
-jusDeOuassingue: 8807
-kabale: 1483
-kabuto: 8163
-kaiser: 233
-kamaEnigmatique: 1328
-kanistere: 7152
-kannipiou: 6992
-karnak: 7195
-kaskArcGo: 8864
-kaskargo: 8824
-kaskofu: 8114
-kaskwette: 9653
-katanaDeNara: 10017
-katanaEbreche: 1931
-katanaRenove: 1932
-kelinobranche: 6521
-kidorteau: 8878
-kloume: 9022
-kloumeEcorne: 7082
-koalakSanguin: 7911
-kobalite: 6458
-kobalte: 443
-kokolait: 2619
-kokopaille: 2618
-kole: 1018
-koleratMort: 2500
-kolietAclou: 766
-koloss: 7151
-korkoKlako: 710
-korkoKousto: 6482
-kouartz: 750
-kouinKouin: 6604
-koupeKoupe: 328
-kraignosse: 2104
-kralamansion: 9464
-kralamoure: 600
-kralamoureGrille: 2: 1820
-kralamoureGrille: 3: 1821
-kralamoureGrille: 4: 1859
-kralamoureUnique: 1799
-kralamoureUniqueVide: 1800
-kralamoureVide: 1798
-kralano: 8877
-krepite: 7056
-kriptonite: 6457
-krissToubal: 8929
-kristalite: 929
-kritter: 702
-krokop: 6989
-krustoture: 8873
-krystOBoul: 204
-kukriKura: 8932
-kwakanneauDeFlammes: 2418
-kwakanneauDeGlace: 6732
-kwakanneauDeTerre: 6748
-kwakanneauDeVent: 6749
-kwaklameDeFlammes: 2415
-kwaklameDeGlace: 6750
-kwaklameDeTerre: 6751
-kwaklameDuVent: 6752
-kwakobottesDeFlammes: 2421
-kwakobottesDeGlace: 6753
-kwakobottesDeTerre: 6754
-kwakobottesDuVent: 6755
-kwakoiffeDeFlammes: 2409
-kwakoiffeDeGlace: 2535
-kwakoiffeDeTerre: 6760
-kwakoiffeDuVent: 6761
-kwaktureDeFlammes: 2427
-kwaktureDeGlace: 2537
-kwaktureDeTerre: 6758
-kwaktureDeVent: 6759
-kwapeDeFlammes: 2412
-kwapeDeGlace: 2534
-kwapeDeTerre: 6756
-kwapeDuVent: 6757
-lAbramu: 1619
-lAdelus: 1487
-lAiguilleATricoter: 1864
-lAmeDuChasseur: 2112
-lAmeDuPecheur: 2111
-lAmiLehunui: 2367
-lAmuletteDuPuzzleDeLaGriffe: 2388
-lAnneauDeValeur: 355
-lAnneauDhyn: 1495
-lAraknacoiffe: 6913
-lAraknamu: 2426
-lArcAHick: 1354
-lArtDUtiliserLaGeleeSbihaine: 10004
-lArtPandawushu: 7313
-lAutreAnnobuseDeMaîtreJarbo: 9202
-lAvenementDHyrkul: 7879
-lEcaliseur: 359
-lEcrabouilleurDeIop: 130
-lEniKere: 2435
-lEnutrofion: 1499
-lEpeeNice: 8695
-lEpeeRilleuse: 8094
-lErgotMina: 1370
-lHorlogeDivineDeXelorTomeVi: 7372
-lHyldegarde: 1360
-lOeilDeKanigrou: 2398
-lOxolature: 10191
-laBaguetteDesLimbes: 180
-laBaguetteHuve: 7753
-laBastonneuze: 8608
-laBecheAMel: 8935
-laBekille: 7150
-laBenedictionDErazal: 9537
-laBertheuze: 7146
-laBibelaw: 2397
-laBidjiz: 8612
-laBoufteuse: 957
-laBourgeonette: 2394
-laBrocheCeleste: 159
-laBrocheHete: 1489
-laBrouteuse: 2385
-laCanneBiere: 8091
-laCanneHete: 1365
-laCapeRouge: 8521
-laCapeSLoque: 8534
-laCelebrite: 161
-laChaîneNhanorKibrill: 1490
-laChaplanne: 9939
-laChaplivate: 9944
-laCoiffeDuPloukosse: 696
-laCordeDeYamato: 273
-laCriniereDeBadoul: 66
-laCroqueuse: 2233
-laDestineeDoree: 158
-laDoubitchOBoul: 7012
-laDragouneRoseBienLElever: 7529
-laFamilleDuciel: 1716
-laFeuilleDAutomne: 917
-laFeuilleDEte: 6462
-laFeuilleDHiver: 6460
-laFeuilleDePrintemps: 6461
-laFlemmeDeMonterLesEscaliers: 8600
-laForceDivorce: 2197
-laForetDesAbraknydes: 1567
-laGougnole: 157
-laGrandePerche: 1861
-laGriffe: 2637
-laGriffeAiguisee: 2638
-laGuenille: 2386
-laHacheMenbien: 8099
-laHacheTicot: 8100
-laHmmmmmmmmm: 8559
-laKlebik: 354
-laLanceAUn: 110: 1368
-laLarmeDuBouftou: 279
-laLegendeDeCrocoburio: 1512
-laLegendeDuCroqueur: 1625
-laLouPtiote: 2396
-laMaîtriseDesPoupees: 5122
-laMeulette: 8262
-laMigraine: 6520
-laMokette: 1500
-laMouthmou: 2371
-laPelleDuLarge: 1435
-laPelleHelabete: 6540
-laPlantouzeDesChamps: 6792
-laPoilue: 2387
-laQueue: 357
-laQueueInfernale: 358
-laRacineCinati: 6522
-laRacineHagogue: 6523
-laRecetteDeLaBiereBwork: 8509
-laRecetteDeLaFiltounga: 8497
-laRecetteDesCrepes: 8528
-laReinette: 1485
-laReliqueDesRobill: 8523
-laResinette: 7002
-laSamoulaille: 954
-laSpamette: 8536
-laThorBoyaux: 3647
-laTrancheuseDArakne: 6914
-laTrancheuseDeBambou: 7212
-laTristeLame: 58
-laVeauxDoux: 2399
-laVegeteHatif: 2370
-laXerbo: 3206
-laXyothine: 7103
-laZulieLame: 1475
-lailait: 6765
-laineDeBouftonBlanc: 881
-laineDeBouftonNoir: 885
-laineDeBouftou: 384
-laineDeBouftouRoyal: 880
-laineDuBoufcoul: 7905
-laineDuChefDeGuerreBouftou: 882
-laineDuMinotoror: 2998
-laineDuMinotot: 8406
-laineDuTroolFurieux: 1694
-laisserPasserQuartiersDInterrogation: 2174
-laitDeCochonDeLait: 2266
-laitDeDragodinde: 2596
-lameAssacre: 9176
-lameDOgralimde: 928
-lameDeChasse: 1938
-lameDeFon: 1033
-lameDuBwork: 825
-lameDuChafer: 339
-lameDuChefBwork: 6799
-lameDuChefCrocodaille: 6821
-lameDuChevaucheurDeKarne: 327
-lameDuCraqueleur: 6957
-lameDuGrandBwork: 826
-lameDuPetitBwork: 338
-lameDuPuissantBwork: 827
-lameUsicke: 8098
-lamelleDeChampbis: 9278
-lamesSanglantesDOrtimusContrari: 1040
-lanceCassee: 2634
-lanceDeChasse: 1939
-lanceurDEffetMagique: 8522
-langueDeChefDeGuerreBouftou: 2466
-langueDeCrabe: 2302
-langueDeCrocGland: 2504
-langueDuChampodonte: 9269
-langueDuPissenlitDiabolique: 374
-langueFourchue: 2507
-langueHiyeu: 9531
-laniereEnCuirDuDragoeufGuerrier: 8364
-lapinocoiffe: 8531
-largeCouteauAStek: 1029
-larvabottes: 7107
-larvacoiffe: 7109
-larvamulette: 7106
-larvasac: 7108
-larveCroqueSel: 1949
-larveCroqueSel: 2: 1950
-larveCroqueSel: 3: 1951
-larveDoree: 2272
-leBagueur: 1494
-leBatonCloutay: 8607
-leBatonDAmour: 1862
-leBwakBienLElever: 2091
-leChachaBienLElever: 2092
-leChantDuMondeFragmentsRetrouvesI: 7359
-leChapleau: 9937
-leChoixDesDieuxFragmentsRetrouvesIi: 7360
-leClanDeSrvtmercenaryClan: 7387
-leCroumBienLElever: 7530
-leCutter: 1641
-leCutterSanglant: 1651
-leDesirDEtreBelle: 1: 10043
-leDesirDEtreBelle: 2: 10063
-leDiviseurMj: 7913
-leDonDeNouwel: 1715
-leFendoirTichaud: 8101
-leFlanDesEtoiles: 160
-leFloude: 8533
-leFotomeBienLElever: 7528
-leFoulardDuLardFou: 2395
-leGrandCutter: 1650
-leKardeCoeur: 9018
-leKardeCoeurMeurtri: 7074
-leKikoularc: 8610
-leKim: 9461
-leManuelDeLaParfaiteRecrueBrakmarienne: 7939
-leManuelDeLaParfaiteRecrueDeBonta: 7940
-leMarteauAZaap: 8529
-leMarteauDuChafer: 271
-leMatronome: 1393
-leMiniWaBienLElever: 7899
-leMiniminoBienLElever: 7531
-leNahitse: 8704
-leOiram: 701
-leOurs: 2095
-lePetitCutter: 1640
-lePetrisseur: 492
-lePlussain: 8537
-leRamboton: 8575
-leRasoirInfernal: 1373
-leSMesme: 8538
-leSabreAyassalama: 8095
-leSautSifflard: 7799
-leSceauDesZewouan: 9396
-leScrounnchhh: 1379
-leTempsDesDofusFragmentsRetrouvesIv: 7371
-leTempsDesDragonsFragmentsRetrouvesIii: 7361
-leTempsDesDragonsFragmentsRetrouvesIii: 2: 7931
-leTifouxBienLElever: 8316
-leTisonFûte: 1359
-leTranchantInfernal: 67
-leTroma: 699
-leTronknydum: 6491
-leTwoteEnCarton: 1479
-leWabbitBienLElever: 2093
-leopardo: 7705
-lesChaplures: 9943
-lesDaguesDuBouwin: 8092
-lesDragodindesBienLesElever: 7805
-lesIncrustes: 8535
-lesLamesEnTable: 1369
-lesLarmesDeLaDeesseFragmentsRetrouvesVii: 7364
-lesLarmesDeLaDeesseFragmentsRetrouvesViii: 7365
-lesSecretsDuLangageEcureuil: 2173
-lesSleumpettes: 9656
-lettreDAmourPourPoochan: 7349
-lettreDInvitationPourLaCeremonie: 2122
-lettreDOtoMustam: 2083
-lettreDOtoMustamPourSbab: 2158
-lettreDeDanathor: 2352
-lettreDeJoePierlivet: 6827
-lettreDeLarryPoller: 2353
-lettreDeMenaces: 1727
-lettreDeZeurg: 2127
-lettreDuChefDesVoleurs: 1: 9066
-lettreDuChefDesVoleurs: 2: 10074
-lettreDuXelor: 9075
-lettrePourFidjiMerline: 10103
-lettrePourMilone: 9065
-lettrePourOto: 1: 2344
-lettrePourOto: 2: 2349
-lettrePourXephires: 9067
-leurnettes: 340
-levureDeBoulanger: 286
-limonadeDIncarnam: 8543
-lin: 423
-linTempete: 2026
-linceul: 2277
-lingotDOr: 745
-liquideVampiresque: 1462
-lisseur: 942
-listeDAppatsPourPecheur: 2106
-listeDEchantillonsATrouver: 2172
-listeDEquipementsStandards: 2339
-listeDeDanathor: 2139
-listeDeFournituresDeNara: 10090
-listeDeJouetsDuPapaNowel: 9459
-listeDeMilone: 9063
-listeDeNorb: 10122
-listeDesSoldatsPrenantLeurPause: 1: 2047
-listeDesSoldatsPrenantLeurPause: 2: 2048
-livreDuBworkMage: 410
-livreHonorifiqueDesBardes: 8107
-livreMagique: 2337
-livreeDeValetDuPrinceWabbit: 8603
-livreurDeBiere: 6832
-longueMasseTmosfer: 1070
-lorkoKasko: 709
-lorsotheuses: 6713
-lotDeCentParcheminsDeMercenariat: 9996
-lotDeCentParcheminsVierges: 7412
-lotDeDixParcheminsDeMercenariat: 10001
-lotDeDixParcheminsVierges: 7402
-lotionDeBeauteDeMylaise: 10044
-louffeur: 940
-loupe: 489
-lourdeBaguetteDEglise: 1108
-machoireDeRib: 2642
-machoireTombante: 1008
-magmaBrakmarien: 6647
-magnesite: 748
-magnifiquePelleDeBoisDormant: 1045
-mailletAclou: 1399
-maillotDeCorpsDeBarbroussa: 8757
-mainDeBoo: 2584
-mainsVertes: 1473
-makroute: 697
-makrouteDechiquete: 6478
-makrouteSombre: 2094
-malediction: 9868
-maledictionDAssanTrapick: 9577
-maledictionDuBallotin: 9491
-maloria: 7135
-malt: 405
-manganese: 445
-mangeoireClassique: 7606
-mangeoireEnBambou: 7619
-mangeoireEnBambouDore: 7685
-mangeoireEnBambouMagique: 7686
-mangeoireEnBambouSacre: 7621
-mangeoireEnBambouSombre: 7620
-mangeoireEnBoisAncestral: 7683
-mangeoireEnBoisDeBambouto: 7687
-mangeoireEnBoisDeBamboutoSacre: 7688
-mangeoireEnBoisDeKokoko: 7689
-mangeoireEnBoisDeTronknyde: 7690
-mangeoireEnBoisEnvoûte: 7684
-mangeoireEnBombu: 7617
-mangeoireEnCharme: 7613
-mangeoireEnChataigner: 7614
-mangeoireEnChene: 7608
-mangeoireEnEbene: 7610
-mangeoireEnErable: 7612
-mangeoireEnFrene: 7607
-mangeoireEnIf: 7609
-mangeoireEnMerisier: 7616
-mangeoireEnNoyer: 7615
-mangeoireEnOliviolet: 7618
-mangeoireEnOrme: 7611
-mangeoireTrafiquee: 10104
-mangeuseDErable: 676
-mangeuseDeChataignier: 673
-mangeuseDeFrene: 771
-manuelDuMercenaireDAstrub: 7929
-manuelDuTailleur: 966
-manuscritDeLOurs: 6862
-marcassin: 2082
-marcassin: 1: 7707
-marqueDeTestDuChasseur: 2039
-marqueDeVictoire: 8691
-marteauATorts: 1084
-marteauBleuronne: 7197
-marteauBoGan: 9735
-marteauDAgaglou: 5353
-marteauDAlanaj: 5436
-marteauDAmorepeu: 5381
-marteauDAmphobie: 5434
-marteauDAnefuda: 5371
-marteauDEcumepi: 5369
-marteauDEgefielle: 5368
-marteauDElaval: 5327
-marteauDEpane: 5335
-marteauDIvoire: 228
-marteauDUgerum: 5443
-marteauDUteva: 5425
-marteauDeAbewolu: 5329
-marteauDeAdydele: 5475
-marteauDeAelilotte: 5287
-marteauDeAeloworau: 5304
-marteauDeAgymo: 5511
-marteauDeAhehi: 5512
-marteauDeAiblber: 5216
-marteauDeAjuje: 5535
-marteauDeAkafaut: 5130
-marteauDeAkitber: 5359
-marteauDeAlawavae: 5164
-marteauDeAlebove: 5401
-marteauDeAlloene: 5438
-marteauDeAmafobug: 5508
-marteauDeAmahimi: 5363
-marteauDeAmphibio: 5402
-marteauDeAnerabul: 5146
-marteauDeAnogery: 5154
-marteauDeAnufemi: 5192
-marteauDeApaevew: 5233
-marteauDeApafo: 5439
-marteauDeApena: 5273
-marteauDeAquanolodu: 5482
-marteauDeAquepapy: 5212
-marteauDeAsacare: 5558
-marteauDeAtikutup: 5132
-marteauDeAudej: 5547
-marteauDeAwamice: 5255
-marteauDeBelini: 5497
-marteauDeBemalle: 5198
-marteauDeBemeuga: 5533
-marteauDeBewague: 5264
-marteauDeBofarar: 5186
-marteauDeBoisaille: 145
-marteauDeBremam: 5158
-marteauDeBwisip: 5501
-marteauDeChasse: 1940
-marteauDeCikemela: 5388
-marteauDeCokelocu: 5283
-marteauDeCoreseko: 5365
-marteauDeCukupebi: 5235
-marteauDeCulataca: 5150
-marteauDeCuluparu: 5227
-marteauDeDasop: 5328
-marteauDeDenapl: 5202
-marteauDeDibuhiv: 5503
-marteauDeDlubice: 5242
-marteauDeDofanivo: 5291
-marteauDeDometasut: 5431
-marteauDeDuterote: 5441
-marteauDeEbetelet: 5159
-marteauDeEbicedyh: 5165
-marteauDeEfeurifl: 5250
-marteauDeEfikifug: 5529
-marteauDeEfistit: 5179
-marteauDeEfutucu: 5175
-marteauDeEgikima: 5144
-marteauDeEhapu: 5295
-marteauDeEhuvei: 5234
-marteauDeEkudekus: 5294
-marteauDeElelite: 5224
-marteauDeEmirehu: 5244
-marteauDeEmola: 5178
-marteauDeEpylal: 5339
-marteauDeEpypab: 5421
-marteauDeErote: 5325
-marteauDeErulevin: 5245
-marteauDeErulilum: 5488
-marteauDeEruname: 5169
-marteauDeErustih: 5422
-marteauDeEsrogonu: 5526
-marteauDeEtaleni: 5491
-marteauDeEtapete: 5232
-marteauDeEtebymer: 5541
-marteauDeEtehe: 5151
-marteauDeEtekour: 5344
-marteauDeEthuppur: 5168
-marteauDeEturifa: 5307
-marteauDeEugabpur: 5228
-marteauDeEuthe: 5161
-marteauDeEvemele: 5455
-marteauDeEviserer: 5142
-marteauDeFafikfrit: 5288
-marteauDeFalul: 5297
-marteauDeFelevasu: 5495
-marteauDeFeliluf: 5136
-marteauDeFemafu: 5241
-marteauDeFetifafle: 5409
-marteauDeFeulifane: 5484
-marteauDeFeurfrup: 5384
-marteauDeFihehiru: 5187
-marteauDeFihepif: 5457
-marteauDeFiluru: 5240
-marteauDeFilvite: 5303
-marteauDeFisec: 5343
-marteauDeFlefeguh: 5465
-marteauDeFleliseke: 5530
-marteauDeFlutabuf: 5155
-marteauDeFlutuge: 5498
-marteauDeFoleveda: 5191
-marteauDeForgeron: 9963
-marteauDeForgeurDEpees: 494
-marteauDeForgeurDeDagues: 495
-marteauDeForgeurDeMarteaux: 493
-marteauDeForgeurDePelles: 496
-marteauDeFrivavec: 5312
-marteauDeFrufu: 5149
-marteauDeFuharem: 5382
-marteauDeFujtuhu: 5414
-marteauDeFukuveuf: 5137
-marteauDeFulis: 5270
-marteauDeFunid: 5156
-marteauDeFupej: 5408
-marteauDeFuralasel: 5490
-marteauDeFureba: 5266
-marteauDeFuvaille: 5180
-marteauDeGelese: 5181
-marteauDeGeluke: 5290
-marteauDeGitatap: 5348
-marteauDeGrodeba: 5366
-marteauDeGrodohyfr: 5424
-marteauDeGroho: 5237
-marteauDeGucapa: 5214
-marteauDeHaivere: 5461
-marteauDeHamoruste: 5249
-marteauDeHegai: 5478
-marteauDeHelukuth: 5413
-marteauDeHemaru: 5127
-marteauDeHesrurou: 5265
-marteauDeHeteth: 5143
-marteauDeHimufleu: 5247
-marteauDeHolumev: 5466
-marteauDeHosobum: 5301
-marteauDeHubohnef: 5513
-marteauDeHucehere: 5248
-marteauDeHugulin: 5387
-marteauDeHukifou: 5299
-marteauDeHutorudu: 5281
-marteauDeIbere: 5554
-marteauDeIciracy: 5521
-marteauDeIfitit: 5474
-marteauDeIfolovl: 5445
-marteauDeIfufuh: 5274
-marteauDeIhefidi: 5480
-marteauDeIhikurat: 5464
-marteauDeIkepfla: 5427
-marteauDeIkerosi: 5280
-marteauDeIlousam: 5204
-marteauDeInodake: 5550
-marteauDeIramo: 5467
-marteauDeIseboel: 5507
-marteauDeIzitumet: 5341
-marteauDeJebuf: 5352
-marteauDeJelakad: 5560
-marteauDeJelule: 5523
-marteauDeKaruko: 5446
-marteauDeKecedem: 5196
-marteauDeKenigec: 5506
-marteauDeKepirina: 5197
-marteauDeKifevame: 5356
-marteauDeKotehod: 5462
-marteauDeKreregur: 5393
-marteauDeKrihour: 5201
-marteauDeKruce: 5470
-marteauDeKuhep: 5182
-marteauDeKujis: 5226
-marteauDeKuplit: 5437
-marteauDeKurain: 5223
-marteauDeLAurore: 455
-marteauDeLInitie: 6785
-marteauDeLaGamineZoth: 8826
-marteauDeLaTerps: 6507
-marteauDeLafelatu: 5256
-marteauDeLamahicet: 5525
-marteauDeLamuri: 5206
-marteauDeLanutulf: 5444
-marteauDeLaragikup: 5385
-marteauDeLehaille: 5308
-marteauDeLehumuv: 5239
-marteauDeLelibo: 5417
-marteauDeLellel: 5184
-marteauDeLemalube: 5129
-marteauDeLeuje: 5177
-marteauDeLeustotesre: 5516
-marteauDeLezemop: 5510
-marteauDeLicasadu: 5399
-marteauDeLifenadem: 5396
-marteauDeLifife: 5246
-marteauDeLifilame: 5322
-marteauDeLikupafi: 5545
-marteauDeLilul: 5131
-marteauDeLinfer: 5211
-marteauDeLizasaille: 5330
-marteauDeLofdar: 5138
-marteauDeLomteux: 5293
-marteauDeLovetielle: 5374
-marteauDeLovumim: 5282
-marteauDeLufatip: 5258
-marteauDeLufipem: 5209
-marteauDeLufliru: 5243
-marteauDeLufudupe: 5300
-marteauDeLujifer: 5205
-marteauDeLumalle: 5320
-marteauDeLuruputu: 5386
-marteauDeLyomev: 5271
-marteauDeMaudih: 5314
-marteauDeMethoko: 5310
-marteauDeMeulipu: 5309
-marteauDeMigofa: 5378
-marteauDeMopehuk: 5418
-marteauDeNadiku: 5135
-marteauDeNara: 9098
-marteauDeNekehufu: 5520
-marteauDeNifum: 5340
-marteauDeNilelel: 5476
-marteauDeNiromatau: 5125
-marteauDeNirudo: 5349
-marteauDeNirundar: 5459
-marteauDeNisikumif: 5549
-marteauDeNosamefo: 5451
-marteauDeNujifem: 5555
-marteauDeNukuneu: 5284
-marteauDeNutosa: 5183
-marteauDeObovowec: 5456
-marteauDeOfafibl: 5262
-marteauDeOfaluf: 5342
-marteauDeOfinu: 5193
-marteauDeOfisteuf: 5166
-marteauDeOgetim: 5485
-marteauDeOhemdar: 5391
-marteauDeOlagebe: 5404
-marteauDeOlolamin: 5380
-marteauDeOmeprnef: 5160
-marteauDeOnunumep: 5279
-marteauDeOplules: 5428
-marteauDeOrefr: 5494
-marteauDeOrenarox: 5370
-marteauDeOtaharh: 5337
-marteauDeOupugolu: 5504
-marteauDeOuredutur: 5315
-marteauDeOurukukor: 5203
-marteauDeOzezeve: 5351
-marteauDePehelum: 5141
-marteauDePexoma: 5311
-marteauDePhamaihy: 5416
-marteauDePifeku: 5259
-marteauDePisad: 5174
-marteauDePlezyfe: 5360
-marteauDePoudae: 5449
-marteauDePuker: 5460
-marteauDeRaclage: 222
-marteauDeRagnilecer: 5354
-marteauDeRefam: 5454
-marteauDeReherug: 5298
-marteauDeResoka: 5557
-marteauDeRhegeho: 5269
-marteauDeRhekeh: 5296
-marteauDeRheru: 5389
-marteauDeRicekehu: 5219
-marteauDeRigidarth: 5361
-marteauDeRoucour: 5134
-marteauDeRuceror: 5419
-marteauDeRugnerugas: 5195
-marteauDeRuhoru: 5254
-marteauDeRukisri: 5383
-marteauDeRureteher: 5289
-marteauDeRutehoche: 5157
-marteauDeSehesek: 5469
-marteauDeSipopara: 5440
-marteauDeSkeurnef: 5170
-marteauDeSohitoki: 5450
-marteauDeSoirobo: 5542
-marteauDeSolezol: 5477
-marteauDeSougik: 5253
-marteauDeSrugri: 5509
-marteauDeStrena: 5345
-marteauDeSukut: 5556
-marteauDeSurovelyt: 5278
-marteauDeTahoweo: 5397
-marteauDeTasen: 5395
-marteauDeTehel: 5347
-marteauDeThake: 5463
-marteauDeTheblele: 5377
-marteauDeThenut: 5123
-marteauDeThorekogu: 5483
-marteauDeThorokeneh: 5403
-marteauDeThout: 5221
-marteauDeThusrabuda: 5394
-marteauDeTimovra: 5499
-marteauDeTodugo: 5208
-marteauDeTogeboge: 5527
-marteauDeTothifyh: 5534
-marteauDeTozutiel: 5379
-marteauDeTumeuruh: 5171
-marteauDeUbiritim: 5532
-marteauDeUbodae: 5400
-marteauDeUcacupag: 5124
-marteauDeUfais: 5519
-marteauDeUfinikim: 5522
-marteauDeUfudesef: 5133
-marteauDeUhegifu: 5217
-marteauDeUhosedor: 5231
-marteauDeUhufip: 5272
-marteauDeUkasesat: 5479
-marteauDeUluffla: 5326
-marteauDeUnivfrit: 5426
-marteauDeUreku: 5452
-marteauDeUsezatoz: 5334
-marteauDeUsospur: 5553
-marteauDeUsrfrit: 5220
-marteauDeUtoutuk: 5140
-marteauDeUvouj: 5548
-marteauDeVarkehuh: 5188
-marteauDeVenehe: 5252
-marteauDeVezeleby: 5317
-marteauDeVugupog: 5398
-marteauDeVuvuf: 5357
-marteauDeWolymeau: 5362
-marteauDeXoipber: 5552
-marteauDeYlegolan: 5200
-marteauDeZarevole: 5412
-marteauDeZelefle: 5128
-marteauDesFalistos: 1085
-marteauDuAcugrau: 5372
-marteauDuAfoluse: 5473
-marteauDuAhukit: 5213
-marteauDuAilelal: 5268
-marteauDuAkare: 5540
-marteauDuAkota: 5324
-marteauDuAleteha: 5222
-marteauDuAlifufuf: 5539
-marteauDuAlygac: 5332
-marteauDuAmphoub: 5323
-marteauDuAplilema: 5489
-marteauDuAquemefi: 5313
-marteauDuAroxem: 5492
-marteauDuAteketo: 5285
-marteauDuBebebera: 5411
-marteauDuBekawe: 5505
-marteauDuBeleusu: 5218
-marteauDuBoneg: 5316
-marteauDuBoufcoul: 7882
-marteauDuBouftou: 2416
-marteauDuBricoleur: 7650
-marteauDuBwoheumo: 5514
-marteauDuCraqueleurLegendaire: 8148
-marteauDuDoumabid: 5225
-marteauDuDoumumet: 5429
-marteauDuDragoeuf: 8294
-marteauDuDruhog: 5210
-marteauDuEhukeju: 5263
-marteauDuEkogura: 5162
-marteauDuEkufuku: 5257
-marteauDuElmelupav: 5538
-marteauDuElomele: 5292
-marteauDuEluprame: 5486
-marteauDuEozevi: 5390
-marteauDuEpegokir: 5448
-marteauDuEuvel: 5559
-marteauDuFeuflimil: 5152
-marteauDuFlases: 5305
-marteauDuFlesekun: 5515
-marteauDuFlumem: 5275
-marteauDuFlylipe: 5286
-marteauDuForgemageDEpees: 1539
-marteauDuForgemageDeDagues: 1520
-marteauDuForgemageDeHaches: 1562
-marteauDuForgemageDeMarteaux: 1561
-marteauDuForgemageDePelles: 1560
-marteauDuForgeurDeBoucliers: 7098
-marteauDuForgeurDeHaches: 922
-marteauDuFupem: 5139
-marteauDuGihuhe: 5153
-marteauDuGrodided: 5392
-marteauDuHamesdar: 5376
-marteauDuHegegr: 5236
-marteauDuHulegeuf: 5420
-marteauDuHurour: 5346
-marteauDuIdlukud: 5423
-marteauDuIfefile: 5238
-marteauDuIfrecfrit: 5163
-marteauDuImelfeu: 5306
-marteauDuIsalah: 5319
-marteauDuItestod: 5199
-marteauDuIzotetul: 5367
-marteauDuKerureho: 5172
-marteauDuKidemuby: 5331
-marteauDuKrotnef: 5487
-marteauDuLamarouk: 5302
-marteauDuLaralibak: 5321
-marteauDuLelamy: 5536
-marteauDuLevul: 5551
-marteauDuLidehula: 5173
-marteauDuLifukef: 5176
-marteauDuLifuvfrit: 5435
-marteauDuLimehisu: 5194
-marteauDuLithefa: 5537
-marteauDuLosefoso: 5358
-marteauDuLudamain: 5350
-marteauDuLupobage: 5458
-marteauDuMapafice: 5207
-marteauDuMedebpur: 5251
-marteauDuMituvo: 5518
-marteauDuMominotor: 8413
-marteauDuNailoce: 5468
-marteauDuNehiveuf: 5260
-marteauDuNifeub: 5215
-marteauDuNisarimou: 5407
-marteauDuNulilifu: 5472
-marteauDuNybotac: 5517
-marteauDuOdahoger: 5453
-marteauDuOgeusam: 5471
-marteauDuOleteo: 5364
-marteauDuOlezelev: 5442
-marteauDuOtalotip: 5230
-marteauDuOudeug: 5148
-marteauDuPolielle: 5531
-marteauDuPrugor: 5405
-marteauDuPulekame: 5447
-marteauDuRagnehek: 5277
-marteauDuRasehuk: 5229
-marteauDuReredul: 5500
-marteauDuRerokoh: 5430
-marteauDuRheded: 5373
-marteauDuRidrimu: 5544
-marteauDuRorost: 5185
-marteauDuRougath: 5276
-marteauDuRugnido: 5481
-marteauDuRureprer: 5338
-marteauDuRutum: 5355
-marteauDuSelume: 5167
-marteauDuSetotet: 5433
-marteauDuSilil: 5333
-marteauDuTheku: 5502
-marteauDuThusukona: 5432
-marteauDuTikibe: 5410
-marteauDuTimimuf: 5543
-marteauDuTulireto: 5261
-marteauDuTunit: 5126
-marteauDuUfrunu: 5147
-marteauDuUhululu: 5190
-marteauDuUlaforat: 5318
-marteauDuUliffrit: 5189
-marteauDuUnagar: 5528
-marteauDuUnupil: 5496
-marteauDuUreme: 5406
-marteauDuUrewodya: 5336
-marteauDuUridifet: 5267
-marteauDuUtukarth: 5524
-marteauDuUvulilu: 5145
-marteauDuVarkoru: 5546
-marteauDuVofillion: 5375
-marteauDuZelevefo: 5415
-marteauDuZotebel: 5493
-marteauFantal: 6504
-marteauHubohu: 7153
-marteauKahr: 6510
-marteauKsain: 7157
-marteauLahre: 7158
-marteauLeStoye: 9729
-marteauMPouce: 7154
-marteauMahTurj: 9730
-marteauMartel: 9961
-marteauMato: 8615
-marteauMawoque: 8096
-marteauMinokers: 8616
-marteauNairedeubrest: 7155
-marteauNiHok: 9736
-marteauNitruhant: 6512
-marteauOutar: 1073
-marteauPickeur: 342
-marteauPinambour: 6508
-marteauPiniere: 7159
-marteauPolpoulette: 6503
-marteauPospodrol: 1081
-marteauRTicolis: 6509
-marteauRUnique: 1065
-marteauReThu: 1383
-marteauRefacteur: 6513
-marteauRehadaure: 6505
-marteauReuhDeuhPiz: 9731
-marteauRidhe: 6511
-marteauRonto: 7156
-marteauTapeDoigts: 3357
-marteauTau: 1403
-marteauTohLo: 1404
-marteauXiko: 8097
-marzwelLeGobelin: 7353
-maskananas: 7422
-masqueBleu: 1017
-masqueDeLAbrakleurClair: 8822
-masqueDeLAbrakleurSombre: 8823
-masqueDeNoke: 10184
-masqueDuRatNoir: 8442
-masqueDuSergentZoth: 8820
-masqueDuVampyre: 10102
-masqueJaune: 1015
-masqueKanniboule: 1088
-masqueRouge: 1016
-masqueSiksWonNaine: 9930
-masqueTromatisant: 705
-masqueVaudouArcher: 8842
-masqueVaudouJav: 8840
-masqueVaudouSarbak: 8841
-masqueVaudouThierry: 8839
-masqueVert: 1014
-masseAjTaye: 1077
-masseDHa: 1061
-masseDuCorailleur: 8833
-masseDuCorailleurMagistral: 8825
-masseODard: 9403
-masseTmosfer: 1069
-mauvaisePioche: 1439
-medailleHoly: 1486
-medailleKido: 7136
-medailleLahilama: 6999
-medailleOly: 1331
-megaPierreDuCraqueleur: 2251
-megaPierreDuCraqueleurLegendaire: 8394
-megabottes: 2521
-megacape: 2517
-megacoiffe: 2519
-megature: 2523
-memoDeMenaces: 9526
-menaceDeLIntendant: 2175
-menaceDeSatirevRefibrom: 2200
-messageDesRenegats: 10080
-messageDuChefDesRenegats: 10081
-mesureDePoivre: 1978
-mesureDeSel: 1730
-metalTransmute: 6835
-metariaBleue: 1527
-metariaJaune: 1528
-metariaMageBleue: 1536
-metariaMageJaune: 1538
-metariaMageRouge: 1535
-metariaMageVerte: 1537
-metariaRouge: 1526
-metariaTriameBleue: 1531
-metariaTriameJaune: 1534
-metariaTriameRouge: 1533
-metariaTriameVerte: 1532
-metariaVerte: 1529
-methodeDElevageCanin: 9965
-mineraiEtrange: 480
-miniChampion: 8071
-miniWa: 7891
-minimino: 7522
-miniminotot: 9620
-minotokorno: 707
-miracle: 2356
-mitainesMiteesDuPaysan: 8126
-mixomawose: 7133
-mojoDuMeulou: 8144
-mojoDuMulou: 8396
-moonBoots: 2373
-morceauDeCaleçonDeGourlo: 8758
-morceauDeCape: 6866
-morceauDeClefCoco: 9251
-morceauDeClefGriotte: 9249
-morceauDeClefIndigo: 9252
-morceauDeClefReinette: 9250
-morceauDeMurDEgout: 2257
-morceauDePapierDechire: 9060
-morceauDeTissuArrache: 6808
-mosKitano: 6915
-moskitogalurette: 6917
-mouchoirDeLaGamineZoth: 8805
-mouchoirUse: 10088
-moumoule: 8517
-moumoulesFrites: 8518
-moustacheDeKolerat: 2301
-moustacheDuMufafah: 8763
-moyenneGarde: 9722
-moyennePierreDAme: 7008
-moyennePierreDAmeHasardeuse: 7004
-moyennePierreDAmeHeureuse: 7333
-moyennePierreDAmeParfaite: 9687
-mulesDuDragonCochon: 8278
-multygely: 996
-museau: 1927
-museau: 2: 1929
-museau: 3: 1930
-museauConserve: 2008
-museauConserve: 2: 2009
-museauConserve: 3: 2010
-museauDeKolerat: 2499
-mushaLOni: 7352
-nacre: 9941
-nacreBrute: 9940
-naissanceDeBolgrotFragmentsRetrouvesViBis: 7363
-nervoesBrakdoun: 6872
-neufQueues: 1511
-neutraliseur: 6907
-nisitikMiditik: 8626
-noeudDeLAbrakleurClair: 8796
-noeulMort: 2676
-noisette: 394
-noixDeCajou: 391
-noixDeKokoko: 997
-noixDeKokokoTraumatisee: 1678
-noixDePecan: 392
-nomDeLAssassinGriffone: 2043
-nomoon: 272
-nomoon: 2: 6716
-nonos: 1709
-noreillesDeSlait: 9663
-note: 6865
-noteDeHarryStote: 2284
-noteDeRecolte: 6867
-notesDuTavernierFeubuk: 9071
-notesDuTavernierPinchaut: 9072
-notesSurLaMaledictionDErazal: 10091
-nouvelleLettrePourXephires: 9069
-nuggets: 1947
-nuggets: 2: 1948
-nuggets: 4: 2013
-octovius: 7058
-oeilDOuginak: 2491
-oeilDeBoufton: 2460
-oeilDeBouftou: 2453
-oeilDeChampmane: 9277
-oeilDeCorbac: 2056
-oeilDeCrabe: 2583
-oeilDeKanigrou: 2552
-oeilDeKolerat: 2495
-oeilDeKwoan: 2283
-oeilDeLarveBleue: 2269
-oeilDeMeulou: 2580
-oeilDeMulou: 2578
-oeilDeTortue: 2345
-oeilDuMilimulou: 2579
-oeufDArakneMajeure: 2654
-oeufDeBwakDAir: 1517
-oeufDeBwakDEau: 1518
-oeufDeBwakDeFeu: 1515
-oeufDeBwakDeTerre: 1516
-oeufDeDragoeufBlanc: 847
-oeufDeDragoeufDeSaphir: 844
-oeufDeDragoeufDore: 845
-oeufDeDragoeufNoir: 846
-oeufDeLarveDoree: 7423
-oeufDePiou: 8525
-oeufDeTofu: 367
-oeufDeTofuObese: 8595
-oeufDuChercheurDOgrines: 10659
-oeufPourri: 2673
-ogivolScarlarcin: 6876
-oignon: 1975
-omeletteAmulette: 2393
-omnicientBatonBouleDeVoyante: 1157
-ongleDeChevaucheurDeKarne: 382
-ongleDeKanigrou: 2528
-or: 313
-orange: 2326
-orbeReconstituant: 10563
-orchideeFreyesque: 593
-ordreDAnnulation: 10092
-ordreDExecution: 10085
-ordresDesSacre: 10621
-oreilleDeCochonDeLait: 2647
-oreilleDeKanigrou: 2551
-oreilleDeKolerat: 2497
-oreilleDePorkass: 2486
-oreilleDechireeDePumbaa: 8768
-oreilleDuGrandPaWabbit: 419
-oreillesDeLapineupe: 1907
-oreillesDeLoup: 2317
-oreillesDeWabbits: 6500
-oreillesDuTiwabbit: 360
-orge: 400
-orgeEnSucre: 2032
-orties: 1336
-ortiz: 7138
-osDOurs: 6843
-osDeChafer: 310
-osDeCrocodaille: 2664
-osDeFantômeLeopardo: 7403
-osDeFantômeMahoFirefoux: 7404
-osDeFantômePandikaze: 7405
-osDeFantômePandore: 7406
-osDeFantômePandule: 7407
-osDeFantômeSoryoFirefoux: 7408
-osDeFantômeTanukouiSan: 7410
-osDeFantômeYokaiFirefoux: 7411
-osDeMakGahan: 2042
-osDeMamaKoalak: 8055
-osDePekeualak: 8083
-osDeTrooll: 8515
-osInvisibleDuChaferInvisible: 430
-osSurpriseDuChaferFantassin: 1675
-osTaille: 1327
-osamodasAttitude: 2228
-osierEnchante: 1676
-osierSombre: 6480
-ouassulette: 8874
-ougalurette: 7680
-ougamulette: 9130
-ougarteau: 9117
-ougature: 9146
-oursDechiquete: 6479
-oxano: 10189
-packSurpriseBwork: 6887
-packSurpriseBwork: 2: 6888
-packSurpriseBwork: 3: 6889
-packSurpriseBwork: 4: 6890
-packSurpriseBwork: 5: 6891
-packSurpriseBwork: 6: 6892
-packSurpriseBwork: 7: 6893
-packSurpriseBwork: 8: 6905
-padgrefDemoël: 6870
-pailleVampiresque: 2280
-pailleton: 9417
-painAuBleComplet: 528
-painAuCurrySansCurry: 760
-painAuxCereales: 526
-painAuxFloconsDAvoine: 536
-painAuxFloconsDAvoineAurifere: 2038
-painAuxGrainesDeLin: 522
-painAuxGrainesDePavot: 520
-painAuxGrainesDeSesame: 521
-painAuxNoisettes: 524
-painAuxNoix: 527
-painConsistant: 692
-painConsistantMagique: 2028
-painDAmakna: 468
-painDeSeigle: 539
-painDeSeigleResistant: 2031
-painDesChamps: 1737
-painDesVilles: 1738
-painDore: 2020
-painDuPinchaut: 2351
-painGre: 2635
-painTahde: 2636
-painTrepide: 10079
-paireDeCiseaux: 6859
-paireDeCiseauxAbîmee: 6690
-palmano: 8872
-pandapilerSpeciale: 7060
-pandawa: 700
-pandawaAttitude: 9912
-pandrista: 7041
-pantouflesCrochuesDuChefCrocodaille: 6825
-pantouflesDuTofu: 8111
-pantoufrelons: 9402
-papatteDeCrocGland: 2502
-papierDeDetention: 2207
-paquetOrbeReconstituant: 10564
-parcheminPointerDuDoigt: 7413
-parcheminBlanc: 679
-parcheminDAgilite: 799
-parcheminDAlchimiste: 10402
-parcheminDAubaine: 2209
-parcheminDIntelligence: 815
-parcheminDIvoire: 678
-parcheminDeBijoutier: 10382
-parcheminDeBoucher: 10384
-parcheminDeBoulanger: 878
-parcheminDeBricoleur: 10385
-parcheminDeBûcheron: 695
-parcheminDeCamouflage: 2064
-parcheminDeChance: 811
-parcheminDeChasseur: 10404
-parcheminDeConnaissance: 2198
-parcheminDeCordomage: 10407
-parcheminDeCordonnier: 879
-parcheminDeCostumage: 10401
-parcheminDeCourage: 2159
-parcheminDeDemandeDExamen: 1472
-parcheminDeForce: 795
-parcheminDeForgemageDEpees: 10386
-parcheminDeForgemageDeDagues: 10393
-parcheminDeForgemageDeHaches: 10396
-parcheminDeForgemageDeMarteaux: 10388
-parcheminDeForgemageDePelles: 10390
-parcheminDeForgeurDEpee: 713
-parcheminDeForgeurDeBoucliers: 10397
-parcheminDeForgeurDeDagues: 714
-parcheminDeForgeurDeHaches: 10395
-parcheminDeForgeurDeMarteaux: 10387
-parcheminDeForgeurDePelles: 10389
-parcheminDeGuigne: 2210
-parcheminDeJoaillomage: 10383
-parcheminDeMineur: 10398
-parcheminDeModeration: 2203
-parcheminDePaysan: 10403
-parcheminDePecheur: 10405
-parcheminDePoissonnier: 10399
-parcheminDePrime: 9917
-parcheminDePrimeAccompli: 9920
-parcheminDeRaideur: 2162
-parcheminDeRecommandation: 1469
-parcheminDeRecommandation: 2: 1470
-parcheminDeRecommandationDYseVewybad: 8576
-parcheminDeRecommandationEtFleur: 1471
-parcheminDeReflexesSoushumains: 2570
-parcheminDeReflexesSurhumain: 2569
-parcheminDeSagesse: 803
-parcheminDeSculptemageDArcs: 10394
-parcheminDeSculptemageDeBaguettes: 10392
-parcheminDeSculptemageDeBatons: 10391
-parcheminDeSculpteurDArcs: 715
-parcheminDeSculpteurDeBaguettes: 717
-parcheminDeSculpteurDeBatons: 716
-parcheminDeSenilite: 2204
-parcheminDeSortFlamiche: 718
-parcheminDeSortFoudroiement: 720
-parcheminDeSortInvocationDArakne: 721
-parcheminDeSortInvocationDeChaferfu: 9200
-parcheminDeSortLiberation: 719
-parcheminDeSortRaulebaque: 10513
-parcheminDeSortSpecialArbreDeVie: 10512
-parcheminDeSortSpecialBrokle: 731
-parcheminDeSortSpecialDouleurPartagee: 10511
-parcheminDeSortSpecialFelintion: 6664
-parcheminDeSortSpecialFlecheDeDispersion: 10506
-parcheminDeSortSpecialIvresse: 10510
-parcheminDeSortSpecialLaisseSpirituelle: 9916
-parcheminDeSortSpecialMiseEnGarde: 10508
-parcheminDeSortSpecialMotLotof: 10509
-parcheminDeSortSpecialPoisse: 6966
-parcheminDeSortSpecialRetraiteAnticipee: 10507
-parcheminDeSorts: 684
-parcheminDeSouplesse: 2161
-parcheminDeStupidite: 2199
-parcheminDeTailleur: 10400
-parcheminDeTransgenese: 9536
-parcheminDeVitalite: 807
-parcheminDecourageant: 2160
-parcheminDore: 680
-parcheminLie: 7400
-parcheminLieDeMercenaire: 9995
-parcheminMissAstrub: 7932
-parcheminVentDePanique: 1635
-parcheminVierge: 7401
-parcheminViergeDeMercenariat: 10002
-pardonSrvtmercenaryShortName: 7441
-parolesDIxaMustam: 2120
-parolesDeTsog: 2121
-passageDeGrade: 7186
-passeDeXelor: 1497
-pasteque: 2324
-pateATraKhben: 9949
-patteCouverteDePoils: 10105
-patteDAraknawa: 7285
-patteDArakne: 365
-patteDArakneMagique: 1673
-patteDArakneMajeure: 1652
-patteDAraknelle: 973
-patteDEcaflip: 1: 8941
-patteDEcaflip: 2: 8956
-patteDEcaflip: 3: 8957
-patteDEcaflip: 4: 8958
-patteDEcaflip: 5: 8959
-patteDEcaflip: 6: 8960
-patteDEcaflip: 7: 8961
-patteDEcaflip: 8: 8962
-patteDEcaflip: 9: 8963
-patteDEcaflip: 10: 8964
-patteDEcaflip: 11: 8965
-patteDEcaflipParfaite: 8966
-patteDOurs: 2318
-patteDeCorbac: 2060
-patteDePrespic: 2571
-patteDeScorbute: 2490
-patteDeWabbit: 2288
-pawcheminDeLaCawotte: 9201
-peauDOurs: 6845
-peauDeBworker: 9401
-peauDeBworkette: 8388
-peauDeChamanDEgoutant: 8483
-peauDeChefCrocodaille: 6740
-peauDeChevaucheurKoalak: 8053
-peauDeCochonDeFarle: 8390
-peauDeCooleuvre: 7273
-peauDeCrocabulia: 8367
-peauDeCrocodaille: 6739
-peauDeDonDorgan: 8391
-peauDeDonDussan: 8392
-peauDeDragoeufGuerrier: 8362
-peauDeDragoeufVolant: 8360
-peauDeDragueuse: 8356
-peauDeDrakoalak: 8054
-peauDeGobelin: 2264
-peauDeKanigrou: 7030
-peauDeKitsouNae: 7279
-peauDeKitsouNakwa: 7282
-peauDeKitsouNere: 7281
-peauDeKitsouNufeu: 7280
-peauDeKoalakImmature: 8050
-peauDeKramelehon: 8314
-peauDeLarveBleue: 1: 362
-peauDeLarveBleue: 2: 6854
-peauDeLarveOrange: 363
-peauDeLarveVerte: 364
-peauDeLarveVerteMagique: 1681
-peauDeLeopardo: 7301
-peauDeMahoFirefoux: 7298
-peauDeMaîtreKoalak: 8052
-peauDeMaîtrePandore: 8401
-peauDeMandrine: 8315
-peauDeMilimilou: 8546
-peauDeMinoskito: 8312
-peauDeMobLEponge: 8682
-peauDeMoon: 8383
-peauDePandikaze: 7260
-peauDePandore: 7302
-peauDePandule: 7303
-peauDePiralak: 8084
-peauDeRatBlanc: 8492
-peauDeRatDEgoutant: 8482
-peauDeRaulMops: 8681
-peauDeSerpentin: 1891
-peauDeShinLarve: 8385
-peauDeSkeunk: 8404
-peauDeSoryoFirefoux: 7299
-peauDeSphincterCell: 8493
-peauDeTanukouiSan: 7283
-peauDeTrukikol: 2605
-peauDeYokaiFirefoux: 7300
-peauDuRasboulMajeur: 8996
-peauDuRatNoir: 8491
-peauLacereeDuTynril: 8997
-peintureNoire: 1086
-peki: 6978
-pelleAGateau: 8417
-pelleAThart: 1426
-pelleAgHeuze: 9726
-pelleAigante: 8937
-pelleAssTik: 9725
-pelleChasseuse: 1941
-pelleDAquavoum: 5651
-pelleDEfepaza: 5654
-pelleDHenurver: 5640
-pelleDOtarok: 5632
-pelleDOulawi: 5974
-pelleDOxabek: 5972
-pelleDUfinuvide: 5633
-pelleDUkura: 5994
-pelleDeAbipaca: 5828
-pelleDeAcoca: 5910
-pelleDeAcudob: 5609
-pelleDeAekawaul: 5758
-pelleDeAelowiw: 5579
-pelleDeAelusato: 5674
-pelleDeAfidpur: 5586
-pelleDeAfucoma: 5752
-pelleDeAgaeb: 5877
-pelleDeAkalorth: 5846
-pelleDeAkugeku: 5687
-pelleDeAlawae: 5818
-pelleDeAlehael: 5702
-pelleDeAleheule: 5660
-pelleDeAlewae: 5735
-pelleDeAlofe: 5727
-pelleDeAmphafa: 5909
-pelleDeAmphafovel: 5952
-pelleDeAmphubevap: 5791
-pelleDeAnesela: 5874
-pelleDeApelep: 5782
-pelleDeApevapa: 5861
-pelleDeAprae: 5613
-pelleDeApybae: 5762
-pelleDeAquafanel: 5850
-pelleDeAquelasut: 5931
-pelleDeAquelelauc: 5997
-pelleDeAquelime: 5590
-pelleDeAquifag: 5616
-pelleDeAquilajuc: 5929
-pelleDeAquinupele: 5644
-pelleDeAritem: 5776
-pelleDeAstotul: 5868
-pelleDeAtaje: 5706
-pelleDeAtijome: 5650
-pelleDeAudaseve: 5571
-pelleDeAvalelum: 5922
-pelleDeAvoelule: 5756
-pelleDeAwocata: 5767
-pelleDeBetera: 5764
-pelleDeBevosoli: 5754
-pelleDeBlomebu: 5965
-pelleDeBoisDormant: 1043
-pelleDeBoisaille: 151
-pelleDeBojenec: 5793
-pelleDeBowapisa: 5924
-pelleDeBregurid: 5700
-pelleDeBuhedit: 5798
-pelleDeCawebula: 5848
-pelleDeCedpur: 5741
-pelleDeCevohaul: 5857
-pelleDeCokor: 5806
-pelleDeCoveluie: 5701
-pelleDeCrapouille: 239
-pelleDeDekud: 5768
-pelleDeDerul: 5891
-pelleDeDlola: 5562
-pelleDeDomutanot: 5890
-pelleDeDorekok: 5704
-pelleDeDradoco: 5805
-pelleDeDruke: 5761
-pelleDeEbuveble: 5691
-pelleDeEdane: 5773
-pelleDeEgruta: 5840
-pelleDeEhetuk: 5979
-pelleDeEhoppur: 5588
-pelleDeEhouhu: 5725
-pelleDeEjuren: 5600
-pelleDeElebesa: 5956
-pelleDeElegice: 5663
-pelleDeElelalle: 5831
-pelleDeElelem: 5736
-pelleDeElmedu: 5751
-pelleDeElonuve: 5835
-pelleDeElynague: 5966
-pelleDeEmakece: 5995
-pelleDeEmepiel: 5612
-pelleDeEmetielle: 5618
-pelleDeEnepoe: 5771
-pelleDeEnono: 5905
-pelleDeEpalibie: 5717
-pelleDeErosot: 5915
-pelleDeErugagug: 5941
-pelleDeEsufpur: 5708
-pelleDeEtelelel: 5695
-pelleDeEvabojeb: 5858
-pelleDeEvelavya: 5895
-pelleDeEvelomyt: 5652
-pelleDeEvewe: 5870
-pelleDeEwafa: 5730
-pelleDeFahap: 5584
-pelleDeFaplelot: 5668
-pelleDeFauceta: 5969
-pelleDeFavuwa: 5694
-pelleDeFecum: 5749
-pelleDeFelopr: 5794
-pelleDeFepelali: 5937
-pelleDeFeurivef: 5690
-pelleDeFifer: 5662
-pelleDeFirar: 5961
-pelleDeFlapyny: 5714
-pelleDeFletiji: 5792
-pelleDeFlugit: 5911
-pelleDeFlutuh: 5645
-pelleDeFodlyfe: 5567
-pelleDeFotum: 5916
-pelleDeFrakup: 5923
-pelleDeFreul: 5659
-pelleDeFureluli: 5804
-pelleDeGamumuie: 5935
-pelleDeGenureru: 5987
-pelleDeGidlesap: 5944
-pelleDeGoplawe: 5703
-pelleDeHalacah: 5583
-pelleDeHaruketh: 5812
-pelleDeHecebaul: 5737
-pelleDeHotetore: 5572
-pelleDeHubastes: 5802
-pelleDeHudarth: 5842
-pelleDeHureg: 5638
-pelleDeIfrivum: 5829
-pelleDeImezolel: 5731
-pelleDeInytatar: 5593
-pelleDeIpido: 5933
-pelleDeIrahau: 5596
-pelleDeIsofupe: 5863
-pelleDeIthat: 5685
-pelleDeItuleg: 5983
-pelleDeIxeuh: 5797
-pelleDeKasripl: 5653
-pelleDeKebyadu: 5661
-pelleDeKedice: 5955
-pelleDeKelaewab: 5837
-pelleDeKepaul: 5859
-pelleDeKevokepa: 5881
-pelleDeKinajeb: 5853
-pelleDeKofel: 5830
-pelleDeKoutoulou: 1056
-pelleDeKrekur: 5971
-pelleDeKrurekir: 5833
-pelleDeKurore: 5925
-pelleDeLInitie: 6786
-pelleDeLaprague: 5908
-pelleDeLaripac: 5753
-pelleDeLavyu: 5665
-pelleDeLeboevez: 5902
-pelleDeLecula: 5906
-pelleDeLedague: 5636
-pelleDeLedikub: 5864
-pelleDeLefibie: 5722
-pelleDeLenebae: 5603
-pelleDeLepreoub: 5947
-pelleDeLethori: 5851
-pelleDeLevemteux: 5871
-pelleDeLezysi: 5750
-pelleDeLimawol: 5606
-pelleDeLisalotyf: 5739
-pelleDeLisele: 5634
-pelleDeLototofr: 5960
-pelleDeLowafobe: 5614
-pelleDeLufefehi: 5635
-pelleDeLunitdar: 5938
-pelleDeLuteke: 5646
-pelleDeMalepudom: 5989
-pelleDeMamae: 5570
-pelleDeMamobuta: 5564
-pelleDeManek: 5907
-pelleDeManeryca: 5912
-pelleDeMebuja: 5569
-pelleDeMefonuh: 5980
-pelleDeMejuldar: 5601
-pelleDeMelofu: 5775
-pelleDeMeridra: 5986
-pelleDeMewaesa: 5920
-pelleDeMimifame: 5587
-pelleDeMocudaej: 5875
-pelleDeMouba: 5824
-pelleDeMovydo: 5949
-pelleDeMuffrit: 5720
-pelleDeMumepeme: 5610
-pelleDeMylumebu: 5800
-pelleDeNabogevu: 5996
-pelleDeNaglefyu: 5822
-pelleDeNaimafo: 5631
-pelleDeNaivurim: 5622
-pelleDeNebague: 5817
-pelleDeNekak: 5878
-pelleDeNelibaille: 5845
-pelleDeNepesuf: 5742
-pelleDeNeple: 5962
-pelleDeNobevu: 5784
-pelleDeNogihof: 5711
-pelleDeNugoruth: 5655
-pelleDeOdegibat: 5578
-pelleDeOfusal: 5656
-pelleDeOgatos: 5790
-pelleDeOgauhibie: 5643
-pelleDeOlesteux: 5624
-pelleDeOlitelub: 5904
-pelleDeOmanague: 5598
-pelleDeOmuplele: 5975
-pelleDeOnaenae: 5688
-pelleDeOrylelel: 5921
-pelleDeOsatuhor: 5779
-pelleDeOsedil: 5647
-pelleDeOsthain: 5574
-pelleDeOsthocaf: 5675
-pelleDeOubine: 5811
-pelleDeOucute: 5819
-pelleDeOveolu: 5825
-pelleDeOvupeda: 5948
-pelleDeOwanurel: 5942
-pelleDeOzotege: 5867
-pelleDePagiraf: 5649
-pelleDePekeuf: 5693
-pelleDePetegaxu: 5778
-pelleDePlaleno: 5626
-pelleDePlalo: 5623
-pelleDePolede: 5683
-pelleDePolose: 5843
-pelleDePugeleba: 5940
-pelleDePusorth: 5816
-pelleDeRagnorece: 5686
-pelleDeRapage: 245
-pelleDeRavouna: 5629
-pelleDeRekusuce: 5712
-pelleDeRekutour: 5827
-pelleDeRerekore: 5847
-pelleDeRerugur: 5887
-pelleDeRetugug: 5954
-pelleDeReukeg: 5820
-pelleDeRhagoge: 5679
-pelleDeRhestarh: 5759
-pelleDeRheurore: 5823
-pelleDeRhukuhed: 5862
-pelleDeRibif: 5834
-pelleDeRoguddar: 5589
-pelleDeRomubber: 5839
-pelleDeRugnaheru: 5873
-pelleDeRugnegodor: 5934
-pelleDeRurahagor: 5630
-pelleDeRurare: 5838
-pelleDeRutestod: 5958
-pelleDeSamebel: 5821
-pelleDeSecaguth: 5869
-pelleDeSekibie: 5669
-pelleDeSerogra: 5677
-pelleDeSikupuf: 5903
-pelleDeSkogila: 5780
-pelleDeSosave: 5872
-pelleDeSucnef: 5883
-pelleDeSuhusak: 5939
-pelleDeSunala: 5977
-pelleDeSurelel: 5592
-pelleDeSuryloziv: 5697
-pelleDeTedogoke: 5884
-pelleDeTejatule: 5743
-pelleDeTeladamo: 5664
-pelleDeTeleau: 5889
-pelleDeTelelil: 5770
-pelleDeTeraille: 5639
-pelleDeTetemu: 5676
-pelleDeTevemupe: 5951
-pelleDeTezylilo: 5627
-pelleDeThekomoc: 5689
-pelleDeTherero: 5723
-pelleDeThorurired: 5628
-pelleDeThuku: 5566
-pelleDeTotalu: 5666
-pelleDeTufukas: 5738
-pelleDeTycag: 5680
-pelleDeUbede: 5988
-pelleDeUbotase: 5715
-pelleDeUcebubih: 5595
-pelleDeUdurain: 5976
-pelleDeUfepegi: 5973
-pelleDeUfresem: 5799
-pelleDeUfresulf: 5678
-pelleDeUfuleha: 5786
-pelleDeUgetathu: 5982
-pelleDeUhatfla: 5734
-pelleDeUhetu: 5684
-pelleDeUjabice: 5927
-pelleDeUkugroh: 5576
-pelleDeUkuherog: 5964
-pelleDeUlawysi: 5856
-pelleDeUmunae: 5832
-pelleDeUnila: 5900
-pelleDeUnufupu: 5781
-pelleDeUselot: 5585
-pelleDeUsuroche: 5959
-pelleDeUvoseude: 5698
-pelleDeVarkahenug: 5732
-pelleDeVebupasi: 5580
-pelleDeVenebelo: 5930
-pelleDeVludega: 5879
-pelleDeVlutekun: 5733
-pelleDeVumecague: 5849
-pelleDeWadotte: 5894
-pelleDeWebeleau: 5946
-pelleDeWelibehe: 5957
-pelleDeWelofaul: 5896
-pelleDeWilaba: 5993
-pelleDeWoterar: 5568
-pelleDeYcanae: 5605
-pelleDeYdabouille: 5617
-pelleDeYdukob: 5893
-pelleDeYgitague: 5814
-pelleDeYlehowe: 5729
-pelleDeYmuwel: 5963
-pelleDeZelemylez: 5648
-pelleDeZezululuv: 5992
-pelleDesChamps: 1059
-pelleDoudesque: 3356
-pelleDragoeuf: 8420
-pelleDuAelulae: 5777
-pelleDuAlanavel: 5926
-pelleDuAlebaul: 5808
-pelleDuAlela: 5807
-pelleDuAlelaew: 5936
-pelleDuAlepu: 5943
-pelleDuAlesulit: 5785
-pelleDuAmphelal: 5815
-pelleDuAmphuwuco: 5611
-pelleDuAotuballe: 5801
-pelleDuApanewa: 5692
-pelleDuApenae: 5953
-pelleDuApivyco: 5813
-pelleDuAprec: 5716
-pelleDuAqualosepa: 5713
-pelleDuAquesepeb: 5787
-pelleDuBepehad: 5841
-pelleDuBevose: 5563
-pelleDuCemesam: 5615
-pelleDuCogrerm: 5721
-pelleDuCraqueleur: 294
-pelleDuDarit: 5681
-pelleDuDebonal: 5990
-pelleDuDucih: 5696
-pelleDuEdasyp: 5673
-pelleDuEfofuseg: 5888
-pelleDuElmepe: 5914
-pelleDuEoseziel: 5978
-pelleDuEpepotte: 5620
-pelleDuEpule: 5657
-pelleDuEroraku: 5575
-pelleDuErosuh: 5913
-pelleDuEtepielle: 5709
-pelleDuEveleau: 5718
-pelleDuEwarotte: 5705
-pelleDuFeulu: 5760
-pelleDuFlebagel: 5766
-pelleDuFlerifidu: 5746
-pelleDuFokagor: 5918
-pelleDuGedero: 5783
-pelleDuGelalle: 5577
-pelleDuHozabele: 5998
-pelleDuIbomo: 5897
-pelleDuIcabol: 5854
-pelleDuIdemo: 5981
-pelleDuIduvlim: 5796
-pelleDuIfuhilif: 5932
-pelleDuItuthamu: 5809
-pelleDuKehuth: 5876
-pelleDuKorurade: 5917
-pelleDuLadog: 5757
-pelleDuLahdar: 5772
-pelleDuLauvepop: 5968
-pelleDuLedutobo: 5950
-pelleDuLepawew: 5866
-pelleDuLifepidu: 5607
-pelleDuLipulu: 5561
-pelleDuLobobopa: 5670
-pelleDuLugas: 5581
-pelleDuMebodet: 5744
-pelleDuMebowel: 5774
-pelleDuMineurSombre: 6536
-pelleDuMudefihu: 5671
-pelleDuMurobume: 5699
-pelleDuMyowup: 5728
-pelleDuNeloma: 5710
-pelleDuNevawe: 5885
-pelleDuOhosoth: 5755
-pelleDuOresutal: 5573
-pelleDuOtibotte: 5984
-pelleDuOtosugag: 5604
-pelleDuPacyun: 5740
-pelleDuPelae: 5898
-pelleDuPihimuta: 5637
-pelleDuPlelaer: 5860
-pelleDuRaceula: 5707
-pelleDuRanikim: 5745
-pelleDuRegek: 5892
-pelleDuReharth: 5967
-pelleDuReror: 5919
-pelleDuReruret: 5565
-pelleDuRheku: 5667
-pelleDuRheregor: 5625
-pelleDuRiquehoche: 5991
-pelleDuRoucehu: 5642
-pelleDuRugnoked: 5985
-pelleDuRurako: 5599
-pelleDuRusoso: 5844
-pelleDuSalog: 5826
-pelleDuSecelae: 5865
-pelleDuSesrain: 5886
-pelleDuSodetum: 5788
-pelleDuSohebo: 5608
-pelleDuSrekesta: 5882
-pelleDuSrerokes: 5594
-pelleDuSrotu: 5719
-pelleDuStrude: 5765
-pelleDuSybiwib: 5810
-pelleDuTehuh: 5641
-pelleDuTepar: 5763
-pelleDuTepilepo: 5928
-pelleDuTheleh: 5621
-pelleDuThokuru: 5724
-pelleDuTikame: 5836
-pelleDuTobyfely: 5582
-pelleDuTrodortu: 5658
-pelleDuTruheh: 5803
-pelleDuTugour: 5899
-pelleDuTuhamu: 5789
-pelleDuUfugut: 5597
-pelleDuUgrohuc: 5726
-pelleDuUhehurer: 5747
-pelleDuUkekain: 5855
-pelleDuUleca: 5591
-pelleDuUlurusuh: 5880
-pelleDuUmoulelo: 5795
-pelleDuUpepirai: 5769
-pelleDuUraguvi: 5602
-pelleDuUrotake: 5852
-pelleDuUwilu: 5682
-pelleDuVarkukem: 5945
-pelleDuVelon: 5672
-pelleDuVolezi: 5970
-pelleDuVovetielle: 5901
-pelleDuWiwak: 5619
-pelleDuZepezo: 5748
-pelleEmelaka: 9468
-pelleEnMousse: 8255
-pelleGicque: 6539
-pelleHebuse: 6526
-pelleHiSeMoun: 9728
-pelleHikule: 6535
-pelleHouze: 1432
-pelleIkan: 1436
-pelleMairhe: 6537
-pelleMechba: 1430
-pelleMelle: 1047
-pelleMinstere: 8613
-pelleMoh: 8419
-pelleMusicale: 6527
-pelleRailZeur: 9727
-pelleRhon: 7213
-pelleRin: 9724
-pelleRinage: 6528
-pelleRipe: 8614
-pelleSecutrice: 1433
-pelleShattkitou: 8936
-pelleTeuze: 482
-pelleVaidaire: 6538
-pelleWoukuis: 1051
-pelleZebuth: 1427
-pelucheDeLaFoire: 6852
-pelucheDuBouftou: 6603
-pelucheDuBouftouRoyal: 6605
-pelucheDuChamp: 6619
-pelucheDuDopeulCra: 6615
-pelucheDuDopeulEcaflip: 6607
-pelucheDuDopeulEniripsa: 6611
-pelucheDuDopeulEnutrof: 6612
-pelucheDuDopeulFeca: 6613
-pelucheDuDopeulIop: 6608
-pelucheDuDopeulOsamodas: 6614
-pelucheDuDopeulPandawa: 7923
-pelucheDuDopeulSacrieur: 7922
-pelucheDuDopeulSadida: 6606
-pelucheDuDopeulSram: 6610
-pelucheDuDopeulXelor: 6616
-pelucheDuDragonCochon: 6624
-pelucheDuMulou: 6658
-pelucheDuPrespic: 6620
-pelucheDuSanglier: 6617
-pelucheDuTofu: 6618
-pelucheDuWabbit: 6621
-pendentifDuHibouChetif: 786
-penduleDuGudule: 7031
-penseBete: 2194
-perche: 1801
-percheSaute: 1822
-percheSaute: 4: 1824
-percheSaute: 3: 1823
-percheVidee: 1802
-permissionDe: 24Heures: 1925
-permissionSigneeEtDatee: 2052
-perruqueDuKimbo: 8795
-perruqueDuPoolay: 8828
-perspicacite: 7397
-petaleDeBlop: 2557
-petaleDeRoseDemoniaque: 309
-petaleDeTournesolSauvage: 2659
-petaleDeTrukikol: 2602
-petaleKouraçao: 8745
-petaleMagiqueDuTournesolAffame: 8157
-petaleMalibout: 8746
-petaleMorito: 8748
-petalePassaoh: 8747
-petitAnneauDAgilite: 118
-petitAnneauDeChance: 109
-petitAnneauDeSagesse: 100
-petitAnneauDuChanceux: 853
-petitAnneauMagique: 852
-petitArcBuse: 1092
-petitArcDEnileda: 6855
-petitArcDeBoisaille: 88
-petitArcDeroutant: 264
-petitArcDuRoiDesBorins: 1125
-petitArcEcologique: 1117
-petitArcEnCorneDeBouftou: 1096
-petitBandeauDeVitalite: 943
-petitBatonDakn: 1148
-petitBatonDeFausseMagie: 1109
-petitBatonFeuillu: 182
-petitBatonBouleDeVoyante: 1152
-petitCadeauDeNowel: 8336
-petitChachaBlanc: 7414
-petitChachaDeCombatMj: 6895
-petitChienchienNoir: 7415
-petitCouteauAStek: 1026
-petitMarteauDIvoire: 227
-petitMarteauDeBoisaille: 144
-petitMarteauDeRaclage: 221
-petitMarteauOutar: 1072
-petitMarteauPospodrol: 1080
-petitMarteauRUnique: 1064
-petitParcheminDAgilite: 798
-petitParcheminDIntelligence: 686
-petitParcheminDeChance: 809
-petitParcheminDeForce: 683
-petitParcheminDeSagesse: 802
-petitParcheminDeVitalite: 806
-petitSacDEcolierDuChefCrocodaille: 6830
-petitSacEnLaineDeBoufton: 1697
-petiteAmuletteDeLOurs: 74
-petiteAmuletteDuHibou: 39
-petiteAmuletteDuLoup: 81
-petiteBaguetteAPans: 1133
-petiteBaguetteDEglise: 1105
-petiteBaguetteDIntelligence: 168
-petiteBaguetteDeGlace: 162
-petiteBaguetteDeSagesse: 174
-petiteBaguetteHeure: 1101
-petiteBaguetteMeneuse: 1143
-petiteCapeBleutee: 935
-petiteCapeDeRougeur: 932
-petiteCapeSombre: 945
-petiteCeintureAgilesque: 260
-petiteCeintureForcesque: 256
-petiteCeintureVitalesque: 252
-petiteDagueFourbesque: 1036
-petiteEpeeDAlle: 51
-petiteEpeeDHa: 59
-petiteEpeeDeBoisaille: 40
-petiteEpeeDeFouraille: 46
-petiteEpeeSacree: 352
-petiteEtoileDuSoir: 1636
-petiteFeeDArtificeBleue: 6570
-petiteFeeDArtificeBleueVirevoltante: 6582
-petiteFeeDArtificeBleueCrepitante: 6579
-petiteFeeDArtificeBleueFontaine: 6576
-petiteFeeDArtificeBleueTournoyante: 6573
-petiteFeeDArtificeJaune: 6585
-petiteFeeDArtificeJauneCrepitante: 6594
-petiteFeeDArtificeJauneFontaine: 6591
-petiteFeeDArtificeJauneTournoyante: 6588
-petiteFeeDArtificeJauneVirevoltante: 6597
-petiteFeeDArtificeMulticolore: 6627
-petiteFeeDArtificeMulticoloreCrepitante: 6636
-petiteFeeDArtificeMulticoloreFontaine: 6633
-petiteFeeDArtificeMulticoloreTournoyante: 6630
-petiteFeeDArtificeMulticoloreVirevoltante: 6639
-petiteFeeDArtificeRouge: 2240
-petiteFeeDArtificeRougeCrepitante: 6549
-petiteFeeDArtificeRougeFontaine: 6546
-petiteFeeDArtificeRougeTournoyante: 6543
-petiteFeeDArtificeRougeVirevoltante: 6552
-petiteFeeDArtificeVerte: 6555
-petiteFeeDArtificeVerteCrepitante: 6564
-petiteFeeDArtificeVerteFontaine: 6561
-petiteFeeDArtificeVerteTournoyante: 6558
-petiteFeeDArtificeVerteVirevoltante: 6567
-petiteGarde: 9719
-petiteLameDeFon: 1032
-petiteLarveDoree: 7425
-petiteMasseAjTaye: 1076
-petiteMasseDHa: 1060
-petiteMasseTmosfer: 1068
-petitePelleDeBoisDormant: 1042
-petitePelleDeBoisaille: 150
-petitePelleDeCrapouille: 238
-petitePelleDeKoutoulou: 1055
-petitePelleDeRapage: 244
-petitePelleDuCraqueleur: 293
-petitePelleMechba: 1429
-petitePelleMelle: 1046
-petitePelleTeuze: 345
-petitePelleWoukuis: 1050
-petitePerleDoree: 2328
-petitePierreDAme: 7007
-petitePierreDAmeHasardeuse: 6987
-petitePierreDAmeHeureuse: 7332
-petitePierreDAmeParfaite: 9686
-petitePotionDAgression: 9038
-petitePotionDeSoinDeMasse: 7498
-petitesBottesDeConcentration: 128
-petitesBottesDeForce: 861
-petitesBottesDeKlime: 902
-petitesBottesDePoursuite: 906
-petitesDaguesDeBoisaille: 94
-petitesDaguesDeCroclage: 211
-petitesDaguesDeFouraille: 205
-petitesDaguesEguisees: 897
-petitesDaguesSylvestres: 893
-peveton: 10275
-phalene: 6990
-picAGlace: 4382
-picDeDragodinde: 2599
-picDeDragodindeRousseSauvage: 2598
-picDuPrespic: 407
-pichonEudCompet: 2187
-pieceDuPuzzleDeLaGriffe: 274
-pieceDuTresorDuBadoul: 276
-piedsDuSanglier: 6909
-pierreAAiguiser: 578
-pierreDAerotrugoburLeMalveillant: 8376
-pierreDAgathe: 7025
-pierreDAigueMarine: 7023
-pierreDAmeAdouee: 9533
-pierreDAmeDArchiMonstre: 10418
-pierreDAmeDeGardienDeDonjon: 10417
-pierreDAmeDeTerraTibya: 9534
-pierreDAmePleine: 7010
-pierreDAqualikrosLImpitoyable: 8374
-pierreDEmeraude: 544
-pierreDIgnerkocroposLAffame: 8373
-pierreDeCristal: 545
-pierreDeCrystaloboule: 1679
-pierreDeDiamant: 543
-pierreDeDopeul: 965
-pierreDeGranit: 450
-pierreDeRubis: 547
-pierreDeSaphir: 546
-pierreDeSoinFuyard: 6824
-pierreDeSoinSertie: 6826
-pierreDeSouillureBleue: 9953
-pierreDeSouillureBleueImpure: 9950
-pierreDeSouillureJaune: 9954
-pierreDeSouillureJauneImpure: 9951
-pierreDeSouillureVerte: 9955
-pierreDeSouillureVerteImpure: 9952
-pierreDeTerraburkalLePerfide: 8375
-pierreDeTopaze: 7024
-pierreDesAmesSouillees: 9956
-pierreDuCraqueleur: 431
-pierreDuCraqueleurLegendaire: 8102
-pierreDuKoulosse: 8402
-pierrePrecieuseDuKimbo: 8998
-pieuVampirique: 1362
-pimentConfit: 8694
-pinceDeCrustorail: 8744
-pinceDeScorbute: 2245
-pinceDuCrabe: 379
-piocheDuMineur: 497
-piouteBleu: 7708
-piouteJaune: 7709
-piouteRose: 7710
-piouteRouge: 7711
-piouteVert: 7712
-piouteViolet: 7713
-piqûreDeReveil: 6822
-piruk: 7142
-pistilDuTynril: 8777
-pizaille: 6850
-planDAttaque: 9103
-plancheEnBambou: 7663
-plancheEnBambouDore: 7669
-plancheEnBambouMagique: 7670
-plancheEnBambouSacre: 7665
-plancheEnBambouSombre: 7664
-plancheEnBoisAncestral: 7666
-plancheEnBoisDeBambouto: 7671
-plancheEnBoisDeBamboutoSacre: 7672
-plancheEnBoisDeKaliptus: 8078
-plancheEnBoisDeKokoko: 1001
-plancheEnBoisDeTronknyde: 7668
-plancheEnBoisEnvoûte: 7667
-plancheEnBombu: 7661
-plancheEnCharme: 7658
-plancheEnChataignier: 6868
-plancheEnChene: 7653
-plancheEnEbene: 7655
-plancheEnErable: 7657
-plancheEnFrene: 459
-plancheEnIf: 7654
-plancheEnMerisier: 7660
-plancheEnNoyer: 7659
-plancheEnOliviolet: 7662
-plancheEnOrme: 7656
-platDeFiltounga: 1: 8507
-platDeFiltounga: 2: 8508
-pleurNycheuz: 6869
-plimclik: 1488
-plumeDeBuveur: 8249
-plumeDeCorbac: 1889
-plumeDeCorbacApprivoise: 8252
-plumeDeFesseDuKido: 8766
-plumeDePiouBleu: 6897
-plumeDePiouJaune: 6902
-plumeDePiouRose: 6903
-plumeDePiouRouge: 6900
-plumeDePiouVert: 6899
-plumeDePiouViolet: 6898
-plumeDeTofuMalefique: 2675
-plumeDeTofuNoir: 6673
-plumeDeTofuRoyal: 2247
-plumeDuBatofu: 8557
-plumeDuDernierPoolay: 1685
-plumeDuKwakDeFlamme: 415
-plumeDuKwakDeGlace: 414
-plumeDuKwakDeTerre: 1141
-plumeDuKwakDeVent: 416
-plumeDuMaîtreCorbac: 1892
-plumeDuSerpiplume: 8309
-plumeGraisseuseDuTofuVentripotent: 8158
-plumePointueDeKwakDuVent: 1670
-plumeVibranteDuTofuRoyal: 8387
-plumesDeTofu: 301
-poigneeDEpee: 6828
-poilDAisselleDePumbaa: 8799
-poilDOuginak: 2248
-poilDeBworkette: 8389
-poilDeChamanDEgoutant: 8484
-poilDeDeminoboule: 8321
-poilDeDragonCochon: 8393
-poilDeGamino: 8311
-poilDeKanigrou: 1890
-poilDeMaîtrePandore: 8399
-poilDeMominotor: 8322
-poilDePeki: 8251
-poilDeRatBontarien: 8570
-poilDeRatBrakmarien: 8571
-poilDeRatDEgoutant: 8481
-poilDeRenarbo: 8250
-poilDeSanglierDesPlaines: 1894
-poilDeSkeunk: 8405
-poilDuWaWabbit: 8397
-poilsDOurs: 6844
-poilsDarits: 1672
-poilsDeBarbeDuBworkMage: 409
-poilsDeBarbeDuGrandPaWabbit: 418
-poilsDeBarbeDuWarkoMarron: 8065
-poilsDeBarbeDuWarkoViolet: 8066
-poilsDeBlackTiwabbit: 646
-poilsDeCrocsGlands: 2315
-poilsDeGrandPaWabbit: 650
-poilsDeKitsouNae: 7275
-poilsDeKitsouNakwa: 7278
-poilsDeKitsouNere: 7277
-poilsDeKitsouNufeu: 7276
-poilsDeKoalakForestier: 8085
-poilsDeKoalakGriotte: 8059
-poilsDeKoalakIndigo: 8062
-poilsDeKoalakKoko: 8060
-poilsDeKoalakReinette: 8061
-poilsDeLeopardo: 7343
-poilsDeMahoFirefoux: 7292
-poilsDeMoon: 6441
-poilsDePandikaze: 7258
-poilsDePandore: 7295
-poilsDePandule: 7297
-poilsDeSoryoFirefoux: 7293
-poilsDeSouris: 761
-poilsDeTanukouiSan: 7284
-poilsDeWabbit: 648
-poilsDeWoWabbit: 649
-poilsDeYokaiFirefoux: 7294
-poilsDeulkDeBworky: 7558
-poilsDuMeulou: 1691
-poilsDuMilimulou: 1690
-poilsDuMinotoror: 840
-poilsDuMulou: 291
-poilsDuSanglier: 388
-pointeDeFlecheDuBworkArcher: 429
-poire: 2329
-poisonBwork: 9094
-poisonCinglant: 1461
-poisonDeScorbute: 2147
-poissonChaton: 603
-poissonChatonVide: 1761
-poissonIgloo: 1754
-poissonIglooVide: 1755
-poissonPane: 1750
-poissonPaneFrit: 2: 1752
-poissonPaneFrit: 3: 1753
-poissonPaneFrit: 4: 1756
-poissonPaneVide: 1751
-poissonTigre: 1762
-poissonTigreVide: 1763
-poissonChatonFume: 2: 1767
-poissonChatonFume: 3: 1768
-poissonTigreFume: 4: 1769
-pollenDeBlop: 2556
-pomme: 281
-pomme: 1: 2327
-pommeDePik: 9460
-pommeDeTerre: 537
-pommeauDEpee: 2494
-pommesDeTerreEpluchees: 538
-pompamulette: 9454
-pompanneau: 9455
-pompocape: 9456
-pompocoiffe: 9457
-poochan: 7062
-poolache: 8868
-poshocape: 9480
-poshoclier: 9481
-poshocoiffe: 9479
-potDeGloutovore: 2630
-potionABaseDePlantes: 6823
-potionBulbique: 8913
-potionDOubliFoudroiement: 2072
-potionDAgressionMoyenne: 9040
-potionDAverse: 1341
-potionDEboulement: 1340
-potionDEnclosDeGuilde: 9035
-potionDEtincelle: 1333
-potionDIncendie: 1345
-potionDInvisibiliteNebuleuse: 8428
-potionDOubliInvisibilite: 1271
-potionDOubliMotDeRegeneration: 1390
-potionDOubliSouffleAlcoolise: 7565
-potionDOubliRoncesMultiples: 1295
-potionDOubliAbsorption: 1450
-potionDOubliAcceleration: 1239
-potionDOubliAiguilleChercheuse: 1417
-potionDOubliAiguille: 1409
-potionDOubliAmplification: 1211
-potionDOubliApprivoisementDeMonture: 8572
-potionDOubliArbre: 1296
-potionDOubliArmureDeFeu: 1184
-potionDOubliArmureDeNeutraliteEtDeTerre: 1189
-potionDOubliArnaque: 1280
-potionDOubliAssaut: 1444
-potionDOubliAttaqueMortelle: 1282
-potionDOubliAttaqueNaturelle: 1186
-potionDOubliAttaqueNuageuse: 1190
-potionDOubliAttaqueTrompeuse: 1267
-potionDOubliAttirance: 1442
-potionDOubliAveuglement: 1185
-potionDOubliBenedictionAnimale: 1254
-potionDOubliBluff: 1167
-potionDOubliBoiteDePandore: 1229
-potionDOubliBondDuFelin: 1170
-potionDOubliBond: 1205
-potionDOubliBoomerangPerfide: 8573
-potionDOubliBouclierFeca: 1201
-potionDOubliBrokle: 2073
-potionDOubliBulle: 1194
-potionDOubliCadranDeXelor: 1425
-potionDOubliCaptureDAmes: 7395
-potionDOubliChamrak: 7571
-potionDOubliChanceDEcaflip: 1166
-potionDOubliChance: 1224
-potionDOubliChatimentAgile: 1445
-potionDOubliChatimentForce: 1437
-potionDOubliChatimentOse: 1441
-potionDOubliChatimentSage: 1451
-potionDOubliChatimentSpirituel: 1448
-potionDOubliCleReductrice: 1227
-potionDOubliCoagulation: 7391
-potionDOubliCoffreAnime: 1243
-potionDOubliColereDeIop: 1223
-potionDOubliColereDeZatoishwan: 7576
-potionDOubliCompulsion: 1207
-potionDOubliConcentrationDeChakra: 1275
-potionDOubliConcentration: 1221
-potionDOubliConnaissanceDesPoupees: 1294
-potionDOubliContre: 1408
-potionDOubliCooperation: 1453
-potionDOubliCorbeau: 1247
-potionDOubliCorruption: 1242
-potionDOubliCoupSournois: 1269
-potionDOubliCouper: 1213
-potionDOubliCrapaud: 1250
-potionDOubliCriDeLOurs: 1245
-potionDOubliCrocsDuMulou: 1260
-potionDOubliCupidite: 1235
-potionDOubliDemotivation: 1421
-potionDOubliDeplacementFelin: 1248
-potionDOubliDerobade: 1452
-potionDOubliDesinvocation: 1226
-potionDOubliDestinDEcaflip: 1181
-potionDOubliDevouement: 1419
-potionDOubliDouble: 1270
-potionDOubliEpeeCeleste: 1220
-potionDOubliEpeeDansante: 1447
-potionDOubliEpeeDeIop: 1222
-potionDOubliEpeeDestructrice: 1212
-potionDOubliEpeeDivine: 1208
-potionDOubliEpeeDuDestin: 1209
-potionDOubliEpeeDuJugement: 1216
-potionDOubliEpeeVolante: 7390
-potionDOubliEpouvante: 7564
-potionDOubliEspritFelin: 1175
-potionDOubliFelintion: 7394
-potionDOubliFeuDeBrousse: 1301
-potionDOubliFlasqueExplosive: 7577
-potionDOubliFlecheAbsorbante: 1320
-potionDOubliFlecheChercheuse: 1307
-potionDOubliFlecheCinglante: 1317
-potionDOubliFlecheDExpiation: 1310
-potionDOubliFlecheDImmobilisation: 1313
-potionDOubliFlecheDeRecul: 1312
-potionDOubliFlecheDestructrice: 1319
-potionDOubliFlecheEnflammee: 1308
-potionDOubliFlecheExplosive: 1322
-potionDOubliFlecheGlacee: 1306
-potionDOubliFlecheHarcelante: 1316
-potionDOubliFlecheMagique: 1304
-potionDOubliFlechePunitive: 1314
-potionDOubliFlecheRalentissante: 1321
-potionDOubliFletrissement: 1414
-potionDOubliFlou: 1411
-potionDOubliFolieSanguinaire: 7392
-potionDOubliForceDeLAge: 1232
-potionDOubliFouet: 1252
-potionDOubliFourvoiement: 1268
-potionDOubliFrappeDeXelor: 1424
-potionDOubliFrappeDuCraqueleur: 1258
-potionDOubliFuite: 1420
-potionDOubliFurie: 7389
-potionDOubliGelure: 1410
-potionDOubliGlypheAggressif: 1188
-potionDOubliGlypheDAveuglement: 1198
-potionDOubliGlypheDImmobilisation: 1202
-potionDOubliGlypheDeSilence: 1203
-potionDOubliGlypheEnflamme: 1200
-potionDOubliGriffeCinglante: 1255
-potionDOubliGriffeDeCeangal: 1179
-potionDOubliGriffeInvocatrice: 1174
-potionDOubliGriffeJoueuse: 1178
-potionDOubliGriffeSpectrale: 1244
-potionDOubliGueuleDeBois: 7567
-potionDOubliGuideDeBravoure: 1210
-potionDOubliHerbeFolle: 1300
-potionDOubliHorloge: 1434
-potionDOubliHorloge: 2: 1721
-potionDOubliImmunite: 1192
-potionDOubliIntimidation: 1206
-potionDOubliInvisibiliteDAutrui: 1273
-potionDOubliInvocationDeBouftou: 1249
-potionDOubliInvocationDeBworkMage: 1261
-potionDOubliInvocationDeCraqueleur: 1262
-potionDOubliInvocationDeDragonnetRouge: 1263
-potionDOubliInvocationDePrespic: 1251
-potionDOubliInvocationDeSanglier: 1257
-potionDOubliInvocationDeTofu: 1246
-potionDOubliKarcham: 7568
-potionDOubliLaBloqueuse: 1289
-potionDOubliLaFolle: 1285
-potionDOubliLaGonflable: 1298
-potionDOubliLaSacrifiee: 1292
-potionDOubliLaSurpuissante: 1303
-potionDOubliLaisseSpirituelle: 10052
-potionDOubliLaitDeBambou: 7574
-potionDOubliLancerDePelle: 1225
-potionDOubliLancerDePieces: 1233
-potionDOubliLangueRapeuse: 1172
-potionDOubliLarme: 1288
-potionDOubliLiberation: 2071
-potionDOubliLienSpiritueux: 7580
-potionDOubliMaîtriseDeLArc: 1323
-potionDOubliMaladresseDeMasse: 1238
-potionDOubliMaladresse: 1237
-potionDOubliMomification: 1423
-potionDOubliMotBlessant: 1381
-potionDOubliMotCuratif: 1380
-potionDOubliMotDAltruisme: 1401
-potionDOubliMotDAmitie: 1396
-potionDOubliMotDEnvol: 1398
-potionDOubliMotDEpine: 1391
-potionDOubliMotDImmobilisation: 1397
-potionDOubliMotDeFrayeur: 1388
-potionDOubliMotDeJouvence: 1392
-potionDOubliMotDePrevention: 1387
-potionDOubliMotDeReconstitution: 1402
-potionDOubliMotDeSacrifice: 1395
-potionDOubliMotDeSilence: 1400
-potionDOubliMotDrainant: 1382
-potionDOubliMotInterdit: 1385
-potionDOubliMotRevitalisant: 1389
-potionDOubliMotSoignant: 1384
-potionDOubliMotStimulant: 1386
-potionDOubliMotVampirique: 1394
-potionDOubliMutilation: 1218
-potionDOubliOdorat: 1176
-potionDOubliOeilDeLynx: 1318
-potionDOubliOeilDeTaupe: 1311
-potionDOubliPandanlku: 7579
-potionDOubliPandatak: 7578
-potionDOubliPelleAnimee: 1234
-potionDOubliPelleDuJugement: 1240
-potionDOubliPelleFantomatique: 1231
-potionDOubliPelleMassacrante: 1241
-potionDOubliPerception: 1130
-potionDOubliPeur: 1279
-potionDOubliPicole: 7561
-potionDOubliPiedDuSacrieur: 1440
-potionDOubliPiegeDImmobilisation: 1276
-potionDOubliPiegeDeMasse: 1272
-potionDOubliPiegeDeSilence: 1277
-potionDOubliPiegeDesinvocateur: 1278
-potionDOubliPiegeEmpoisonne: 1274
-potionDOubliPiegeMortel: 1283
-potionDOubliPiegeSournois: 1266
-potionDOubliPileOuFace: 1091
-potionDOubliPiqûreMotivante: 1253
-potionDOubliPoingEnflamme: 7562
-potionDOubliPoisonParalysant: 1287
-potionDOubliPoussiereTemporelle: 1416
-potionDOubliPression: 1204
-potionDOubliProtectionAveuglante: 1422
-potionDOubliPuissanceSilvestre: 1291
-potionDOubliPuissance: 1217
-potionDOubliPulsionDeChakra: 1281
-potionDOubliPunition: 1454
-potionDOubliRalentissement: 1407
-potionDOubliRayonObscur: 1412
-potionDOubliReflexes: 1177
-potionDOubliRekop: 1180
-potionDOubliRemblai: 1230
-potionDOubliRenvoiDeSort: 1187
-potionDOubliReperage: 1265
-potionDOubliResistanceNaturelle: 1259
-potionDOubliRetourDuBaton: 1197
-potionDOubliRonceApaisante: 1290
-potionDOubliRonceInsolente: 1302
-potionDOubliRonce: 1286
-potionDOubliRoncesAgressives: 1299
-potionDOubliRoueDeLaFortune: 1173
-potionDOubliRoulageDePelle: 1236
-potionDOubliRoulette: 1165
-potionDOubliSablierDeXelor: 1415
-potionDOubliSacAnime: 1228
-potionDOubliSacrificePoupesque: 1293
-potionDOubliSacrifice: 1449
-potionDOubliScienceDuBaton: 1196
-potionDOubliSoinAnimal: 1256
-potionDOubliSouffle: 1214
-potionDOubliSouillure: 7573
-potionDOubliSournoiserie: 1264
-potionDOubliStabilisation: 7570
-potionDOubliTeleportation: 1: 1199
-potionDOubliTeleportation: 2: 1413
-potionDOubliTempeteDePuissance: 1219
-potionDOubliTirCritique: 1305
-potionDOubliTirEloigne: 1309
-potionDOubliTirPuissant: 1315
-potionDOubliTopkaj: 1171
-potionDOubliToutOuRien: 1169
-potionDOubliTransfertDeVie: 1443
-potionDOubliTransposition: 1446
-potionDOubliTrefle: 1168
-potionDOubliTremblement: 1284
-potionDOubliTreve: 1195
-potionDOubliVagueALame: 7575
-potionDOubliVentEmpoisonne: 1297
-potionDOubliVitalite: 1215
-potionDOubliVolDuTemps: 1418
-potionDOubliVulnerabiliteAcqueuse: 7566
-potionDOubliVulnerabiliteIncandescente: 7563
-potionDOubliVulnerabiliteTerrestre: 7572
-potionDOubliVulnerabiliteVenteuse: 7569
-potionDOubliArmureAqueuse: 1193
-potionDOubliArmureVenteuse: 1191
-potionDOubliCawotte: 2068
-potionDOubliFlamiche: 2067
-potionDOubliContrecoup: 1514
-potionDOubliDInvocationDArakne: 6448
-potionDOubliDeChaferfu: 6447
-potionDOubliDeMaitrîseArc: 1605
-potionDOubliDeMaitrîseBaguette: 1606
-potionDOubliDeMaitrîseBaton: 1609
-potionDOubliDeMaitrîseDagues: 1603
-potionDOubliDeMaitrîseEpee: 1604
-potionDOubliDeMaîtriseHaches: 7388
-potionDOubliDeMaitrîseMarteau: 1607
-potionDOubliDeMaitrîsePelles: 1608
-potionDOubliDeMetierAlchimiste: 1598
-potionDOubliDeMetierBijoutier: 1592
-potionDOubliDeMetierBoucher: 2186
-potionDOubliDeMetierBoulanger: 1597
-potionDOubliDeMetierBricoleur: 8106
-potionDOubliDeMetierBûcheron: 1587
-potionDOubliDeMetierChasseur: 2185
-potionDOubliDeMetierCordomage: 7507
-potionDOubliDeMetierCordonnier: 1591
-potionDOubliDeMetierCostumage: 7505
-potionDOubliDeMetierForgemageDEpees: 1645
-potionDOubliDeMetierForgemageDeDagues: 1642
-potionDOubliDeMetierForgemageDeHaches: 1643
-potionDOubliDeMetierForgemageDeMarteaux: 1644
-potionDOubliDeMetierForgemageDePelles: 1646
-potionDOubliDeMetierForgeurDEpees: 1588
-potionDOubliDeMetierForgeurDeBouclier: 7421
-potionDOubliDeMetierForgeurDeDagues: 1542
-potionDOubliDeMetierForgeurDeHaches: 1601
-potionDOubliDeMetierForgeurDeMarteaux: 1590
-potionDOubliDeMetierForgeurDePelles: 1595
-potionDOubliDeMetierJoaillomage: 7506
-potionDOubliDeMetierMineur: 1596
-potionDOubliDeMetierPaysan: 1600
-potionDOubliDeMetierPecheur: 2183
-potionDOubliDeMetierPoissonnier: 2184
-potionDOubliDeMetierSculptemageDArcs: 1647
-potionDOubliDeMetierSculptemageDeBaguettes: 1648
-potionDOubliDeMetierSculptemageDeBatons: 1649
-potionDOubliDeMetierSculpteurDArcs: 1589
-potionDOubliDeMetierSculpteurDeBaguettes: 1594
-potionDOubliDeMetierSculpteurDeBaton: 1593
-potionDOubliDeMetierTailleur: 1599
-potionDOubliPercepteurCyclone: 7319
-potionDOubliPercepteurExperience: 7329
-potionDOubliPercepteurArmureAqueuse: 7314
-potionDOubliPercepteurArmureIncandescente: 7315
-potionDOubliPercepteurArmureTerrestre: 7316
-potionDOubliPercepteurArmureVenteuse: 7317
-potionDOubliPercepteurCompulsionDeMasse: 7324
-potionDOubliPercepteurDesenvoutement: 7323
-potionDOubliPercepteurDestabilisation: 7325
-potionDOubliPercepteurFlamme: 7318
-potionDOubliPercepteurMotSoignant: 7322
-potionDOubliPercepteurNombreDePercepteur: 7327
-potionDOubliPercepteurPods: 7326
-potionDOubliPercepteurProspection: 7328
-potionDOubliPercepteurRocher: 7321
-potionDOubliPercepteurVague: 7320
-potionDOubliMarteauDeMoon: 2069
-potionDOuragan: 1347
-potionDantegoulesque: 1677
-potionDeCamouflageImmobile: 9888
-potionDeCamouflageTotal: 9869
-potionDeCiteBonta: 6965
-potionDeCiteBrakmar: 6964
-potionDeCopeauxDeBois: 2539
-potionDeCopeauxDeBoisRares: 2543
-potionDeCopeauxDeBoisSolides: 2540
-potionDeCourantDAir: 1337
-potionDeCrachin: 1335
-potionDeDecouverte: 9037
-potionDeDeguisementBontarien: 9057
-potionDeDeguisementBrakmarien: 9056
-potionDeDeguisementCra: 9053
-potionDeDeguisementEcaflip: 9054
-potionDeDeguisementEniripsa: 9048
-potionDeDeguisementEnutrof: 9047
-potionDeDeguisementFeca: 9049
-potionDeDeguisementIop: 9044
-potionDeDeguisementOsamodas: 9051
-potionDeDeguisementPandawa: 9055
-potionDeDeguisementRoublard: 9058
-potionDeDeguisementSacrieur: 9052
-potionDeDeguisementSadida: 9046
-potionDeDeguisementSram: 9050
-potionDeDeguisementXelor: 9045
-potionDeFlambee: 1343
-potionDeFoyer: 2542
-potionDeFoyerDeGuilde: 8883
-potionDeGavage: 8597
-potionDeLecheBottes: 8478
-potionDeLecheBottes: 1: 8480
-potionDeLiberation: 9897
-potionDeLiberationDeMasse: 7497
-potionDeMetalLiquide: 2529
-potionDeMetalLourdLiquide: 2538
-potionDeMetalPrecieuxLiquide: 2541
-potionDeMiniSoin: 1182
-potionDeMiniSoinSuperieure: 1183
-potionDePouflage: 9870
-potionDeRafale: 1342
-potionDeRalliement: 7502
-potionDeRappel: 548
-potionDeRappelPrismatique: 9039
-potionDeRemouflage: 9558
-potionDeRenommageDeGuilde: 9903
-potionDeResurrectionDeMasse: 7496
-potionDeResurrectionForcee: 9529
-potionDeRocheflage: 9884
-potionDeSecousse: 1338
-potionDeSeisme: 1348
-potionDeSoinDeMasse: 9898
-potionDeSouflage: 9886
-potionDeSouvenir: 7652
-potionDeTabouflage: 9885
-potionDeToflage: 9882
-potionDeTombeflage: 9883
-potionDeTouflage: 9887
-potionDeTransformationEnWaWabbit: 8593
-potionDeTransgenese: 9535
-potionDeTsunami: 1346
-potionDeTwansfowmationEnWaWabbit: 8594
-potionDeVieillesse: 793
-potionDeVillageAerdala: 7427
-potionDeVillageAkwadala: 7429
-potionDeVillageDesBrigandins: 7430
-potionDeVillageDesDopeuls: 7431
-potionDeVillageDesKwaksDeGlace: 7499
-potionDeVillageDesKwaksDeTerre: 7432
-potionDeVillageFeudala: 7426
-potionDeVillageTerrdala: 7428
-potionDuVillageDesKwaksDeFeu: 7500
-potionDuVillageDesKwaksDeVent: 7501
-potionDuVillageDesZoths: 9036
-potionEauDeFee: 1405
-potionFumigeneCyclonique: 8431
-potionGhettoRaide: 580
-potionPahoaRaide: 1712
-potionRaideBoule: 1713
-potionVersAbraknydeAncestral: 10489
-potionVersBlopCocoRoyal: 10469
-potionVersBlopGriotteRoyal: 10470
-potionVersBlopIndigoRoyal: 10471
-potionVersBlopMulticoloreRoyal: 10481
-potionVersBlopReinetteRoyal: 10472
-potionVersBouftouRoyal: 10457
-potionVersBworker: 10496
-potionVersBworkette: 10463
-potionVersCheneMou: 10502
-potionVersCorailleurMagistral: 10482
-potionVersCraqueleurLegendaire: 10478
-potionVersCrocabulia: 10500
-potionVersDarkVlad: 10476
-potionVersDeminoboule: 10466
-potionVersDragonCochon: 10464
-potionVersGeleeRoyaleBleue: 10459
-potionVersGeleeRoyaleCitron: 10495
-potionVersGeleeRoyaleFraise: 10479
-potionVersGeleeRoyaleMenthe: 10467
-potionVersGourloLeTerrible: 10483
-potionVersKimbo: 10504
-potionVersKoulosse: 10487
-potionVersKralamoureGeant: 10608
-potionVersMaîtreCorbac: 10480
-potionVersMaîtrePandore: 10490
-potionVersMeulou: 10484
-potionVersMinotoror: 10475
-potionVersMinotot: 10498
-potionVersMobLEponge: 10456
-potionVersMominotor: 10465
-potionVersMoon: 10486
-potionVersOugah: 10503
-potionVersPekiPeki: 10501
-potionVersRatBlanc: 10474
-potionVersRatNoir: 10473
-potionVersScarabosseDore: 10462
-potionVersShinLarve: 10460
-potionVersSilfLeRasboulMajeur: 10499
-potionVersSkeunk: 10488
-potionVersSphincterCell: 10497
-potionVersTanukouiSan: 10477
-potionVersTofuRoyal: 10468
-potionVersTournesolAffame: 10458
-potionVersTynril: 10491
-potionVersTynrilConsterne: 10492
-potionVersTynrilDeconcerte: 10493
-potionVersTynrilPerfide: 10494
-potionVersWaWabbit: 10485
-potionVersWabbitGm: 10461
-potionWabbit: 960
-poudreACanon: 1872
-poudreDArtifice: 6601
-poudreDEniripsa: 2239
-poudreDOnglesIncarnes: 9527
-poudreDePerlinpainpain: 519
-poudreDeResurrection: 8012
-poudreDeSang: 2312
-poudreExplosiveDeGourlo: 8761
-poudreTemporelle: 1986
-pouflage: 9904
-poumonDeLaPlaine: 2141
-poupeeEnchantee: 10022
-poupeeMalmenee: 10020
-poupeeRafistolee: 10021
-poupeeVaudouArcher: 2628
-poupeeVaudouJav: 2626
-poupeeVaudouSarbak: 2627
-poupeeVaudouThierry: 2625
-pousseDeTanfouguite: 9622
-poussesDeBambou: 7015
-poussesDeBulbambou: 7268
-poussiereDOni: 2355
-poutreEnBoisDeKokoko: 1003
-predictionDeParoCabanne: 2362
-premierNoël: 1717
-premiereClefDuDonjonDeSphincter: 8476
-premierePartieDeLaClefDuLabyrintheDuDragonCochon: 7509
-prismeDeConquete: 8990
-prosperite: 7396
-protectionDeLaDragueuse: 8358
-protectionUsageeDuBworker: 6904
-protegeTibiasAncestraux: 8467
-puissanceDeCrocoburio: 1720
-puissantAnneauDAgilite: 121
-puissantAnneauDeChance: 112
-puissantAnneauDeSagesse: 103
-puissantArcBuse: 1095
-puissantArcDeBoisaille: 91
-puissantArcDeroutant: 267
-puissantBatonDeBoisaille: 140
-puissantBatonFeuillu: 185
-puissantMarteauDIvoire: 230
-puissantMarteauDeBoisaille: 147
-puissantMarteauDeRaclage: 224
-puissantMarteauPospodrol: 1083
-puissantParcheminDAgilite: 801
-puissantParcheminDIntelligence: 817
-puissantParcheminDeChance: 814
-puissantParcheminDeForce: 797
-puissantParcheminDeSagesse: 805
-puissantParcheminDeVitalite: 810
-puissanteAmuletteDeLOurs: 77
-puissanteAmuletteDuHibou: 70
-puissanteAmuletteDuLoup: 84
-puissanteBaguetteDIntelligence: 832
-puissanteBaguetteDeBoisaille: 134
-puissanteBaguetteDeGlace: 165
-puissanteBaguetteDeSagesse: 835
-puissanteCapeFulgurante: 8866
-puissanteCeintureFulgurante: 2369
-puissanteEpeeDAlle: 55
-puissanteEpeeDHa: 62
-puissanteEpeeDUrandal: 6642
-puissanteEpeeDeBoisaille: 44
-puissanteEpeeDeFouraille: 49
-puissanteEpeeDeSerianeKerm: 6677
-puissanteEpeeSacree: 821
-puissanteGarde: 9901
-puissanteLameDeFon: 1035
-puissanteMasseAjTaye: 1079
-puissantePelleDeBoisaille: 153
-puissantePelleDeCrapouille: 241
-puissantePelleDeRapage: 247
-puissantePelleDuCraqueleur: 296
-puissantePelleMelle: 1049
-puissantePelleTeuze: 484
-puissantePotionDAgression: 9042
-puissantesBottesDeConcentration: 889
-puissantesBottesDeKlime: 924
-puissantesBottesDePoursuite: 909
-puissantesDaguesDeBoisaille: 97
-puissantesDaguesDeFouraille: 208
-puissantesDaguesEguisees: 900
-puissantesDaguesSylvestres: 896
-pyrute: 7035
-qilBil: 6873
-queueDeChefDeGuerreBouftou: 2464
-queueDeCrocGland: 2501
-queueDeDragodinde: 2594
-queueDeDragodindeRousseSauvage: 2591
-queueDeDragonCochon: 2644
-queueDeKoalakSanguin: 8063
-queueDeKolerat: 2496
-queueDeMinotoror: 2667
-queueDePrespic: 2573
-queueDeSanglierDesPlaines: 2512
-queueDeScorbute: 1893
-queueDuMulou: 438
-queueEmplumeeDuRasboulMajeur: 8798
-queueMagiqueDuPeki: 8381
-queuesDeChatons: 1030
-raaga: 2169
-racineCithi: 7176
-racineDAbraknyde: 435
-racineDAbraknydeAncestral: 8496
-racineDAbraknydeSombre: 1612
-racineDeBulbambou: 7264
-racineDeBulbiflore: 7262
-racineDeBulbig: 7265
-racineDeBulbuisson: 7263
-racineDeFecorce: 8849
-racineDeFloribonde: 8850
-racineDeFourbasse: 6735
-racineDeTronkoblop: 9383
-racineDuCheneMou: 6488
-racineHecouanone: 7182
-racineHecure: 7185
-racineHistre: 7184
-racineHorodon: 7178
-racineHuzohide: 7183
-racineMagiqueDeBambouto: 7290
-racineMagiqueDeBamboutoSacre: 7291
-racineSauvageonne: 6524
-racineSemilla: 7181
-rage: 7134
-ragnarok: 234
-raide: 1980
-raieBleue: 1784
-raieBleueVidee: 1785
-raieDeFarle: 1788
-raieDeFarleVidee: 1789
-ramoumeLEternelle: 2368
-rapportDActiviteDuQuartier: 6810
-rapportDEspionnage: 1937
-rapportDExpertise: 9959
-rapportDeFincheAticus: 2081
-rapportDeLEspion: 2255
-rapportDeLEspionSram: 6779
-rapportDeRaaga: 2171
-rapportSuspicieux: 10006
-razielle: 202
-razoirDuSoir: 7198
-recetteDeLaCordeDEscalade: 10518
-recetteDeLaNocabregor: 2116
-recetteDesPierresDeSouillure: 10520
-recetteDesPierresDeSouillureImpures: 10519
-recetteDuDofusEnChocolat: 7130
-recetteDuSonacixem: 2123
-recompenseDeMissionSrvtmercenaryShortName: 7439
-reçuDeCaisse: 2045
-reçuPourLeRadeau: 1005
-redoutableMasseTmosfer: 1071
-reflexesSoushumains: 2568
-registreDeBonta: 9488
-registreDeBrakmar: 9489
-registreDesClients: 10008
-registreDesRondes: 10023
-reliqueDeGourloLeTerrible: 8672
-reliqueDuCorailleurMagistral: 8671
-reliqueDuDeminoboule: 8306
-reliqueDuKimbo: 8675
-reliqueDuMominotor: 8305
-reliqueDuRasboulMajeur: 8673
-reliqueDuTynril: 8674
-rembourrageDeMeupette: 8790
-rendezVousDeXarthan: 10087
-reponseDeVilSmisse: 2084
-requinAuxEpices: 2: 1838
-requinAuxEpices: 3: 1839
-requinAuxEpices: 4: 1840
-requinMarcheLibre: 1853
-requinMarcheLibreVide: 1854
-requinMarteauFaucille: 602
-requinMarteauFaucilleVide: 1852
-resineDAbraknyde: 1985
-respirateurAquatique: 2313
-rhizomeDore: 347
-rhizomeDuTynril: 8838
-rhumDeQualite: 2620
-rhumFourbe: 2633
-riz: 7018
-robeDeLaMariee: 8606
-rocheflage: 9907
-rodGerse: 7189
-rokGnorok: 7351
-roseDemoniaqueCoupee: 6818
-ross: 8677
-rotuleDuDiscipleZoth: 8803
-roublardAttitude: 2348
-rougely: 994
-routeEtCheminForetMaudite: 7179
-rubis: 467
-runeAge: 1524
-runeCha: 1525
-runeCri: 7433
-runeDeBricoleur: 8377
-runeDeChasse: 10057
-runeDeCostumage: 7492
-runeDeLAlchimiste: 7463
-runeDeSertimage: 7491
-runeDeSignature: 7508
-runeDeTransport: 1573
-runeDo: 7435
-runeDoPer: 7436
-runeDoRen: 7437
-runeDuBijoutier: 7464
-runeDuBoucher: 7465
-runeDuBoulanger: 7466
-runeDuBûcheron: 7467
-runeDuChasseur: 7468
-runeDuCordomage: 7490
-runeDuCordonnier: 7469
-runeDuForgemageDEpees: 7482
-runeDuForgemageDeDagues: 7483
-runeDuForgemageDeHaches: 7485
-runeDuForgemageDeMarteaux: 7484
-runeDuForgemageDePelles: 7486
-runeDuForgeurDEpees: 7470
-runeDuForgeurDeBoucliers: 7471
-runeDuForgeurDeDagues: 7472
-runeDuForgeurDeHaches: 7473
-runeDuForgeurDeMarteaux: 7474
-runeDuForgeurDePelles: 7475
-runeDuMineur: 7461
-runeDuPaysan: 7462
-runeDuPecheur: 7477
-runeDuPoissonnier: 7476
-runeDuSculptemageDArcs: 7487
-runeDuSculptemageDeBaguettes: 7488
-runeDuSculptemageDeBatons: 7489
-runeDuSculpteurDArcs: 7478
-runeDuSculpteurDeBaguettes: 7479
-runeDuSculpteurDeBatons: 7480
-runeDuTailleur: 7481
-runeFo: 1519
-runeGaPa: 1557
-runeGaPme: 1558
-runeIne: 1522
-runeIni: 7448
-runeInvo: 7442
-runePaAge: 1549
-runePaCha: 1550
-runePaDoPer: 10618
-runePaFo: 1545
-runePaIne: 1547
-runePaIni: 7449
-runePaPi: 10613
-runePaPiPer: 10615
-runePaPod: 7444
-runePaProspe: 10662
-runePaSa: 1546
-runePaVi: 1548
-runePi: 7446
-runePiPer: 7447
-runePo: 7438
-runePod: 7443
-runeProspe: 7451
-runeRaAge: 1555
-runeRaCha: 1556
-runeRaDoPer: 10619
-runeRaFo: 1551
-runeRaIne: 1553
-runeRaIni: 7450
-runeRaPiPer: 10616
-runeRaPod: 7445
-runeRaSa: 1552
-runeRaVi: 1554
-runeReAir: 7453
-runeReEau: 7454
-runeReFeu: 7452
-runeReNeutre: 7456
-runeRePerAir: 7458
-runeRePerEau: 7560
-runeRePerFeu: 7457
-runeRePerNeutre: 7460
-runeRePerTerre: 7459
-runeReTerre: 7455
-runeSa: 1521
-runeSo: 7434
-runeVi: 1523
-runeVie: 8379
-ruskauffe: 8530
-rutile: 7036
-sabine: 9993
-sabotDeBouftou: 2451
-sabotDeChefDeGuerreBouftou: 2467
-sabotDeSanglierDesPlaines: 2514
-sabotDuMinotoror: 2666
-sabotDuMinotot: 8408
-sabotsDeFarle: 6774
-sabotsDeShika: 8301
-sabreFeudala: 7257
-sabreNidanwa: 7201
-sabreSandanwa: 7202
-sabreShodanwa: 7200
-sabreYondanwa: 7203
-sabroh: 9938
-sacAPatatesClair: 1683
-sacAPatatesSombre: 1684
-sacARemplacer: 6657
-sacDArgent: 7978
-sacDAvoine: 7943
-sacDEdelweiss: 7969
-sacDEtain: 7976
-sacDOr: 7980
-sacDOrchideeFreyesque: 7968
-sacDOrge: 7942
-sacDeBarsRikains: 7992
-sacDeBauxite: 7979
-sacDeBle: 7941
-sacDeBoisDEbene: 7960
-sacDeBoisDErable: 7956
-sacDeBoisDIf: 7957
-sacDeBoisDOliviolet: 7955
-sacDeBoisDOrme: 7962
-sacDeBoisDeBambou: 7958
-sacDeBoisDeBambouSacre: 7963
-sacDeBoisDeBambouSombre: 7961
-sacDeBoisDeBombu: 7954
-sacDeBoisDeCharme: 8081
-sacDeBoisDeChataignier: 7951
-sacDeBoisDeChene: 7953
-sacDeBoisDeFrene: 7950
-sacDeBoisDeKaliptus: 7996
-sacDeBoisDeMerisier: 7959
-sacDeBoisDeNoyer: 7952
-sacDeBoubaLeProphete: 9945
-sacDeBrochets: 7988
-sacDeBronze: 7973
-sacDeCarpes: 7989
-sacDeChanvre: 7949
-sacDeCrabesSourimis: 7986
-sacDeCuivre: 7972
-sacDeDolomite: 7981
-sacDeFer: 7971
-sacDeFleursDeChanvre: 7965
-sacDeFleursDeLin: 7964
-sacDeGoujons: 7982
-sacDeGrainesDePandouille: 7970
-sacDeGrainsDEpyss: 6847
-sacDeGreuVettes: 7985
-sacDeHoublon: 7944
-sacDeKobalte: 7974
-sacDeKralamoures: 7991
-sacDeLAventurier: 1705
-sacDeLin: 7945
-sacDeMalt: 7948
-sacDeManganese: 7975
-sacDeMentheSauvage: 7967
-sacDePatates: 8923
-sacDePerches: 7994
-sacDePoissonsChatons: 7984
-sacDePoissonsPanes: 7987
-sacDeRaies: 7993
-sacDeRequinsMarteauFaucilles: 7995
-sacDeRiz: 7947
-sacDeSardines: 7990
-sacDeSeigle: 7946
-sacDeSilicate: 7977
-sacDeTreflesACinqFeuilles: 7966
-sacDeTruites: 7983
-sacDuGrandAventurier: 1707
-sacDuGrandRecolteur: 1703
-sacDuKoulosse: 7888
-sacDuPaysan: 8131
-sacDuPetitAventurier: 1699
-sacDuPetitMoskito: 6916
-sacDuPetitRecolteur: 1698
-sacDuRecolteur: 1702
-sacDuStacaNoviste: 1704
-sacSurpriseDuChanceux: 6655
-sacSurpriseDuChanceux: 1: 6656
-sacCawotte: 6501
-sacrieurAttitude: 2224
-sacrumMagistral: 8738
-sadidaAttitude: 2216
-sakananas: 7581
-saladeDeMuseau: 1970
-saladeDeMuseau: 2: 1971
-saladeDeMuseau: 3: 1972
-sanctionSrvtmercenaryShortName: 7440
-sandalesAdin: 7218
-sandalesAiluya: 7219
-sandalesCirculairesDuKimbo: 8861
-sandalesDIntelligence: 862
-sandalesDuMinotot: 8277
-sandalesDuPiouBleu: 8226
-sandalesDuPiouJaune: 8229
-sandalesDuPiouRose: 8230
-sandalesDuPiouRouge: 8225
-sandalesDuPiouVert: 8228
-sandalesDuPiouViolet: 8227
-sandalesHambic: 7217
-sandalesHumeuses: 7215
-sandalesKoliques: 7216
-sandalesMacien: 7214
-sandalesPapayou: 9655
-sandalesTitude: 7513
-sandalesTofuesques: 298
-sangDOni: 838
-sangDeBouftou: 2455
-sangDeDragonCochon: 477
-sangDeLikrone: 1406
-sangDePhenix: 1741
-sangDePhenixDeGrandCru: 1742
-sangDeRatDHyoactif: 6602
-sangDeScorbute: 2012
-sangDeWabbitGm: 1746
-sangDuVampire: 752
-sanglature: 6908
-sangleCible: 8660
-sangleGlinglin: 8653
-sangleHans: 8657
-sangleHolon: 8655
-sangleHuee: 8659
-sangleHynere: 8651
-saphir: 466
-sardineALHuile: 3: 1826
-sardineALHuile: 2: 1825
-sardineALHuile: 4: 1827
-sardineBrillante: 1805
-sardineBrillanteVidee: 1806
-sardineSombre: 1807
-sardineSombreVidee: 1808
-sargasse: 237
-scalpDeBworkArcher: 2268
-scalpDeBworkMage: 3209
-scalpDeMeulou: 2577
-scalpDeMilimulou: 2576
-scalpDeMulou: 2575
-scalpelDeBworknroll: 8513
-scarabottesDorees: 8122
-scaracapeBlanche: 6943
-scaracapeBleue: 6941
-scaracapeDoree: 8117
-scaracapeNoire: 8134
-scaracapeRouge: 6942
-scaracapeVerte: 6940
-scaracoiffeBlanche: 6938
-scaracoiffeBleue: 6939
-scaracoiffeDoree: 8116
-scaracoiffeNoire: 8133
-scaracoiffeRouge: 6937
-scaracoiffeVerte: 6936
-scaranneauBlanc: 6946
-scaranneauBleu: 6947
-scaranneauNoir: 8136
-scaranneauRouge: 6945
-scaranneauVert: 6944
-scaratureBlanche: 6949
-scaratureBleue: 6951
-scaratureDoree: 8119
-scaratureNoire: 8132
-scaratureRouge: 6950
-scaratureVerte: 6948
-sceauSouverainDuRoissingue: 8859
-sceptreDuMinotot: 8275
-schemaDeLaPinceALinge: 10018
-seFaireDesAmisEtLesGarder: 7930
-seauDePincesALinge: 10019
-seigle: 532
-seigleResistant: 2029
-sel: 284
-selleEnCuir: 2555
-senilite: 2202
-sepaleDeNerbe: 8780
-serenite: 2201
-seringueDeNibeLulle: 6815
-seringueDeVeterinaire: 1745
-sertisseur: 491
-sertisseurDeRamougre: 7191
-sertisseurDuJoaillomage: 7493
-seveDAbraknyde: 792
-seveDAbraknydeRetravaillee: 501
-shako: 2070
-shigekaxAcidule: 9634
-shigekaxAcidule: 1: 9643
-shigekaxAmande: 9625
-shigekaxAmande: 1: 9635
-shigekaxBanane: 8938
-shigekaxBanane: 1: 8949
-shigekaxCaramel: 8945
-shigekaxCaramel: 1: 8948
-shigekaxCerise: 992
-shigekaxChocolat: 8944
-shigekaxChocolat: 1: 8953
-shigekaxCitron: 989
-shigekaxCoco: 9630
-shigekaxCoco: 1: 9639
-shigekaxFraise: 990
-shigekaxGriotte: 9628
-shigekaxGriotte: 1: 9637
-shigekaxIndigo: 9629
-shigekaxIndigo: 1: 9638
-shigekaxKillCoos: 10677
-shigekaxMelon: 8947
-shigekaxMelon: 1: 8955
-shigekaxMenthe: 991
-shigekaxMirabelle: 9633
-shigekaxMirabelle: 1: 9642
-shigekaxOrange: 8943
-shigekaxOrange: 1: 8950
-shigekaxPassion: 9472
-shigekaxPoire: 8942
-shigekaxPoire: 1: 8951
-shigekaxPomme: 8939
-shigekaxPomme: 1: 8952
-shigekaxPraline: 9632
-shigekaxPraline: 1: 9641
-shigekaxPrune: 9631
-shigekaxPrune: 1: 9640
-shigekaxReinette: 9626
-shigekaxReinette: 1: 9636
-shigekaxVanille: 8946
-shigekaxVanille: 1: 8954
-shikacoiffe: 8304
-shikature: 8303
-shushuDeRushu: 9785
-siffletDAppel: 10084
-silex: 448
-silexSanglant: 1326
-silicate: 7032
-simpleBatonDesRois: 1161
-sixDofusFragmentsRetrouvesV: 7362
-slipDeBworkArcher: 3208
-slipDeTrool: 2562
-slipDuChefBwork: 6812
-slipEnCuirDeCochonDeLait: 2646
-slipEnCuirDePorkass: 2480
-slipEnCuirDuChaferLancier: 485
-slipEnCuirMoulantDuVampire: 756
-slipKangouwouDuWabbitGm: 6498
-soki: 6768
-solideMasseDHa: 1062
-solomonk: 7143
-sombreroDePepitox: 9188
-sortMaîtriseDeLArc: 726
-sortMaîtriseDeLEpee: 725
-sortMaîtriseDeLaBaguette: 728
-sortMaîtriseDeLaHache: 8087
-sortMaîtriseDeLaPelle: 730
-sortMaîtriseDesDagues: 729
-sortMaîtriseDuBaton: 724
-sortMaîtriseDuMarteau: 727
-soucheDeLAbrakleurClair: 8797
-souflage: 9909
-soulierDePorkass: 2482
-souliersLaquesDuParrain: 9542
-souliersVernisDePorkass: 6471
-souplesse: 1982
-sourcilDeMoskito: 371
-sourcilDuRasboulMajeur: 8764
-sourcilsDeTronknyde: 2564
-sourisVerte: 1771
-sousouris: 6770
-souvenirDEnutrof: 1498
-sphereAMetarias: 1634
-spormeDuChampChamp: 378
-sramAttitude: 2226
-stringAutomnalDuCheneMou: 8473
-stringDuMulou: 6955
-stringTueMouche: 9143
-stupidite: 1981
-sublimePierreDAme: 9475
-sublimePierreDAmeHasardeuse: 9474
-sublimePierreDAmeHeureuse: 9476
-sucetteTofu: 6666
-sucetteTrool: 6667
-sucreDOrge: 2034
-sulik: 6988
-superRecompenseDeMissionSrvtmercenaryShortName: 9523
-superbeDagueFourbesque: 1038
-surpuissantArcDuRoiDesBorins: 1128
-surpuissantChachaDeCombatMj: 6894
-surpuissantesBottesDeKlime: 905
-symboleDeLEtrange: 1506
-tabouflage: 9908
-tacticien: 9096
-tailladeuseDArc: 500
-tailladeuseDArcsMagiques: 1563
-tailladeuseDeBaguette: 499
-tailladeuseDeBaguettesMagiques: 1564
-tailladeuseDeBaton: 498
-tailladeuseDeBatonsMagiques: 1565
-talismanDElyaWood: 7003
-talismanDuCheneMou: 8469
-talismanDuFaucheurDAvoine: 7001
-talonDAchilleDeLAbrakleurSombre: 8784
-tartamulette: 9193
-teintureMagiqueBleutee: 1688
-teintureMagiqueDeRougeur: 1686
-teintureMagiqueOrange: 1689
-teintureMagiqueSombre: 1692
-teintureMagiqueVerdatre: 1687
-terraCogita: 10077
-terrifianteBaguetteHeure: 1104
-terrine: 1733
-testamentDIxaMustam: 2078
-testiculesDeMeulou: 2582
-testiculesDuMulou: 292
-testiculesDuTanukouiSan: 7386
-testiculesMagiquesDuMeulou: 2806
-testiculesMagiquesDuMulou: 2805
-teteDeCitwouille: 8162
-teteDuPaysanEnDetresse: 974
-tibiaDeKoalakFossoyeur: 8057
-tibiaDuChefDesVoleurs: 9948
-tibiaDuGuerrierZoth: 8802
-ticketDeLaFoireDuTrool: 6653
-ticketDeLoterie: 7220
-ticketÎleDeMoon: 1089
-tifoux: 8155
-tigeDePissenlitDiabolique: 373
-tigeDuBrouture: 8836
-tissuInvisible: 2278
-tissuPourpre: 2273
-tissuSanguin: 2281
-tissuSombre: 2285
-titiGobelait: 8563
-tiwabbitKiafin: 9619
-toady: 2641
-toflage: 9905
-toilePeuRagoutante: 999
-tombeflage: 9906
-tongAclou: 8669
-tonguesBaques: 7104
-tonguesDuDimancheDuCheneMou: 8471
-tonguesWabbits: 6493
-tonneauVide: 1000
-topaze: 7027
-torqueAncestral: 8465
-touffeDEcaflip: 6684
-touffeDEniripsa: 6685
-touffeDEnutrof: 6681
-touffeDIop: 6686
-touffeDOsamodas: 6680
-touffeDeCheveux: 2350
-touffeDeCheveuxBlancs: 2282
-touffeDeCheveuxDeDikeTarak: 2129
-touffeDeCheveuxDePuja: 2193
-touffeDeCheveuxDeTarche: 1726
-touffeDeCheveuxDeTorche: 1744
-touffeDeCra: 6687
-touffeDeFeca: 6679
-touffeDePoilsDeGrimpill: 10000
-touffeDePoilsDuTavernierBagrutte: 9932
-touffeDeSacrieur: 6689
-touffeDeSadida: 6688
-touffeDeSram: 6682
-touffeDeXelor: 6683
-touffeRousseDuFlib: 8755
-touflage: 9910
-tourbeSecheeDeTourbassingue: 8810
-tourmenteurDeFeuille: 9546
-tourmenteurDeFlamme: 9545
-tourmenteurDeGoutte: 9547
-tourmenteurDeNuage: 9548
-tourmenteurDeTenebres: 9544
-toutPetitCadeauDeNowel: 8335
-trancheDeNodkoko: 2617
-trancheDeTronknyde: 2565
-trancheDesSousBois: 9145
-trancheMagiqueDeTronknyde: 2566
-trancheuseDIf: 502
-trancheuseDeNoyer: 675
-trancheuseDePartie: 2603
-transformationAbraknyde: 1722
-transformationBouftouDHalouine: 8169
-transformationBwak: 7356
-transformationChacha: 7061
-transformationCrocoburio: 1740
-transformationDuDonjonAbraknyde: 8449
-transformationFantômeAbraKadabra: 8187
-transformationFantômeAtouin: 8042
-transformationFantômeBebePandawa: 8567
-transformationFantômeBilby: 8021
-transformationFantômeBouloute: 8186
-transformationFantômeBoulouteDuParrain: 9597
-transformationFantômeBwakAir: 8022
-transformationFantômeBwakEau: 8023
-transformationFantômeBwakFeu: 8024
-transformationFantômeBwakTerre: 8025
-transformationFantômeBworky: 8188
-transformationFantômeChacha: 8013
-transformationFantômeChachaAngora: 9668
-transformationFantômeChachaTigre: 8886
-transformationFantômeCorbac: 8026
-transformationFantômeCrocodaille: 9672
-transformationFantômeCroum: 8027
-transformationFantômeDragoune: 8028
-transformationFantômeDragouneNoire: 9673
-transformationFantômeEcureuilChenapan: 8029
-transformationFantômeElScarador: 8185
-transformationFantômeFëanor: 8709
-transformationFantômeFotome: 8031
-transformationFantômeKoalakSanguin: 8045
-transformationFantômeLeopardo: 8030
-transformationFantômeMarcassin: 8032
-transformationFantômeMiniWa: 8049
-transformationFantômeMinimino: 8033
-transformationFantômeMiniminotot: 9670
-transformationFantômeNomoon: 8034
-transformationFantômePeki: 8041
-transformationFantômePetitChachaBlanc: 8079
-transformationFantômePetitChienchienNoir: 8080
-transformationFantômePiouteBleu: 8035
-transformationFantômePiouteJaune: 8036
-transformationFantômePiouteRose: 8037
-transformationFantômePiouteRouge: 8038
-transformationFantômePiouteVert: 8039
-transformationFantômePiouteViolet: 8040
-transformationFantômeRoss: 8688
-transformationFantômeShushuDeRushu: 9809
-transformationFantômeTifoux: 8184
-transformationFantômeTiwabbitKiafin: 9669
-transformationFantômeWabbit: 8043
-transformationFantômeWillyLeRelou: 8044
-transformationMarcassin: 7357
-transformationTofuDHalouine: 8170
-transformationWalk: 8566
-traumatisanteBaguetteDHouvette: 1140
-trefleA: 5Feuilles: 395
-tresseDuKoulosse: 8403
-tresseDuPoolay: 8786
-tridentCasse: 2484
-trinsfirmitikIkNikiril: 8547
-trofHapyus: 2134
-trompeDeLaTromperelle: 9267
-troncDeKokoko: 1002
-trousseauDeClefs: 10207
-truite: 1844
-truiteAncestrale: 1846
-truiteAncestraleVidee: 1976
-truiteFlambee: 2: 1832
-truiteFlambee: 3: 1833
-truiteFlambee: 4: 1834
-truiteVaseuse: 607
-truiteVidee: 1845
-trukikolMort: 2607
-tubeLongiforme: 1459
-tueuseDeChenes: 456
-tutuRose: 9366
-twansfowmationEnWabbit: 8548
-uneFioleDePandaburg: 7045
-uneFioleDePandapiler: 7046
-uneFioleDePandapils: 7047
-uneFioleDePandneken: 7055
-vampyrette: 10106
-vegacape: 2489
-vegacoiffe: 2485
-vegamu: 2498
-veninDeScorbute: 1874
-veninDeSerpentin: 2508
-ventouseDuKralamoureGeant: 8813
-verDAir: 2652
-verDEau: 2650
-verDeFeu: 2651
-verDeTerre: 2649
-veritableBatonDeFausseMagie: 1147
-vertgely: 993
-verveine: 1344
-viandeDOiseau: 1896
-viandeDOiseau: 2: 1897
-viandeDOiseau: 4: 1933
-viandeDOiseauConservee: 1987
-viandeDOiseauConservee: 2: 1988
-viandeDOiseauConservee: 4: 1989
-viandeDeCrocodaille: 8500
-viandeDeCrocodailleConservee: 8503
-viandeDeKanigrou: 8498
-viandeDeKanigrouConservee: 8501
-viandeDeKoalak: 8499
-viandeDeKoalakConservee: 8502
-vieilOsDeDragoeuf: 848
-vieuxBouquin: 2338
-vieuxGrimoireBwork: 10024
-vieuxTrefleA: 4Feuilles: 1332
-vilainPetitCorbac: 7703
-vinDeGloutovore: 2079
-visceresDeScarafeuille: 2294
-visceresDeScorbute: 2488
-visceresDuScarabosseDore: 8137
-voileDEncre: 8876
-vougeAPoisson: 2612
-voyagerSansJamaisPerdreLeNord: 7934
-wabbit: 1748
-wabbitGwille: 1962
-wabbitGwille: 2: 1963
-wabbitGwille: 3: 1964
-wabbitGwille: 4: 1965
-walk: 8211
-willyLeRelou: 7892
-willyLeRelouBienLElever: 7900
-wornTreasureMap: 8851
-xaveur: 270
-xelorAttitude: 2215
-xenature: 7140
-xephires: 10009
-yugolette: 10155
-yugonnet: 10552
-yugoufle: 10156
-yugure: 10157
-zatoishwan: 7354
-zothulette: 8863
+  arcDitKeha1: 1113,
+  arcDitKeha2: 1114,
+  arcDitKeha3: 1115,
+  arcDitKeha4: 1116,
+  batonDeDina: 1367,
+  lesProphetes: 8011,
+  abraKadabra: 8153,
+  abraKadabraBienLElever: 8318,
+  abrabottes: 2423,
+  abracapa: 2413,
+  abracapaAncestrale: 8464,
+  abracape: 948,
+  abracaska: 2410,
+  abracaskaAncestral: 8463,
+  abraknydiVivitus: 791,
+  abranneau: 836,
+  abranneauMou: 1559,
+  abranneauSombre: 1602,
+  abrarc: 1620,
+  abraton: 2417,
+  abratonSombre: 6454,
+  abrature: 2429,
+  abratureAncestrale: 8468,
+  abreuvoirClassique: 7605,
+  abreuvoirEnBambou: 7602,
+  abreuvoirEnBambouDore: 7676,
+  abreuvoirEnBambouMagique: 7677,
+  abreuvoirEnBambouSacre: 7604,
+  abreuvoirEnBambouSombre: 7603,
+  abreuvoirEnBoisAncestral: 7673,
+  abreuvoirEnBoisDeBambouto: 7678,
+  abreuvoirEnBoisDeBamboutoSacre: 7679,
+  abreuvoirEnBoisDeKokoko: 7682,
+  abreuvoirEnBoisDeTronknyde: 7675,
+  abreuvoirEnBoisEnvoûte: 7674,
+  abreuvoirEnBombu: 7600,
+  abreuvoirEnCharme: 7594,
+  abreuvoirEnChataigner: 7593,
+  abreuvoirEnChene: 7591,
+  abreuvoirEnEbene: 7598,
+  abreuvoirEnErable: 7592,
+  abreuvoirEnFrene: 7590,
+  abreuvoirEnIf: 7597,
+  abreuvoirEnMerisier: 7596,
+  abreuvoirEnNoyer: 7595,
+  abreuvoirEnOliviolet: 7601,
+  abreuvoirEnOrme: 7599,
+  accord: 1480,
+  acteDePropriete: 2360,
+  adresseDeRimaraf: 2176,
+  aermyneBracoScalptaras: 7350,
+  agathe: 7028,
+  agride: 782,
+  aigueMarine: 7026,
+  aiguilleDuCostumage: 7494,
+  aiguillesEtFil: 951,
+  aileDeDragodinde: 2588,
+  aileDeDragodindeRousseSauvage: 2586,
+  aileDeDragoeufVolant: 8359,
+  aileDeRaie2: 1815,
+  aileDeRaie3: 1816,
+  aileDeRaie4: 1831,
+  aileDuBitoufDesPlaines: 8767,
+  aileDuTofuMalefique: 376,
+  ailesCassees: 1022,
+  ailesDeMoskito: 307,
+  ailesDeScarafeuilleBlanc: 1456,
+  ailesDeScarafeuilleBleu: 1455,
+  ailesDeScarafeuilleRouge: 1457,
+  ailesDeScarafeuilleVert: 1458,
+  ailesDuScarabosseDore: 8161,
+  ailesDuScarafeuilleNoir: 8141,
+  ailesEnBois: 1021,
+  ailesEnBoisAmeliorees: 8919,
+  alliance: 1501,
+  allianceAerdala: 7249,
+  allianceAkwadala: 7246,
+  allianceBoletee: 9133,
+  allianceDElyaWood: 6998,
+  allianceDeCorail: 8860,
+  allianceDeFarle: 6469,
+  allianceDeLHommeOurs: 6722,
+  allianceDeSilimelle: 732,
+  allianceDuChampChamp: 6920,
+  allianceEthnique: 7117,
+  allianceFeudala: 7248,
+  allianceTerrdala: 7247,
+  aluminite: 747,
+  ambramuletteArackne: 1662,
+  ambramuletteMoskito: 1661,
+  ambre: 463,
+  ambreAncestrale: 918,
+  ambreDAbraknyde: 464,
+  ambreDAbraknydeSombre: 1660,
+  ambreDeBambouto: 7369,
+  ambreDeBamboutoSacre: 7370,
+  ambreDuCheneMou: 6490,
+  ambreDuTynril: 8916,
+  ameDuKralamoure: 9720,
+  amrothiline: 6518,
+  amublopCoco: 9151,
+  amublopCocoRoyale: 9155,
+  amublopGriotte: 9149,
+  amublopGriotteRoyale: 9153,
+  amublopIndigo: 9152,
+  amublopIndigoRoyale: 9156,
+  amublopMulticoloreRoyale: 9157,
+  amublopReinette: 9150,
+  amublopReinetteRoyale: 9154,
+  amufafah: 8880,
+  amukwakDeFlammes: 2424,
+  amukwakDeGlace: 6731,
+  amukwakDeTerre: 6746,
+  amukwakDuVent: 6747,
+  amuletteDentsDeWabbits: 6499,
+  amuletteAerdala: 7253,
+  amuletteAkwadala: 7250,
+  amuletteArgie: 4381,
+  amuletteDeJiva: 2155,
+  amuletteDeKrokette: 324,
+  amuletteDeLAventurier: 2478,
+  amuletteDeLHommeOurs: 6723,
+  amuletteDeLOurs: 75,
+  amuletteDeLaBouboule: 2391,
+  amuletteDeLaBoule: 2390,
+  amuletteDeLear: 9528,
+  amuletteDePandala: 7105,
+  amuletteDeShika: 6466,
+  amuletteDeSilicate: 916,
+  amuletteDeXelor: 1474,
+  amuletteDesAbîmes: 639,
+  amuletteDesChamps: 6789,
+  amuletteDeulegarnoulle: 326,
+  amuletteDuBadoul: 2389,
+  amuletteDuBandit: 6923,
+  amuletteDuBoufcoul: 7880,
+  amuletteDuBouftou: 2425,
+  amuletteDuBûcheron: 783,
+  amuletteDuChafer: 458,
+  amuletteDuChefBwork: 6804,
+  amuletteDuChefCrocodaille: 6817,
+  amuletteDuCraqueleur: 1476,
+  amuletteDuCraqueleurDesPlaines: 4684,
+  amuletteDuCraqueleurLegendaire: 8150,
+  amuletteDuDragoeuf: 8290,
+  amuletteDuHibou: 68,
+  amuletteDuKamAssutra: 323,
+  amuletteDuKitsou: 7342,
+  amuletteDuKoalak: 8003,
+  amuletteDuLoup: 82,
+  amuletteDuMarin: 616,
+  amuletteDuMineurSombre: 6459,
+  amuletteDuMominotor: 8411,
+  amuletteDuMoskito: 6918,
+  amuletteDuPecheurDeSomoon: 638,
+  amuletteDuPetitHibou: 764,
+  amuletteDuPetitOurs: 854,
+  amuletteDuPiouBleu: 8214,
+  amuletteDuPiouJaune: 8217,
+  amuletteDuPiouRose: 8218,
+  amuletteDuPiouRouge: 8213,
+  amuletteDuPiouVert: 8216,
+  amuletteDuPiouViolet: 8215,
+  amuletteDuPirate: 617,
+  amuletteDuRenouveau: 6443,
+  amuletteDuSram: 325,
+  amuletteDuTofu: 8108,
+  amuletteDuVampyre: 10055,
+  amuletteElementaire: 1099,
+  amuletteEnCrabe: 610,
+  amuletteEnMousse: 8253,
+  amuletteFeudala: 7252,
+  amuletteItby: 1330,
+  amuletteItbyRemaniee: 1484,
+  amuletteObvijevan: 9255,
+  amulettePapayou: 9658,
+  amulettePaysanne: 8123,
+  amuletteRipage: 9179,
+  amuletteRoyaleDuBouftou: 2443,
+  amuletteScarabosseDore: 8120,
+  amuletteTerrdala: 7251,
+  amuletteTude: 6773,
+  amuletteTurquoise: 6444,
+  amuloumulette: 8129,
+  amunite: 9463,
+  amygdalesDuBitoufSombre: 8783,
+  analyseDeSangDeWabbitGm: 1747,
+  angesDemons: 7367,
+  anneauAgilesque: 850,
+  anneauAncestral: 8466,
+  anneauBhli: 8714,
+  anneauBlitere: 9178,
+  anneauBsene: 7123,
+  anneauCeremonialDuSeigneurDesRats: 8460,
+  anneauChampetre: 6791,
+  anneauChevelu: 9132,
+  anneauColerette: 9131,
+  anneauCristalin: 9452,
+  anneauDAgilite: 119,
+  anneauDeBouzeLeClerc: 2419,
+  anneauDeChance: 110,
+  anneauDeLAventurier: 2475,
+  anneauDeLInvocateurSatisfait: 6464,
+  anneauDeLaMort: 9942,
+  anneauDeLoopine: 6465,
+  anneauDeSagesse: 101,
+  anneauDeSatisfaction: 841,
+  anneauDeSlait: 9662,
+  anneauDesRocheuses: 278,
+  anneauDuBandit: 6961,
+  anneauDuBoufcoul: 7881,
+  anneauDuChampChamp: 6919,
+  anneauDuCheneMou: 8470,
+  anneauDuDragoeuf: 8289,
+  anneauDuDragonCochon: 8271,
+  anneauDuJeuneVald: 6468,
+  anneauDuKitsou: 7341,
+  anneauDuKoalak: 8004,
+  anneauDuMental: 1087,
+  anneauDuMeulou: 8263,
+  anneauDuMineurGogorifiant: 6506,
+  anneauDuMinotoror: 8269,
+  anneauDuMominotor: 8412,
+  anneauDuMulou: 6956,
+  anneauDuPiouBleu: 8220,
+  anneauDuPiouJaune: 8223,
+  anneauDuPiouRose: 8224,
+  anneauDuPiouRouge: 8219,
+  anneauDuPiouVert: 8222,
+  anneauDuPiouViolet: 8221,
+  anneauDuPrespic: 6928,
+  anneauDuRatNoir: 8448,
+  anneauDuSanglier: 6910,
+  anneauDuScarabosseDore: 8121,
+  anneauDuTofu: 8109,
+  anneauDuVampyre: 10054,
+  anneauEnMousse: 8254,
+  anneauFioutioure: 6997,
+  anneauForain: 6463,
+  anneauForcesque: 849,
+  anneauFortifiant: 785,
+  anneauHa: 7119,
+  anneauHe: 7120,
+  anneauHell: 8722,
+  anneauKTuelle: 7118,
+  anneauKarina: 7128,
+  anneauMer: 1729,
+  anneauMerta: 7116,
+  anneauNime: 6467,
+  anneauObvijevan: 9256,
+  anneauPaupayahn: 9198,
+  anneauPiaume: 7131,
+  anneauPitale: 8725,
+  anneauPoli: 8879,
+  anneauPwal: 8724,
+  anneauRaille: 8721,
+  anneauRak: 346,
+  anneauRexik: 787,
+  anneauRigami: 7132,
+  anneauRoyalDuBouftou: 2441,
+  anneauSkargo: 8865,
+  anneauSolo: 8881,
+  anneauStalgik: 8719,
+  anneauStradamus: 6996,
+  anneauTassion: 8718,
+  anneauThe1: 6771,
+  anneauThe2: 6793,
+  anneauTilus: 8723,
+  anneauTribal: 3203,
+  anneauVice: 7122,
+  anneauVitalesque: 851,
+  anneauZamour: 8720,
+  anneauZest: 9416,
+  anneauZocomial: 7121,
+  annobuseDeMaîtreJarbo: 9031,
+  annolamour: 8991,
+  anobra: 2420,
+  anodindo: 7555,
+  antenneDuScarafeuilleBlanc: 1467,
+  antenneDuScarafeuilleBleu: 1464,
+  antenneDuScarafeuilleRouge: 1465,
+  antenneDuScarafeuilleVert: 1466,
+  antennesDuScarabosseDore: 8160,
+  antennesDuScarafeuilleNoir: 8140,
+  anticipation: 2567,
+  appatsSpeciaux: 2107,
+  arakneMajeureMorte: 2653,
+  araknoton: 6911,
+  araknoture: 6912,
+  arcAChon: 8924,
+  arcALamelles: 9134,
+  arcAPoulieSciee: 1353,
+  arcAnge: 6451,
+  arcAnum: 7194,
+  arcAssin: 7161,
+  arcBoutant: 6445,
+  arcBuse: 1093,
+  arcChiduc: 6446,
+  arcChitecte: 6452,
+  arcChtelion: 8104,
+  arcDEgibake: 4807,
+  arcDElozyme: 4833,
+  arcDEpifuca: 4804,
+  arcDHatake: 4690,
+  arcDIrurat: 4810,
+  arcDUmegaf: 4834,
+  arcDUvilin: 4796,
+  arcDUxipujus: 4809,
+  arcDYmutimi: 4828,
+  arcDeAcero: 4952,
+  arcDeAdaga: 4962,
+  arcDeAegefauc: 4946,
+  arcDeAfesifru: 5057,
+  arcDeAfirufel: 4752,
+  arcDeAfogosak: 4710,
+  arcDeAgimnef: 5118,
+  arcDeAlethylo: 4879,
+  arcDeAlofe: 4758,
+  arcDeAmelate: 5119,
+  arcDeAmphaemelo: 4779,
+  arcDeAmphemem: 4816,
+  arcDeAmpholojae: 5059,
+  arcDeAmphoplo: 4971,
+  arcDeAmphowy: 4705,
+  arcDeAomiel: 4950,
+  arcDeAquatamem: 5093,
+  arcDeAquivyfo: 4786,
+  arcDeAtemelel: 4815,
+  arcDeAthit: 4928,
+  arcDeAturej: 5114,
+  arcDeAvona: 5100,
+  arcDeAvovael: 4859,
+  arcDeAzepl: 4973,
+  arcDeBadamael: 4955,
+  arcDeBaurev: 5107,
+  arcDeBazulen: 4930,
+  arcDeBebos: 4908,
+  arcDeBelafewa: 4861,
+  arcDeBesel: 4693,
+  arcDeBevenaille: 4887,
+  arcDeBimapa: 4750,
+  arcDeBlabaul: 5032,
+  arcDeBlezo: 4722,
+  arcDeBoisaille: 89,
+  arcDeBolofa: 4724,
+  arcDeBoo: 1352,
+  arcDeBoragau: 4882,
+  arcDeBoufareg: 4780,
+  arcDeBouro: 4712,
+  arcDeBrecabed: 5064,
+  arcDeBreustute: 4718,
+  arcDeBugedeh: 4937,
+  arcDeButileuf: 4872,
+  arcDeBydenow: 4915,
+  arcDeChasse: 1942,
+  arcDeCihesa: 4895,
+  arcDeCijiri: 4922,
+  arcDeConinim: 4951,
+  arcDeCristal: 1122,
+  arcDeCristalOpaque: 1121,
+  arcDeCristalPur: 1124,
+  arcDeCristalTranslucide: 1123,
+  arcDeCugir: 5043,
+  arcDeCumeka: 4992,
+  arcDeDepinege: 4964,
+  arcDeDikatugi: 4875,
+  arcDeDinutum: 4702,
+  arcDeDoflim: 5040,
+  arcDeDoumaki: 4979,
+  arcDeDruhap: 4968,
+  arcDeDutotahe: 4744,
+  arcDeEbaluto: 4981,
+  arcDeEculec: 4886,
+  arcDeEfefe: 4773,
+  arcDeEgemuz: 4715,
+  arcDeEheura: 4920,
+  arcDeEhobic: 4941,
+  arcDeEhonevov: 4733,
+  arcDeEhouf: 5087,
+  arcDeEhusur: 4921,
+  arcDeEkejuneh: 4923,
+  arcDeElazol: 4990,
+  arcDeElebeu: 4721,
+  arcDeElegelo: 5021,
+  arcDeElele: 4826,
+  arcDeElelo: 4835,
+  arcDeElemolo: 4865,
+  arcDeElepteux: 4700,
+  arcDeElilos: 5009,
+  arcDeElmawy: 5025,
+  arcDeEmenina: 4694,
+  arcDeEmexe: 5105,
+  arcDeEmotila: 4864,
+  arcDeEmuseneb: 4688,
+  arcDeEnavulap: 4954,
+  arcDeEnevege: 4837,
+  arcDeEnihil: 4991,
+  arcDeEpabib: 4689,
+  arcDeEpelelag: 4935,
+  arcDeEraros: 4987,
+  arcDeEresa: 4884,
+  arcDeEsepeliz: 5115,
+  arcDeEtepielle: 4933,
+  arcDeEtopegal: 4857,
+  arcDeEuteuvot: 5058,
+  arcDeEvenol: 4728,
+  arcDeEvezegr: 4821,
+  arcDeEvivac: 5035,
+  arcDeEvomi: 4697,
+  arcDeEvovaille: 5098,
+  arcDeEzelov: 5086,
+  arcDeEzete: 5038,
+  arcDeEzutole: 4983,
+  arcDeFanevla: 4934,
+  arcDeFelosae: 4919,
+  arcDeFeninit: 5001,
+  arcDeFeugeuf: 5096,
+  arcDeFihut: 4844,
+  arcDeFlaplynale: 4867,
+  arcDeFlegafr: 4902,
+  arcDeFluferup: 4976,
+  arcDeFlyfesevu: 4817,
+  arcDeFomdar: 4716,
+  arcDeFoteguz: 4763,
+  arcDeFurudog: 4751,
+  arcDeGenolaze: 4841,
+  arcDeGofisebe: 4880,
+  arcDeGrodicaik: 4778,
+  arcDeGuhuk: 4725,
+  arcDeGuleva: 4687,
+  arcDeGytnef: 4696,
+  arcDeHakalat: 4734,
+  arcDeHebonteux: 5085,
+  arcDeHevemilu: 4701,
+  arcDeHufefifi: 4802,
+  arcDeHygetpur: 4839,
+  arcDeIdafubap: 4749,
+  arcDeIdapyb: 4963,
+  arcDeIkaldar: 4782,
+  arcDeIkeloc: 4995,
+  arcDeIkimeju: 4745,
+  arcDeIsuro: 4889,
+  arcDeItauly: 4803,
+  arcDeIvliel: 4871,
+  arcDeIzomu: 5007,
+  arcDeJeanne: 332,
+  arcDeJumab: 4775,
+  arcDeKanokuk: 4888,
+  arcDeKewepauw: 5006,
+  arcDeKifivlob: 4914,
+  arcDeKoces: 5077,
+  arcDeKofob: 4764,
+  arcDeKrodate: 5079,
+  arcDeKuri: 7040,
+  arcDeLInitie: 6783,
+  arcDeLalamu: 4683,
+  arcDeLallimel: 4878,
+  arcDeLaracetadi: 4799,
+  arcDeLauwe: 5110,
+  arcDeLebevaille: 4852,
+  arcDeLebielle: 4885,
+  arcDeLebojody: 5070,
+  arcDeLefonun: 4719,
+  arcDeLegdar: 5041,
+  arcDeLekehab: 4994,
+  arcDeLevifugu: 5010,
+  arcDeLiseti: 4717,
+  arcDeLisinuzel: 5072,
+  arcDeLisobleme: 4993,
+  arcDeLisosele: 4800,
+  arcDeLoboth: 5101,
+  arcDeLomos: 5056,
+  arcDeLoxyfadi: 4686,
+  arcDeLusurut: 5099,
+  arcDeLyfema: 4708,
+  arcDeMalage: 4929,
+  arcDeMamatdar: 4997,
+  arcDeManikibe: 4838,
+  arcDeMawacal: 5102,
+  arcDeMebrirut: 4742,
+  arcDeMechRiorraw: 2341,
+  arcDeMefeviel: 4907,
+  arcDeMerufam: 4746,
+  arcDeMesoleme: 5052,
+  arcDeMesumber: 4691,
+  arcDeMeveusem: 5051,
+  arcDeMezen: 5075,
+  arcDeMibumug: 4760,
+  arcDeMikydopo: 4847,
+  arcDeMisolet: 5019,
+  arcDeMolelete: 4824,
+  arcDeMufuie: 4896,
+  arcDeMulicBere: 2361,
+  arcDeNaikas: 4747,
+  arcDeNaleuv: 5117,
+  arcDeNeribam: 4738,
+  arcDeNetamebe: 4753,
+  arcDeNinemoit: 5069,
+  arcDeNogakaso: 4791,
+  arcDeNogusal: 4860,
+  arcDeNometaille: 4881,
+  arcDeNybabapu: 4685,
+  arcDeObonin: 4741,
+  arcDeOfebeke: 4825,
+  arcDeOfirusr: 4977,
+  arcDeOfitol: 4988,
+  arcDeOhesato: 5030,
+  arcDeOhodemap: 4874,
+  arcDeOitdar: 4982,
+  arcDeOlalo: 5012,
+  arcDeOlebyku: 5000,
+  arcDeOluce: 4729,
+  arcDeOlugnef: 4843,
+  arcDeOnaleses: 4953,
+  arcDeOnocih: 4958,
+  arcDeOpagyp: 4790,
+  arcDeOsekert: 4894,
+  arcDeOtalague: 4766,
+  arcDeOtetetif: 5045,
+  arcDeOthud: 5094,
+  arcDeOtikegoi: 4772,
+  arcDeOurenoth: 5090,
+  arcDeOurogest: 4942,
+  arcDeOusoru: 5067,
+  arcDeOvelezil: 4794,
+  arcDeOvoze: 4713,
+  arcDePezeo: 4891,
+  arcDePhararosi: 4769,
+  arcDePlinate: 4737,
+  arcDePluter: 5031,
+  arcDePolavaille: 5053,
+  arcDePosyur: 5039,
+  arcDePuvandar: 5080,
+  arcDeRadofotte: 4781,
+  arcDeRagnesahor: 4726,
+  arcDeRapugum: 4774,
+  arcDeRedibesu: 5008,
+  arcDeReguth: 4788,
+  arcDeRemut: 4695,
+  arcDeRhuhusek: 4890,
+  arcDeRososore: 4756,
+  arcDeRufuveje: 5004,
+  arcDeRugnudleda: 4765,
+  arcDeRukutu: 4965,
+  arcDeRurarorth: 4978,
+  arcDeRurerer: 4970,
+  arcDeRurererm: 4776,
+  arcDeRuvahi: 5065,
+  arcDeSamukpur: 4768,
+  arcDeSefekpur: 4832,
+  arcDeSelelalle: 4731,
+  arcDeShakotamo: 4998,
+  arcDeSileuf: 5026,
+  arcDeSohitake: 4840,
+  arcDeSrutexuf: 5083,
+  arcDeStrokar: 4931,
+  arcDeStrorus: 4730,
+  arcDeStrulehu: 4989,
+  arcDeSuripillion: 5033,
+  arcDeTagifber: 4814,
+  arcDeTandar: 4866,
+  arcDeTapiroug: 5018,
+  arcDeTawes: 4850,
+  arcDeTelemal: 4851,
+  arcDeTelozi: 5078,
+  arcDeTetelaci: 4949,
+  arcDeTezanolu: 4927,
+  arcDeThelas: 5088,
+  arcDeThelule: 4846,
+  arcDeTherupa: 4831,
+  arcDeThororuk: 5014,
+  arcDeTixul: 4797,
+  arcDeTreku: 4917,
+  arcDeTriomphe: 329,
+  arcDeTucert: 5081,
+  arcDeTutatu: 4899,
+  arcDeUbomele: 5017,
+  arcDeUciri: 4820,
+  arcDeUfahupri: 4770,
+  arcDeUfipebu: 4842,
+  arcDeUfloruxe: 4940,
+  arcDeUfufalu: 4932,
+  arcDeUgrerem: 4999,
+  arcDeUheud: 5044,
+  arcDeUlociri: 4957,
+  arcDeUlufuli: 4727,
+  arcDeUnulilu: 4876,
+  arcDeUtepe: 4925,
+  arcDeUtokasu: 5016,
+  arcDeUtomielle: 4714,
+  arcDeUzeplielle: 4707,
+  arcDeVabahe: 5082,
+  arcDeVarkedehi: 5037,
+  arcDeVarkeguro: 4848,
+  arcDeVebefu: 4735,
+  arcDeVeneneze: 4892,
+  arcDeVolelemy: 4996,
+  arcDeVonaveva: 5042,
+  arcDeVulevume: 5013,
+  arcDeVuvleb: 4757,
+  arcDeVyfeveva: 4703,
+  arcDeWycebe: 4808,
+  arcDeXohosta: 4827,
+  arcDeXorak: 4855,
+  arcDeYmelei: 4911,
+  arcDeYubaedu: 4777,
+  arcDeYzizu: 4873,
+  arcDeZamovet: 5050,
+  arcDeZarevillion: 4975,
+  arcDeZarolillion: 5011,
+  arcDeZarume: 5061,
+  arcDeZebemep: 5103,
+  arcDeZelenile: 5002,
+  arcDeZeloeve: 4986,
+  arcDeZevasa: 5076,
+  arcDeZeviel: 4938,
+  arcDeZilofone: 4759,
+  arcDeZivosi: 4985,
+  arcDeZotaille: 4785,
+  arcDeroutant: 265,
+  arcDesRivages: 640,
+  arcDuAelomul: 4897,
+  arcDuAlomihe: 5121,
+  arcDuAopeteze: 5097,
+  arcDuApres: 4739,
+  arcDuApukim: 5084,
+  arcDuAquapael: 4947,
+  arcDuAquapramem: 4854,
+  arcDuAqueputate: 4858,
+  arcDuAtolepo: 5005,
+  arcDuAvese: 5049,
+  arcDuBadob: 4762,
+  arcDuBanditArcher: 10125,
+  arcDuBauxapec: 5116,
+  arcDuBavloja: 4830,
+  arcDuBelotte: 4743,
+  arcDuBethisog: 5104,
+  arcDuBevav: 4823,
+  arcDuBimigufe: 4926,
+  arcDuBuguf: 5092,
+  arcDuBworkArcher: 337,
+  arcDuChaferArcher: 6485,
+  arcDuCofnef: 5068,
+  arcDuCutagim: 5091,
+  arcDuDesamau: 5113,
+  arcDuDofemim: 4883,
+  arcDuDragoeuf: 8295,
+  arcDuDucefegi: 4936,
+  arcDuDuref: 4818,
+  arcDuDywipece: 4906,
+  arcDuEbonaplu: 5106,
+  arcDuEbulevo: 4849,
+  arcDuEceda: 5073,
+  arcDuEdyguh: 5036,
+  arcDuEfoga: 4969,
+  arcDuEhemi: 5066,
+  arcDuElivebo: 4862,
+  arcDuElutim: 5060,
+  arcDuEmodace: 4706,
+  arcDuEnanim: 4980,
+  arcDuEolozyp: 4960,
+  arcDuEprosber: 4870,
+  arcDuEthocaca: 4853,
+  arcDuEulezez: 4755,
+  arcDuEwemuw: 4740,
+  arcDuEzethiel: 4863,
+  arcDuFebixes: 5120,
+  arcDuFekara: 4771,
+  arcDuFeufefiki: 4793,
+  arcDuFeufikipl: 4916,
+  arcDuFififife: 5048,
+  arcDuFihukit: 4924,
+  arcDuFimeti: 4692,
+  arcDuFlapevemen: 4754,
+  arcDuFlesifu: 5028,
+  arcDuFlulile: 4787,
+  arcDuFogexnef: 5071,
+  arcDuFurekam: 5074,
+  arcDuFurodeb: 4943,
+  arcDuGadebad: 5063,
+  arcDuGecewup: 4798,
+  arcDuGotousu: 5109,
+  arcDuGutarofa: 4972,
+  arcDuHejef: 4948,
+  arcDuHuhan: 4736,
+  arcDuIcumaba: 4877,
+  arcDuIfeplif: 4961,
+  arcDuIfreflu: 4868,
+  arcDuIgatim: 4939,
+  arcDuInolosyv: 5095,
+  arcDuIperon: 4720,
+  arcDuIseul: 4869,
+  arcDuKegeceth: 4966,
+  arcDuKegour: 4856,
+  arcDuKekerarh: 5047,
+  arcDuKoalak: 8005,
+  arcDuKusute: 4967,
+  arcDuLifeth: 4711,
+  arcDuLithuheleg: 4801,
+  arcDuLolawofu: 4704,
+  arcDuLomamel: 5112,
+  arcDuLompur: 5003,
+  arcDuLosom: 4903,
+  arcDuLosouille: 4822,
+  arcDuLuliziel: 4836,
+  arcDuMakal: 4900,
+  arcDuMasoezop: 5111,
+  arcDuMelyat: 5108,
+  arcDuMepadice: 4748,
+  arcDuMevoli: 4910,
+  arcDuMezuten: 4698,
+  arcDuMozetaille: 4813,
+  arcDuMusojuto: 4783,
+  arcDuNirecupur: 4805,
+  arcDuNuwope: 4829,
+  arcDuNybalixi: 4792,
+  arcDuOlebei: 5023,
+  arcDuOlelevul: 4845,
+  arcDuOmememo: 4795,
+  arcDuOsedolo: 5020,
+  arcDuOsehur: 5022,
+  arcDuOtodokop: 4699,
+  arcDuOudocosu: 4784,
+  arcDuPecheur: 6453,
+  arcDuPefubicu: 4811,
+  arcDuPelegele: 4709,
+  arcDuPetivber: 4767,
+  arcDuPisene: 4913,
+  arcDuPluhuf: 4898,
+  arcDuPuhetiel: 4812,
+  arcDuPuhfla: 4723,
+  arcDuRarab: 5024,
+  arcDuRaratdar: 4893,
+  arcDuRodagobl: 5046,
+  arcDuRogur: 5034,
+  arcDuRoiDesBorins: 1126,
+  arcDuRugnogusru: 4904,
+  arcDuScoxezebe: 4806,
+  arcDuScoxule: 4761,
+  arcDuSilakuna: 4905,
+  arcDuSogdar: 4789,
+  arcDuSomutalle: 4945,
+  arcDuSramArcher: 6484,
+  arcDuSurevlel: 5055,
+  arcDuTehor: 4956,
+  arcDuTevlene: 4819,
+  arcDuUdarasug: 5027,
+  arcDuUgufa: 4974,
+  arcDuUmepolle: 5089,
+  arcDuUnaim: 4901,
+  arcDuUnefelu: 5015,
+  arcDuUpenudil: 4918,
+  arcDuUricitif: 4944,
+  arcDuUtabonal: 4732,
+  arcDuVilovi: 4984,
+  arcDuVlesep: 4959,
+  arcDuWyunobu: 4912,
+  arcDuXueluom: 1351,
+  arcDuZeluvize: 5054,
+  arcDuZoleo: 5062,
+  arcDuZonelev: 4909,
+  arcDuZubezevl: 5029,
+  arcEcologique: 1118,
+  arcEnCorneDeBouftou: 1097,
+  arcEnRacineDAbraknyde: 462,
+  arcHade: 829,
+  arcHancihaile: 331,
+  arcHanne: 7160,
+  arcHeubHuz: 9743,
+  arcHidsad: 1355,
+  arcHisedaisange: 7164,
+  arcHolic: 1350,
+  arcHordEon: 9741,
+  arcHuledela: 7163,
+  arcKoNeun: 9744,
+  arcLavoine: 7162,
+  arcLourdEnCorneDeBouftou: 1098,
+  arcOleptik: 8925,
+  arcPlassTik: 9739,
+  arcRainier: 8103,
+  arcRoyalEnCorneDeBouftou: 1112,
+  arcSifflant: 828,
+  arcTarHuss: 9742,
+  ares: 250,
+  argent: 350,
+  armeeDeTiques: 2449,
+  armistice: 2163,
+  arracheurDeDents: 1869,
+  artefactAir: 1630,
+  artefactEau: 1631,
+  artefactFeu: 1628,
+  artefactLumiere: 1632,
+  artefactPandawushuAir: 7223,
+  artefactPandawushuEau: 7222,
+  artefactPandawushuFeu: 7225,
+  artefactPandawushuTerre: 7224,
+  artefactTerre: 1629,
+  artefactVie: 1633,
+  assistantDuShaman: 7057,
+  astrocoiffe: 1090,
+  atouin: 7714,
+  aubaine: 2206,
+  aubergine: 2331,
+  aveuxBishomPot: 2051,
+  aveuxDOniTnec: 2146,
+  aveuxDeGuerrierNagerNacmeil: 2050,
+  aveuxDuGuerrierXaleDugros: 2049,
+  avoine: 533,
+  avoineAurifere: 2036,
+  avoineMagique: 1671,
+  azTech: 8931,
+  babinesDOuginak: 2321,
+  badgeBontarien: 1920,
+  badgeBrakmarien: 2308,
+  badgeDAigurraf: 2110,
+  badgeDOniTnec: 2149,
+  badgeDeLyeno: 2153,
+  badgeDeMilicienAllenTokar: 2053,
+  badgeDeMilicienBillIedebar: 2055,
+  badgeDeMilicienTekAput: 2054,
+  badgeDeTabach: 2108,
+  badgeDeYbaul: 2109,
+  badgeDuChefDesRenegats: 9539,
+  badgeDuPuissantMilicien: 9097,
+  baffeurClassique: 7625,
+  baffeurEnBambou: 7762,
+  baffeurEnBambouDore: 7770,
+  baffeurEnBambouMagique: 7772,
+  baffeurEnBambouSacre: 7766,
+  baffeurEnBambouSombre: 7765,
+  baffeurEnBoisAncestral: 7767,
+  baffeurEnBoisDeBambouto: 7773,
+  baffeurEnBoisDeBamboutoSacre: 7774,
+  baffeurEnBoisDeKokoko: 7771,
+  baffeurEnBoisDeTronknyde: 7769,
+  baffeurEnBoisEnvoûte: 7768,
+  baffeurEnBombu: 7763,
+  baffeurEnCharme: 7758,
+  baffeurEnChataignier: 7626,
+  baffeurEnChene: 7627,
+  baffeurEnEbene: 7755,
+  baffeurEnErable: 7757,
+  baffeurEnFrene: 7759,
+  baffeurEnIf: 7629,
+  baffeurEnMerisier: 7761,
+  baffeurEnNoyer: 7760,
+  baffeurEnOliviolet: 7764,
+  baffeurEnOrme: 7756,
+  bagdetteCafe: 8611,
+  bagueDAllegeance: 2342,
+  bagueDeSendar: 2154,
+  bagueDuHibou: 9919,
+  bagueHarre: 8717,
+  bagueHera: 8716,
+  bagueHoux: 8715,
+  baguetteAPans: 1134,
+  baguetteAcabague: 4559,
+  baguetteAcaplut: 4664,
+  baguetteAcofituf: 4662,
+  baguetteAenon: 4493,
+  baguetteAfekileg: 4611,
+  baguetteAffeulante: 1739,
+  baguetteAfikek: 4542,
+  baguetteAfroseso: 4445,
+  baguetteAhitem: 4349,
+  baguetteAkeku: 4594,
+  baguetteAkifit: 4446,
+  baguetteAlagluma: 4344,
+  baguetteAlavlaille: 4593,
+  baguetteAlebel: 4453,
+  baguetteAleze: 4612,
+  baguetteAligif: 4523,
+  baguetteAlwyle: 4354,
+  baguetteAmiflum: 4269,
+  baguetteAmphelalod: 4315,
+  baguetteAmphele: 4507,
+  baguetteAmphigo: 4666,
+  baguetteAololuth: 4385,
+  baguetteAosyl: 4410,
+  baguetteApecofov: 4386,
+  baguetteAquebeleve: 4654,
+  baguetteAquedlali: 4432,
+  baguetteAquewaepre: 4415,
+  baguetteAquidecol: 4482,
+  baguetteAquivobeme: 4672,
+  baguetteAredl: 4469,
+  baguetteAregeto: 4649,
+  baguetteAsesevic: 4364,
+  baguetteAteterre: 4495,
+  baguetteAtubut: 4347,
+  baguetteAwefukad: 4248,
+  baguetteBauro: 4600,
+  baguetteBedire: 4268,
+  baguetteBegnef: 4561,
+  baguetteBelepol: 4603,
+  baguetteBepru: 4484,
+  baguetteBeroro: 4648,
+  baguetteBetoluge: 4492,
+  baguetteBetyki: 4570,
+  baguetteBevasi: 4598,
+  baguetteBibikini: 4366,
+  baguetteBigifaif: 4676,
+  baguetteBocah: 4380,
+  baguetteBolelice: 4599,
+  baguetteBolim: 4416,
+  baguetteBoruhef: 4329,
+  baguetteBouhud: 4586,
+  baguetteBufegit: 4335,
+  baguetteBunafu: 4250,
+  baguetteBwodelo: 4502,
+  baguetteBwotog: 4430,
+  baguetteCetera: 7167,
+  baguetteCevutim: 4658,
+  baguetteCihif: 4326,
+  baguetteCulufuf: 4338,
+  baguetteDEglise: 1107,
+  baguetteDElyaWood: 6494,
+  baguetteDHouvette: 1138,
+  baguetteDIntelligence: 830,
+  baguetteDeBoisaille: 132,
+  baguetteDeChasse: 1943,
+  baguetteDeFeuFollesque: 1503,
+  baguetteDeGlace: 163,
+  baguetteDeKouartz: 6519,
+  baguetteDeLInitie: 6781,
+  baguetteDeLiriel: 334,
+  baguetteDeSagesse: 833,
+  baguetteDesCieux: 181,
+  baguetteDeuhPain: 333,
+  baguetteDewekota: 4485,
+  baguetteDilof: 4538,
+  baguetteDisif: 4428,
+  baguetteDofelafr: 4346,
+  baguetteDolipogu: 4355,
+  baguetteDometi: 4562,
+  baguetteDomoba: 4451,
+  baguetteDomoli: 4577,
+  baguetteDonefyru: 4487,
+  baguetteDoumudave: 4572,
+  baguetteDrupif: 4613,
+  baguetteDuBanditEnsorceleur: 10133,
+  baguetteDuCheneMou: 6495,
+  baguetteDuDragoeuf: 8296,
+  baguetteDuScarabosseDore: 8118,
+  baguetteDuTofu: 8110,
+  baguetteDuTournoiMj: 7920,
+  baguetteDusebum: 4638,
+  baguetteDuxpur: 4363,
+  baguetteEbuheni: 4373,
+  baguetteEcisulf: 4457,
+  baguetteEdape: 4433,
+  baguetteEdudl: 4657,
+  baguetteEfelem: 4265,
+  baguetteEfufefih: 4317,
+  baguetteEgaga: 4560,
+  baguetteEherum: 4680,
+  baguetteEhifule: 4617,
+  baguetteElelej: 4331,
+  baguetteElmabahou: 4528,
+  baguetteElmareg: 4374,
+  baguetteElmelof: 4407,
+  baguetteElogonaf: 4556,
+  baguetteEmatub: 4547,
+  baguetteEmecnef: 4574,
+  baguetteEmepes: 4519,
+  baguetteEmupulu: 4514,
+  baguetteEnRacineDAbraknyde: 469,
+  baguetteEnRacineDAbraknydeSombre: 6496,
+  baguetteEnenala: 4422,
+  baguetteEneutber: 4636,
+  baguetteEniladic: 4284,
+  baguetteEolalel: 4513,
+  baguetteEplifi: 4458,
+  baguetteEpogdar: 4548,
+  baguetteEpuhas: 4588,
+  baguetteEpuhifl: 4262,
+  baguetteEpyug: 4408,
+  baguetteEraknef: 4424,
+  baguetteErasuteg: 4650,
+  baguetteErerek: 4383,
+  baguetteEruderre: 4624,
+  baguetteEteuva: 4524,
+  baguetteEtham: 4447,
+  baguetteEuhLailleFe: 9749,
+  baguetteFaivuf: 4330,
+  baguetteFeciri: 4333,
+  baguetteFedulogi: 4243,
+  baguetteFelem: 4343,
+  baguetteFepogar: 4437,
+  baguetteFeubucih: 4365,
+  baguetteFeuhek: 4285,
+  baguetteFeunup: 4299,
+  baguetteFeupef: 4251,
+  baguetteFewag: 4353,
+  baguetteFigenunu: 4277,
+  baguetteFilufumu: 4255,
+  baguetteFiniseg: 4677,
+  baguetteFisar: 4589,
+  baguetteFisraci: 4449,
+  baguetteFitapupi: 4616,
+  baguetteFlacifeun: 4270,
+  baguetteFlafaseh: 4610,
+  baguetteFlalufepe: 4575,
+  baguetteFlamin: 4328,
+  baguetteFlaplozelo: 4263,
+  baguetteFlapufu: 4667,
+  baguetteFlefec: 4522,
+  baguetteFlefi: 4319,
+  baguetteFlefuk: 4520,
+  baguetteFleluri: 4552,
+  baguetteFleuhalel: 4302,
+  baguetteFlilihe: 4396,
+  baguetteFlulebu: 4282,
+  baguetteFlulem: 4314,
+  baguetteFlyutybub: 4646,
+  baguetteFucutiti: 4491,
+  baguetteFudifipa: 4582,
+  baguetteFufesi: 4427,
+  baguetteFufuru: 4625,
+  baguetteFuhulen: 4448,
+  baguetteGadico: 4505,
+  baguetteGasusim: 4352,
+  baguetteGifete: 4283,
+  baguetteGiflen: 4409,
+  baguetteGikic: 4391,
+  baguetteGyver: 8088,
+  baguetteHanDar: 9747,
+  baguetteHebubruf: 4258,
+  baguetteHeferdar: 4454,
+  baguetteHelles: 5999,
+  baguetteHepadaun: 4463,
+  baguetteHerek: 4275,
+  baguetteHethuj: 4295,
+  baguetteHeure: 1102,
+  baguetteHevifel: 4434,
+  baguetteHikekpur: 4397,
+  baguetteHincelle: 7169,
+  baguetteHoh: 9745,
+  baguetteHoualle: 7368,
+  baguetteHouffeCraitien: 7170,
+  baguetteHusuth: 4280,
+  baguetteHylique: 7168,
+  baguetteIdetupen: 4539,
+  baguetteIfefupuk: 4253,
+  baguetteIfegeleh: 4401,
+  baguetteIfeluguh: 4508,
+  baguetteIfifut: 4474,
+  baguetteIfimdar: 4532,
+  baguetteIfrefa: 4246,
+  baguetteIfupefi: 4367,
+  baguetteIkagogu: 4301,
+  baguetteIkagum: 4675,
+  baguetteIkecumih: 4504,
+  baguetteIkeruplu: 4652,
+  baguetteIkitune: 4633,
+  baguetteIlith: 4336,
+  baguetteInebidu: 4639,
+  baguetteInehit: 4259,
+  baguetteInogomo: 4635,
+  baguetteInulu: 4462,
+  baguetteIots: 8089,
+  baguetteIpefimu: 4628,
+  baguetteIpuligit: 4472,
+  baguetteIrepikef: 4573,
+  baguetteIrinil: 4249,
+  baguetteIrreelle: 6439,
+  baguetteIrupule: 4499,
+  baguetteIsarorim: 4272,
+  baguetteIsocdar: 4312,
+  baguetteItanonir: 4431,
+  baguetteItebe: 4291,
+  baguetteItotata: 4553,
+  baguetteItuhelix: 4296,
+  baguetteIvepamol: 4490,
+  baguetteIzinov: 4244,
+  baguetteJesobae: 4543,
+  baguetteJestefi: 4311,
+  baguetteJewew: 4378,
+  baguetteJijurir: 4479,
+  baguetteKafrit: 4534,
+  baguetteKahotoru: 4377,
+  baguetteKasut: 4417,
+  baguetteKaugoxu: 4498,
+  baguetteKekefulf: 4287,
+  baguetteKerok: 4614,
+  baguetteKetela: 4619,
+  baguetteKidymibie: 4679,
+  baguetteKifamum: 4290,
+  baguetteKoducarh: 4473,
+  baguetteKrosobi: 4500,
+  baguetteKudus: 4535,
+  baguetteKukulil: 4608,
+  baguetteKysebpur: 4339,
+  baguetteLacber: 4601,
+  baguetteLamabam: 4323,
+  baguetteLameubo: 4663,
+  baguetteLapumiki: 4660,
+  baguetteLaradeti: 4300,
+  baguetteLarvesque: 7110,
+  baguetteLasesei: 4518,
+  baguetteLazoehol: 4655,
+  baguetteLebepu: 4413,
+  baguetteLefefifi: 4607,
+  baguetteLefulifu: 4439,
+  baguetteLegadlol: 4659,
+  baguetteLekika: 4324,
+  baguetteLekude: 4477,
+  baguetteLekututu: 4306,
+  baguetteLeleup: 4421,
+  baguetteLerabelu: 4405,
+  baguetteLeustutut: 4634,
+  baguetteLeuvit: 4309,
+  baguetteLifar: 4665,
+  baguetteLifekupru: 4419,
+  baguetteLififaser: 4510,
+  baguetteLifufe: 4371,
+  baguetteLifufuhen: 4651,
+  baguetteLifuv: 4576,
+  baguetteLilit: 4591,
+  baguetteLirup: 4615,
+  baguetteLithahehin: 4325,
+  baguetteLitinupe: 4643,
+  baguetteLofpur: 4488,
+  baguetteLohim: 4567,
+  baguetteLolylom: 4305,
+  baguetteLovobup: 4400,
+  baguetteLufarun: 4481,
+  baguetteLufulis: 4501,
+  baguetteLufululud: 4489,
+  baguetteLufuputi: 4585,
+  baguetteLufurefi: 4443,
+  baguetteLufuriha: 4247,
+  baguetteLumira: 4399,
+  baguetteLuvin: 4468,
+  baguetteLyucicil: 4313,
+  baguetteMalimeo: 4435,
+  baguetteMawuie: 4571,
+  baguetteMebamnef: 4420,
+  baguetteMecemi: 4388,
+  baguetteMecot: 4412,
+  baguetteMefetuvi: 4480,
+  baguetteMegelle: 4669,
+  baguetteMekelep: 4322,
+  baguetteMeneuse: 1144,
+  baguetteMolle: 6438,
+  baguetteMonyal: 4526,
+  baguetteMucenber: 4537,
+  baguetteMugrem: 4390,
+  baguetteMukogumu: 4348,
+  baguetteMuleupov: 4521,
+  baguetteMurefat: 4256,
+  baguetteMutokap: 4605,
+  baguetteNacitufe: 4642,
+  baguetteNah: 7165,
+  baguetteNalip: 4376,
+  baguetteNalubillion: 4475,
+  baguetteNanibi: 4629,
+  baguetteNawablo: 4332,
+  baguetteNefogas: 4444,
+  baguetteNeuruhe: 4359,
+  baguetteNevel: 4320,
+  baguetteNevemim: 4516,
+  baguetteNiNinnin: 1132,
+  baguetteNicfla: 4630,
+  baguetteNirolil: 4278,
+  baguetteNoufuboh: 4647,
+  baguetteNuhic: 4342,
+  baguetteNybami: 4426,
+  baguetteObeget: 4644,
+  baguetteObikousa: 4580,
+  baguetteObute: 4584,
+  baguetteOcebl: 4307,
+  baguetteOdesam: 4414,
+  baguetteOfavame: 4592,
+  baguetteOfikidal: 4590,
+  baguetteOfujisi: 4375,
+  baguetteOgosiri: 4673,
+  baguetteOhedoce: 4456,
+  baguetteOicadluc: 4321,
+  baguetteOlamob: 4425,
+  baguetteOlezeve: 4496,
+  baguetteOmauroc: 4595,
+  baguetteOplerere: 4478,
+  baguetteOrilefla: 4527,
+  baguetteOtatafep: 4361,
+  baguetteOucibim: 4494,
+  baguetteOuputibi: 4465,
+  baguetteOuramis: 4558,
+  baguetteOuratagou: 4393,
+  baguetteOurderie: 7171,
+  baguetteOurehecon: 4551,
+  baguetteOvlev: 4288,
+  baguettePamuvaip: 4403,
+  baguettePelielle: 4395,
+  baguettePhaniba: 4279,
+  baguettePhareryda: 4368,
+  baguettePigyuta: 4350,
+  baguettePloelehe: 4334,
+  baguettePrahur: 4545,
+  baguettePrefifa: 4276,
+  baguettePucesuke: 4506,
+  baguettePuseb: 4423,
+  baguettePusfla: 4541,
+  baguettePusoh: 4563,
+  baguetteRagneguk: 4264,
+  baguetteRangleuse: 7173,
+  baguetteRasoha: 4549,
+  baguetteRaugou: 4261,
+  baguetteRebeknef: 4358,
+  baguetteRehege: 4293,
+  baguetteRetaguku: 4467,
+  baguetteRhon: 7172,
+  baguetteRihimud: 4429,
+  baguetteRirokyk: 4455,
+  baguetteRisthegu: 4568,
+  baguetteRitaille: 4565,
+  baguetteRotus: 4486,
+  baguetteRufif: 4360,
+  baguetteRugebusu: 4341,
+  baguetteRusim: 4569,
+  baguetteSahatuhu: 4271,
+  baguetteSahehami: 4281,
+  baguetteSaupam: 4304,
+  baguetteSedyug: 4274,
+  baguetteSelato: 4503,
+  baguetteSesepo: 4440,
+  baguetteShakemud: 4294,
+  baguetteSifegisr: 4621,
+  baguetteSigywe: 4471,
+  baguetteSkivymi: 4442,
+  baguetteSogoth: 4411,
+  baguetteSohaiha: 4557,
+  baguetteSohemitol: 4583,
+  baguetteSohupo: 4389,
+  baguetteSotardar: 4286,
+  baguetteSrafdar: 4266,
+  baguetteSrona: 4257,
+  baguetteSrugert: 4345,
+  baguetteStobo: 4566,
+  baguetteStrorDiNer: 9746,
+  baguetteStrurod: 4554,
+  baguetteStusulaf: 4620,
+  baguetteSusto: 4438,
+  baguetteSylvien: 1361,
+  baguetteTaLay: 9748,
+  baguetteTabake: 4402,
+  baguetteTafesfla: 4533,
+  baguetteTahapo: 4476,
+  baguetteTakisefo: 4254,
+  baguetteTamefole: 4529,
+  baguetteTarilome: 4292,
+  baguetteTeblade: 4661,
+  baguetteTedil: 4668,
+  baguetteTefen: 4604,
+  baguetteTehoh: 4452,
+  baguetteTelolibo: 4436,
+  baguetteTeloluve: 4460,
+  baguetteTeluwida: 4623,
+  baguetteTememe: 4298,
+  baguetteTethuzyv: 4392,
+  baguetteTethyri: 4273,
+  baguetteThelapota: 4351,
+  baguetteThigenu: 4645,
+  baguetteThilavudo: 4483,
+  baguetteThilyse: 4587,
+  baguetteThoha: 4597,
+  baguetteThorururer: 4327,
+  baguetteThuronum: 4387,
+  baguetteThusyuf: 4678,
+  baguetteTicos: 4578,
+  baguetteTikusimu: 4461,
+  baguetteTimohe: 4637,
+  baguetteTofilij: 4450,
+  baguetteTorede: 4441,
+  baguetteTouka: 4564,
+  baguetteTrekuke: 4653,
+  baguetteTucukis: 4626,
+  baguetteTufifl: 4297,
+  baguetteTunuteh: 4497,
+  baguetteUbubuf: 4670,
+  baguetteUcagroce: 4579,
+  baguetteUdelefu: 4289,
+  baguetteUdrukad: 4602,
+  baguetteUfegukus: 4512,
+  baguetteUfehed: 4369,
+  baguetteUfetif: 4362,
+  baguetteUfirutuf: 4581,
+  baguetteUfremafen: 4511,
+  baguetteUfrifif: 4525,
+  baguetteUfrigfla: 4546,
+  baguetteUfrile: 4337,
+  baguetteUfrivem: 4550,
+  baguetteUfufipl: 4555,
+  baguetteUgegus: 4466,
+  baguetteUgiselem: 4515,
+  baguetteUgisum: 4310,
+  baguetteUguteni: 4406,
+  baguetteUheri: 4384,
+  baguetteUheufit: 4318,
+  baguetteUhuci: 4536,
+  baguetteUkorukou: 4606,
+  baguetteUlegem: 4596,
+  baguetteUlelyu: 4464,
+  baguetteUmesila: 4682,
+  baguetteUnima: 4618,
+  baguetteUnysa: 4631,
+  baguetteUridfrit: 4681,
+  baguetteUrisem: 4267,
+  baguetteUrutoh: 4260,
+  baguetteUsacebi: 4544,
+  baguetteUsifaille: 4398,
+  baguetteUsuruc: 4303,
+  baguetteUtiruluf: 4316,
+  baguetteUwawam: 4470,
+  baguetteUzelliel: 4640,
+  baguetteVaelojaf: 4671,
+  baguetteVaesotte: 4340,
+  baguetteVarkode: 4245,
+  baguetteVaziziel: 4609,
+  baguetteVehukuf: 4357,
+  baguetteVelevil: 4632,
+  baguetteVelue: 6440,
+  baguetteVemeno: 4370,
+  baguetteVesele: 4404,
+  baguetteVetometh: 4517,
+  baguetteVibimob: 4418,
+  baguetteVihomiel: 4308,
+  baguetteVimut: 4372,
+  baguetteVithekuf: 4509,
+  baguetteVivamema: 4252,
+  baguetteVolemele: 4622,
+  baguetteVozelele: 4627,
+  baguetteVyzevu: 4674,
+  baguetteWawulibie: 4530,
+  baguetteWijakuie: 4540,
+  baguetteXubdar: 4656,
+  baguetteYlevyze: 4531,
+  baguetteYnelebe: 4459,
+  baguetteYrurukev: 4394,
+  baguetteYtudocef: 4379,
+  baguetteYxesapud: 4356,
+  baguetteZezitteux: 4641,
+  baguetterelle: 9135,
+  bakelelite: 749,
+  balgourdeDesClairettes: 6497,
+  ballonBleu: 6649,
+  ballonBleuMagique: 8624,
+  ballonJaune: 6651,
+  ballonJauneMagique: 8430,
+  ballonRouge: 6648,
+  ballonRougeMagique: 8435,
+  ballonVert: 6650,
+  ballonVertMagique: 8625,
+  ballotinDeChocolat: 9379,
+  bambamulette: 7000,
+  banane: 2325,
+  bandeauDeVitalite: 944,
+  bandeauDuBlackTiwabbit: 372,
+  bandeauKaliptus: 8260,
+  bandeauKomintot: 941,
+  bandeauPandawushu: 7177,
+  bandeauPapayou: 9652,
+  bandeletteDeLaMomieNova: 6706,
+  bandeletteDuGuerrierKoalak: 8001,
+  bandeletteDuMominotor: 8326,
+  bandelettes: 2286,
+  barGrille2: 1809,
+  barGrille3: 1810,
+  barGrille4: 1828,
+  barIton: 1792,
+  barItonVide: 1793,
+  barRikain: 1779,
+  barRikainVide: 1780,
+  barabas: 236,
+  barbeDuChouque: 2621,
+  barbeGrise: 251,
+  barbeInexistanteDuBarbroussa: 8754,
+  bardicheDuMilicien: 2604,
+  bashers: 218,
+  batonAkwadala: 7254,
+  batonBahPik: 9755,
+  batonBohLa: 9757,
+  batonBoukTou: 9756,
+  batonCarnivore: 2640,
+  batonChampmanique: 9136,
+  batonCornu: 742,
+  batonDAcoseude: 3854,
+  batonDAdamu: 3867,
+  batonDAfriolu: 3832,
+  batonDAgaDou: 6442,
+  batonDAkehpur: 3912,
+  batonDAkimipo: 3993,
+  batonDAlumin: 3821,
+  batonDAmhur: 3806,
+  batonDAmimiru: 3916,
+  batonDAmoor: 4027,
+  batonDAplaning: 3941,
+  batonDAquapul: 3910,
+  batonDAtecuci: 3911,
+  batonDAvaelo: 4046,
+  batonDEfritas: 3967,
+  batonDIfecho: 3901,
+  batonDIgiplam: 3913,
+  batonDIjugomo: 3909,
+  batonDInurere: 3949,
+  batonDIrovi: 4047,
+  batonDOfreleker: 3811,
+  batonDOubli: 1364,
+  batonDUbrehun: 3951,
+  batonDUdirelou: 4088,
+  batonDUfrege: 3810,
+  batonDUfrufidus: 4084,
+  batonDUlapek: 3804,
+  batonDUmeke: 4235,
+  batonDUnebete: 3817,
+  batonDUxesage: 3822,
+  batonDakn: 1149,
+  batonDeAbefun: 4017,
+  batonDeAculepa: 3885,
+  batonDeAeladague: 3835,
+  batonDeAfelolap: 4143,
+  batonDeAfutfrit: 4176,
+  batonDeAgele: 3994,
+  batonDeAgoconaw: 4020,
+  batonDeAhaxitof: 4133,
+  batonDeAkeloth: 4097,
+  batonDeAkurosr: 4033,
+  batonDeAkutogop: 4119,
+  batonDeAlimuva: 4108,
+  batonDeAluneok: 4050,
+  batonDeAroinite: 3824,
+  batonDeArucocu: 4211,
+  batonDeAruhes: 3917,
+  batonDeAusili: 3898,
+  batonDeBeknef: 3844,
+  batonDeBemip: 4193,
+  batonDeBezelin: 3887,
+  batonDeBohoig: 4031,
+  batonDeBoisaille: 138,
+  batonDeBotite: 4079,
+  batonDeBouftier: 1366,
+  batonDeBregarad: 4052,
+  batonDeBucetim: 3856,
+  batonDeCerukerre: 3888,
+  batonDeCifise: 3908,
+  batonDeCouteste: 4186,
+  batonDeCrabe2: 1764,
+  batonDeCrabe3: 1765,
+  batonDeCrabe4: 1766,
+  batonDeCubarth: 4233,
+  batonDeCuhop: 3864,
+  batonDeDaeblis: 4240,
+  batonDeDifewy: 4085,
+  batonDeDofisim: 4179,
+  batonDeDutatipa: 3860,
+  batonDeEfeke: 4130,
+  batonDeEgrucuki: 4049,
+  batonDeEhotugu: 3961,
+  batonDeEladolaw: 3843,
+  batonDeElefepouf: 3816,
+  batonDeElelebig: 4228,
+  batonDeElenela: 4092,
+  batonDeElinielle: 3966,
+  batonDeElitufi: 4028,
+  batonDeElobuv: 4076,
+  batonDeEmehipu: 4214,
+  batonDeEnavyb: 4151,
+  batonDeEnolu: 4026,
+  batonDeEpebumol: 3840,
+  batonDeEpemete: 3998,
+  batonDeErela: 3812,
+  batonDeEreus: 4021,
+  batonDeErukaku: 3855,
+  batonDeErusuho: 3981,
+  batonDeEselim: 4083,
+  batonDeEsevalle: 4040,
+  batonDeEsufurom: 3847,
+  batonDeEtahapa: 3869,
+  batonDeEtatu: 3968,
+  batonDeEtulire: 4131,
+  batonDeEugaboim: 4011,
+  batonDeEutain: 3839,
+  batonDeEvile: 4155,
+  batonDeEwelova: 4089,
+  batonDeFacerej: 4175,
+  batonDeFarle: 6769,
+  batonDeFasolel: 4169,
+  batonDeFausseMagie: 1110,
+  batonDeFehunej: 4192,
+  batonDeFepus: 3820,
+  batonDeFeukepisu: 4195,
+  batonDeFeutaf: 3939,
+  batonDeFisit: 4057,
+  batonDeFiyeule: 3923,
+  batonDeFlagisuh: 3862,
+  batonDeFlaulahev: 3876,
+  batonDeFleke: 3929,
+  batonDeFleked: 4152,
+  batonDeFlekufif: 4158,
+  batonDeFlepadute: 3983,
+  batonDeFlimu: 3926,
+  batonDeFlinuf: 3884,
+  batonDeFlukefef: 3866,
+  batonDeFrytuf: 3826,
+  batonDeFudelig: 4071,
+  batonDeFuhifufa: 3925,
+  batonDeFuluk: 4039,
+  batonDeFurida: 3958,
+  batonDeGadafilu: 4091,
+  batonDeGahetexo: 3933,
+  batonDeGegotid: 4178,
+  batonDeGinar: 3920,
+  batonDeGisosr: 4082,
+  batonDeGladacy: 3985,
+  batonDeGodoteko: 4012,
+  batonDeGostorak: 4045,
+  batonDeGotete: 4224,
+  batonDeGreseg: 4238,
+  batonDeGrojedi: 3814,
+  batonDeHaflim: 4098,
+  batonDeHafude: 3897,
+  batonDeHapiku: 4111,
+  batonDeHarutaka: 3881,
+  batonDeHekorate: 4161,
+  batonDeHereg: 3970,
+  batonDeHifeflul: 4174,
+  batonDeHilibie: 4002,
+  batonDeHililu: 3813,
+  batonDeHimarber: 4198,
+  batonDeHiraeille: 3886,
+  batonDeHitour: 4099,
+  batonDeHokoche: 4127,
+  batonDeHufuni: 3942,
+  batonDeHutemuf: 4185,
+  batonDeIfimok: 4148,
+  batonDeIfresec: 3974,
+  batonDeIfreufiv: 4068,
+  batonDeIfucith: 4208,
+  batonDeInutefim: 4118,
+  batonDeIpevulf: 4044,
+  batonDeIpufive: 3943,
+  batonDeIsakoko: 4201,
+  batonDeItoso: 4138,
+  batonDeJihit: 4204,
+  batonDeJisau: 3900,
+  batonDeJuvefeva: 3827,
+  batonDeKaketal: 4030,
+  batonDeKeduthuh: 4213,
+  batonDeKeruhes: 4139,
+  batonDeKolakum: 4101,
+  batonDeKolole: 4069,
+  batonDeKorasuhe: 4140,
+  batonDeKoruheto: 3932,
+  batonDeKotukodu: 4107,
+  batonDeKrerar: 4236,
+  batonDeKroras: 4166,
+  batonDeKudut: 4164,
+  batonDeKufisa: 4006,
+  batonDeKufixok: 3930,
+  batonDeKujefaille: 3902,
+  batonDeKuregour: 3907,
+  batonDeKuturika: 3828,
+  batonDeLApprentiPelerin: 9627,
+  batonDeLHommeOurs: 6725,
+  batonDeLInitie: 6782,
+  batonDeLabetouille: 3803,
+  batonDeLafit: 4080,
+  batonDeLafurife: 4059,
+  batonDeLamudace: 3971,
+  batonDeLaputub: 4159,
+  batonDeLawajuv: 4032,
+  batonDeLedelfrit: 4062,
+  batonDeLeluhfrit: 3837,
+  batonDeLereuc: 3858,
+  batonDeLethulus: 3940,
+  batonDeLeunure: 4168,
+  batonDeLeustisaked: 4182,
+  batonDeLifimam: 3975,
+  batonDeLikodum: 4124,
+  batonDeLilamil: 4162,
+  batonDeLirikapl: 4100,
+  batonDeLisilo: 4023,
+  batonDeLithihu: 4181,
+  batonDeLithudeul: 3954,
+  batonDeLithupri: 4093,
+  batonDeLomelov: 3807,
+  batonDeLopeau: 3833,
+  batonDeLotopale: 4196,
+  batonDeLufakihi: 4145,
+  batonDeLufelufu: 4014,
+  batonDeLufetufuf: 4206,
+  batonDeLufine: 4064,
+  batonDeLufulumel: 3893,
+  batonDeLugilufu: 4134,
+  batonDeLuhuhu: 4237,
+  batonDeLuifurut: 3904,
+  batonDeLutife: 3924,
+  batonDeLuvutali: 3841,
+  batonDeMaladiseh: 4226,
+  batonDeMalulo: 3999,
+  batonDeMarieAigue: 3652,
+  batonDeMelawaso: 4189,
+  batonDeMetidaluk: 3892,
+  batonDeMidodrap: 4043,
+  batonDeMirel: 4112,
+  batonDeMudrten: 4105,
+  batonDeMyzotitu: 4095,
+  batonDeNebujit: 4038,
+  batonDeNepuhel: 4065,
+  batonDeNifik: 4067,
+  batonDeNikejoba: 3883,
+  batonDeNilolovo: 4167,
+  batonDeNogovim: 4063,
+  batonDeNoherehe: 4114,
+  batonDeNuvudaso: 4003,
+  batonDeNypelete: 3846,
+  batonDeOfirepud: 3987,
+  batonDeOflupipu: 3906,
+  batonDeOgetim: 3834,
+  batonDeOgifegaf: 3984,
+  batonDeOgurapat: 3977,
+  batonDeOjodl: 4219,
+  batonDeOkairub: 4056,
+  batonDeOlevaz: 3838,
+  batonDeOpukber: 4160,
+  batonDeOrepere: 4170,
+  batonDeOteponav: 3895,
+  batonDeOtitus: 4034,
+  batonDeOuresu: 3980,
+  batonDeOurostesr: 4150,
+  batonDePakber: 3937,
+  batonDePebev: 3921,
+  batonDePezumo: 3918,
+  batonDePififa: 4177,
+  batonDePrebuper: 3831,
+  batonDePrunecad: 4048,
+  batonDePubam: 4042,
+  batonDeRaehoces: 4191,
+  batonDeRagnoduhuh: 4231,
+  batonDeReduga: 4078,
+  batonDeRelifupi: 3889,
+  batonDeRelocyra: 3830,
+  batonDeResotod: 3819,
+  batonDeReucated: 4074,
+  batonDeRheucuth: 4073,
+  batonDeRificaille: 3950,
+  batonDeRihem: 3919,
+  batonDeRihokour: 4019,
+  batonDeRokola: 4223,
+  batonDeRomaroj: 3870,
+  batonDeRuhitetu: 3865,
+  batonDeRukisaur: 4203,
+  batonDeRulenuce: 4066,
+  batonDeRupere: 3842,
+  batonDeRurehuser: 4041,
+  batonDeRurikehe: 3947,
+  batonDeRurukunu: 4154,
+  batonDeRusatoga: 3978,
+  batonDeSaekae: 3852,
+  batonDeSangroku: 7022,
+  batonDeSehuf: 3963,
+  batonDeSekethet: 3903,
+  batonDeSetirici: 3915,
+  batonDeSeuvolev: 4163,
+  batonDeSevemouille: 4199,
+  batonDeShika: 8300,
+  batonDeSitha: 4070,
+  batonDeSohibum: 3829,
+  batonDeSoukede: 3953,
+  batonDeSteug: 3988,
+  batonDeStrehete: 3880,
+  batonDeStrukatuk: 4165,
+  batonDeSucecuc: 4156,
+  batonDeSudothod: 4232,
+  batonDeSuhiruf: 3848,
+  batonDeSuhya: 3818,
+  batonDeSureze: 4205,
+  batonDeTatekoth: 3938,
+  batonDeTegenolo: 3882,
+  batonDeThoradekuh: 3850,
+  batonDeThoreru: 4060,
+  batonDeThoresut: 4132,
+  batonDeThororet: 4029,
+  batonDeTifagre: 4090,
+  batonDeTigeno: 3809,
+  batonDeTousog: 3955,
+  batonDeTristen: 3962,
+  batonDeTugupu: 3979,
+  batonDeTumufame: 4007,
+  batonDeTusraru: 3972,
+  batonDeTuteth: 4146,
+  batonDeUdepinil: 4016,
+  batonDeUfekudo: 4142,
+  batonDeUfidecim: 4216,
+  batonDeUfretfrit: 4144,
+  batonDeUfrufalir: 4000,
+  batonDeUfumit: 4230,
+  batonDeUlimelou: 3896,
+  batonDeUlujfrit: 4104,
+  batonDeUluluri: 4153,
+  batonDeUlutas: 3957,
+  batonDeUmegalle: 4123,
+  batonDeUmoel: 4106,
+  batonDeUpihelih: 3927,
+  batonDeUpogru: 4180,
+  batonDeUpuje: 3868,
+  batonDeUrimet: 4096,
+  batonDeUromorth: 4009,
+  batonDeUtonevez: 4001,
+  batonDeUzezolo: 4010,
+  batonDeVaboub: 3935,
+  batonDeVarkagah: 3890,
+  batonDeVarkoge: 4126,
+  batonDeVefem: 3877,
+  batonDeVenalole: 4086,
+  batonDeVepamu: 4077,
+  batonDeVosoboc: 3874,
+  batonDeVroomi: 4234,
+  batonDeVuble: 4128,
+  batonDeVumoel: 3861,
+  batonDeXexanoxu: 4120,
+  batonDeXirev: 3823,
+  batonDeYmobiel: 4117,
+  batonDeYnait: 4061,
+  batonDeYzomelo: 4194,
+  batonDeZarazez: 4239,
+  batonDeZemetepe: 4035,
+  batonDeZezotiva: 3934,
+  batonDeZuselo: 3853,
+  batonDesCaraibes: 8090,
+  batonDesRois: 1163,
+  batonDuAkohonop: 3914,
+  batonDuAnumikuf: 4172,
+  batonDuAquapago: 4212,
+  batonDuAredarag: 4081,
+  batonDuArefaka: 3976,
+  batonDuArodarh: 4109,
+  batonDuBanditBaroudeur: 10127,
+  batonDuBetifumi: 3990,
+  batonDuBibez: 4157,
+  batonDuBicuk: 3849,
+  batonDuBworkMage: 335,
+  batonDuCikuf: 4102,
+  batonDuDihus: 3997,
+  batonDuDogopur: 3944,
+  batonDuDosedim: 3871,
+  batonDuDragoeuf: 8297,
+  batonDuEgatuhyr: 3851,
+  batonDuEgouc: 4125,
+  batonDuEkodumut: 4113,
+  batonDuElenez: 3945,
+  batonDuElisu: 4137,
+  batonDuElole: 3960,
+  batonDuElukogu: 3969,
+  batonDuEmelel: 4222,
+  batonDuEnenyvl: 4129,
+  batonDuEtufete: 4055,
+  batonDuEufim: 4200,
+  batonDuEvoelov: 4188,
+  batonDuEwabaul: 3873,
+  batonDuFeca: 6525,
+  batonDuFemaf: 4008,
+  batonDuFetusoli: 3948,
+  batonDuFlalud: 3899,
+  batonDuFlalulil: 4218,
+  batonDuFlefefuc: 3905,
+  batonDuFubruf: 3863,
+  batonDuFugokum: 4220,
+  batonDuFutumi: 3891,
+  batonDuGeherm: 4004,
+  batonDuGoreh: 3845,
+  batonDuGrandPaWabbit: 336,
+  batonDuGrandTabi: 319,
+  batonDuGubalulu: 3991,
+  batonDuGugert: 4207,
+  batonDuHirefem: 4215,
+  batonDuHoreho: 3922,
+  batonDuHucufefu: 4221,
+  batonDuIbihule: 3989,
+  batonDuIhevavu: 4005,
+  batonDuIhudfla: 4229,
+  batonDuIleceuhi: 4025,
+  batonDuImivoheb: 4053,
+  batonDuIteky: 4024,
+  batonDuKaful: 4122,
+  batonDuKanigrou: 2066,
+  batonDuKehuke: 3875,
+  batonDuKilibriss: 8765,
+  batonDuKoulosse: 7890,
+  batonDuKrevar: 3959,
+  batonDuKukot: 3894,
+  batonDuLesiballe: 3857,
+  batonDuLififa: 4141,
+  batonDuLifige: 4094,
+  batonDuLigekik: 3952,
+  batonDuLithahi: 3956,
+  batonDuLithehipi: 4197,
+  batonDuLitherfu: 3808,
+  batonDuLufemfrit: 4187,
+  batonDuLuflukug: 3982,
+  batonDuLurodare: 3995,
+  batonDuMaîtreDesBouftous: 619,
+  batonDuMaîtreDesTabis: 658,
+  batonDuMaîtreDesTofus: 657,
+  batonDuMaîtreZoth: 8837,
+  batonDuMaurim: 3928,
+  batonDuMavih: 3859,
+  batonDuMerus: 3965,
+  batonDuMetefdar: 4072,
+  batonDuMetob: 4173,
+  batonDuMeutol: 4202,
+  batonDuMifasti: 3879,
+  batonDuMolutele: 4110,
+  batonDuMubber: 4210,
+  batonDuMufagaille: 4147,
+  batonDuMuwih: 4015,
+  batonDuMyfeco: 4121,
+  batonDuNabela: 3964,
+  batonDuNeubem: 4183,
+  batonDuNidanwa: 7205,
+  batonDuNybememet: 3996,
+  batonDuNybocipek: 4103,
+  batonDuOfeceku: 4225,
+  batonDuOpobet: 3878,
+  batonDuOruhu: 4058,
+  batonDuOsopdar: 4115,
+  batonDuPetitTabi: 317,
+  batonDuPrikuho: 4037,
+  batonDuPuissantTabi: 320,
+  batonDuRekoth: 4136,
+  batonDuRhorethu: 4171,
+  batonDuRoukain: 4018,
+  batonDuRugnaku: 3836,
+  batonDuSandanwa: 7206,
+  batonDuSatur: 4209,
+  batonDuShodanwa: 7204,
+  batonDuTabi: 318,
+  batonDuThelemum: 4022,
+  batonDuThelerog: 3936,
+  batonDuThorere: 3872,
+  batonDuThorukusuh: 4184,
+  batonDuThuror: 4054,
+  batonDuThusecuger: 4087,
+  batonDuTrogr: 4227,
+  batonDuTugal: 4190,
+  batonDuUbijefic: 4013,
+  batonDuUfegid: 3986,
+  batonDuUfele: 4051,
+  batonDuUfuku: 4135,
+  batonDuUhesul: 3931,
+  batonDuUhutem: 3992,
+  batonDuUkathudo: 3946,
+  batonDuUtiprutu: 4149,
+  batonDuUvuhuf: 4075,
+  batonDuVomizela: 3815,
+  batonDuVupibie: 3973,
+  batonDuWaWabbit: 970,
+  batonDuWaelew: 3805,
+  batonDuWejaro: 3825,
+  batonDuWobot: 6492,
+  batonDuYondanwa: 7207,
+  batonDuZepivem: 4217,
+  batonDuZeveniv: 4036,
+  batonDuZovteux: 4116,
+  batonEnRacineDAbraknyde: 436,
+  batonFeuillu: 183,
+  batonKouyu: 188,
+  batonLapLouz: 9759,
+  batonLavHeur: 9758,
+  batonPoupinateur: 9657,
+  batonRenifleurDeSang: 2263,
+  batonSpirituel: 194,
+  batonTontAta: 1363,
+  batonBouleDeVoyante: 1153,
+  bauxite: 446,
+  baveDeBouftou: 385,
+  baveDeChampAGnons: 9279,
+  baveDeRoseDemoniaque: 2662,
+  baveDuBouftouRoyal: 9064,
+  baveDuKaskargo: 8832,
+  bebePandawa: 8561,
+  becDuKido: 8741,
+  becDuKwakDeFlamme: 412,
+  becDuKwakDeGlace: 411,
+  becDuKwakDeTerre: 1142,
+  becDuKwakDuVent: 413,
+  becDuTofu: 366,
+  beignature: 9192,
+  beignetDeGreuVette2: 1811,
+  beignetDeGreuVette3: 1812,
+  beignetDeGreuVette4: 1829,
+  belleAmuletteDeLOurs: 76,
+  belleAmuletteDuHibou: 69,
+  belleAmuletteDuLoup: 83,
+  biereDAmakna: 351,
+  biereDAstrub: 6857,
+  biereDeBwork: 8145,
+  biereDeLaBagrutte: 2087,
+  biereDeLaChopenbois: 2088,
+  biereDeLaTabasse: 2085,
+  biereDuAlakarte: 2086,
+  biereDuChabrule: 2044,
+  biereDuFerayeur: 2090,
+  biereDuFeubuk: 1895,
+  biereDuPinchaut: 2089,
+  biereDuRipate: 7517,
+  bifstequeDeDragoviande: 1958,
+  bifstequeDeDragoviande2: 1959,
+  bifstequeDeDragoviande3: 1960,
+  bifstequeDeDragoviande4: 1961,
+  bijouDAmayiro: 9074,
+  bijouDAmayiroFaux: 9076,
+  bilboquetDuMaîtreCorbac: 6625,
+  bilby: 7706,
+  billreole: 8441,
+  blagueDeSoufre: 1334,
+  ble: 289,
+  bleDOr: 2018,
+  blemiche: 7144,
+  blessdags: 219,
+  blessureDuSacrieur: 1493,
+  blocDePierre: 1873,
+  blopMort: 2558,
+  blopanneauCoco: 9124,
+  blopanneauCocoRoyal: 9128,
+  blopanneauGriotte: 9122,
+  blopanneauGriotteRoyal: 9126,
+  blopanneauIndigo: 9125,
+  blopanneauIndigoRoyal: 9129,
+  blopanneauMulticoloreRoyal: 9148,
+  blopanneauReinette: 9123,
+  blopanneauReinetteRoyal: 9127,
+  blopisierEmpoisonne: 2151,
+  blopronneRoyale: 9395,
+  bloptesCoco: 9160,
+  bloptesCocoRoyales: 9164,
+  bloptesGriotteRoyales: 9162,
+  bloptesGriottes: 9158,
+  bloptesIndigo: 9161,
+  bloptesIndigoRoyales: 9165,
+  bloptesMulticoloresRoyales: 9166,
+  bloptesReinette: 9159,
+  bloptesReinetteRoyales: 9163,
+  bloptureCoco: 9169,
+  bloptureCocoRoyale: 9173,
+  bloptureGriotte: 9167,
+  bloptureGriotteRoyale: 9171,
+  bloptureIndigo: 9170,
+  bloptureIndigoRoyale: 9174,
+  bloptureMulticoloreRoyale: 9175,
+  bloptureReinette: 9168,
+  bloptureReinetteRoyale: 9172,
+  blugely: 995,
+  bobDuPaysan: 8125,
+  bocal: 1468,
+  boisAncestral: 920,
+  boisDArash: 6853,
+  boisDEbene: 449,
+  boisDErable: 471,
+  boisDIf: 461,
+  boisDOliviolet: 2357,
+  boisDOrme: 470,
+  boisDeBambou: 7013,
+  boisDeBambouDore: 7017,
+  boisDeBambouMagique: 7261,
+  boisDeBambouSacre: 7014,
+  boisDeBambouSombre: 7016,
+  boisDeBambouto: 7286,
+  boisDeBamboutoSacre: 7289,
+  boisDeBombu: 2358,
+  boisDeCharme: 472,
+  boisDeChataignier: 473,
+  boisDeChene: 460,
+  boisDeCheneMou: 6489,
+  boisDeFrene: 303,
+  boisDeKaerlier: 2379,
+  boisDeKaliptus: 7925,
+  boisDeMerisier: 474,
+  boisDeNoyer: 476,
+  boisDeTronknyde: 2250,
+  boisElastique: 1329,
+  boisEnvoûte: 926,
+  boisFioriture: 6848,
+  boîteDeChabon: 1880,
+  boîteDeKanigrou: 2549,
+  boîteDeSuborhube: 6849,
+  bol: 1732,
+  bon1000Kek: 1507,
+  bon10000Kek: 1510,
+  bon2000Kek: 1508,
+  bon5000Kek: 1509,
+  bonbonDeCompensationDuChanceux: 7801,
+  bonbonDeCompensationDuSage: 7800,
+  bonbonDeConsolation: 2332,
+  bonbonDuChanceux: 7803,
+  bonbonDuSage: 7802,
+  bonbonEnergetique: 7804,
+  bonbonRougeSurpuissant1: 1723,
+  bonbonRougeSurpuissant2: 2333,
+  bonnePioche: 1438,
+  bonnetNufar: 8630,
+  bonnetSpairance: 8633,
+  bonnetToual: 8637,
+  bontaAttitude: 2234,
+  boodenGlace: 6643,
+  boomerangDuDokAlako: 8075,
+  boomerangDuKoalakSanguin: 8064,
+  boomerangDuMaîtreKoalak: 8076,
+  boomerangDuWarkoMarron: 8077,
+  borsalinoDuParrain: 9541,
+  borsitrono: 9414,
+  botodindo: 7554,
+  bottananas: 8341,
+  botteHairo: 8666,
+  botteTroueeDeBwork: 3002,
+  botteUlisme: 8667,
+  bottesAgilesques: 863,
+  bottesAnimales: 2384,
+  bottesAnimalesSombres: 2400,
+  bottesAntouche: 8727,
+  bottesAntrin: 8663,
+  bottesCeremonialesDuSeigneurDesRats: 8462,
+  bottesChampetres: 6794,
+  bottesDAnticipation: 1623,
+  bottesDApprentissage: 1665,
+  bottesDHogmeiser: 910,
+  bottesDeBowisse: 127,
+  bottesDeCeleriThe: 348,
+  bottesDeChance: 864,
+  bottesDeConcentration: 129,
+  bottesDeFaillete: 299,
+  bottesDeKlime: 903,
+  bottesDeKluh: 837,
+  bottesDeLApprentiInvocateur: 1666,
+  bottesDeLAventurier: 2476,
+  bottesDeLEleveurDeBouftous: 6470,
+  bottesDeLHommeOurs: 6721,
+  bottesDeLympheATik: 2372,
+  bottesDeMaîtrise: 1621,
+  bottesDeNexus: 1624,
+  bottesDePoursuite: 907,
+  bottesDePuissance: 1622,
+  bottesDeRagalde: 733,
+  bottesDeSatisfaction: 3207,
+  bottesDeSlait: 9667,
+  bottesDesBouftonsRouges: 10562,
+  bottesDeuradi: 8728,
+  bottesDoreesDHogmeiser: 912,
+  bottesDuBoisDeLEst: 9413,
+  bottesDuBoufcoul: 7883,
+  bottesDuBouftou: 890,
+  bottesDuChampion: 8067,
+  bottesDuChatBute: 784,
+  bottesDuChefBwork: 6807,
+  bottesDuCraqueleur: 6933,
+  bottesDuCraqueleurLegendaire: 8146,
+  bottesDuDragoeuf: 8291,
+  bottesDuGardienDesEgoûts: 6654,
+  bottesDuGrandBouftou: 891,
+  bottesDuKoalak: 8006,
+  bottesDuKoulosse: 7889,
+  bottesDuMeulou: 8264,
+  bottesDuMinotoror: 8276,
+  bottesDuMominotor: 8415,
+  bottesDuPetitBouftou: 297,
+  bottesDuPuissantBouftou: 892,
+  bottesDuRatBlanc: 8456,
+  bottesDuRatNoir: 8446,
+  bottesDuRealBoitar: 10561,
+  bottesDuVampyre: 10061,
+  bottesEnMousse: 8256,
+  bottesHanik: 8668,
+  bottesHarry: 7514,
+  bottesHorchons: 8858,
+  bottesHox: 8665,
+  bottesOrino: 2375,
+  bottesPaupayahn: 9199,
+  bottesPaysannes: 8128,
+  bottesRepane: 9182,
+  bottesSiksWonNaine: 9928,
+  bottesSwana: 8670,
+  bottesTarsy: 2374,
+  bottesUseesDHogmeiser: 911,
+  bottesVioutifoule: 2522,
+  bottesVolatiles: 2063,
+  bottinesDeLaDenree: 10190,
+  bottinesDesSousBois: 9139,
+  bottinesDuBlackWab: 9576,
+  bottinesDuMulou: 6953,
+  bottinesEnBoisDAbrakleur: 8869,
+  boucleDuChouque: 2622,
+  bouclierAbraknyde: 9009,
+  bouclierAbraknydeLichene: 7086,
+  bouclierAerdala: 9030,
+  bouclierAerdalaEnvole: 7237,
+  bouclierAkwadala: 9004,
+  bouclierAkwadalaEnglouti: 7234,
+  bouclierBohBihn: 9483,
+  bouclierDAsse: 9008,
+  bouclierDAsseEvapore: 7083,
+  bouclierDEntraînement: 7097,
+  bouclierDeBowisse: 9026,
+  bouclierDeBowisseDeserte: 7088,
+  bouclierDeChaferLancier: 2307,
+  bouclierDeSidimote: 9001,
+  bouclierDeSidimoteEnfonce: 7069,
+  bouclierDesBouftonsRouges: 10556,
+  bouclierDesBrigandins: 9017,
+  bouclierDesBrigandinsEcorche: 7070,
+  bouclierDuBawbawe: 9019,
+  bouclierDuBawbaweExplose: 7075,
+  bouclierDuBouftou: 9025,
+  bouclierDuBouftouParasite: 7087,
+  bouclierDuBûcheron: 9015,
+  bouclierDuBûcheronFendu: 7071,
+  bouclierDuCaptainAmakna: 9021,
+  bouclierDuCaptainAmaknaVieilli: 7081,
+  bouclierDuChouque: 9024,
+  bouclierDuChouqueSaborde: 7085,
+  bouclierDuCraqueleur: 9027,
+  bouclierDuCraqueleurCraquele: 7090,
+  bouclierDuMontKipou: 9016,
+  bouclierDuMontKipouBrise: 6986,
+  bouclierDuRealBoitar: 10555,
+  bouclierDuSadida: 9006,
+  bouclierDuSadidaFatigue: 7079,
+  bouclierEnMousse: 7077,
+  bouclierEnSlip: 9007,
+  bouclierEnSlipSali: 7080,
+  bouclierFeudala: 9029,
+  bouclierFeudalaBrule: 7236,
+  bouclierFiSquale: 8855,
+  bouclierHispanique: 10073,
+  bouclierHispaniqueUnique: 10076,
+  bouclierPandawa: 9010,
+  bouclierPandawaBourre: 7089,
+  bouclierPararayon: 9566,
+  bouclierReptilien: 2296,
+  bouclierTaverne: 9003,
+  bouclierTavernePerce: 7073,
+  bouclierTerrdala: 9028,
+  bouclierTerrdalaEnterre: 7235,
+  bouclierTigre: 9484,
+  bouclierTropheeDuBworker: 10167,
+  bouclierTropheeDuCheneMou: 10160,
+  bouclierTropheeDuDarkVlad: 10158,
+  bouclierTropheeDuDragonCochon: 10161,
+  bouclierTropheeDuKimbo: 10163,
+  bouclierTropheeDuKoulosse: 10165,
+  bouclierTropheeDuMinotoror: 10162,
+  bouclierTropheeDuMoon: 10159,
+  bouclierTropheeDuSphincterCell: 10166,
+  bouclierTropheeDuWaWabbit: 10164,
+  bouclierVentaille: 9005,
+  bouclierVentailleFroisse: 7078,
+  bouclierVolant: 9023,
+  bouclierVolantVoile: 7084,
+  boue: 1881,
+  boueDuBoo: 417,
+  boufbottes: 2422,
+  boufbottesRoyales: 2442,
+  boufcoiffeRoyale: 2438,
+  bougieBleue: 2311,
+  bougieDuMineurSombre: 2274,
+  bougieMagiqueDuMineurSombre: 6476,
+  bougieRouge: 2309,
+  bougieVerte: 2310,
+  bouillieInfame: 10075,
+  bouleANeigeFoireDuTrooll: 6652,
+  boulePolie: 8737,
+  boulesDuMinotoboule: 6963,
+  boulettesDInsecte: 1952,
+  boulettesDInsecte2: 1953,
+  boulgourdeDesClairieres: 515,
+  bouloute: 8151,
+  boulouteBienLElever: 8319,
+  boulouteDuParrain: 9594,
+  bouquetDeRosesDemoniaques: 6663,
+  bourgeonDAbraknyde: 437,
+  bourgeonDAbraknydeSombre: 1611,
+  bourgeonDeFourbasse: 6736,
+  bourgeonDeLAbraknydeAncestral: 8495,
+  bourgeonDuCheneMou: 6487,
+  bourseDe1000Kamas: 8815,
+  bourseDe10000Kamas: 8425,
+  bourseDe5000Kamas: 8814,
+  bourseDeKamas: 8922,
+  bourseDeKamasDouteuse: 6833,
+  boutDeBlopCoco: 1770,
+  boutDeBlopGriotte: 1775,
+  boutDeBlopIndigo: 1777,
+  boutDeBlopReinette: 1773,
+  boutDeGoldemort: 8712,
+  bouteilleDeRhum: 1023,
+  braceletDeDjaul: 2343,
+  braceletDeForceDeTrool: 2561,
+  braceletDuChefBwork: 6805,
+  braceletDuChefCrocodaille: 6819,
+  braceletDuMinotot: 8270,
+  braceletDuTetounik: 9921,
+  braceletMagiqueDeFarle: 6767,
+  braceletMagiqueDeShika: 8299,
+  braceletVentre: 9177,
+  bracteeDeChiendent: 8782,
+  braguetteDuMaîtreZoth: 8804,
+  brakmarAttitude: 2235,
+  brancheDeLAbrakleurClair: 8835,
+  brancheDeLAbrakleurSombre: 8834,
+  brillanteEtoileDuSoir: 1638,
+  briocheDoree: 743,
+  briochette: 2024,
+  briochetteMagique: 2025,
+  brocheDeDanathor: 2177,
+  brocheDeGueurle: 9990,
+  brocheDeHeticiliUfot: 2359,
+  brocheDeSbab: 2145,
+  brocheDiamant: 7938,
+  brocheEmeraude: 7936,
+  brocheRubis: 7937,
+  brocheSaphir: 7935,
+  brochet: 1847,
+  brochetFarci2: 1835,
+  brochetFarci3: 1836,
+  brochetFarci4: 1837,
+  brochetTupeHalett: 1849,
+  brochetTupeHalettVide: 1851,
+  brochetVide: 1848,
+  bronze: 442,
+  brumenTinctorias: 6874,
+  bulbeKouraçao: 8749,
+  bulbeMalibout: 8750,
+  bulbeMorito: 8752,
+  bulbePassaoh: 8751,
+  burgerDeTrool: 6669,
+  butinDuConvoi: 9966,
+  bwakDAir: 2076,
+  bwakDEau: 2075,
+  bwakDeFeu: 2074,
+  bwakDeTerre: 2077,
+  bwakSquelettique: 2623,
+  bworky: 8000,
+  cacheOreilles: 6802,
+  cadeauAbraKadabra: 8165,
+  cadeauAmuletteDuVampyre: 10141,
+  cadeauAmuletteObvijevan: 9360,
+  cadeauAmulettePapayou: 9893,
+  cadeauAnneauCristalin: 9519,
+  cadeauAnneauDeLaMort: 10149,
+  cadeauAnneauDeSlait: 9891,
+  cadeauAnneauDuVampyre: 10140,
+  cadeauAnneauObvijevan: 9361,
+  cadeauAnneauPaupayahn: 9345,
+  cadeauAnneauZest: 9506,
+  cadeauArcHeubHuz: 9816,
+  cadeauArcHordEon: 9814,
+  cadeauArcKoNeun: 9817,
+  cadeauArcPlassTik: 9813,
+  cadeauArcTarHuss: 9815,
+  cadeauAstrocoiffe: 8898,
+  cadeauBaguetteEuhLailleFe: 9822,
+  cadeauBaguetteHanDar: 9820,
+  cadeauBaguetteHoh: 9818,
+  cadeauBaguetteStrorDiNer: 9819,
+  cadeauBaguetteTaLay: 9821,
+  cadeauBandeauPapayou: 9896,
+  cadeauBatonBahPik: 9823,
+  cadeauBatonBohLa: 9825,
+  cadeauBatonBoukTou: 9824,
+  cadeauBatonLapLouz: 9827,
+  cadeauBatonLavHeur: 9826,
+  cadeauBatonPoupinateur: 10359,
+  cadeauBebePandawa: 8568,
+  cadeauBeignature: 9350,
+  cadeauBilby: 8687,
+  cadeauBorsalinoDuParrain: 9590,
+  cadeauBorsitrono: 9504,
+  cadeauBottananas: 8895,
+  cadeauBottesDeSlait: 9889,
+  cadeauBottesDesBouftonsRouges: 10652,
+  cadeauBottesDuBoisDeLEst: 9503,
+  cadeauBottesDuRealBoitar: 10647,
+  cadeauBottesDuVampyre: 10144,
+  cadeauBottesPaupayahn: 9346,
+  cadeauBottesSiksWonNaine: 10195,
+  cadeauBottesVioutifoules: 8905,
+  cadeauBottinesDeLaDenree: 10335,
+  cadeauBottinesDuBlackWab: 9581,
+  cadeauBouclierBohBihn: 9522,
+  cadeauBouclierDesBouftonsRouges: 10655,
+  cadeauBouclierDuRealBoitar: 10650,
+  cadeauBouclierTigre: 9524,
+  cadeauBouloute: 8164,
+  cadeauBoulouteDuParrain: 9596,
+  cadeauBraceletDuTetounik: 10325,
+  cadeauCaleçonABretellesDuParrain: 9592,
+  cadeauCapananas: 8894,
+  cadeauCapeBouchon: 9497,
+  cadeauCapeCristaline: 9520,
+  cadeauCapeDeNoke: 10340,
+  cadeauCapeDeSlait: 9892,
+  cadeauCapeDuBlackWab: 9579,
+  cadeauCapeDuBoisDeLEst: 9501,
+  cadeauCapeDuLapinoBlase: 8909,
+  cadeauCapeDuParrain: 9593,
+  cadeauCapeDuVampyre: 10143,
+  cadeauCapeGrume: 9505,
+  cadeauCapeKifebzz: 9494,
+  cadeauCapeObvijevan: 9362,
+  cadeauCapePapayou: 9895,
+  cadeauCapePaupayahn: 9339,
+  cadeauCapeSiksWonNaine: 10192,
+  cadeauCapeVioutifoule: 8903,
+  cadeauCapogato: 9348,
+  cadeauCaskabeille: 9495,
+  cadeauCaskogato: 9349,
+  cadeauCaskostar: 10147,
+  cadeauCasqueDeGalgarion: 9359,
+  cadeauCasqueVioutifoule: 8904,
+  cadeauCeintureCristaline: 9518,
+  cadeauCeintureDeFlashGorgone: 9357,
+  cadeauCeintureDeMounu: 10653,
+  cadeauCeintureDeTolot: 10648,
+  cadeauCeintureDuBlackWab: 9580,
+  cadeauCeintureDuBoisDeLEst: 9502,
+  cadeauCeintureDuTetounik: 10326,
+  cadeauCeintureDuVampyre: 10142,
+  cadeauCeintureLardiere: 9499,
+  cadeauCeintureSiksWonNaine: 10194,
+  cadeauCeintureVioutifoule: 8906,
+  cadeauChachaAngora: 9645,
+  cadeauChachaTigre: 8890,
+  cadeauChapeauDeBeneji: 10656,
+  cadeauChapeauDeTolot: 10651,
+  cadeauChapeauDuBoisDeLEst: 9500,
+  cadeauChapeauDuLapino: 8910,
+  cadeauChapeauObvijevan: 9363,
+  cadeauChapeauPaupayahn: 9344,
+  cadeauChapeauSatanusse: 8817,
+  cadeauChapleau: 10150,
+  cadeauChauffeSouris: 10132,
+  cadeauChaussuresDuTetounik: 10327,
+  cadeauCigalocape: 9509,
+  cadeauCigaloclier: 9510,
+  cadeauCigalocoiffe: 9508,
+  cadeauCochobits: 9496,
+  cadeauCoiffeCristaline: 9521,
+  cadeauCoiffeDeCraCrame: 9353,
+  cadeauCoiffeDeGoultard: 9358,
+  cadeauCoiffeDeLaDenree: 10337,
+  cadeauCoiffeDeMaîtreNoirJack: 9356,
+  cadeauCoiffeDuBlackWab: 9578,
+  cadeauCoiffeMuletDuTetounik: 10328,
+  cadeauCollierDeNoke: 10339,
+  cadeauCollierSleump: 10358,
+  cadeauCornesDeXvii: 9354,
+  cadeauCouronneKoninginnedag: 10515,
+  cadeauCrocodaille: 9649,
+  cadeauCroum: 7526,
+  cadeauDHalouine: 8168,
+  cadeauDagueHaihRiDon: 9831,
+  cadeauDagueHiBol: 9829,
+  cadeauDagueHiDon: 9828,
+  cadeauDagueHiMov: 9830,
+  cadeauDagueHoRille: 9832,
+  cadeauDaguesDeNoke: 10338,
+  cadeauDeCompensation: 7917,
+  cadeauDeCompensationDeLEleveur: 8424,
+  cadeauDeLaSainBallotin: 9525,
+  cadeauDeNowel: 8337,
+  cadeauDindo: 7556,
+  cadeauDofusien1: 6962,
+  cadeauDofusien2: 10675,
+  cadeauDragodindeEnArmure: 9651,
+  cadeauDragodindeKramelehon: 9964,
+  cadeauDragouneNoire: 9650,
+  cadeauDragouneRose: 7525,
+  cadeauEcureuilChenapan: 8891,
+  cadeauElScarador: 8166,
+  cadeauEpeeCerpTeurh: 9837,
+  cadeauEpeeDalDouss: 9835,
+  cadeauEpeeDePym: 9352,
+  cadeauEpeeHiZan: 9834,
+  cadeauEpeeQuiPete: 8816,
+  cadeauEpeeRnohHel: 9836,
+  cadeauEpeeTaRad: 9833,
+  cadeauEventShika: 9118,
+  cadeauFëanor: 8711,
+  cadeauFotome: 7521,
+  cadeauGanteletDesBouftonsRouges: 10654,
+  cadeauGanteletDuRealBoitar: 10649,
+  cadeauGelutin: 10598,
+  cadeauGeniallissimeCoiffeDeTorteHou: 8912,
+  cadeauGriffeDEcaflip1: 8969,
+  cadeauGriffeDEcaflip2: 8970,
+  cadeauGriffeDEcaflip3: 8973,
+  cadeauGriffeDEcaflip4: 8974,
+  cadeauGriffeDEcaflip5: 8976,
+  cadeauGriffeDEcaflip6: 8978,
+  cadeauGriffeDEcaflip7: 8979,
+  cadeauGriffeDEcaflip8: 8980,
+  cadeauGriffeDEcaflip9: 8981,
+  cadeauGriffeDEcaflip10: 8982,
+  cadeauGriffeDEcaflip11: 8983,
+  cadeauGriffeDEcaflipParfaite: 8984,
+  cadeauGrosseBagouzeDuParrain: 9618,
+  cadeauHacheHevLeu: 9841,
+  cadeauHacheHichKeBab: 9838,
+  cadeauHachePerGe: 9842,
+  cadeauHachePiVeuhNin: 9840,
+  cadeauHachePiraTeur: 9839,
+  cadeauHmmmmmmmmm: 8907,
+  cadeauJambanneau: 9498,
+  cadeauKaskwette: 10361,
+  cadeauLOxolature: 10334,
+  cadeauLaChaplivate: 10153,
+  cadeauLapinocoiffe: 8908,
+  cadeauLeChaplanne: 10151,
+  cadeauLeopardo: 8892,
+  cadeauLesChaplures: 10152,
+  cadeauLesSleumpettes: 10360,
+  cadeauMarcassin: 9644,
+  cadeauMarteauBoGan: 9846,
+  cadeauMarteauLeStoye: 9843,
+  cadeauMarteauMahTurj: 9844,
+  cadeauMarteauNiHok: 9847,
+  cadeauMarteauReuhDeuhPiz: 9845,
+  cadeauMaskananas: 8893,
+  cadeauMasqueDeNoke: 10341,
+  cadeauMasqueDuVampyre: 10145,
+  cadeauMasqueSiksWonNaine: 10193,
+  cadeauMasseODard: 9493,
+  cadeauMegabottes: 8901,
+  cadeauMegacape: 8899,
+  cadeauMegacoiffe: 8900,
+  cadeauMegature: 8902,
+  cadeauMiniWa: 7897,
+  cadeauMinimino: 7527,
+  cadeauMiniminotot: 9648,
+  cadeauNoreillesDeSlait: 9890,
+  cadeauOeufDeChercheurDOgrines: 10660,
+  cadeauOreillesDeLapineupe: 8911,
+  cadeauOxano: 10336,
+  cadeauPailleton: 9507,
+  cadeauPanoplieBlackWab: 9583,
+  cadeauPantoufrelons: 9492,
+  cadeauPelleAgHeuze: 9850,
+  cadeauPelleAssTik: 9849,
+  cadeauPelleHiSeMoun: 9852,
+  cadeauPelleRailZeur: 9851,
+  cadeauPelleRin: 9848,
+  cadeauPioute: 9646,
+  cadeauPompamulette: 9514,
+  cadeauPompanneau: 9515,
+  cadeauPompocape: 9516,
+  cadeauPompocoiffe: 9517,
+  cadeauPoshocape: 9512,
+  cadeauPoshoclier: 9513,
+  cadeauPoshocoiffe: 9511,
+  cadeauRoss: 8686,
+  cadeauSabroh: 10148,
+  cadeauSacDeBoubaLeProphete: 10146,
+  cadeauSakananas: 8897,
+  cadeauSandalesPapayou: 9894,
+  cadeauShika: 9119,
+  cadeauShushuDeRushu: 9808,
+  cadeauSombreroDePepitox: 9355,
+  cadeauSouliersLaquesDuParrain: 9591,
+  cadeauTartamulette: 9351,
+  cadeauTifoux: 8167,
+  cadeauTiwabbitKiafin: 9647,
+  cadeauTourmenteurDeFeuille: 9554,
+  cadeauTourmenteurDeFlamme: 9553,
+  cadeauTourmenteurDeGoutte: 9555,
+  cadeauTourmenteurDeNuage: 9556,
+  cadeauTourmenteurDeTenebres: 9552,
+  cadeauVampyrette: 10131,
+  cadeauVenuDAilleurs: 9621,
+  cadeauWalk: 8683,
+  cadeauWillyLeRelou: 7898,
+  cadeauYugolette: 10332,
+  cadeauYugonnet: 10333,
+  cadeauYugoufle: 10331,
+  cadeauYugure: 10330,
+  cadranDAir: 9012,
+  cadranDAirDeregle: 7092,
+  cadranDEau: 9014,
+  cadranDEauDeregle: 7094,
+  cadranDeFeu: 9011,
+  cadranDeFeuDeregle: 7091,
+  cadranDeTerre: 9013,
+  cadranDeTerreDeregle: 7093,
+  caisseDArmesBlanches: 1879,
+  caisseDEquipementBontarien: 9958,
+  caisseDOutilsDeNara: 9101,
+  caisseDeMarchandises: 10089,
+  caisseDeMinerai: 9962,
+  caleEnBoisDuTronknyde: 2563,
+  caleçonABretellesDuParrain: 9549,
+  caleçonDeLenglad: 9100,
+  caleçonDeMilicien: 2340,
+  caleçonMignonDuCapitainePirate: 998,
+  caliceDeFecorce: 8781,
+  camaineux: 768,
+  camouflage: 2062,
+  camouflageImmobile: 9911,
+  canineDeBanditDesPlaines: 10086,
+  canineDuMulou: 439,
+  canineDuVampireCaptif: 975,
+  canneAChô: 1863,
+  canneAKoinkoin: 6661,
+  canneAKralamour: 2366,
+  canneAPecheCourte: 596,
+  canneAPecheStandard: 1866,
+  canneAPecheTelescopique: 1868,
+  canneAPichon: 2188,
+  canneAPichonEnsorcelee: 9530,
+  canneCubique: 1865,
+  canneDeLApprentiPecheur: 8541,
+  canneDeMamieBonbon: 7037,
+  canneHarpon: 1860,
+  capananas: 7999,
+  capeAbilite: 775,
+  capeAerdala: 7233,
+  capeAille: 8640,
+  capeAkwadala: 7230,
+  capeAurale: 8639,
+  capeBanale: 6800,
+  capeBleutee: 936,
+  capeBontarienne: 2119,
+  capeBouchon: 9407,
+  capeBouffante: 2414,
+  capeBouffanteRoyale: 2445,
+  capeBrakmarienne: 2118,
+  capeCeremonialeDuSeigneurDesRats: 8458,
+  capeCristaline: 9451,
+  capeDElyaWood: 1695,
+  capeDeBonneEsperance: 790,
+  capeDeBou: 2380,
+  capeDeBowisse: 744,
+  capeDeFarle: 6775,
+  capeDeJulesYanos: 1693,
+  capeDeLAventurier: 2473,
+  capeDeLHommeOurs: 6720,
+  capeDeLaMeupette: 8867,
+  capeDeLaMomieNova: 6707,
+  capeDeLaOuassingue: 8819,
+  capeDeMoriArty: 778,
+  capeDeNoke: 10185,
+  capeDeRougeur: 933,
+  capeDeShika: 8302,
+  capeDeSlait: 9660,
+  capeDesMercenairesDAstrub: 6886,
+  capeDragoeuf: 8286,
+  capeDuBlackWab: 9569,
+  capeDuBoisDeLEst: 9411,
+  capeDuBoufcoul: 7884,
+  capeDuChampChamp: 6922,
+  capeDuChampion: 8068,
+  capeDuChefBwork: 6811,
+  capeDuCoqHû: 777,
+  capeDuCorbac: 2061,
+  capeDuDesirOBoul: 7011,
+  capeDuDragonCochon: 8281,
+  capeDuJusticier: 758,
+  capeDuKitsou: 7340,
+  capeDuKoalak: 8007,
+  capeDuLapinoBlase: 8532,
+  capeDuMeulou: 8265,
+  capeDuMinotoror: 8279,
+  capeDuMinotot: 8280,
+  capeDuMominotor: 8416,
+  capeDuMulou: 6954,
+  capeDuMulouFou: 952,
+  capeDuPapaNowel: 8333,
+  capeDuParrain: 9540,
+  capeDuPetitChaponRouge: 8366,
+  capeDuPiouBleu: 8232,
+  capeDuPiouJaune: 8236,
+  capeDuPiouRose: 8235,
+  capeDuPiouRouge: 8231,
+  capeDuPiouVert: 8233,
+  capeDuPiouViolet: 8234,
+  capeDuPirate: 677,
+  capeDuPoolayChogrelotant: 759,
+  capeDuPrespic: 6927,
+  capeDuRatBlanc: 8452,
+  capeDuRatNoir: 8443,
+  capeDuTofu: 8112,
+  capeDuTofuFou: 953,
+  capeDuVampire: 754,
+  capeDuVampyre: 10058,
+  capeDuWaWabbit: 971,
+  capeEdepee: 772,
+  capeEllinie: 773,
+  capeEnMousse: 8258,
+  capeErforee: 9180,
+  capeFeudala: 7232,
+  capeFlotteuse: 2381,
+  capeFulgurante: 967,
+  capeGrume: 9415,
+  capeHadosse: 8649,
+  capeHaharnum: 8650,
+  capeHilere: 955,
+  capeHitton: 8644,
+  capeHivernale: 6801,
+  capeHôte: 6994,
+  capeHoute: 6995,
+  capeHuccino: 7137,
+  capeHuchon: 8642,
+  capeHucine: 6712,
+  capeHulco: 8648,
+  capeItaineflam: 7515,
+  capeItouLascione: 781,
+  capeKifebzz: 9404,
+  capeLyne: 8646,
+  capeMaimpa: 2382,
+  capeMajHic: 779,
+  capeObvijevan: 9233,
+  capeOuginak: 1910,
+  capePandawushu: 7174,
+  capePapayou: 9654,
+  capePaupayahn: 9196,
+  capeRice: 956,
+  capeRicefini: 6993,
+  capeRouth: 8641,
+  capeSanguine: 2383,
+  capeShika: 9121,
+  capeSiksWonNaine: 9933,
+  capeSombre: 946,
+  capeSouveraineDuRoissingue: 8818,
+  capeSulcorpe: 776,
+  capeSulhit: 8643,
+  capeTerrdala: 7231,
+  capeUlais: 774,
+  capeUseeDuCheneMou: 8472,
+  capeVioutifoule: 2518,
+  capeWera: 8647,
+  capeYtale: 8645,
+  capignon: 9142,
+  capodindo: 7552,
+  capogato: 9195,
+  capouzeDesChamps: 6795,
+  caprin: 9141,
+  capsuleExplosive: 2330,
+  capucheApin: 8634,
+  capucheDeLaOuassingue: 8845,
+  capucheSouveraineDuRoissingue: 8844,
+  carabottes: 2530,
+  caracape: 2532,
+  caracapeMinotoris: 2629,
+  caracoiffe: 2531,
+  carapaceBleue: 1013,
+  carapaceBleueVide: 2613,
+  carapaceDeScarafeuilleBlanc: 2290,
+  carapaceDeScarafeuilleBleu: 2291,
+  carapaceDeScarafeuilleNoir: 8138,
+  carapaceDeScarafeuilleRouge: 2292,
+  carapaceDeScarafeuilleVert: 2293,
+  carapaceDeScaratos: 8308,
+  carapaceDeScorbute: 2487,
+  carapaceDuScarabosseDore: 8159,
+  carapaceJaune: 1011,
+  carapaceJauneVide: 2611,
+  carapaceRouge: 1012,
+  carapaceRougeVide: 2610,
+  carapaceVerte: 1010,
+  carapaceVerteVide: 2609,
+  carapaceVideDeCrabe: 2303,
+  carcasseDeRatDEgouts: 2256,
+  caresseurClassique: 7628,
+  caresseurEnPlumeDeCorbac: 7738,
+  caresseurEnPlumeDeKwakDeFlamme: 7740,
+  caresseurEnPlumeDeKwakDeGlace: 7739,
+  caresseurEnPlumeDeKwakDeTerre: 7742,
+  caresseurEnPlumeDeKwakDeVent: 7741,
+  caresseurEnPlumeDePiouBleu: 7623,
+  caresseurEnPlumeDePiouJaune: 7735,
+  caresseurEnPlumeDePiouRose: 7736,
+  caresseurEnPlumeDePiouRouge: 7734,
+  caresseurEnPlumeDePiouVert: 7733,
+  caresseurEnPlumeDePiouViolet: 7624,
+  caresseurEnPlumeDeTofu: 7622,
+  caresseurEnPlumeDeTofuMalefique: 7737,
+  caresseurEnPlumeDeTofuRoyal: 7746,
+  caresseurEnPlumeDuDernierPoolay: 7743,
+  caresseurEnPlumeDuMaîtreCorbac: 7745,
+  caresseurEnPlumePointueDeKwak: 7744,
+  carpeDIem: 1794,
+  carpeDIemVidee: 1795,
+  carpeVapeur2: 1818,
+  carpeVapeur3: 1819,
+  carpeVapeur4: 1817,
+  carpelleDeBrouture: 8779,
+  carpetteDesSables: 1796,
+  carpetteDesSablesVidee: 1797,
+  carreDeChocolatNoir: 7149,
+  carreDePorc: 1917,
+  carreDePorc2: 1918,
+  carreDePorc3: 1921,
+  carreDePorc4: 1919,
+  carreDePorcConserve: 2004,
+  carreDePorcConserve2: 2005,
+  carreDePorcConserve3: 2006,
+  carreDePorcConserve4: 2007,
+  carreauDArbalete: 2297,
+  carteAuTresor5: 959,
+  carteAuTresorDesBoulangersSombres: 931,
+  carteAuTresorDesBworks: 939,
+  carteAuTresorDesForgeronsSombres: 938,
+  carteAuTresorDesMineursSombres: 930,
+  carteDUnBrakmarien: 2260,
+  carteDUnEnqueteur: 2182,
+  carteDeKwelsh: 2401,
+  carteSpeciale: 1878,
+  caskabeille: 9405,
+  caskogato: 9194,
+  caskostar: 9936,
+  casque: 1019,
+  casqueAmeliore: 8918,
+  casqueCasse: 1020,
+  casqueCasseDeBwork: 3000,
+  casqueCasseDuChafer: 6475,
+  casqueDeChaferDElite: 2065,
+  casqueDeGalgarion: 9184,
+  casqueDeMaîtreNabur: 7034,
+  casqueDesMercenairesDAstrub: 6863,
+  casqueDragoeuf: 8287,
+  casqueDuBitoufAerien: 8989,
+  casqueDuBworkDeBronze: 6483,
+  casqueDuChafer: 1908,
+  casqueDuChefBwork: 6813,
+  casqueDuCraqueleur: 6930,
+  casqueDuCraqueleurLegendaire: 8147,
+  casqueDuGuerrierZoth: 8847,
+  casqueHarnage: 9181,
+  casqueKeutumedi: 8619,
+  casqueVioutifoule: 2520,
+  cawotte: 361,
+  cawotteMaudite: 8621,
+  ceintureAerdala: 7241,
+  ceintureAgilesque: 261,
+  ceintureAkwadala: 7238,
+  ceintureBanisation: 2689,
+  ceintureBanisationSauvage: 2710,
+  ceintureBitoufaleDeProsperYoupla: 8862,
+  ceintureBodiezele: 8658,
+  ceintureBontarienne: 3204,
+  ceintureBrakmarienne: 3205,
+  ceintureBuhlent: 8652,
+  ceintureCeremonialeDuSeigneurDesRats: 8461,
+  ceintureChafeuse: 2809,
+  ceintureChouqueuse: 2677,
+  ceintureClaireEnAbrakleur: 8871,
+  ceintureCorbaquiale: 2655,
+  ceintureCristaline: 9453,
+  ceintureDAgilite: 859,
+  ceintureDEndurance: 356,
+  ceintureDUneFemmeEnOr: 7902,
+  ceintureDeCelerite: 1700,
+  ceintureDeChance: 860,
+  ceintureDeFlashGorgone: 9186,
+  ceintureDeLAmantDHa: 6450,
+  ceintureDeLAventurier: 2477,
+  ceintureDeLHommeOurs: 6724,
+  ceintureDeMounu: 10560,
+  ceintureDePoche: 1701,
+  ceintureDePuissance: 156,
+  ceintureDeSangroku: 7029,
+  ceintureDeSecurite: 734,
+  ceintureDeTolot: 10559,
+  ceintureDesVents: 1669,
+  ceintureDracochoune: 2808,
+  ceintureDuBandit: 6925,
+  ceintureDuBlackWab: 9575,
+  ceintureDuBoisDeLEst: 9412,
+  ceintureDuBoufcoul: 7885,
+  ceintureDuBouftou: 2428,
+  ceintureDuChampion: 8070,
+  ceintureDuChefCrocodaille: 6831,
+  ceintureDuCraqueleur: 6935,
+  ceintureDuCraqueleurLegendaire: 8152,
+  ceintureDuDoduTrembleur: 1668,
+  ceintureDuDragoeuf: 8288,
+  ceintureDuKoalak: 8008,
+  ceintureDuKobeer: 789,
+  ceintureDuKwabe: 2803,
+  ceintureDuMeulou: 8266,
+  ceintureDuMinotoror: 8282,
+  ceintureDuMinotot: 8283,
+  ceintureDuMominotor: 8418,
+  ceintureDuPiouBleu: 8238,
+  ceintureDuPiouJaune: 8241,
+  ceintureDuPiouRose: 8242,
+  ceintureDuPiouRouge: 8237,
+  ceintureDuPiouVert: 8240,
+  ceintureDuPiouViolet: 8239,
+  ceintureDuPrespic: 6929,
+  ceintureDuRat: 2404,
+  ceintureDuRatBlanc: 8455,
+  ceintureDuRatNoir: 8447,
+  ceintureDuTetounik: 9922,
+  ceintureDuTofu: 8113,
+  ceintureDuTot: 203,
+  ceintureDuVampyre: 10056,
+  ceintureEnMousse: 8257,
+  ceintureFeudala: 7240,
+  ceintureFleurie: 6796,
+  ceintureForcesque: 257,
+  ceintureFourbissante: 6745,
+  ceintureFulgurante: 968,
+  ceintureGessant: 8662,
+  ceintureKokokette: 2678,
+  ceintureKolante: 2688,
+  ceintureLardiere: 9409,
+  ceintureLupine: 8654,
+  ceintureLuthe: 8656,
+  ceintureLuthuthu: 1667,
+  ceintureMeulante: 2807,
+  ceintureMulante: 2804,
+  ceintureMycosine: 9144,
+  ceintureNoireDeFrankLeeBruce: 7039,
+  ceintureOuginakale: 2811,
+  ceinturePiquante: 2810,
+  ceintureRasboulaireDuRasboul: 8856,
+  ceintureRoyaleDuBouftou: 2444,
+  ceintureSiksWonNaine: 9929,
+  ceintureSombreEnAbrakleur: 8870,
+  ceintureSula: 7139,
+  ceintureTerrdala: 7239,
+  ceintureTore: 9183,
+  ceintureTortueBleue: 2683,
+  ceintureTortueJaune: 2681,
+  ceintureTortueRouge: 2687,
+  ceintureTortueVerte: 2685,
+  ceintureVioutifoule: 2524,
+  ceintureVitalesque: 253,
+  ceinturemudaDuPaysan: 8124,
+  celebreArcEcologique: 1120,
+  cerberus: 235,
+  cerise: 1734,
+  certificatDeBonVote: 2189,
+  certificatDeChangementDAlignement: 9487,
+  certificatDeMauvaisVote: 2191,
+  certificatDeMiseEnChanilAbraKadabra: 8175,
+  certificatDeMiseEnChanilAtouin: 8708,
+  certificatDeMiseEnChanilBebePandawa: 8564,
+  certificatDeMiseEnChanilBilby: 8685,
+  certificatDeMiseEnChanilBouloute: 8176,
+  certificatDeMiseEnChanilBoulouteDuParrain: 9598,
+  certificatDeMiseEnChanilBwakDAir: 2101,
+  certificatDeMiseEnChanilBwakDEau: 2100,
+  certificatDeMiseEnChanilBwakDeFeu: 2099,
+  certificatDeMiseEnChanilBwakDeTerre: 2098,
+  certificatDeMiseEnChanilBworky: 8180,
+  certificatDeMiseEnChanilChacha: 1735,
+  certificatDeMiseEnChanilChachaAngora: 9675,
+  certificatDeMiseEnChanilChachaTigre: 8887,
+  certificatDeMiseEnChanilChauffeSouris: 10135,
+  certificatDeMiseEnChanilChercheurDOgrines: 10661,
+  certificatDeMiseEnChanilCrocodaille: 9684,
+  certificatDeMiseEnChanilCroum: 7533,
+  certificatDeMiseEnChanilDragouneNoire: 9685,
+  certificatDeMiseEnChanilDragouneRose: 7534,
+  certificatDeMiseEnChanilEcureuilChenapan: 8888,
+  certificatDeMiseEnChanilElScarador: 8178,
+  certificatDeMiseEnChanilFëanor: 8707,
+  certificatDeMiseEnChanilFotome: 7532,
+  certificatDeMiseEnChanilGelutin: 10599,
+  certificatDeMiseEnChanilKoalakSanguin: 8526,
+  certificatDeMiseEnChanilLeopardo: 8889,
+  certificatDeMiseEnChanilMarcassin: 9674,
+  certificatDeMiseEnChanilMiniWa: 7895,
+  certificatDeMiseEnChanilMinimino: 7535,
+  certificatDeMiseEnChanilMiniminotot: 9683,
+  certificatDeMiseEnChanilNomoon: 7420,
+  certificatDeMiseEnChanilPekiPeki: 7417,
+  certificatDeMiseEnChanilPetitChachaBlanc: 7418,
+  certificatDeMiseEnChanilPetitChienchienNoir: 7419,
+  certificatDeMiseEnChanilPiouteBleu: 9676,
+  certificatDeMiseEnChanilPiouteJaune: 9677,
+  certificatDeMiseEnChanilPiouteRose: 9678,
+  certificatDeMiseEnChanilPiouteRouge: 9679,
+  certificatDeMiseEnChanilPiouteVert: 9680,
+  certificatDeMiseEnChanilPiouteViolet: 9681,
+  certificatDeMiseEnChanilRoss: 8684,
+  certificatDeMiseEnChanilShushuDeRushu: 9810,
+  certificatDeMiseEnChanilTifoux: 8179,
+  certificatDeMiseEnChanilTiwabbitKiafin: 9682,
+  certificatDeMiseEnChanilVampyrette: 10134,
+  certificatDeMiseEnChanilVilainPetitCorbac: 8421,
+  certificatDeMiseEnChanilWabbit: 2102,
+  certificatDeMiseEnChanilWalk: 8544,
+  certificatDeMiseEnChanilWillyLeRelou: 7896,
+  certificatDeMonture: 7806,
+  certificatDeReconstitution: 10601,
+  certificatDesOrdresNumero5: 9490,
+  certificatDopeul: 6708,
+  certificatDopeulCra: 10289,
+  certificatDopeulEcaflip: 10290,
+  certificatDopeulEniripsa: 10291,
+  certificatDopeulEnutrof: 10292,
+  certificatDopeulFeca: 10293,
+  certificatDopeulIop: 10294,
+  certificatDopeulOsamodas: 10295,
+  certificatDopeulPandawa: 10296,
+  certificatDopeulSacrieur: 10297,
+  certificatDopeulSadida: 10298,
+  certificatDopeulSram: 10299,
+  certificatDopeulXelor: 10300,
+  certificatDuDojoDAerdala: 7344,
+  certificatDuDojoDAkwadala: 7347,
+  certificatDuDojoDeFeudala: 7348,
+  certificatDuDojoDePandala: 7346,
+  certificatDuDojoDeTerrdala: 7345,
+  certificatShamanique: 7175,
+  cervelleDeBouftou: 2448,
+  cervelleDeChefDeGuerreBouftou: 2462,
+  cervelleDeTortue: 2354,
+  cervelleDeVampire: 8514,
+  chacha: 1728,
+  chachaAngora: 9617,
+  chachaBlanc: 6718,
+  chachaTigre: 7524,
+  chachateRousse: 7523,
+  chaîneDeLOuginak: 2492,
+  chaîneDeLaLiche: 1491,
+  chairDInsecte: 1915,
+  chairDInsecte2: 1916,
+  chairDInsecteConservee: 1993,
+  chairDInsecteConservee2: 1994,
+  chairDeLarve: 1898,
+  chairDeLarve2: 1899,
+  chairDeLarve3: 1900,
+  chairDeLarveConservee: 1990,
+  chairDeLarveConservee2: 1991,
+  chairDeLarveConservee3: 1992,
+  chakraStyle: 220,
+  champcoiffe: 6921,
+  champignon: 290,
+  champignonLuidegît: 1674,
+  champo: 2097,
+  champoBanal: 2144,
+  chanceAMulette: 1477,
+  chanceDEcaflip: 1496,
+  changementDOrdre: 2205,
+  chanvre: 425,
+  chanvreEuphorique: 2035,
+  chapblopignon: 9394,
+  chapeauAerdala: 7229,
+  chapeauAkwadala: 7226,
+  chapeauDeBarbroussa: 8829,
+  chapeauDeBeneji: 10554,
+  chapeauDeCrocodailleDandi: 8843,
+  chapeauDeLAventurier: 2474,
+  chapeauDeLaGamineZoth: 8846,
+  chapeauDeLaMariee: 6662,
+  chapeauDeLaSainBallotin: 9471,
+  chapeauDeSatanusse: 8678,
+  chapeauDeTolot: 10553,
+  chapeauDuBoisDeLEst: 9410,
+  chapeauDuLapino: 8558,
+  chapeauDuMarie: 6660,
+  chapeauDuMineurSombre: 6477,
+  chapeauDuPapaNowel: 8334,
+  chapeauDuPiouBleu: 8244,
+  chapeauDuPiouJaune: 8247,
+  chapeauDuPiouRose: 8248,
+  chapeauDuPiouRouge: 8243,
+  chapeauDuPiouVert: 8246,
+  chapeauDuPiouViolet: 8245,
+  chapeauFeudala: 7228,
+  chapeauGrave: 8629,
+  chapeauLeufere: 8628,
+  chapeauLithique: 8635,
+  chapeauObvijevan: 9234,
+  chapeauPaupayahn: 9197,
+  chapeauPirate: 1006,
+  chapeauPointu: 629,
+  chapeauShika: 9120,
+  chapeauTaufeu: 8638,
+  chapeauTerrdala: 7227,
+  chapeauTyron: 8632,
+  chapignon: 9147,
+  chapodindo: 7553,
+  charbon: 447,
+  charentaisesAPoils: 8664,
+  chatonPerche: 1803,
+  chatonPercheVide: 1804,
+  chauffeSouris: 10107,
+  chaussetteDuKimbo: 8789,
+  chaussonsPignons: 9140,
+  chaussuresDuTetounik: 9923,
+  chaussuresLeponDavignon: 8726,
+  chauveSouris: 2669,
+  chequeDe100000Kamas: 1935,
+  chequeDeLaTaverneAuVerDOs: 2138,
+  chequeDeLaTaverneBworkIvre: 2135,
+  chequeDeLaTaverneChabrule: 2133,
+  chequeDeLaTaverneChezDjaul: 2136,
+  chequeDeLaTaverneGothgrotte13: 2137,
+  chercheurDOgrines: 10657,
+  chicotDuFlib: 8740,
+  chienchien: 1711,
+  chienchienNoir: 6717,
+  choipoPodlard: 698,
+  chtevu: 2403,
+  cigalocape: 9485,
+  cigaloclier: 9482,
+  cigalocoiffe: 9486,
+  ciseauxARoseDemoniaque: 6856,
+  citron: 1736,
+  citrouille: 302,
+  citrouillette: 2674,
+  citwouille: 976,
+  clairvoyance: 2128,
+  clakoss: 2527,
+  cleDesSrvtmercenaryShortName: 2143,
+  cleEnRocheDeDedAleicar: 818,
+  cleWabbit1: 961,
+  cleWabbit2: 962,
+  cleWabbit3: 963,
+  clefDeBrakmar: 2046,
+  clefDeLAntreDuBlopMulticolore: 9254,
+  clefDeLAntreDuDragonCochon: 8320,
+  clefDeLArcheDOtomai: 8971,
+  clefDeLEnclos: 9934,
+  clefDeLaCanopeeDuKimbo: 8977,
+  clefDeLaCaverneDesBulbes: 7310,
+  clefDeLaGrotteHesque: 8917,
+  clefDeLaSalleDuMinotot: 8307,
+  clefDesChamps: 8143,
+  clefDesPandikazes: 7309,
+  clefDuCoffre: 9557,
+  clefDuDonjonAbraknyde: 7557,
+  clefDuDonjonDIncarnam: 8545,
+  clefDuDonjonDesBlops: 9248,
+  clefDuDonjonDesBouftous: 1568,
+  clefDuDonjonDesBworks: 8135,
+  clefDuDonjonDesCanides: 8156,
+  clefDuDonjonDesCraqueleurs: 7927,
+  clefDuDonjonDesDragoeufs: 8343,
+  clefDuDonjonDesFirefoux: 7312,
+  clefDuDonjonDesForgerons: 1569,
+  clefDuDonjonDesKitsounes: 7311,
+  clefDuDonjonDesRatsDeBonta: 8439,
+  clefDuDonjonDesRatsDeBrakmar: 8438,
+  clefDuDonjonDesScarafeuilles: 8139,
+  clefDuDonjonDesSquelettes: 1570,
+  clefDuDonjonDesTofus: 7918,
+  clefDuDonjonDuBworker: 6884,
+  clefDuDonjonDuCheneMou: 8436,
+  clefDuDonjonDuKoulosse: 7908,
+  clefDuDonjonDuMaîtreCorbac: 7926,
+  clefDuDonjonEnsable: 8437,
+  clefDuDonjonFungus: 9247,
+  clefDuGouletDuRasboul: 8972,
+  clefDuLaboratoireDuTynril: 8975,
+  clefDuLabyrintheDuDragonCochon: 7511,
+  clefDuLabyrintheDuMinotoror: 7924,
+  clefDuRepaireDeSkeunk: 8073,
+  clefDuRepaireDesBandits: 9997,
+  clefDuSanctuaireDesDragoeufs: 8342,
+  clefSecreteDuTofulaillerRoyal: 8142,
+  clefsDeLEntrepôt: 9960,
+  clint: 2157,
+  clintDuDiscipleSrvtmercenaryShortName: 6971,
+  clintDuNeophyteSrvtmercenaryShortName: 6975,
+  cloaqueDuPoolay: 8787,
+  clochettes: 1339,
+  coccyxDuCorailleur: 8730,
+  cochobits: 9406,
+  cocktailMoritov: 10082,
+  cocoDuBitoufAerien: 8792,
+  cocoDuBitoufDesPlaines: 8769,
+  cocoDuBitoufSombre: 8776,
+  coconDeVerASoie: 642,
+  coeurDOuginak: 2493,
+  coeurDeBoueDuBoo: 2585,
+  coeurDeBrandon: 2058,
+  coeurDeBworkcelhaine: 8516,
+  coeurDeCraqueleur: 2306,
+  coeurDePierrePoli: 8736,
+  coeurDuMaitreCorbac: 2525,
+  coffreCacheDeTsog: 2040,
+  coffretMauditDuFlib: 8759,
+  coiffeCeremonialeDuSeigneurDesRats: 8457,
+  coiffeChampetre: 6797,
+  coiffeCristaline: 9418,
+  coiffeDeCraCrame: 9190,
+  coiffeDeGoultard: 9185,
+  coiffeDeLHommeOurs: 6719,
+  coiffeDeLaDenree: 10188,
+  coiffeDeLaDragueuse: 8331,
+  coiffeDeMaîtreNoirJack: 9187,
+  coiffeDeRobbieCapuche: 8636,
+  coiffeDechiqueteeDeDrakoalak: 8086,
+  coiffeDuBimdOule: 7516,
+  coiffeDuBlackWab: 9567,
+  coiffeDuBoufcoul: 7886,
+  coiffeDuBouftou: 2411,
+  coiffeDuChampion: 8069,
+  coiffeDuChefCrocodaille: 6834,
+  coiffeDuCheneMou: 8474,
+  coiffeDuDiscipleZoth: 8821,
+  coiffeDuDragoeufVolant: 8330,
+  coiffeDuDragonCochon: 8285,
+  coiffeDuGaddie: 7145,
+  coiffeDuKitsou: 7339,
+  coiffeDuKoalak: 8009,
+  coiffeDuKoulosse: 7887,
+  coiffeDuMaîtreZoth: 8848,
+  coiffeDuMeulou: 8267,
+  coiffeDuMinotot: 8284,
+  coiffeDuMominotor: 8325,
+  coiffeDuMulou: 6952,
+  coiffeDuPrespic: 6926,
+  coiffeDuRatBlanc: 8451,
+  coiffeDuTynril: 8699,
+  coiffeEnMousse: 8259,
+  coiffeFere: 8631,
+  coiffeMuletDuTetounik: 9931,
+  collier: 1871,
+  collierCasseDOuginak: 2320,
+  collierCeremonialDuSeigneurDesRats: 8459,
+  collierDeLArcEnCiel: 280,
+  collierDeNoke: 10186,
+  collierDuDragonCochon: 8273,
+  collierDuMinotoror: 8268,
+  collierDuMinotot: 8272,
+  collierDuRatBlanc: 8453,
+  collierDuRatNoir: 8445,
+  collierDuTanukouiSan: 7221,
+  collierRepare: 1883,
+  collierSleump: 9659,
+  colonelLyeno1: 2130,
+  colonelLyeno2: 2152,
+  colonneVertebrale: 2323,
+  compteRenduDeMission: 2347,
+  compteRenduInterrogatoire1: 2148,
+  compteRenduInterrogatoire2: 2180,
+  compteRenduInterrogatoire3: 2181,
+  côneWayal: 6644,
+  connaissance: 2196,
+  contratEntreVilSmisseEtYseVewybad: 8590,
+  copieDeLaClefDuRepaireDesBandits: 9999,
+  coqueDeNoix: 1325,
+  coquilleDeDragoeufBlanc: 308,
+  coquilleDeDragoeufDore: 842,
+  coquilleDeDragoeufNoir: 843,
+  coquilleDeDragoeufSaphir: 1129,
+  coquilleDeDragossBlanc: 8350,
+  coquilleDeDragossDeSaphir: 8349,
+  coquilleDeDragossDore: 8351,
+  coquilleDeDragossNoir: 8348,
+  coquilleDuKaskargo: 8793,
+  coquilleEmeraude: 8700,
+  corailKouraçao: 8732,
+  corailMagistral: 8731,
+  corailMalibout: 8733,
+  corailMorito: 8735,
+  corailPassaoh: 8734,
+  corailUse: 8729,
+  corbacMort: 2059,
+  corbacape: 6449,
+  corbacapeMastralis: 2547,
+  corbacoiffe: 2546,
+  corbalame: 2544,
+  corbottes: 2545,
+  cordeASauterDuCaptainChafer: 6626,
+  cordeDEscalade: 9935,
+  cordeDIvanNowe: 592,
+  coriacite: 7399,
+  corneBriseeDeCrocabulia: 8365,
+  corneBrûleeDuMinotoror: 1680,
+  corneDeBouftou: 383,
+  corneDeBrume: 7651,
+  corneDeChefDeGuerreBouftou: 2465,
+  corneDeDeminoboule: 8327,
+  corneDeDragoeufGuerrier: 8363,
+  corneDeDragoeufVolant: 8361,
+  corneDeDragossBlanc: 8346,
+  corneDeDragossDeSaphire: 8345,
+  corneDeDragossDore: 8347,
+  corneDeDragossNoir: 8344,
+  corneDeDragueuse: 8357,
+  corneDeMominotor: 8328,
+  corneDuBoufcoul: 7906,
+  corneDuMinotot: 8409,
+  cornesDeXvii: 9189,
+  costumeBontesque: 2236,
+  costumeBrakmaresque: 2237,
+  costumeCraesque: 2231,
+  costumeEcaflipesque: 2229,
+  costumeEniripsesque: 2219,
+  costumeEnutrofesque: 2221,
+  costumeFecaesque: 2217,
+  costumeIopesque: 2211,
+  costumeOsamodesque: 2227,
+  costumeRoublardesque: 2346,
+  costumeSacriesque: 2223,
+  costumeSadidesque: 2213,
+  costumeSramesque: 2225,
+  costumeXeloresque: 2212,
+  côtesDePorkass: 2554,
+  côtesDuRib: 432,
+  cotonAncestral: 641,
+  coupeCuir: 579,
+  coupeCuirDuCordomage: 7495,
+  coupeuseDeBombu: 2592,
+  coupeuseDeSifflet: 2600,
+  courage: 1724,
+  couronneBriseeDuTofuRoyal: 2246,
+  couronneDuRoiGelax: 7038,
+  couronneDuTofuRoyal: 7921,
+  couronneDuWaWabbit: 969,
+  couronneKoninginnedag: 10414,
+  couteauAStek: 1027,
+  couteauDeChasse: 1934,
+  couteauxAChampignons: 9137,
+  couvreChefPandawa: 7042,
+  craAttitude: 2232,
+  crabeSourimi: 1757,
+  crabeSourimiExotique: 1759,
+  crabeSourimiExotiqueVide: 1760,
+  crabeSourimiVide: 1758,
+  cracheBoulette: 1944,
+  crackSparrowSOwnWitheredHat: 8854,
+  craneDEcaflip: 9082,
+  craneDEniripsa: 9083,
+  craneDEnutrof: 9079,
+  craneDOsamodas: 9078,
+  craneDeChafer: 2336,
+  craneDeChefCrocodaille: 6738,
+  craneDeCra: 9085,
+  craneDeFeca: 9077,
+  craneDeIop: 9084,
+  craneDePandawa: 9088,
+  craneDePirate: 1009,
+  craneDeSacrieur: 9087,
+  craneDeSadida: 9086,
+  craneDeSram: 9080,
+  craneDeXelor: 9081,
+  craneDuDragonCochon: 481,
+  craquamulette: 6934,
+  craquanneauLegendaire: 8149,
+  craquelocape: 6931,
+  craquelocapeLegendaire: 8181,
+  creationDObjetMagiquePourLesNuls: 1572,
+  creteDePorkass: 2479,
+  criniereDePrespic: 2574,
+  criniereDeTrool: 2559,
+  criniereFleurie: 8753,
+  cristal: 465,
+  cristalDeKainDharyn: 9946,
+  cristalDeKainDharynEnchante: 9947,
+  crocGlandFraichementDompte: 10118,
+  crocJaune: 2316,
+  crochet: 1007,
+  crocodaille: 9623,
+  crocsDeRats: 2322,
+  croissantDeLune: 1710,
+  croquette: 2505,
+  croum: 7520,
+  croupionDuBitoufAerien: 8788,
+  cruellePelleTruelle: 1054,
+  crystalOBoul: 706,
+  cubitusDeMomieKoalak: 8058,
+  cubitusDuRatNoir: 8488,
+  cuirDeBouftonBlanc: 883,
+  cuirDeBouftonNoir: 884,
+  cuirDeBouftou: 304,
+  cuirDeBouftouRoyal: 886,
+  cuirDeDeminoboule: 8323,
+  cuirDeMinotoror: 2999,
+  cuirDeMominotor: 8324,
+  cuirDePorkass: 2275,
+  cuirDeSanglier: 486,
+  cuirDeSanglierDesPlaines: 2511,
+  cuirDuBoufcoul: 7907,
+  cuirDuChefDeGuerreBouftou: 887,
+  cuirDuCochonDeLait: 901,
+  cuirDuDragonCochon: 487,
+  cuirDuMinotot: 8407,
+  cuirNoir: 2287,
+  cuirVioletDeBwork: 2271,
+  cuisseDeBoufton: 1911,
+  cuisseDeBouftou2: 1912,
+  cuisseDeBouftou3: 1913,
+  cuisseDeBouftou4: 1914,
+  cuisseDeBouftouConservee: 1995,
+  cuisseDeBouftouConservee2: 1997,
+  cuisseDeBouftouConservee3: 1998,
+  cuisseDeBouftouConservee4: 1999,
+  cuisseDeBouftouRôti: 1954,
+  cuisseDeBouftouRôti2: 1955,
+  cuisseDeBouftouRôti3: 1956,
+  cuisseDeBouftouRôti4: 1957,
+  cuisseDeWabbit: 1902,
+  cuisseDeWabbit2: 1903,
+  cuisseDeWabbit3: 1905,
+  cuisseDeWabbit4: 1901,
+  cuisseDeWabbitConservee: 2000,
+  cuisseDeWabbitConservee2: 2001,
+  cuisseDeWabbitConservee3: 2002,
+  cuisseDeWabbitConservee4: 2003,
+  cuisseMalodoranteDeBouftou: 2041,
+  cuivre: 441,
+  culotteALEnversDuRoissingue: 8809,
+  dagueAdou: 8926,
+  dagueDAkurobig: 3669,
+  dagueDAligatito: 3601,
+  dagueDAsatucos: 3802,
+  dagueDAvagawe: 3391,
+  dagueDEdgar: 3582,
+  dagueDEfekiro: 3733,
+  dagueDEfore: 3359,
+  dagueDEgulux: 3600,
+  dagueDEmeution: 3559,
+  dagueDErotail: 3641,
+  dagueDEtaleur: 3578,
+  dagueDEtolou: 3755,
+  dagueDHarmebeton: 3392,
+  dagueDHorare: 3687,
+  dagueDItitub: 3360,
+  dagueDObukum: 3585,
+  dagueDOiduber: 3586,
+  dagueDOlepev: 3560,
+  dagueDOsomielle: 3681,
+  dagueDOtukule: 3587,
+  dagueDUgluterre: 3689,
+  dagueDUgrinie: 3613,
+  dagueDUnefugi: 3598,
+  dagueDeAbomirol: 3561,
+  dagueDeAcehofa: 3675,
+  dagueDeAdonop: 3622,
+  dagueDeAelefoma: 3717,
+  dagueDeAelelae: 3592,
+  dagueDeAfelezu: 3389,
+  dagueDeAfilu: 3767,
+  dagueDeAlamice: 3403,
+  dagueDeAleba: 3430,
+  dagueDeAlelae: 3444,
+  dagueDeAmphamase: 3397,
+  dagueDeAmphyuwo: 3623,
+  dagueDeAnelalle: 3748,
+  dagueDeAnojeba: 3644,
+  dagueDeAomebel: 3446,
+  dagueDeApaujyl: 3593,
+  dagueDeAquanewul: 3548,
+  dagueDeAquapawe: 3402,
+  dagueDeAquauli: 3786,
+  dagueDeAqueles: 3768,
+  dagueDeAqueovavag: 3709,
+  dagueDeAruri: 3714,
+  dagueDeAstokum: 3412,
+  dagueDeAtatimos: 3631,
+  dagueDeAtufest: 3499,
+  dagueDeBamegel: 3417,
+  dagueDeBemiel: 3682,
+  dagueDeBevimielle: 3737,
+  dagueDeBiwilague: 3426,
+  dagueDeBleric: 3471,
+  dagueDeBofyf: 3395,
+  dagueDeBorefale: 3771,
+  dagueDeBotol: 3566,
+  dagueDeBrecag: 3629,
+  dagueDeBwaba: 3362,
+  dagueDeBywudopa: 3478,
+  dagueDeCedagape: 3626,
+  dagueDeCuhurerre: 3660,
+  dagueDeCyamabru: 3399,
+  dagueDeDeguci: 3390,
+  dagueDeDlaedos: 3369,
+  dagueDeDofelam: 3790,
+  dagueDeDoimotu: 3506,
+  dagueDeEbabemov: 3570,
+  dagueDeEbepolou: 3603,
+  dagueDeEbogezan: 3515,
+  dagueDeEdacejac: 3455,
+  dagueDeEfocu: 3762,
+  dagueDeEgexeme: 3519,
+  dagueDeEhefafeh: 3617,
+  dagueDeElatalem: 3398,
+  dagueDeEleba: 3734,
+  dagueDeElezo: 3545,
+  dagueDeElmulo: 3739,
+  dagueDeElomei: 3535,
+  dagueDeEmime: 3448,
+  dagueDeEnobu: 3463,
+  dagueDeEolez: 3528,
+  dagueDeEozub: 3657,
+  dagueDeEpubam: 3728,
+  dagueDeEtaemuie: 3759,
+  dagueDeEtehotov: 3565,
+  dagueDeEtelei: 3481,
+  dagueDeEtokimo: 3779,
+  dagueDeEvevone: 3624,
+  dagueDeEvoeleli: 3627,
+  dagueDeEvohalla: 3370,
+  dagueDeEvolu: 3504,
+  dagueDeEvumewau: 3784,
+  dagueDeEzepole: 3606,
+  dagueDeEzola: 3530,
+  dagueDeFelin: 3520,
+  dagueDeFeukuluf: 3363,
+  dagueDeFihifumi: 3518,
+  dagueDeFlapegel: 3470,
+  dagueDeFlaplelema: 3421,
+  dagueDeFlinen: 3408,
+  dagueDeFlymeloz: 3594,
+  dagueDeFobep: 3715,
+  dagueDeFufivul: 3756,
+  dagueDeFufotte: 3404,
+  dagueDeFuhupa: 3672,
+  dagueDeFumdifrit: 3628,
+  dagueDeFurado: 3597,
+  dagueDeFuremid: 3411,
+  dagueDeFurufam: 3725,
+  dagueDeGileumel: 3763,
+  dagueDeGouther: 3583,
+  dagueDeGubub: 3642,
+  dagueDeGuculim: 3764,
+  dagueDeHamekosat: 3688,
+  dagueDeHamela: 3442,
+  dagueDeHarurot: 3367,
+  dagueDeHekoruru: 3730,
+  dagueDeHoisiba: 3614,
+  dagueDeHolene: 3419,
+  dagueDeHuciby: 3793,
+  dagueDeHulihul: 3498,
+  dagueDeHumuda: 3364,
+  dagueDeIbemul: 3719,
+  dagueDeIcofem: 3501,
+  dagueDeIfudi: 3780,
+  dagueDeIkelae: 3787,
+  dagueDeIlefe: 3513,
+  dagueDeIlifa: 3541,
+  dagueDeIluhame: 3572,
+  dagueDeIluti: 3372,
+  dagueDeIplevl: 3379,
+  dagueDeIritim: 3480,
+  dagueDeIsamodub: 3711,
+  dagueDeIsozele: 3743,
+  dagueDeIsuhaille: 3632,
+  dagueDeJulurith: 3726,
+  dagueDeJumim: 3591,
+  dagueDeKeprogu: 3702,
+  dagueDeKrobic: 3568,
+  dagueDeKrodeke: 3746,
+  dagueDeKufam: 3563,
+  dagueDeKumefapre: 3581,
+  dagueDeKureukeu: 3677,
+  dagueDeKyhep: 3670,
+  dagueDeLaewema: 3454,
+  dagueDeLafaul: 3550,
+  dagueDeLeblam: 3698,
+  dagueDeLecurif: 3375,
+  dagueDeLesoly: 3517,
+  dagueDeLethifocof: 3450,
+  dagueDeLetipeve: 3766,
+  dagueDeLeuhome: 3777,
+  dagueDeLibakum: 3795,
+  dagueDeLinuhi: 3684,
+  dagueDeLosubeve: 3636,
+  dagueDeLotisri: 3385,
+  dagueDeLufamefu: 3723,
+  dagueDeLurohu: 3393,
+  dagueDeMamefa: 3599,
+  dagueDeMamekber: 3368,
+  dagueDeMamema: 3440,
+  dagueDeMangapa: 3751,
+  dagueDeMapleveb: 3697,
+  dagueDeMasyl: 3774,
+  dagueDeMatubus: 3447,
+  dagueDeMelem: 3538,
+  dagueDeMeloro: 3792,
+  dagueDeMeteu: 3376,
+  dagueDeMethei: 3720,
+  dagueDeMibifem: 3749,
+  dagueDeMizeleo: 3685,
+  dagueDeMocohi: 3797,
+  dagueDeMolel: 3396,
+  dagueDeMoleli: 3413,
+  dagueDeMololo: 3753,
+  dagueDeMuplige: 3441,
+  dagueDeMutuke: 3694,
+  dagueDeMyzevillion: 3553,
+  dagueDeNaisusa: 3655,
+  dagueDeNazon: 3467,
+  dagueDeNemokim: 3429,
+  dagueDeNezetete: 3365,
+  dagueDeNirufilu: 3637,
+  dagueDeNirugotas: 3381,
+  dagueDeNisibet: 3476,
+  dagueDeNiviful: 3692,
+  dagueDeNobela: 3387,
+  dagueDeNogoru: 3491,
+  dagueDeNupit: 3707,
+  dagueDeObafice: 3666,
+  dagueDeObatitob: 3377,
+  dagueDeOcyum: 3512,
+  dagueDeOdahedus: 3543,
+  dagueDeOenythab: 3643,
+  dagueDeOfefefig: 3633,
+  dagueDeOlabab: 3619,
+  dagueDeOlefeno: 3487,
+  dagueDeOlezepl: 3382,
+  dagueDeOlukico: 3782,
+  dagueDeOluzuma: 3776,
+  dagueDeOrira: 3604,
+  dagueDeOsutin: 3514,
+  dagueDeOtamilad: 3531,
+  dagueDeOtovabon: 3420,
+  dagueDeOtusa: 3616,
+  dagueDeOubiso: 3605,
+  dagueDeOugustec: 3485,
+  dagueDeOumague: 3667,
+  dagueDeOurese: 3653,
+  dagueDeOuriketut: 3665,
+  dagueDeOvalenel: 3540,
+  dagueDeOwugato: 3555,
+  dagueDeOzefibe: 3567,
+  dagueDePelepev: 3378,
+  dagueDePelteux: 3801,
+  dagueDePeteo: 3788,
+  dagueDePevihem: 3493,
+  dagueDePhabocadl: 3472,
+  dagueDePhahor: 3747,
+  dagueDePilal: 3384,
+  dagueDePleloz: 3596,
+  dagueDePlemele: 3433,
+  dagueDePomep: 3620,
+  dagueDePrefin: 3789,
+  dagueDePumefam: 3610,
+  dagueDePumiveme: 3742,
+  dagueDeRagnedede: 3588,
+  dagueDeRagnosot: 3558,
+  dagueDeRastive: 3527,
+  dagueDeReduta: 3427,
+  dagueDeRelem: 3661,
+  dagueDeRetuk: 3516,
+  dagueDeReucedu: 3663,
+  dagueDeRhemehi: 3700,
+  dagueDeRhukoh: 3673,
+  dagueDeRipohefo: 3683,
+  dagueDeRivlun: 3576,
+  dagueDeRudeko: 3418,
+  dagueDeRugnethuko: 3554,
+  dagueDeRugnoker: 3461,
+  dagueDeRugnurigat: 3511,
+  dagueDeSadifoce: 3425,
+  dagueDeSalauvi: 3695,
+  dagueDeSaudurus: 3490,
+  dagueDeSedum: 3659,
+  dagueDeSeduva: 3464,
+  dagueDeSegrillion: 3394,
+  dagueDeSenureru: 3638,
+  dagueDeSeralose: 3544,
+  dagueDeSharekala: 3432,
+  dagueDeSiteulun: 3580,
+  dagueDeSohunim: 3602,
+  dagueDeSozetege: 3546,
+  dagueDeStresro: 3371,
+  dagueDeTahak: 3656,
+  dagueDeTebof: 3615,
+  dagueDeTecocu: 3635,
+  dagueDeTemelo: 3564,
+  dagueDeTevemielle: 3757,
+  dagueDeTevet: 3414,
+  dagueDeThazefle: 3691,
+  dagueDeThemeb: 3701,
+  dagueDeThemoi: 3486,
+  dagueDeThene: 3383,
+  dagueDeThijeful: 3693,
+  dagueDeThileufes: 3502,
+  dagueDeThilibata: 3589,
+  dagueDeThorekeruh: 3696,
+  dagueDeThoruthede: 3438,
+  dagueDeThudebe: 3410,
+  dagueDeThufam: 3758,
+  dagueDeThutasaf: 3796,
+  dagueDeTorukati: 3716,
+  dagueDeTrasesu: 3496,
+  dagueDeTulknef: 3761,
+  dagueDeTuplylo: 3646,
+  dagueDeUbulof: 3783,
+  dagueDeUdacaxeg: 3529,
+  dagueDeUdupli: 3521,
+  dagueDeUfarfla: 3752,
+  dagueDeUfrifulf: 3722,
+  dagueDeUfrudif: 3380,
+  dagueDeUgaram: 3579,
+  dagueDeUgatode: 3740,
+  dagueDeUgefrit: 3765,
+  dagueDeUhugrefi: 3679,
+  dagueDeUladise: 3556,
+  dagueDeUletet: 3630,
+  dagueDeUluni: 3422,
+  dagueDeUlupome: 3469,
+  dagueDeUlutol: 3523,
+  dagueDeUmifu: 3772,
+  dagueDeUnorare: 3562,
+  dagueDeUpohi: 3658,
+  dagueDeUpokose: 3532,
+  dagueDeUrapi: 3760,
+  dagueDeUrufub: 3406,
+  dagueDeUseluf: 3703,
+  dagueDeUsovl: 3729,
+  dagueDeUsurnef: 3434,
+  dagueDeVabejere: 3458,
+  dagueDeVarkuheh: 3745,
+  dagueDeVavehillion: 3424,
+  dagueDeVebol: 3536,
+  dagueDeVibezol: 3724,
+  dagueDeVilot: 3436,
+  dagueDeVlebevet: 3465,
+  dagueDeVolul: 3625,
+  dagueDeVylebe: 3507,
+  dagueDeWogow: 3510,
+  dagueDeYcewuse: 3537,
+  dagueDeYuzybevy: 3569,
+  dagueDeZaderapav: 3731,
+  dagueDeZelaleze: 3798,
+  dagueDeZeleuziz: 3699,
+  dagueDeZelivene: 3457,
+  dagueDeZeloem: 3690,
+  dagueDeZemupiel: 3549,
+  dagueDeZetehely: 3428,
+  dagueDeZezollu: 3415,
+  dagueDeZilesuz: 3374,
+  dagueDeZubolo: 3361,
+  dagueDeZulegeum: 3489,
+  dagueDeZuvab: 3522,
+  dagueDuAbebeh: 3744,
+  dagueDuAgakur: 3621,
+  dagueDuAkust: 3473,
+  dagueDuAlalev: 3645,
+  dagueDuAleril: 3503,
+  dagueDuAletelu: 3769,
+  dagueDuAlitose: 3484,
+  dagueDuAlognef: 3468,
+  dagueDuBenovaille: 3423,
+  dagueDuBeseo: 3524,
+  dagueDuBirelil: 3386,
+  dagueDuBlufago: 3462,
+  dagueDuBukohomu: 3609,
+  dagueDuBwabuse: 3736,
+  dagueDuDivac: 3459,
+  dagueDuDomemefut: 3388,
+  dagueDuDoumobede: 3671,
+  dagueDuDrocotud: 3483,
+  dagueDuDrukuf: 3533,
+  dagueDuDutok: 3770,
+  dagueDuEdofu: 3497,
+  dagueDuEfamaf: 3475,
+  dagueDuElamym: 3400,
+  dagueDuElotiel: 3785,
+  dagueDuElyvone: 3437,
+  dagueDuEmebdar: 3713,
+  dagueDuEogeveti: 3552,
+  dagueDuEozovezo: 3479,
+  dagueDuErudro: 3509,
+  dagueDuEtememuv: 3712,
+  dagueDuEvetelo: 3611,
+  dagueDuEzavesi: 3456,
+  dagueDuFelul: 3639,
+  dagueDuFlalevru: 3773,
+  dagueDuFlehfla: 3791,
+  dagueDuFlyzel: 3547,
+  dagueDuFougou: 3727,
+  dagueDuFrete: 3640,
+  dagueDuGestuli: 3794,
+  dagueDuGozoimul: 3778,
+  dagueDuGrali: 3505,
+  dagueDuGrotah: 3732,
+  dagueDuGuhotu: 3557,
+  dagueDuHilara: 3718,
+  dagueDuHogureke: 3634,
+  dagueDuHokud: 3366,
+  dagueDuIgudeju: 3431,
+  dagueDuItefdar: 3574,
+  dagueDuKauvowyl: 3706,
+  dagueDuKipim: 3708,
+  dagueDuKotakust: 3590,
+  dagueDuKurete: 3525,
+  dagueDuLaduie: 3474,
+  dagueDuLalaplim: 3452,
+  dagueDuLamisu: 3443,
+  dagueDuLepezo: 3686,
+  dagueDuLesafal: 3508,
+  dagueDuLihuli: 3668,
+  dagueDuLitielle: 3373,
+  dagueDuLobolabe: 3607,
+  dagueDuLolole: 3482,
+  dagueDuLulivlil: 3754,
+  dagueDuMelefame: 3453,
+  dagueDuMetufef: 3738,
+  dagueDuMytezet: 3678,
+  dagueDuMyuzalel: 3460,
+  dagueDuNecucane: 3435,
+  dagueDuNevaille: 3409,
+  dagueDuNevamete: 3500,
+  dagueDuNiolovi: 3595,
+  dagueDuNirudauxo: 3735,
+  dagueDuNybihogob: 3526,
+  dagueDuObimat: 3577,
+  dagueDuOdomata: 3799,
+  dagueDuOlehilu: 3405,
+  dagueDuOplarev: 3676,
+  dagueDuOranadop: 3407,
+  dagueDuOrysat: 3680,
+  dagueDuOthodolu: 3800,
+  dagueDuPharamoka: 3662,
+  dagueDuPyogum: 3445,
+  dagueDuRemuleva: 3449,
+  dagueDuRugnegud: 3466,
+  dagueDuRugokest: 3608,
+  dagueDuScoxolelo: 3573,
+  dagueDuShanof: 3534,
+  dagueDuSufufuhe: 3705,
+  dagueDuTenerake: 3551,
+  dagueDuThiladifas: 3704,
+  dagueDuThusahusar: 3775,
+  dagueDuTolei: 3488,
+  dagueDuTrogruk: 3584,
+  dagueDuTudib: 3618,
+  dagueDuUkerok: 3721,
+  dagueDuUmesu: 3439,
+  dagueDuUmitdar: 3494,
+  dagueDuUpely: 3575,
+  dagueDuUplaul: 3571,
+  dagueDuUpuve: 3495,
+  dagueDuUtofet: 3674,
+  dagueDuUturuk: 3741,
+  dagueDuVenygoth: 3416,
+  dagueDuViblumi: 3612,
+  dagueDuVibose: 3664,
+  dagueDuVinole: 3750,
+  dagueDuVivafefa: 3710,
+  dagueDuVubei: 3492,
+  dagueDuYhyulo: 3539,
+  dagueDuYrasber: 3542,
+  dagueDuZarelomol: 3654,
+  dagueDuZarolel: 3401,
+  dagueDuZigotho: 3781,
+  dagueDuZivolel: 3451,
+  dagueDuZoble: 3477,
+  dagueFourbesque: 1037,
+  dagueHaihRiDon: 9716,
+  dagueHiBol: 9712,
+  dagueHiDon: 9711,
+  dagueHiMov: 9713,
+  dagueHoRille: 9717,
+  dagueLutination: 3651,
+  dagueRafeuse: 3649,
+  dagueRegah: 3650,
+  daguesAerdala: 7256,
+  daguesAjDehLa: 1372,
+  daguesAncestrales: 919,
+  daguesCruellesDElorieEntuwan: 1031,
+  daguesDeBoisaille: 95,
+  daguesDeCroclage: 212,
+  daguesDeFouraille: 206,
+  daguesDeLApprentiTueurDeBouftons: 6984,
+  daguesDeLInitie: 6784,
+  daguesDeNoke: 10187,
+  daguesDuBandit: 6924,
+  daguesDuDragoeuf: 8414,
+  daguesDuRatNoir: 8444,
+  daguesEguisees: 898,
+  daguesEudin: 8927,
+  daguesEulasse: 1371,
+  daguesEurfolles: 341,
+  daguesHischantes: 6517,
+  daguesHonies: 6982,
+  daguesLassay: 6981,
+  daguesMaydhynChina: 7190,
+  daguesOBert: 1504,
+  daguesRHoh: 6516,
+  daguesReceuses: 6983,
+  daguesRhumes: 7188,
+  daguesRistocrates: 8093,
+  daguesRuik: 8928,
+  daguesRuyere: 8598,
+  daguesSylvestres: 894,
+  daguesTylo: 1374,
+  daguette: 1357,
+  daguetteDuCaptainChafer: 3648,
+  dantgoule: 704,
+  debutDeRapport: 2168,
+  decoupeuseDeKralamoure: 620,
+  decoupeuseDeYench: 1574,
+  decourage: 1725,
+  decretDeLaTaxe5111B: 2131,
+  defenseDeDragonCochon: 2643,
+  defenseDeSanglierAgressif: 1928,
+  defenseDeSanglierDesPlaines: 2516,
+  defenseDuSanglier: 387,
+  demandeDAideDAmayiro: 9099,
+  demiBaguette: 1356,
+  demonteur: 8010,
+  dent: 2195,
+  dentDOurs: 6842,
+  dentDeBouftou: 1870,
+  dentDeChefDeGuerreBouftou: 2463,
+  dentDeCrocGlandEnrage: 2117,
+  dentDeCrocabulia: 8368,
+  dentDeCrocodaille: 1664,
+  dentDeDragodinde: 2179,
+  dentDeKarne: 2259,
+  dentDeRatBlanc: 8489,
+  dentDeSerpentin: 2509,
+  dentDeShinLarve: 8386,
+  dentDeWabbit: 305,
+  dentDuTofuMalefique: 375,
+  dentEnOrDuCraqueleur: 2252,
+  dentMagiqueDeCooleuvre: 7274,
+  dentPointue: 2279,
+  dentierDePorkass: 2483,
+  dentierDuChaferDElite: 408,
+  dentsDeChefCrocodaille: 1614,
+  dentsDeMeulou: 2581,
+  dermaTho: 9020,
+  dermaThoFletri: 7076,
+  descriptionApproximative: 6809,
+  descriptionDUnBontarien: 2265,
+  descriptionDeLAssassin: 2262,
+  deuxiemeClefDuDonjonDeSphincter: 8477,
+  deuxiemePartieDeLaClefDuLabyrintheDuDragonCochon: 7510,
+  diamant: 315,
+  dieuxDemons: 7366,
+  diplômeDHelMunster: 1566,
+  discreteBaguetteDHouvette: 1137,
+  documentSurXephires: 9062,
+  documentsConfidentiels: 10005,
+  documentsSecretsFroisses: 9114,
+  documentsVoles: 2192,
+  dofawa: 7113,
+  dofusAuChocolatBlanc: 7125,
+  dofusAuLait: 7124,
+  dofusCawotte: 972,
+  dofusDesGlaces: 7043,
+  dofusEbene: 7114,
+  dofusEmeraude: 737,
+  dofusIvoire: 7115,
+  dofusKaliptus: 8072,
+  dofusOcre: 7754,
+  dofusPourpre: 694,
+  dofusTachete: 7112,
+  dofusTurquoise: 739,
+  dofusVinaigrette: 8574,
+  dofusVulbis: 6980,
+  dofusteuse: 958,
+  dolomite: 7033,
+  doplonCra: 10302,
+  doplonEcaflip: 10303,
+  doplonEniripsa: 10304,
+  doplonEnutrof: 10305,
+  doplonFeca: 10306,
+  doplonIop: 10307,
+  doplonOsamodas: 10308,
+  doplonPandawa: 10309,
+  doplonSacrieur: 10310,
+  doplonSadida: 10311,
+  doplonSram: 10312,
+  doplonXelor: 10313,
+  dora: 703,
+  doraBora: 6481,
+  doraSombreDeBrave: 2096,
+  doroLeBlak: 8569,
+  doseDeJusGoûtu: 1731,
+  doubleEffetKillCoos: 10676,
+  dragocoiffeBlanche: 1904,
+  dragocoiffeDeSaphire: 6473,
+  dragocoiffeDoree: 6472,
+  dragocoiffeNoire: 6474,
+  dragodindeAmande: 7819,
+  dragodindeAmandeEtDoree: 7823,
+  dragodindeAmandeEtEbene: 7824,
+  dragodindeAmandeEtEmeraude: 7825,
+  dragodindeAmandeEtIndigo: 7826,
+  dragodindeAmandeEtIvoire: 7827,
+  dragodindeAmandeEtOrchidee: 7830,
+  dragodindeAmandeEtPourpre: 7831,
+  dragodindeAmandeEtRousse: 7828,
+  dragodindeAmandeEtTurquoise: 7829,
+  dragodindeAmandeSauvage: 7807,
+  dragodindeDoree: 7817,
+  dragodindeDoreeEtEbene: 7832,
+  dragodindeDoreeEtEmeraude: 7833,
+  dragodindeDoreeEtIndigo: 7834,
+  dragodindeDoreeEtIvoire: 7835,
+  dragodindeDoreeEtOrchidee: 7838,
+  dragodindeDoreeEtPourpre: 7839,
+  dragodindeDoreeEtRousse: 7836,
+  dragodindeDoreeEtTurquoise: 7837,
+  dragodindeDoreeSauvage: 7864,
+  dragodindeEbene: 7808,
+  dragodindeEbeneEtEmeraude: 7840,
+  dragodindeEbeneEtIndigo: 7841,
+  dragodindeEbeneEtIvoire: 7810,
+  dragodindeEbeneEtOrchidee: 7843,
+  dragodindeEbeneEtPourpre: 7844,
+  dragodindeEbeneEtRousse: 7813,
+  dragodindeEbeneEtTurquoise: 7842,
+  dragodindeEmeraude: 7820,
+  dragodindeEmeraudeEtIndigo: 7845,
+  dragodindeEmeraudeEtIvoire: 7846,
+  dragodindeEmeraudeEtOrchidee: 7849,
+  dragodindeEmeraudeEtPourpre: 7850,
+  dragodindeEmeraudeEtRousse: 7847,
+  dragodindeEmeraudeEtTurquoise: 7848,
+  dragodindeEnArmure: 9582,
+  dragodindeIndigo: 7816,
+  dragodindeIndigoEtIvoire: 7851,
+  dragodindeIndigoEtOrchidee: 7854,
+  dragodindeIndigoEtPourpre: 7855,
+  dragodindeIndigoEtRousse: 7852,
+  dragodindeIndigoEtTurquoise: 7853,
+  dragodindeIvoire: 7815,
+  dragodindeIvoireEtOrchidee: 7857,
+  dragodindeIvoireEtPourpre: 7858,
+  dragodindeIvoireEtRousse: 7812,
+  dragodindeIvoireEtTurquoise: 7856,
+  dragodindeOrchidee: 7821,
+  dragodindeOrchideeEtPourpre: 7866,
+  dragodindeOrchideeEtRousse: 7860,
+  dragodindePourpre: 7818,
+  dragodindePourpreEtRousse: 7861,
+  dragodindePrune: 7822,
+  dragodindePruneEtAmande: 7867,
+  dragodindePruneEtDoree: 7868,
+  dragodindePruneEtEbene: 7869,
+  dragodindePruneEtEmeraude: 7870,
+  dragodindePruneEtIndigo: 7871,
+  dragodindePruneEtIvoire: 7872,
+  dragodindePruneEtOrchidee: 7875,
+  dragodindePruneEtPourpre: 7876,
+  dragodindePruneEtRousse: 7873,
+  dragodindePruneEtTurquoise: 7874,
+  dragodindeRousse: 7811,
+  dragodindeRousseSauvage: 7809,
+  dragodindeSquelette: 7865,
+  dragodindeTurquoise: 7814,
+  dragodindeTurquoiseEtOrchidee: 7862,
+  dragodindeTurquoiseEtPourpre: 7863,
+  dragodindeTurquoiseEtRousse: 7859,
+  dragofesseClassique: 7634,
+  dragofesseEnCuirDeBouftonBlanc: 7635,
+  dragofesseEnCuirDeBouftonNoir: 7636,
+  dragofesseEnCuirDeBouftou: 7637,
+  dragofesseEnCuirDeBouftouRoyal: 7692,
+  dragofesseEnCuirDeChefDeGuerreBouftou: 7691,
+  dragofesseEnCuirDeCochonDeLait: 7695,
+  dragofesseEnCuirDeDragonCochon: 7694,
+  dragofesseEnCuirDeMinotoror: 7700,
+  dragofesseEnCuirDePorkass: 7697,
+  dragofesseEnCuirDeSanglier: 7693,
+  dragofesseEnCuirDeSanglierDesPlaines: 7699,
+  dragofesseEnCuirNoir: 7698,
+  dragofesseEnCuirVioletDeBwork: 7696,
+  dragolait: 2267,
+  dragolyre: 867,
+  dragolyreRemaniee: 2392,
+  dragouneNoire: 9624,
+  dragouneRose: 7519,
+  dragoviande: 1922,
+  dragoviande2: 1923,
+  dragoviande3: 1924,
+  dragoviande4: 1926,
+  dragoviandeConservee: 2014,
+  dragoviandeConservee2: 2015,
+  dragoviandeConservee3: 2016,
+  dragoviandeConservee4: 2017,
+  duvetDuKilibriss: 8756,
+  eau: 311,
+  ebonite: 746,
+  ecaflipAttitude: 2230,
+  ecailleDeChefCrocodaille: 1613,
+  ecailleDeCrocodaille: 1663,
+  ecailleDeDragossBlanc: 8354,
+  ecailleDeDragossDeSaphire: 8353,
+  ecailleDeDragossDore: 8355,
+  ecailleDeDragossNoir: 8352,
+  ecaillePoisseuse: 8680,
+  echantillonDeLave1: 2164,
+  echantillonDeLave2: 2165,
+  echantillonDeLave3: 2166,
+  echantillonDeLave4: 2167,
+  echantillonDeSang: 6816,
+  ecorceDAbraknyde: 434,
+  ecorceDAbraknydeAncestral: 8494,
+  ecorceDAbraknydeSombre: 1610,
+  ecorceDeBrouture: 8772,
+  ecorceDeChampaknyde: 9263,
+  ecorceDeChiendent: 8775,
+  ecorceDeFecorce: 8774,
+  ecorceDeFloribonde: 8771,
+  ecorceDeFourbasse: 6737,
+  ecorceDeLiroyeMerline: 1682,
+  ecorceDeNerbe: 8773,
+  ecorceDuCheneMou: 6486,
+  ecorceDuTynril: 8770,
+  ecorceMagiqueDeBulbambou: 7272,
+  ecorceMagiqueDeBulbiflore: 7270,
+  ecorceMagiqueDeBulbig: 7269,
+  ecorceMagiqueDeBulbuisson: 7271,
+  ecureuilChenapan: 7704,
+  ecussonDuSergentZoth: 8806,
+  edelweiss: 594,
+  effrayantePelleDeKoutoulou: 1058,
+  einekeineux: 769,
+  elScarador: 8154,
+  elScaradorBienLElever: 8317,
+  elagueuseDOliviolet: 2593,
+  elagueuseDeCharme: 478,
+  elasticite: 7398,
+  elegantArcDuRoiDesBorins: 1127,
+  elixirCra: 10212,
+  elixirEcaflip: 10214,
+  elixirEniripsa: 10210,
+  elixirEnutrof: 10217,
+  elixirFeca: 10216,
+  elixirIop: 10213,
+  elixirOsamodas: 10218,
+  elixirPandawa: 10208,
+  elixirSacrieur: 10209,
+  elixirSadida: 10211,
+  elixirSram: 10219,
+  elixirXelor: 10215,
+  emblemeLivide: 1482,
+  emeraude: 316,
+  emplacementDuChamp: 9550,
+  encreDuKralamoureGeant: 8812,
+  encyclopedieDAlchimieAnnexeAMetiers: 1626,
+  encyclopedieDAlchimieTomeGPercepteurs: 7330,
+  engrais: 2663,
+  eniHoube: 10078,
+  eniripsaAttitude: 2220,
+  enormeBatonDakn: 1151,
+  enormePierreDAme: 7331,
+  enormePierreDAmeHasardeuse: 7006,
+  enormePierreDAmeHeureuse: 7335,
+  enormePierreDAmeParfaite: 9689,
+  ensembleDeBoutsDeBois: 6814,
+  entente: 1481,
+  entrecôteDeCrocodaille: 8506,
+  entrecôteDeKanigrou: 8504,
+  enutrofAttitude: 2222,
+  enveloppe: 2140,
+  epauletteDeBwork: 3001,
+  epauletteDeTrool: 2560,
+  epauletteDuDarkVlad: 2299,
+  epeeBondissante: 6837,
+  epeeCasseeDuChevalierMalchanceux: 1041,
+  epeeCerpTeurh: 9710,
+  epeeChoh: 8701,
+  epeeDAdaumu: 2941,
+  epeeDAdepouille: 2742,
+  epeeDAdode: 2933,
+  epeeDAgaboo: 2922,
+  epeeDAgaceto: 2731,
+  epeeDAgalomo: 3354,
+  epeeDAgino: 2951,
+  epeeDAjara: 2718,
+  epeeDAlkolo: 2917,
+  epeeDAlle: 53,
+  epeeDAmauk: 2746,
+  epeeDAmikibo: 2728,
+  epeeDAmuspu: 2973,
+  epeeDAqualoum: 2714,
+  epeeDArakuris: 2985,
+  epeeDArecule: 2962,
+  epeeDAremofa: 2982,
+  epeeDAruta: 2937,
+  epeeDAtake: 2990,
+  epeeDAufemir: 2959,
+  epeeDEfese: 2751,
+  epeeDEfufuc: 3353,
+  epeeDEnflimel: 2793,
+  epeeDEpitafe: 2715,
+  epeeDErunoril: 2749,
+  epeeDEsespur: 2757,
+  epeeDEsete: 2756,
+  epeeDEsretha: 3349,
+  epeeDEvalina: 2734,
+  epeeDEviper: 2957,
+  epeeDEzale: 2771,
+  epeeDHa: 60,
+  epeeDHemagram: 2737,
+  epeeDHeritor: 2729,
+  epeeDHomawo: 2986,
+  epeeDIcekya: 2905,
+  epeeDIfrusifel: 2995,
+  epeeDIfrusiful: 2722,
+  epeeDIgniflam: 2761,
+  epeeDIluminite: 2725,
+  epeeDIrehotes: 2994,
+  epeeDIreteh: 3106,
+  epeeDIvurit: 2713,
+  epeeDObruku: 2755,
+  epeeDOctopur: 2915,
+  epeeDOcuca: 2927,
+  epeeDOfule: 2979,
+  epeeDOlilune: 2748,
+  epeeDOskour: 2899,
+  epeeDOsokure: 3348,
+  epeeDOtustal: 2733,
+  epeeDOuruketh: 2760,
+  epeeDOvruber: 2974,
+  epeeDOwela: 2770,
+  epeeDOzebel: 2774,
+  epeeDUbitum: 2903,
+  epeeDUgrogoth: 2783,
+  epeeDUldeber: 2920,
+  epeeDUleki: 2787,
+  epeeDUrandal: 6676,
+  epeeDUregolum: 2939,
+  epeeDUsito: 2784,
+  epeeDUtete: 2948,
+  epeeDalDouss: 9708,
+  epeeDeAdili: 3275,
+  epeeDeAelewawac: 3177,
+  epeeDeAelowawe: 3189,
+  epeeDeAgunadlo: 3226,
+  epeeDeAkiteudo: 3228,
+  epeeDeAlaly: 3131,
+  epeeDeAlunavim: 3244,
+  epeeDeAotohet: 3273,
+  epeeDeAquejineno: 3269,
+  epeeDeAquenabava: 3338,
+  epeeDeAsehoca: 3318,
+  epeeDeAturul: 3256,
+  epeeDeAvogocop: 3234,
+  epeeDeBacber: 3116,
+  epeeDeBalelen: 2802,
+  epeeDeBesumaku: 3311,
+  epeeDeBilosudr: 3347,
+  epeeDeBoisaille: 42,
+  epeeDeBrenilafu: 3328,
+  epeeDeBretim: 2711,
+  epeeDeBulaf: 2753,
+  epeeDeBuruman: 2989,
+  epeeDeCarexe: 2794,
+  epeeDeCarvelim: 2971,
+  epeeDeCatusotu: 3253,
+  epeeDeCerorate: 3214,
+  epeeDeCouritis: 2797,
+  epeeDeDafulaille: 3163,
+  epeeDeDolouille: 2775,
+  epeeDeDomodana: 3333,
+  epeeDeDorehek: 3236,
+  epeeDeDufemu: 2950,
+  epeeDeEfumale: 3109,
+  epeeDeEgipuf: 3110,
+  epeeDeEguruhod: 2727,
+  epeeDeEhekit: 3248,
+  epeeDeEjevyfe: 3341,
+  epeeDeEkekir: 3136,
+  epeeDeEkereno: 3173,
+  epeeDeEkohu: 3142,
+  epeeDeEllalle: 3285,
+  epeeDeElmidepr: 3137,
+  epeeDeEmovlemo: 3187,
+  epeeDeEstar: 3222,
+  epeeDeEsukur: 3123,
+  epeeDeEtunuh: 3104,
+  epeeDeEtutrouv: 2777,
+  epeeDeEurucoru: 3305,
+  epeeDeExege: 3125,
+  epeeDeFacolet: 2798,
+  epeeDeFamufoke: 3201,
+  epeeDeFarurit: 2980,
+  epeeDeFebob: 2769,
+  epeeDeFeciceuf: 2736,
+  epeeDeFecota: 2789,
+  epeeDeFendaf: 2947,
+  epeeDeFeuGrossiere: 6838,
+  epeeDeFiholube: 3319,
+  epeeDeFihutuvu: 3160,
+  epeeDeFilisnef: 2782,
+  epeeDeFlesgelis: 2739,
+  epeeDeFluriled: 2738,
+  epeeDeFlymoz: 3283,
+  epeeDeFouraille: 47,
+  epeeDeGaflim: 3162,
+  epeeDeGakuda: 3260,
+  epeeDeGanereh: 2791,
+  epeeDeGatades: 2730,
+  epeeDeGebag: 3213,
+  epeeDeGeluhert: 2924,
+  epeeDeGereliel: 2799,
+  epeeDeGetikuth: 2762,
+  epeeDeGeurtuk: 2946,
+  epeeDeGiterre: 2767,
+  epeeDeGlateron: 2781,
+  epeeDeGosarth: 2904,
+  epeeDeGraheu: 2911,
+  epeeDeGribaf: 2790,
+  epeeDeGrodimep: 3351,
+  epeeDeGrodotiri: 3114,
+  epeeDeGrokert: 3267,
+  epeeDeGrokoche: 3350,
+  epeeDeGumagi: 3193,
+  epeeDeHahedor: 3306,
+  epeeDeHalypaul: 3268,
+  epeeDeHecert: 3339,
+  epeeDeHegareh: 2935,
+  epeeDeHerekug: 3288,
+  epeeDeHesroth: 3250,
+  epeeDeHigreter: 2993,
+  epeeDeHorire: 3295,
+  epeeDeHububaci: 3181,
+  epeeDeHudure: 3159,
+  epeeDeHuguh: 3310,
+  epeeDeHuluffrit: 3326,
+  epeeDeHulurig: 3211,
+  epeeDeHupriket: 3182,
+  epeeDeHyumuie: 2906,
+  epeeDeIborori: 3219,
+  epeeDeIcuste: 3145,
+  epeeDeIfefulf: 3298,
+  epeeDeIfefuli: 3198,
+  epeeDeIstego: 3325,
+  epeeDeJustice: 2156,
+  epeeDeKasterug: 3221,
+  epeeDeKatatose: 2750,
+  epeeDeKavahusa: 3314,
+  epeeDeKesdutab: 2923,
+  epeeDeKibaxuta: 3152,
+  epeeDeKicabuh: 2930,
+  epeeDeKifasum: 3334,
+  epeeDeKithehi: 3332,
+  epeeDeKopum: 2732,
+  epeeDeKrekece: 3192,
+  epeeDeKrogrede: 2967,
+  epeeDeKroruth: 3276,
+  epeeDeKugruk: 3191,
+  epeeDeKukegr: 3235,
+  epeeDeKulujuk: 3231,
+  epeeDeLEkere: 2764,
+  epeeDeLEples: 2938,
+  epeeDeLIkaril: 2765,
+  epeeDeLInitie: 6780,
+  epeeDeLOpela: 2776,
+  epeeDeLaldar: 3225,
+  epeeDeLalomnef: 3264,
+  epeeDeLanam: 3179,
+  epeeDeLarabifiru: 3254,
+  epeeDeLarabobyb: 3161,
+  epeeDeLavalu: 3217,
+  epeeDeLavuie: 2908,
+  epeeDeLefuv: 2965,
+  epeeDeLeliv: 2931,
+  epeeDeLesece: 2913,
+  epeeDeLetilihu: 3238,
+  epeeDeLezely: 2918,
+  epeeDeLibeziel: 3316,
+  epeeDeLifituful: 3330,
+  epeeDeLiftgun: 2901,
+  epeeDeLifufaille: 3190,
+  epeeDeLignare: 2954,
+  epeeDeLileniru: 3265,
+  epeeDeLipemame: 3279,
+  epeeDeLisolomev: 3180,
+  epeeDeLithifru: 2752,
+  epeeDeLoberi: 2953,
+  epeeDeLodag: 2900,
+  epeeDeLotom: 3169,
+  epeeDeLovmiteder: 2936,
+  epeeDeLucifrit: 2792,
+  epeeDeLudak: 2724,
+  epeeDeLuris: 3336,
+  epeeDeMamestef: 3287,
+  epeeDeMeflufa: 2788,
+  epeeDeMefusto: 2942,
+  epeeDeMercenaire: 2170,
+  epeeDeMineto: 2741,
+  epeeDeMulnef: 2981,
+  epeeDeMuves: 2978,
+  epeeDeMyplei: 3289,
+  epeeDeNaititag: 3282,
+  epeeDeNetotuth: 3291,
+  epeeDeNezillion: 2720,
+  epeeDeNilja: 2970,
+  epeeDeNirytetas: 3255,
+  epeeDeNisudidli: 3185,
+  epeeDeNopera: 2801,
+  epeeDeNostam: 3274,
+  epeeDeNowel: 8338,
+  epeeDeNubakope: 3126,
+  epeeDeNugaver: 2740,
+  epeeDeNupuraille: 3342,
+  epeeDeNuratu: 2926,
+  epeeDeOcokero: 3284,
+  epeeDeOifes: 3107,
+  epeeDeOnaidum: 3241,
+  epeeDeOrunagag: 3224,
+  epeeDeOupale: 3111,
+  epeeDeOurekrten: 3170,
+  epeeDeOurene: 3312,
+  epeeDeOutugo: 3158,
+  epeeDeOzeufluo: 3172,
+  epeeDePagahdar: 2758,
+  epeeDePakum: 2744,
+  epeeDePalterre: 2916,
+  epeeDePavetava: 3292,
+  epeeDePiberuf: 3154,
+  epeeDePouille: 2914,
+  epeeDePozel: 2949,
+  epeeDePym: 9191,
+  epeeDeRagnetes: 3210,
+  epeeDeRahelena: 3272,
+  epeeDeRamosi: 3344,
+  epeeDeRatoti: 2919,
+  epeeDeRebodur: 2743,
+  epeeDeRedistro: 2772,
+  epeeDeRefubef: 2960,
+  epeeDeRehele: 2925,
+  epeeDeRelanape: 3118,
+  epeeDeRelewe: 2716,
+  epeeDeRemav: 2944,
+  epeeDeRenen: 2943,
+  epeeDeResosrud: 3329,
+  epeeDeResusec: 2958,
+  epeeDeRewylibie: 3281,
+  epeeDeRhesain: 2780,
+  epeeDeRhude: 3270,
+  epeeDeRicoche: 2759,
+  epeeDeRimuvel: 2940,
+  epeeDeRogehedas: 2800,
+  epeeDeRokeryhu: 3352,
+  epeeDeRosoh: 2763,
+  epeeDeRugiri: 2796,
+  epeeDeRugnome: 2983,
+  epeeDeRukoti: 2945,
+  epeeDeRurathego: 3301,
+  epeeDeRurigar: 3266,
+  epeeDeRuruketon: 3299,
+  epeeDeRusrony: 2773,
+  epeeDeRutofob: 2778,
+  epeeDeSarthos: 2929,
+  epeeDeSartoky: 2961,
+  epeeDeSatekog: 3183,
+  epeeDeScoxese: 3168,
+  epeeDeSecasoche: 3212,
+  epeeDeSekekapo: 3261,
+  epeeDeSergotu: 2902,
+  epeeDeSerianeKerm: 2402,
+  epeeDeSerukute: 3315,
+  epeeDeShamabuc: 3321,
+  epeeDeSivevi: 3215,
+  epeeDeSoltedel: 2987,
+  epeeDeSorebo: 2921,
+  epeeDeSoset: 3197,
+  epeeDeSrubele: 3277,
+  epeeDeStorpur: 3129,
+  epeeDeStoupur: 2717,
+  epeeDeSucupret: 3149,
+  epeeDeSudamu: 2968,
+  epeeDeSurevele: 3302,
+  epeeDeSuroround: 2991,
+  epeeDeTaigage: 2766,
+  epeeDeTaledeau: 2997,
+  epeeDeTebok: 3324,
+  epeeDeTecuroli: 2996,
+  epeeDeTepacap: 2786,
+  epeeDeTeram: 3117,
+  epeeDeTerere: 3164,
+  epeeDeTesuki: 2726,
+  epeeDeTetum: 3230,
+  epeeDeThesrel: 2964,
+  epeeDeThoradog: 3229,
+  epeeDeThorederoh: 3147,
+  epeeDeThorog: 2977,
+  epeeDeThorogeda: 3232,
+  epeeDeThutes: 3322,
+  epeeDeTijako: 3199,
+  epeeDeTofyta: 3220,
+  epeeDeTokag: 3262,
+  epeeDeTopaura: 2747,
+  epeeDeTosrug: 2785,
+  epeeDeTreluj: 2963,
+  epeeDeTrerolo: 2934,
+  epeeDeTrudik: 2972,
+  epeeDeTuged: 2723,
+  epeeDeTulerat: 2735,
+  epeeDeTuthefil: 3132,
+  epeeDeUbotibie: 3127,
+  epeeDeUdojisth: 3194,
+  epeeDeUhusto: 3153,
+  epeeDeUkanadra: 3139,
+  epeeDeUkeda: 3320,
+  epeeDeUledir: 3280,
+  epeeDeUtahetot: 3112,
+  epeeDeUtoxe: 3216,
+  epeeDeVadesmor: 2754,
+  epeeDeVarkehe: 3249,
+  epeeDeVarkisekut: 3259,
+  epeeDeVarkugepe: 3251,
+  epeeDeVebevez: 3115,
+  epeeDeVenigile: 2984,
+  epeeDeVezel: 3150,
+  epeeDeVlele: 3246,
+  epeeDeVlylepoe: 3296,
+  epeeDeVolmate: 2966,
+  epeeDeVrebibel: 3247,
+  epeeDeWemama: 3133,
+  epeeDeWiladice: 3105,
+  epeeDeWonague: 3120,
+  epeeDeWulalelu: 3243,
+  epeeDeYanguru: 6840,
+  epeeDeYingnitie: 6839,
+  epeeDeZaeole: 2719,
+  epeeDeZefula: 2795,
+  epeeDeZemuz: 3202,
+  epeeDeZyufillion: 3223,
+  epeeDoncule: 8604,
+  epeeDuAelab: 3166,
+  epeeDuAelyake: 3122,
+  epeeDuAgrur: 3175,
+  epeeDuAlalag: 3240,
+  epeeDuApleg: 3242,
+  epeeDuAquaebu: 3337,
+  epeeDuArurev: 3186,
+  epeeDuAturerun: 3143,
+  epeeDuAuplepru: 3313,
+  epeeDuBadgul: 2956,
+  epeeDuBalofeau: 3271,
+  epeeDuBanditFineLame: 10126,
+  epeeDuBigper: 2745,
+  epeeDuBilenpur: 3263,
+  epeeDuBucure: 2952,
+  epeeDuChevalier: 822,
+  epeeDuChevalierDeGlace: 7102,
+  epeeDuColom: 2721,
+  epeeDuDarkVlad: 7193,
+  epeeDuDofluk: 3345,
+  epeeDuDragoeuf: 8292,
+  epeeDuDudotim: 2975,
+  epeeDuEgelibu: 3239,
+  epeeDuEmefe: 2768,
+  epeeDuEnergur: 3103,
+  epeeDuEnucnef: 3308,
+  epeeDuEpusiku: 3331,
+  epeeDuEredlag: 3138,
+  epeeDuEsteu: 2928,
+  epeeDuFider: 2976,
+  epeeDuFlavuf: 3294,
+  epeeDuFleceber: 3323,
+  epeeDuFlelih: 2969,
+  epeeDuFlesin: 3157,
+  epeeDuFonae: 3184,
+  epeeDuGanip: 2907,
+  epeeDuGapuh: 3176,
+  epeeDuGeluteco: 3355,
+  epeeDuGilupog: 3156,
+  epeeDuGodag: 2932,
+  epeeDuGodotu: 3303,
+  epeeDuGrandChevalier: 823,
+  epeeDuGrano: 2712,
+  epeeDuGrukireu: 3188,
+  epeeDuGudinake: 3146,
+  epeeDuHamumixo: 3257,
+  epeeDuHamuth: 2992,
+  epeeDuHegohorth: 3346,
+  epeeDuHekese: 3252,
+  epeeDuHuhukego: 3227,
+  epeeDuHusimuh: 3278,
+  epeeDuIgeroth: 3135,
+  epeeDuIlele: 3144,
+  epeeDuItezei: 3124,
+  epeeDuKhebab: 2912,
+  epeeDuKinuvige: 3237,
+  epeeDuKogeced: 3128,
+  epeeDuKrobaxoba: 3218,
+  epeeDuKromaker: 3155,
+  epeeDuKuhur: 2988,
+  epeeDuLekahut: 3196,
+  epeeDuLolevya: 3119,
+  epeeDuMihatoru: 3245,
+  epeeDuMolec: 3200,
+  epeeDuMourour: 3297,
+  epeeDuNifuh: 3178,
+  epeeDuNirogim: 3174,
+  epeeDuOketuh: 3307,
+  epeeDuOsukul: 3151,
+  epeeDuOtokain: 3140,
+  epeeDuOurekesuh: 3293,
+  epeeDuPenarber: 3343,
+  epeeDuPetitChevalier: 353,
+  epeeDuPuissantChevalier: 824,
+  epeeDuRagora: 3171,
+  epeeDuRatBlanc: 8450,
+  epeeDuRhetu: 2955,
+  epeeDuRiruh: 3134,
+  epeeDuRisdar: 3121,
+  epeeDuRohnain: 2910,
+  epeeDuRokil: 3167,
+  epeeDuRonit: 3195,
+  epeeDuRoradep: 3108,
+  epeeDuRuredert: 3327,
+  epeeDuSomoce: 3148,
+  epeeDuTabuk: 2909,
+  epeeDuTegafdar: 3304,
+  epeeDuTepas: 3335,
+  epeeDuThorerures: 3286,
+  epeeDuTilepeuf: 3130,
+  epeeDuTreru: 2898,
+  epeeDuTurista: 2779,
+  epeeDuUdanam: 3165,
+  epeeDuUguluj: 3340,
+  epeeDuUkiniher: 3233,
+  epeeDuUkokug: 3309,
+  epeeDuUnebut: 3300,
+  epeeDuUrenehe: 3113,
+  epeeDuUteknef: 3141,
+  epeeDuUwohenaw: 3290,
+  epeeDuVafusura: 3258,
+  epeeDuVarkasu: 3317,
+  epeeEtrange: 9070,
+  epeeGrossiere: 6836,
+  epeeHiZan: 9707,
+  epeeLoponeze: 9469,
+  epeeMauditeDuSaigneurGuerrier: 8993,
+  epeeQuiPete: 8676,
+  epeeRnohHel: 9709,
+  epeeRoyaleDuBouftou: 2440,
+  epeeSacree: 819,
+  epeeTaRad: 9706,
+  epeeToutJusteForgee: 6829,
+  epeeZervatif: 8605,
+  epices: 1977,
+  epineDOugah: 9280,
+  epineDuChampChamp: 377,
+  episDeFarle: 6766,
+  episDeShika: 8298,
+  espritDeCrocoburio: 1719,
+  espritRenifleur: 2261,
+  estomacDeBouftou: 2454,
+  estomacDeChefDeGuerreBouftou: 2468,
+  estomacDeGloutovore: 2631,
+  estomacDePrespic: 2572,
+  estomacDeSanglierDesPlaines: 2510,
+  estomacDeWoWabbit: 406,
+  etain: 444,
+  etamineDeFloribonde: 8778,
+  etoffeCorailleuse: 8994,
+  etoffeDOurs: 6841,
+  etoffeDeCrocGland: 2503,
+  etoffeDeDokAlako: 8002,
+  etoffeDeFantômeLeopardo: 7382,
+  etoffeDeFantômeMahoFirefoux: 7380,
+  etoffeDeFantômePandikaze: 7379,
+  etoffeDeFantômePandore: 7393,
+  etoffeDeFantômePandule: 7384,
+  etoffeDeFantômeSoryoFirefoux: 7381,
+  etoffeDeFantômeTanukouiSan: 7385,
+  etoffeDeFantômeYokaiFirefoux: 7383,
+  etoffeDeGourloLeTerrible: 8995,
+  etoffeDeKanigrou: 2550,
+  etoffeDeMahoFirefoux: 7304,
+  etoffeDeMaîtrePandore: 8400,
+  etoffeDeMeupette: 8791,
+  etoffeDeOuassingue: 8801,
+  etoffeDePandikaze: 7259,
+  etoffeDePandore: 7307,
+  etoffeDePandule: 7308,
+  etoffeDePeki: 8380,
+  etoffeDeSanglierDesPlaines: 2513,
+  etoffeDeSoryoFirefoux: 7305,
+  etoffeDeSphincterCell: 8487,
+  etoffeDeYokaiFirefoux: 7306,
+  etoffeDuFauchalak: 8082,
+  etoffeDuMeulou: 1696,
+  etoffeDuMulou: 651,
+  etoffeDuPrespic: 653,
+  etoffeDuRatBlanc: 8486,
+  etoffeDuRatNoir: 8485,
+  etoffeDuRoissingue: 8808,
+  etoffeDuSanglier: 652,
+  etoffeDuWaWabbit: 8398,
+  etoffeDuWabbit: 654,
+  etoffeMagiqueDeMoon: 8384,
+  etoffeZoth: 8800,
+  etoileDuSoir: 1637,
+  eupeohPourAbraKadabraEtMinimino: 8988,
+  eupeohPourBoulouteEtFotome: 8986,
+  eupeohPourDragouneEtTifoux: 8985,
+  eupeohPourElScaradorEtCroum: 8987,
+  eventailTranchant: 4242,
+  excellentBatonDesRois: 1162,
+  excellenteBaguetteMeneuse: 1146,
+  exoram: 9061,
+  extraitDeFleurDeDzibi: 6803,
+  fantômeBebePandawa: 8565,
+  fantômeBoulouteDuParrain: 9595,
+  fantômeChachaAngora: 9661,
+  fantômeChachaTigre: 8885,
+  fantômeCrocodaille: 9671,
+  fantômeDAbraKadabra: 8171,
+  fantômeDAtouin: 8020,
+  fantômeDEcureuilChenapan: 7722,
+  fantômeDElScarador: 8173,
+  fantômeDeBilby: 7724,
+  fantômeDeBouloute: 8172,
+  fantômeDeBwakDAir: 7541,
+  fantômeDeBwakDEau: 7540,
+  fantômeDeBwakDeFeu: 7539,
+  fantômeDeBwakDeTerre: 7542,
+  fantômeDeBworky: 8017,
+  fantômeDeChacha: 7537,
+  fantômeDeChauffeSouris: 10109,
+  fantômeDeChercheurDOgrines: 10658,
+  fantômeDeChienchien: 7536,
+  fantômeDeCroum: 7550,
+  fantômeDeDragouneRose: 7549,
+  fantômeDeFotome: 7548,
+  fantômeDeGelutin: 10597,
+  fantômeDeKoalakSanguin: 8016,
+  fantômeDeKouinKouin: 7543,
+  fantômeDeLeopardo: 7723,
+  fantômeDeMarcassin: 7725,
+  fantômeDeMiniWa: 7893,
+  fantômeDeMinimino: 7551,
+  fantômeDeNomoon: 7544,
+  fantômeDePeki: 7545,
+  fantômeDePetitChachaBlanc: 7546,
+  fantômeDePetitChienchienNoir: 7547,
+  fantômeDePiouteBleu: 7726,
+  fantômeDePiouteJaune: 7727,
+  fantômeDePiouteRose: 7728,
+  fantômeDePiouteRouge: 7729,
+  fantômeDePiouteVert: 7730,
+  fantômeDePiouteViolet: 7731,
+  fantômeDeShushuDeRushu: 9786,
+  fantômeDeTifoux: 8174,
+  fantômeDeVampyrette: 10108,
+  fantômeDeWabbit: 7538,
+  fantômeDeWillyLeRelou: 7894,
+  fantômeDragouneNoire: 9666,
+  fantômeDuVilainPetitCorbac: 7721,
+  fantômeFëanor: 8706,
+  fantômeMarcassin: 9616,
+  fantômeMiniminotot: 9665,
+  fantômeRoss: 8679,
+  fantômeTiwabbitKiafin: 9664,
+  fantômeWalk: 8524,
+  farineBise: 583,
+  farineBlanche: 582,
+  farineComplete: 587,
+  farineDAvoine: 531,
+  farineDAvoineAurifere: 2037,
+  farineDOrge: 529,
+  farineDOrgeEnSucre: 2033,
+  farineDeBle: 285,
+  farineDeBleMagique: 2019,
+  farineDeHoublon: 535,
+  farineDeHoublonMagique: 2022,
+  farineDeLin: 690,
+  farineDeLinMagique: 2027,
+  farineDeMalt: 534,
+  farineDeRiz: 7068,
+  farineDeSeigle: 530,
+  farineDeSeigleMagique: 2030,
+  farineDeXavierLeBoulanger: 6672,
+  farinePaysanne: 586,
+  farlacoiffe: 6778,
+  farlature: 6776,
+  fausseGriffeDeCeangal: 2639,
+  fauxDeFarleIngalsse: 765,
+  fauxDeLApprentiPaysan: 8540,
+  fauxDofus: 7044,
+  fauxDuMaîtreCorbac: 1875,
+  fauxDuMaitreCorbac: 2526,
+  fauxDuPaysan: 577,
+  fauxKoinkoin: 6659,
+  fauxMauditeDuSaigneurGuerrier: 8992,
+  fauxMentonDuBourbassingue: 8811,
+  fauxUseeDuPaysan: 8127,
+  fëanor: 8693,
+  fecaAttitude: 2218,
+  fecaflip: 770,
+  fecaliseurDuGuerrier: 1657,
+  fecaliseurDuMagicien: 1656,
+  feeDArtificeBleue: 6571,
+  feeDArtificeBleueCrepitante: 6580,
+  feeDArtificeBleueFontaine: 6577,
+  feeDArtificeBleueTournoyante: 6574,
+  feeDArtificeBleueVirevoltante: 6583,
+  feeDArtificeInvocatriceDeCoeurs: 9380,
+  feeDArtificeJaune: 6586,
+  feeDArtificeJauneCrepitante: 6595,
+  feeDArtificeJauneFontaine: 6592,
+  feeDArtificeJauneTournoyante: 6589,
+  feeDArtificeJauneVirevoltante: 6598,
+  feeDArtificeMulticolore: 6628,
+  feeDArtificeMulticoloreCrepitante: 6637,
+  feeDArtificeMulticoloreFontaine: 6634,
+  feeDArtificeMulticoloreTournoyante: 6631,
+  feeDArtificeMulticoloreVirevoltante: 6640,
+  feeDArtificeRouge: 6541,
+  feeDArtificeRougeCrepitante: 6550,
+  feeDArtificeRougeFontaine: 6547,
+  feeDArtificeRougeTournoyante: 6544,
+  feeDArtificeRougeVirevoltante: 6553,
+  feeDArtificeVerte: 6556,
+  feeDArtificeVerteCrepitante: 6565,
+  feeDArtificeVerteFontaine: 6562,
+  feeDArtificeVerteTournoyante: 6559,
+  feeDArtificeVerteVirevoltante: 6568,
+  feeLanceuseDeGriffeJoueuse: 10036,
+  feeLanceuseDeLangueRapeuse: 10042,
+  femurDeKoalakFarouche: 8056,
+  femurDeSphincterCell: 8490,
+  femurDuChaferArcher: 433,
+  femurDuMinotoror: 8313,
+  femurDuMinotot: 8410,
+  fendeuseDAbraknyde: 923,
+  fendeuseDAbraknydeAncestral: 927,
+  fendeuseDeMerisier: 674,
+  fer: 312,
+  feuilleDeBambouto: 7287,
+  feuilleDeBamboutoSacre: 7288,
+  feuilleDeBlopMulticoloreRoyal: 9389,
+  feuilleDeBlopRoyal: 9388,
+  feuilleDeBulbuisson: 7267,
+  feuilleDeFourbasse: 2254,
+  feuilleDeKaliptus: 7903,
+  feuilleDeKokoko: 2624,
+  feuilleDeMentheSauvage: 380,
+  feuilleDeRonceDHestia: 2365,
+  feuilleDeSalace: 1974,
+  feuilleDeTournesolSauvage: 2661,
+  feuilleDeTronknyde: 2249,
+  fibreDeChanvre: 426,
+  fibreDeLin: 424,
+  ficelleEnLin: 420,
+  ficheARemplir: 6790,
+  ficheDescriptiveDUnBricoleur: 8914,
+  ficheDuBricoleurARemplir: 8915,
+  ficheRemplieMaisNonValide: 6858,
+  ficheRemplieValide: 6787,
+  filDeSoie: 643,
+  filResistant: 2656,
+  filetDeKoalak: 8505,
+  filetSimpleDeCapture: 597,
+  fiole: 490,
+  fioleAElement: 1463,
+  fioleCristalDePaleAnthir: 6846,
+  fioleDePoisonBrakmarien: 10007,
+  fioleDeSoin: 283,
+  fioleDeSoinSuperieure: 282,
+  fiolesDeJiva: 2314,
+  firefact1: 7373,
+  firefact2: 7374,
+  firefact3: 7375,
+  firefact4: 7376,
+  firefact5: 7377,
+  firefact6: 7378,
+  flaqueDeGeleeBleue: 2430,
+  flaqueDeGeleeCitron: 2431,
+  flaqueDeGeleeFraise: 2432,
+  flaqueDeGeleeMenthe: 2433,
+  fleurDeBlopCoco: 1772,
+  fleurDeBlopCocoRoyal: 9385,
+  fleurDeBlopGriotte: 1776,
+  fleurDeBlopGriotteRoyal: 9384,
+  fleurDeBlopIndigo: 1778,
+  fleurDeBlopIndigoRoyal: 9386,
+  fleurDeBlopMulticoloreRoyal: 9391,
+  fleurDeBlopReinette: 1774,
+  fleurDeBlopReinetteRoyal: 9387,
+  fleurDeBlopignon: 9382,
+  fleurDeBulbiflore: 7266,
+  fleurDeChanvre: 428,
+  fleurDeDzibi: 6798,
+  fleurDeGloutoblop: 9381,
+  fleurDeGloutovore: 2253,
+  fleurDeKaliptus: 7904,
+  fleurDeLin: 421,
+  fleurDeLotus: 7020,
+  fleurDePissenlitDiabolique: 306,
+  fleurDeRoseObscure: 6864,
+  fleursDeBlopConcasse: 1882,
+  flûte: 1505,
+  flûteDeSarrYs: 8627,
+  foiDeDonRouann1: 1653,
+  foiDeDonRouann2: 1654,
+  foiDeDonRouann3: 1655,
+  forceDeCrocoburio: 1718,
+  formulaireDEnqueteN33: 2190,
+  formulaireDEnqueteN36: 2178,
+  formulaireDInspection: 1876,
+  formulaireDInspectionRempli: 2124,
+  formulaireDeDesertion: 9812,
+  formulaireDeNeutralite: 9811,
+  formulaireDeRapportVierge: 2105,
+  formulaireDeWelloyCab: 2103,
+  formuleDePotionDeTransformation: 8692,
+  formuleMagiqueDesQuatreFreresBandits: 10287,
+  fotome: 7518,
+  foudroyeurClassique: 7798,
+  foudroyeurEnBambou: 7787,
+  foudroyeurEnBambouDore: 7793,
+  foudroyeurEnBambouMagique: 7794,
+  foudroyeurEnBambouSacre: 7789,
+  foudroyeurEnBambouSombre: 7788,
+  foudroyeurEnBoisAncestral: 7790,
+  foudroyeurEnBoisDeBambouto: 7795,
+  foudroyeurEnBoisDeBamboutoSacre: 7796,
+  foudroyeurEnBoisDeKokoko: 7797,
+  foudroyeurEnBoisDeTronknyde: 7792,
+  foudroyeurEnBoisEnvoûte: 7791,
+  foudroyeurEnBombu: 7785,
+  foudroyeurEnCharme: 7781,
+  foudroyeurEnChataignier: 7782,
+  foudroyeurEnChene: 7776,
+  foudroyeurEnEbene: 7778,
+  foudroyeurEnErable: 7780,
+  foudroyeurEnFrene: 7775,
+  foudroyeurEnIf: 7777,
+  foudroyeurEnMerisier: 7784,
+  foudroyeurEnNoyer: 7783,
+  foudroyeurEnOliviolet: 7786,
+  foudroyeurEnOrme: 7779,
+  fouduglen: 6875,
+  foulardDuSparo: 8760,
+  fourbabottes: 6744,
+  fourbacapa: 6763,
+  fourbacoiffe: 6764,
+  fourballiance: 6743,
+  fourbamulette: 6742,
+  fourbasseTon: 6762,
+  fragmentCritique: 9806,
+  fragmentCritiqueMajeur: 9807,
+  fragmentCritiqueMineur: 9805,
+  fragmentDAgilite: 9794,
+  fragmentDAgiliteMajeur: 9795,
+  fragmentDAgiliteMineur: 9793,
+  fragmentDEpeeReptilienne: 2295,
+  fragmentDIntelligence: 9788,
+  fragmentDIntelligenceMajeur: 9789,
+  fragmentDIntelligenceMineur: 9787,
+  fragmentDOs: 2300,
+  fragmentDOugalurette: 9281,
+  fragmentDeBois: 6806,
+  fragmentDeCerveauPoli: 8762,
+  fragmentDeChance: 9791,
+  fragmentDeChanceMajeur: 9792,
+  fragmentDeChanceMineur: 9790,
+  fragmentDeCoquilleDAerohouctorLeGuerrier: 8371,
+  fragmentDeCoquilleDAquabralakLeGuerrier: 8372,
+  fragmentDeCoquilleDIgnelicroburLeGuerrier: 8370,
+  fragmentDeCoquilleDeTerrakoubiakLeGuerrier: 8369,
+  fragmentDeForce: 9715,
+  fragmentDeForceMajeur: 9760,
+  fragmentDeForceMineur: 9714,
+  fragmentDePierrePointue: 2305,
+  fragmentDePierrePolie: 2304,
+  fragmentDeProspection: 9803,
+  fragmentDeProspectionMajeur: 9804,
+  fragmentDeProspectionMineur: 9802,
+  fragmentDeSagesse: 9800,
+  fragmentDeSagesseMajeur: 9801,
+  fragmentDeSagesseMineur: 9799,
+  fragmentDeVitalite: 9797,
+  fragmentDeVitaliteMajeur: 9798,
+  fragmentDeVitaliteMineur: 9796,
+  fragmentDuSocleDeLaCrocobur: 1543,
+  fragmentMagique: 8378,
+  fraise: 381,
+  frakaciaLeukocytine: 6871,
+  franciqueBasquaise: 2608,
+  francisqueABreles: 1378,
+  fritesDeTournesolSauvage: 6670,
+  fruitDePalme: 398,
+  ftalmo: 9002,
+  ftalmoDechire: 7072,
+  fuschia: 8930,
+  gaineHage: 8661,
+  ganteletDesBouftonsRouges: 10558,
+  ganteletDuRatBlanc: 8454,
+  ganteletDuRealBoitar: 10557,
+  gantieRoyal: 767,
+  gantsDeLApprentiAlchimiste: 8542,
+  gargantuesquePierreDAmeParfaite: 9718,
+  gateaux: 6788,
+  gatrool: 8519,
+  geishArc: 8609,
+  gelamu: 2472,
+  gelano: 2469,
+  geleeALaFraise: 368,
+  geleeALaMenthe: 369,
+  geleeBleutee: 757,
+  geleeBleuteeRoyale: 370,
+  geleeCitron: 2436,
+  geleeCitronRoyale: 2437,
+  geleeDeDegelee: 8310,
+  geleeFraiseRoyale: 2242,
+  geleeMentheRoyale: 2241,
+  geleeSbihaine: 10003,
+  gelobottes: 2470,
+  gelocape: 2446,
+  gelocoiffe: 2447,
+  geloture: 2471,
+  gelutin: 10544,
+  gemmeSpirituelleDeAbraknydeAncestral: 10259,
+  gemmeSpirituelleDeBlopCocoRoyal: 10238,
+  gemmeSpirituelleDeBlopGriotteRoyal: 10239,
+  gemmeSpirituelleDeBlopIndigoRoyal: 10240,
+  gemmeSpirituelleDeBlopMulticoloreRoyal: 10251,
+  gemmeSpirituelleDeBlopReinetteRoyal: 10241,
+  gemmeSpirituelleDeBouftouRoyal: 10228,
+  gemmeSpirituelleDeBworker: 10263,
+  gemmeSpirituelleDeBworkette: 10234,
+  gemmeSpirituelleDeCheneMou: 10268,
+  gemmeSpirituelleDeCorailleurMagistral: 10252,
+  gemmeSpirituelleDeCraqueleurLegendaire: 10247,
+  gemmeSpirituelleDeCrocabulia: 10278,
+  gemmeSpirituelleDeDarkVlad: 10245,
+  gemmeSpirituelleDeDragonCochon: 10235,
+  gemmeSpirituelleDeGardienneDesEgouts: 10248,
+  gemmeSpirituelleDeGeleeRoyaleBleue: 10230,
+  gemmeSpirituelleDeGeleeRoyaleCitron: 10262,
+  gemmeSpirituelleDeGeleeRoyaleFraise: 10249,
+  gemmeSpirituelleDeGeleeRoyaleMenthe: 10236,
+  gemmeSpirituelleDeGourloLeTerrible: 10253,
+  gemmeSpirituelleDeKimbo: 10270,
+  gemmeSpirituelleDeKoulosse: 10257,
+  gemmeSpirituelleDeMaîtreCorbac: 10250,
+  gemmeSpirituelleDeMaîtrePandore: 10260,
+  gemmeSpirituelleDeMeulou: 10254,
+  gemmeSpirituelleDeMinotoror: 10244,
+  gemmeSpirituelleDeMinotot: 10265,
+  gemmeSpirituelleDeMobLEponge: 10227,
+  gemmeSpirituelleDeMoon: 10256,
+  gemmeSpirituelleDeOugah: 10269,
+  gemmeSpirituelleDePekiPeki: 10267,
+  gemmeSpirituelleDeRatBlanc: 10606,
+  gemmeSpirituelleDeRatNoir: 10242,
+  gemmeSpirituelleDeScarabosseDore: 10233,
+  gemmeSpirituelleDeShinLarve: 10231,
+  gemmeSpirituelleDeSilfLeRasboulMajeur: 10266,
+  gemmeSpirituelleDeSkeunk: 10258,
+  gemmeSpirituelleDeSphincterCell: 10264,
+  gemmeSpirituelleDeTanukouiSan: 10246,
+  gemmeSpirituelleDeTofuRoyal: 10237,
+  gemmeSpirituelleDeTournesolAffame: 10229,
+  gemmeSpirituelleDeTynril: 10261,
+  gemmeSpirituelleDeWaWabbit: 10255,
+  geniallissimeCoiffeDeTorteHou: 6958,
+  getaAerdala: 7245,
+  getaAkwadala: 7242,
+  getaFeudala: 7244,
+  getaTerrdala: 7243,
+  getasBernacle: 8713,
+  gigaPierreDAme: 7337,
+  gigaPierreDAmeHasardeuse: 7336,
+  gigaPierreDAmeHeureuse: 7338,
+  gigantesquePierreDAmeParfaite: 9690,
+  glaceBontarienne: 6646,
+  glaiveIceration: 7199,
+  gland: 393,
+  gloutoRhum: 2632,
+  gobtroteur: 8527,
+  godRod: 200,
+  goldoture: 7559,
+  goujon: 1782,
+  goujonEnTranche2: 1813,
+  goujonEnTranche3: 1814,
+  goujonEnTranche4: 1830,
+  goujonKiye: 1790,
+  goujonKiyeVide: 1791,
+  goujonVide: 1783,
+  goultard: 65,
+  goulyfie: 10119,
+  goyave: 6991,
+  graineDeChanvre: 427,
+  graineDeLAbrakleurSombre: 8785,
+  graineDeLin: 422,
+  graineDePandouille: 7059,
+  graineDePavot: 300,
+  graineDeScorbute: 2150,
+  graineDeScorbuteModifiee: 9551,
+  graineDeSesame: 287,
+  graineDeTournesolSauvage: 288,
+  graisseDeBiblop: 1984,
+  graisseDeGelee: 1983,
+  grandAnneauDAgilite: 120,
+  grandAnneauDeChance: 111,
+  grandAnneauDeSagesse: 102,
+  grandArcBuse: 1094,
+  grandArcDeBoisaille: 90,
+  grandArcDeroutant: 266,
+  grandArcEcologique: 1119,
+  grandBandeauDeVitalite: 949,
+  grandBatonDeBoisaille: 139,
+  grandBatonDeFausseMagie: 1111,
+  grandBatonDesRois: 1164,
+  grandBatonFeuillu: 184,
+  grandBatonBouleDeVoyante: 1154,
+  grandCadeauDeNowel: 8339,
+  grandCouteauAStek: 1028,
+  grandMarteauDIvoire: 229,
+  grandMarteauDeBoisaille: 146,
+  grandMarteauDeRaclage: 223,
+  grandMarteauOutar: 1074,
+  grandMarteauPospodrol: 1082,
+  grandMarteauRUnique: 1066,
+  grandParcheminDAgilite: 800,
+  grandParcheminDIntelligence: 816,
+  grandParcheminDeChance: 812,
+  grandParcheminDeForce: 796,
+  grandParcheminDeSagesse: 804,
+  grandParcheminDeVitalite: 808,
+  grandeBaguetteAPans: 1135,
+  grandeBaguetteDHouvette: 1139,
+  grandeBaguetteDIntelligence: 831,
+  grandeBaguetteDeBoisaille: 133,
+  grandeBaguetteDeGlace: 164,
+  grandeBaguetteDeSagesse: 834,
+  grandeBaguetteHeure: 1103,
+  grandeBaguetteMeneuse: 1145,
+  grandeCanneAPeche: 1867,
+  grandeCapeBleutee: 937,
+  grandeCapeDeRougeur: 934,
+  grandeCapeSombre: 947,
+  grandeCeintureAgilesque: 262,
+  grandeCeintureForcesque: 258,
+  grandeCeintureVitalesque: 254,
+  grandeEpeeDAlle: 54,
+  grandeEpeeDHa: 61,
+  grandeEpeeDeBoisaille: 43,
+  grandeEpeeDeFouraille: 48,
+  grandeEpeeSacree: 820,
+  grandeFeeDArtificeBleue: 6572,
+  grandeFeeDArtificeBleueCrepitante: 6581,
+  grandeFeeDArtificeBleueFontaine: 6578,
+  grandeFeeDArtificeBleueTournoyante: 6575,
+  grandeFeeDArtificeBleueVirevoltante: 6584,
+  grandeFeeDArtificeInvocatriceDeTofu: 6600,
+  grandeFeeDArtificeJaune: 6587,
+  grandeFeeDArtificeJauneCrepitante: 6596,
+  grandeFeeDArtificeJauneFontaine: 6593,
+  grandeFeeDArtificeJauneTournoyante: 6590,
+  grandeFeeDArtificeJauneVirevoltante: 6599,
+  grandeFeeDArtificeMulticolore: 6629,
+  grandeFeeDArtificeMulticoloreCrepitante: 6638,
+  grandeFeeDArtificeMulticoloreFontaine: 6635,
+  grandeFeeDArtificeMulticoloreTournoyante: 6632,
+  grandeFeeDArtificeMulticoloreVirevoltante: 6641,
+  grandeFeeDArtificeRouge: 6542,
+  grandeFeeDArtificeRougeCrepitante: 6551,
+  grandeFeeDArtificeRougeFontaine: 6548,
+  grandeFeeDArtificeRougeTournoyante: 6545,
+  grandeFeeDArtificeRougeVirevoltante: 6554,
+  grandeFeeDArtificeVerte: 6557,
+  grandeFeeDArtificeVerteCrepitante: 6566,
+  grandeFeeDArtificeVerteFontaine: 6563,
+  grandeFeeDArtificeVerteTournoyante: 6560,
+  grandeFeeDArtificeVerteVirevoltante: 6569,
+  grandeFiole: 1460,
+  grandeGarde: 9723,
+  grandeLameDeFon: 1034,
+  grandeMasseAjTaye: 1078,
+  grandePelleDeBoisDormant: 1044,
+  grandePelleDeBoisaille: 152,
+  grandePelleDeCrapouille: 240,
+  grandePelleDeKoutoulou: 1057,
+  grandePelleDeRapage: 246,
+  grandePelleDuCraqueleur: 295,
+  grandePelleMechba: 1431,
+  grandePelleMelle: 1048,
+  grandePelleTeuze: 483,
+  grandePelleWoukuis: 1052,
+  grandePierreDAme: 7009,
+  grandePierreDAmeHasardeuse: 7005,
+  grandePierreDAmeHeureuse: 7334,
+  grandePierreDAmeParfaite: 9688,
+  grandePotionDAgression: 9041,
+  grandePotionDeSoinDeMasse: 9899,
+  grandesBottesDeConcentration: 888,
+  grandesBottesDeKlime: 904,
+  grandesBottesDePoursuite: 908,
+  grandesDaguesDeBoisaille: 96,
+  grandesDaguesDeCroclage: 213,
+  grandesDaguesDeFouraille: 207,
+  grandesDaguesEguisees: 899,
+  grandesDaguesSylvestres: 895,
+  grappeDOeufsDeLarve: 2270,
+  gratrooll: 8520,
+  grelot: 2506,
+  grenouillette: 856,
+  greuVette: 598,
+  greuVetteHorreur: 1786,
+  greuVetteHorreurVide: 1787,
+  greuVetteVidee: 1781,
+  griffeDeGrizmine: 7192,
+  griffeDuMulou: 440,
+  griffePourpre: 8596,
+  griffeRose: 4241,
+  griffesDeKwak: 2648,
+  griffettes: 8599,
+  groinDeDragonCochon: 2645,
+  groinDePorkass: 2481,
+  groinDeSanglierDesPlaines: 2515,
+  groinDuSanglier: 386,
+  grosBatonDakn: 1150,
+  grosBoulet: 2553,
+  grosseBagouzeDuParrain: 9543,
+  guigne: 2208,
+  guildalogemme: 1575,
+  gulliver: 712,
+  hacheALamelles: 9138,
+  hacheDIkalugi: 6437,
+  hacheDarsson: 2601,
+  hacheDeAcebavec: 6109,
+  hacheDeAcebugu: 6234,
+  hacheDeAelelydae: 6340,
+  hacheDeAfapisu: 6089,
+  hacheDeAgunelig: 6062,
+  hacheDeAidesani: 6236,
+  hacheDeAkuduk: 6315,
+  hacheDeAlewepl: 6004,
+  hacheDeAlicatyp: 6262,
+  hacheDeAlisice: 6163,
+  hacheDeAmafevu: 6204,
+  hacheDeAmehatos: 6374,
+  hacheDeAmphawou: 6067,
+  hacheDeAmphemij: 6306,
+  hacheDeAneloby: 6053,
+  hacheDeAnobe: 6375,
+  hacheDeAqualaelu: 6087,
+  hacheDeAquepice: 6231,
+  hacheDeAquilavepa: 6241,
+  hacheDeAreji: 6110,
+  hacheDeArirugu: 6404,
+  hacheDeAuviel: 6255,
+  hacheDeAvurout: 6048,
+  hacheDeBabuga: 6359,
+  hacheDeBenuie: 6081,
+  hacheDeBiporac: 6107,
+  hacheDeBitabapa: 6332,
+  hacheDeBlewa: 6325,
+  hacheDeBoleva: 6419,
+  hacheDeBotorory: 6049,
+  hacheDeBreche: 2597,
+  hacheDeBrefilufu: 6352,
+  hacheDeBremamo: 6094,
+  hacheDeBûcheron: 454,
+  hacheDeBweter: 6329,
+  hacheDeCakutert: 6400,
+  hacheDeCelanema: 6256,
+  hacheDeChasse: 1936,
+  hacheDeCifumfrit: 6003,
+  hacheDeCukuho: 6118,
+  hacheDeDacodac: 6131,
+  hacheDeDameOise: 2614,
+  hacheDeDegodoku: 6328,
+  hacheDeDenylobe: 6289,
+  hacheDeDetusagi: 6129,
+  hacheDeDlidr: 6401,
+  hacheDeDocota: 6104,
+  hacheDeDofopi: 6425,
+  hacheDeDoreratu: 6133,
+  hacheDeDoumabi: 6326,
+  hacheDeDufunfla: 6013,
+  hacheDeDugerah: 6157,
+  hacheDeEbetaille: 6012,
+  hacheDeEbujim: 6415,
+  hacheDeEcobowe: 6337,
+  hacheDeEdatum: 6410,
+  hacheDeEdulawo: 6077,
+  hacheDeEfeutar: 6398,
+  hacheDeEfeva: 6253,
+  hacheDeEgurifis: 6039,
+  hacheDeEketuti: 6308,
+  hacheDeEkodet: 6309,
+  hacheDeEkored: 6045,
+  hacheDeElediti: 6183,
+  hacheDeElogi: 6347,
+  hacheDeElomikuk: 6271,
+  hacheDeElucebic: 6211,
+  hacheDeEmohalas: 6078,
+  hacheDeEnatorob: 6246,
+  hacheDeEnuge: 6371,
+  hacheDeEovteux: 6225,
+  hacheDeErosec: 6171,
+  hacheDeEsemare: 6194,
+  hacheDeEsikini: 6333,
+  hacheDeEsutadid: 6098,
+  hacheDeEtacber: 6023,
+  hacheDeEureheg: 6373,
+  hacheDeEutert: 6378,
+  hacheDeEvacu: 6130,
+  hacheDeEvakegot: 6022,
+  hacheDeEveliel: 6178,
+  hacheDeExito: 6233,
+  hacheDeFatol: 6397,
+  hacheDeFemefu: 6184,
+  hacheDeFened: 6172,
+  hacheDeFetivefe: 6108,
+  hacheDeFeufijuk: 6342,
+  hacheDeFeuhekel: 6155,
+  hacheDeFeutufuca: 6150,
+  hacheDeFinfla: 6391,
+  hacheDeFinocufe: 6417,
+  hacheDeFlafafiti: 6284,
+  hacheDeFlalilu: 6290,
+  hacheDeFlapezo: 6302,
+  hacheDeFlesa: 6364,
+  hacheDeFlyzolav: 6216,
+  hacheDeFofpur: 6390,
+  hacheDeFupus: 6242,
+  hacheDeFurokohe: 6388,
+  hacheDeGetitaille: 6307,
+  hacheDeGeurithi: 6355,
+  hacheDeGilaefif: 6123,
+  hacheDeGototuku: 6031,
+  hacheDeGrodagi: 6041,
+  hacheDeHamocer: 6237,
+  hacheDeHamor: 6227,
+  hacheDeHamuvel: 6291,
+  hacheDeHapofacu: 6026,
+  hacheDeHegeffrit: 6251,
+  hacheDeHegoke: 6418,
+  hacheDeHelyulaw: 6054,
+  hacheDeHopuhu: 6044,
+  hacheDeHoziel: 6272,
+  hacheDeHudeut: 6073,
+  hacheDeHugam: 6341,
+  hacheDeIbogim: 6117,
+  hacheDeIbuga: 6187,
+  hacheDeIfabuda: 6303,
+  hacheDeIfofuti: 6165,
+  hacheDeIfricufu: 6040,
+  hacheDeIfrinu: 6252,
+  hacheDeIlefo: 6063,
+  hacheDeIlefuti: 6266,
+  hacheDeIlelath: 6093,
+  hacheDeIlosury: 6008,
+  hacheDeIlumunuv: 6128,
+  hacheDeIraludl: 6368,
+  hacheDeIrebir: 6017,
+  hacheDeIromuthu: 6381,
+  hacheDeItanali: 6395,
+  hacheDeIthalasu: 6055,
+  hacheDeItubib: 6192,
+  hacheDeIvidupu: 6035,
+  hacheDeJavumy: 6080,
+  hacheDeJijig: 6126,
+  hacheDeJisotag: 6149,
+  hacheDeJurobuti: 6428,
+  hacheDeKagid: 6226,
+  hacheDeKeuce: 6339,
+  hacheDeKodlode: 6292,
+  hacheDeKoredo: 6301,
+  hacheDeKrekarh: 6376,
+  hacheDeKromobofe: 6156,
+  hacheDeKrour: 6276,
+  hacheDeKrourice: 6268,
+  hacheDeKrovufume: 6069,
+  hacheDeKusrec: 6314,
+  hacheDeLApprentiBûcheron: 8539,
+  hacheDeLamikape: 6196,
+  hacheDeLaramnef: 6338,
+  hacheDeLatum: 6091,
+  hacheDeLawewege: 6116,
+  hacheDeLeroni: 6312,
+  hacheDeLilaculf: 6316,
+  hacheDeLimib: 6322,
+  hacheDeLithefipac: 6232,
+  hacheDeLobabouille: 6173,
+  hacheDeLobafulu: 6085,
+  hacheDeLocema: 6416,
+  hacheDeLookabeer: 2615,
+  hacheDeLotiste: 6052,
+  hacheDeLugorotu: 6057,
+  hacheDeMadae: 6287,
+  hacheDeMalabri: 6386,
+  hacheDeMalonum: 6134,
+  hacheDeMamemole: 6248,
+  hacheDeManipu: 6411,
+  hacheDeMarenu: 6177,
+  hacheDeMavac: 6406,
+  hacheDeMelobnef: 6279,
+  hacheDeMigolos: 6010,
+  hacheDeMolevielle: 6206,
+  hacheDeMudathof: 6394,
+  hacheDeMuguleri: 6380,
+  hacheDeMusippur: 6409,
+  hacheDeNelielle: 6199,
+  hacheDeNesur: 6182,
+  hacheDeNeteso: 6372,
+  hacheDeNisikim: 6136,
+  hacheDeNisumam: 6208,
+  hacheDeNisusuka: 6135,
+  hacheDeNoelelo: 6212,
+  hacheDeNogubugav: 6176,
+  hacheDeNogynum: 6285,
+  hacheDeNokam: 6024,
+  hacheDeNudrame: 6393,
+  hacheDeNufak: 6002,
+  hacheDeNusta: 6420,
+  hacheDeNybrofe: 6034,
+  hacheDeNybusotu: 6033,
+  hacheDeObyzona: 6350,
+  hacheDeOdurug: 6407,
+  hacheDeOirustet: 6218,
+  hacheDeOkibop: 6323,
+  hacheDeOkimadit: 6335,
+  hacheDeOliblur: 6103,
+  hacheDeOloce: 6119,
+  hacheDeOlozev: 6036,
+  hacheDeOlubutil: 6318,
+  hacheDeOlulimov: 6399,
+  hacheDeOmizunob: 6396,
+  hacheDeOmuregot: 6267,
+  hacheDeOperdar: 6361,
+  hacheDeOtekodur: 6142,
+  hacheDeOtener: 6076,
+  hacheDeOtotoche: 6430,
+  hacheDeOtozop: 6344,
+  hacheDeOtugu: 6188,
+  hacheDeOufufek: 6105,
+  hacheDeOumufeno: 6096,
+  hacheDeOurase: 6059,
+  hacheDeOuruhecet: 6362,
+  hacheDeOuxole: 6166,
+  hacheDeOvimucup: 6030,
+  hacheDePemoh: 6027,
+  hacheDePhadaituj: 6083,
+  hacheDePibadecu: 6247,
+  hacheDePierre: 2595,
+  hacheDePuvahate: 6181,
+  hacheDeRagnahunut: 6413,
+  hacheDeRagneuk: 6215,
+  hacheDeRareri: 6275,
+  hacheDeReceno: 6025,
+  hacheDeRenar: 6403,
+  hacheDeRepup: 6427,
+  hacheDeRhehuru: 6263,
+  hacheDeRitim: 6180,
+  hacheDeRitokerm: 6079,
+  hacheDeRogut: 6354,
+  hacheDeRoruge: 6358,
+  hacheDeRoucetot: 6115,
+  hacheDeRufou: 6145,
+  hacheDeRugnure: 6009,
+  hacheDeRuleulul: 6015,
+  hacheDeRuregehu: 6121,
+  hacheDeRusade: 6200,
+  hacheDeRykac: 6075,
+  hacheDeSasel: 6213,
+  hacheDeSatocam: 6127,
+  hacheDeSawobotte: 6293,
+  hacheDeScoxoze: 6175,
+  hacheDeSegosyf: 6348,
+  hacheDeSeherre: 6203,
+  hacheDeSistohe: 6238,
+  hacheDeSohoja: 6000,
+  hacheDeSotebdar: 6283,
+  hacheDeSrehitur: 6387,
+  hacheDeSteubaud: 6164,
+  hacheDeStharh: 6114,
+  hacheDeStruguh: 6144,
+  hacheDeStumour: 6310,
+  hacheDeSuneserre: 6113,
+  hacheDeSurunesu: 6273,
+  hacheDeTastarh: 6147,
+  hacheDeTehekeh: 6221,
+  hacheDeTelihi: 6021,
+  hacheDeTepufpur: 6324,
+  hacheDeTevole: 6058,
+  hacheDeTewela: 6305,
+  hacheDeThoruhen: 6050,
+  hacheDeTigehour: 6402,
+  hacheDeTobepone: 6006,
+  hacheDeTocona: 6298,
+  hacheDeTokedra: 6229,
+  hacheDeTolori: 6286,
+  hacheDeTrehare: 6389,
+  hacheDeTuhetur: 6207,
+  hacheDeTuthem: 6074,
+  hacheDeUcetac: 6070,
+  hacheDeUcibatev: 6436,
+  hacheDeUfaflep: 6346,
+  hacheDeUfepa: 6068,
+  hacheDeUfucehek: 6088,
+  hacheDeUfunuvu: 6257,
+  hacheDeUheruker: 6137,
+  hacheDeUhugegoc: 6047,
+  hacheDeUkodeth: 6016,
+  hacheDeUkufame: 6239,
+  hacheDeUlogarac: 6313,
+  hacheDeUpitavum: 6320,
+  hacheDeUralo: 6160,
+  hacheDeUralu: 6072,
+  hacheDeUropim: 6029,
+  hacheDeUstuke: 6429,
+  hacheDeUsutor: 6148,
+  hacheDeUtitero: 6060,
+  hacheDeUtureste: 6084,
+  hacheDeUvagpur: 6274,
+  hacheDeUvozumef: 6278,
+  hacheDeVafedus: 6112,
+  hacheDeVaipope: 6295,
+  hacheDeVarkasrok: 6097,
+  hacheDeVarkehu: 6281,
+  hacheDeVarkogohah: 6353,
+  hacheDeVemeki: 6235,
+  hacheDeVenolos: 6018,
+  hacheDeVlanethy: 6201,
+  hacheDeVohillion: 6043,
+  hacheDeVosas: 6254,
+  hacheDeVotem: 6365,
+  hacheDeWanyv: 6038,
+  hacheDeWelouille: 6186,
+  hacheDeXuthoke: 6260,
+  hacheDeYmatyvo: 6100,
+  hacheDeYsethefu: 6240,
+  hacheDeYunipan: 6209,
+  hacheDeZareme: 6056,
+  hacheDeZelebe: 6334,
+  hacheDeZelel: 6382,
+  hacheDuAdageola: 6151,
+  hacheDuAkifum: 6405,
+  hacheDuAleloni: 6424,
+  hacheDuAlikim: 6243,
+  hacheDuAquapaul: 6066,
+  hacheDuAraborat: 6111,
+  hacheDuBeufrim: 6357,
+  hacheDuCegute: 6064,
+  hacheDuComeg: 6011,
+  hacheDuCosto: 6299,
+  hacheDuDletuhe: 6366,
+  hacheDuDloroth: 6392,
+  hacheDuDoknef: 6138,
+  hacheDuDomitber: 6167,
+  hacheDuDragoeuf: 8293,
+  hacheDuDukotu: 6369,
+  hacheDuEbadake: 6244,
+  hacheDuEbesove: 6224,
+  hacheDuEdripr: 6202,
+  hacheDuEgafube: 6432,
+  hacheDuEhedere: 6360,
+  hacheDuEkekekuk: 6385,
+  hacheDuEkoroko: 6005,
+  hacheDuElesulun: 6356,
+  hacheDuEstedorth: 6321,
+  hacheDuEutaru: 6120,
+  hacheDuEzetemai: 6082,
+  hacheDuFecofuf: 6258,
+  hacheDuFegenu: 6174,
+  hacheDuFifrulu: 6223,
+  hacheDuFiluc: 6179,
+  hacheDuFlaplem: 6195,
+  hacheDuFourib: 6101,
+  hacheDuGanumotte: 6191,
+  hacheDuGawewuwe: 6384,
+  hacheDuGekaxe: 6042,
+  hacheDuGekusu: 6261,
+  hacheDuGroduker: 6092,
+  hacheDuGuerrierZoth: 8827,
+  hacheDuHamait: 6370,
+  hacheDuHamekesau: 6220,
+  hacheDuHivalipe: 6210,
+  hacheDuHohoth: 6019,
+  hacheDuHopap: 6435,
+  hacheDuHuruseru: 6139,
+  hacheDuIbyufono: 6158,
+  hacheDuIpihofi: 6367,
+  hacheDuIropi: 6198,
+  hacheDuIsupe: 6028,
+  hacheDuIsurileb: 6125,
+  hacheDuItoupas: 6264,
+  hacheDuJekapnef: 6153,
+  hacheDuKemerum: 6423,
+  hacheDuKirondar: 6168,
+  hacheDuKorarede: 6219,
+  hacheDuKronone: 6193,
+  hacheDuKrorim: 6143,
+  hacheDuKuflek: 6086,
+  hacheDuLemecalo: 6061,
+  hacheDuLetebielle: 6351,
+  hacheDuLuflirugi: 6259,
+  hacheDuMabisom: 6170,
+  hacheDuMalokeuru: 6032,
+  hacheDuMamifnef: 6297,
+  hacheDuMamunum: 6001,
+  hacheDuMegofik: 6122,
+  hacheDuMinotoror: 8274,
+  hacheDuMulou: 8130,
+  hacheDuNaimogol: 6141,
+  hacheDuNidanwa: 7209,
+  hacheDuNisrpur: 6349,
+  hacheDuNumukur: 6408,
+  hacheDuNybepe: 6265,
+  hacheDuNybrihete: 6282,
+  hacheDuOgetetef: 6162,
+  hacheDuOleleo: 6065,
+  hacheDuOletevo: 6245,
+  hacheDuOplene: 6161,
+  hacheDuOpofacim: 6159,
+  hacheDuOraserre: 6095,
+  hacheDuOsylel: 6217,
+  hacheDuOtoker: 6190,
+  hacheDuOudosdar: 6294,
+  hacheDuOurolor: 6154,
+  hacheDuPlasopr: 6189,
+  hacheDuPofatok: 6412,
+  hacheDuProdleno: 6383,
+  hacheDuPugosahi: 6414,
+  hacheDuPulalevo: 6296,
+  hacheDuPyrab: 6106,
+  hacheDuRaibexa: 6007,
+  hacheDuRenyud: 6422,
+  hacheDuRerenath: 6250,
+  hacheDuReufuke: 6288,
+  hacheDuRherelo: 6197,
+  hacheDuRhuhert: 6020,
+  hacheDuRoruke: 6331,
+  hacheDuRugnuhuce: 6037,
+  hacheDuRurehotho: 6269,
+  hacheDuRurogak: 6345,
+  hacheDuRurosarh: 6102,
+  hacheDuRurukoku: 6169,
+  hacheDuRymosana: 6152,
+  hacheDuSandanwa: 7210,
+  hacheDuSaroc: 6421,
+  hacheDuSelehielle: 6249,
+  hacheDuShodanwa: 7208,
+  hacheDuSohileku: 6363,
+  hacheDuSomenevo: 6319,
+  hacheDuSoumor: 6090,
+  hacheDuStretakug: 6431,
+  hacheDuSucep: 6222,
+  hacheDuSurofe: 6277,
+  hacheDuSuterure: 6300,
+  hacheDuTakebeg: 6330,
+  hacheDuTebyv: 6343,
+  hacheDuTedosote: 6433,
+  hacheDuTeheliel: 6230,
+  hacheDuTejiha: 6051,
+  hacheDuTemora: 6214,
+  hacheDuTenorub: 6280,
+  hacheDuTheleruse: 6124,
+  hacheDuThelolir: 6140,
+  hacheDuThespur: 6071,
+  hacheDuThoreke: 6185,
+  hacheDuThoroceren: 6327,
+  hacheDuThougo: 6014,
+  hacheDuThutelez: 6099,
+  hacheDuTidet: 6304,
+  hacheDuTorukuta: 6426,
+  hacheDuTuguteu: 6336,
+  hacheDuTustelud: 6377,
+  hacheDuUbocumu: 6317,
+  hacheDuUgrefluh: 6046,
+  hacheDuUguse: 6205,
+  hacheDuUgutuf: 6379,
+  hacheDuUlujim: 6311,
+  hacheDuUsitucu: 6132,
+  hacheDuVebutezo: 6228,
+  hacheDuVevel: 6270,
+  hacheDuVoevum: 6146,
+  hacheDuVucaluie: 6434,
+  hacheDuYondanwa: 7211,
+  hacheEbbah: 8617,
+  hacheEulouh: 8618,
+  hacheHarnee: 8934,
+  hacheHemal: 2376,
+  hacheHeuvante: 1376,
+  hacheHevLeu: 9753,
+  hacheHichKeBab: 9750,
+  hacheHure: 1377,
+  hacheLeenne: 10016,
+  hachePerGe: 9754,
+  hachePiVeuhNin: 9752,
+  hachePiraTeur: 9751,
+  hacheSueurRance: 8933,
+  hacheTerophyle: 1375,
+  hacheTerrdala: 7255,
+  hacheVôrOm: 2590,
+  hachetteDeBûcheron: 2587,
+  hachetteHevlalav: 2589,
+  hachetteSavante: 2606,
+  hachoirDeBoucher: 1945,
+  hachoirDePoissonnier: 1946,
+  halleDeBarde: 2616,
+  haricot: 6671,
+  harmonie: 1478,
+  herbeAChat: 1324,
+  herbeCurative: 6820,
+  herbeFolle: 2665,
+  hochetDuDarkVlad: 6622,
+  holoune: 7141,
+  hoodTroue: 1877,
+  hook: 201,
+  hotDogDeTofu: 6668,
+  houblon: 401,
+  houblonBrillant: 2021,
+  houde: 708,
+  houeDapyus: 2132,
+  huileAFrire: 1973,
+  huileDeKoode: 397,
+  huileDeNoix: 390,
+  huileDePalme: 396,
+  huileDeSesame: 399,
+  huileDeTournesolSauvage: 389,
+  humerusDuSparo: 8739,
+  hypnotiqueDagueFourbesque: 1039,
+  immortelle: 1428,
+  immortelleEtoileDuSoir: 1639,
+  imposantMarteauOutar: 1075,
+  imposantMarteauRUnique: 1067,
+  imposanteBaguetteDEglise: 1131,
+  imposanteCeintureAgilesque: 263,
+  imposanteCeintureForcesque: 259,
+  imposanteCeintureVitalesque: 255,
+  imposantePelleWoukuis: 1053,
+  impressionantesDaguesDeCroclage: 214,
+  impressionnanteGarde: 9902,
+  impressionnantePotionDAgression: 9043,
+  incassableMasseDHa: 1063,
+  incroyableCadeauDeNowel: 8340,
+  incroyablePotionDeSoinDeMasse: 9900,
+  indispensableBaguetteAPans: 1136,
+  indispensableCorde: 1004,
+  insigneDeBanditEcaflip: 9073,
+  insigneDeLaPatrouilleDeBonta: 9089,
+  insigneDeLaPatrouilleDeBrakmar: 9090,
+  insigneDeLaPatrouilleDuCimetiere: 9104,
+  insigneRoublard: 8588,
+  iopAttitude: 2214,
+  ivoire: 479,
+  jakchirArc: 7187,
+  jambanneau: 9408,
+  jambonCuit: 1966,
+  jambonCuit2: 1967,
+  jambonCuit3: 1968,
+  jambonCuit4: 1969,
+  jetonDeLaFoireDuTrool: 1749,
+  jetonDuBworker: 6885,
+  jetonDuMaîtreDeJeu: 7919,
+  jouikKrampe: 711,
+  joyauDeMilone: 9068,
+  jusDeGloutovore: 2080,
+  jusDeOuassingue: 8807,
+  kabale: 1483,
+  kabuto: 8163,
+  kaiser: 233,
+  kamaEnigmatique: 1328,
+  kanistere: 7152,
+  kannipiou: 6992,
+  karnak: 7195,
+  kaskArcGo: 8864,
+  kaskargo: 8824,
+  kaskofu: 8114,
+  kaskwette: 9653,
+  katanaDeNara: 10017,
+  katanaEbreche: 1931,
+  katanaRenove: 1932,
+  kelinobranche: 6521,
+  kidorteau: 8878,
+  kloume: 9022,
+  kloumeEcorne: 7082,
+  koalakSanguin: 7911,
+  kobalite: 6458,
+  kobalte: 443,
+  kokolait: 2619,
+  kokopaille: 2618,
+  kole: 1018,
+  koleratMort: 2500,
+  kolietAclou: 766,
+  koloss: 7151,
+  korkoKlako: 710,
+  korkoKousto: 6482,
+  kouartz: 750,
+  kouinKouin: 6604,
+  koupeKoupe: 328,
+  kraignosse: 2104,
+  kralamansion: 9464,
+  kralamoure: 600,
+  kralamoureGrille2: 1820,
+  kralamoureGrille3: 1821,
+  kralamoureGrille4: 1859,
+  kralamoureUnique: 1799,
+  kralamoureUniqueVide: 1800,
+  kralamoureVide: 1798,
+  kralano: 8877,
+  krepite: 7056,
+  kriptonite: 6457,
+  krissToubal: 8929,
+  kristalite: 929,
+  kritter: 702,
+  krokop: 6989,
+  krustoture: 8873,
+  krystOBoul: 204,
+  kukriKura: 8932,
+  kwakanneauDeFlammes: 2418,
+  kwakanneauDeGlace: 6732,
+  kwakanneauDeTerre: 6748,
+  kwakanneauDeVent: 6749,
+  kwaklameDeFlammes: 2415,
+  kwaklameDeGlace: 6750,
+  kwaklameDeTerre: 6751,
+  kwaklameDuVent: 6752,
+  kwakobottesDeFlammes: 2421,
+  kwakobottesDeGlace: 6753,
+  kwakobottesDeTerre: 6754,
+  kwakobottesDuVent: 6755,
+  kwakoiffeDeFlammes: 2409,
+  kwakoiffeDeGlace: 2535,
+  kwakoiffeDeTerre: 6760,
+  kwakoiffeDuVent: 6761,
+  kwaktureDeFlammes: 2427,
+  kwaktureDeGlace: 2537,
+  kwaktureDeTerre: 6758,
+  kwaktureDeVent: 6759,
+  kwapeDeFlammes: 2412,
+  kwapeDeGlace: 2534,
+  kwapeDeTerre: 6756,
+  kwapeDuVent: 6757,
+  lAbramu: 1619,
+  lAdelus: 1487,
+  lAiguilleATricoter: 1864,
+  lAmeDuChasseur: 2112,
+  lAmeDuPecheur: 2111,
+  lAmiLehunui: 2367,
+  lAmuletteDuPuzzleDeLaGriffe: 2388,
+  lAnneauDeValeur: 355,
+  lAnneauDhyn: 1495,
+  lAraknacoiffe: 6913,
+  lAraknamu: 2426,
+  lArcAHick: 1354,
+  lArtDUtiliserLaGeleeSbihaine: 10004,
+  lArtPandawushu: 7313,
+  lAutreAnnobuseDeMaîtreJarbo: 9202,
+  lAvenementDHyrkul: 7879,
+  lEcaliseur: 359,
+  lEcrabouilleurDeIop: 130,
+  lEniKere: 2435,
+  lEnutrofion: 1499,
+  lEpeeNice: 8695,
+  lEpeeRilleuse: 8094,
+  lErgotMina: 1370,
+  lHorlogeDivineDeXelorTomeVi: 7372,
+  lHyldegarde: 1360,
+  lOeilDeKanigrou: 2398,
+  lOxolature: 10191,
+  laBaguetteDesLimbes: 180,
+  laBaguetteHuve: 7753,
+  laBastonneuze: 8608,
+  laBecheAMel: 8935,
+  laBekille: 7150,
+  laBenedictionDErazal: 9537,
+  laBertheuze: 7146,
+  laBibelaw: 2397,
+  laBidjiz: 8612,
+  laBoufteuse: 957,
+  laBourgeonette: 2394,
+  laBrocheCeleste: 159,
+  laBrocheHete: 1489,
+  laBrouteuse: 2385,
+  laCanneBiere: 8091,
+  laCanneHete: 1365,
+  laCapeRouge: 8521,
+  laCapeSLoque: 8534,
+  laCelebrite: 161,
+  laChaîneNhanorKibrill: 1490,
+  laChaplanne: 9939,
+  laChaplivate: 9944,
+  laCoiffeDuPloukosse: 696,
+  laCordeDeYamato: 273,
+  laCriniereDeBadoul: 66,
+  laCroqueuse: 2233,
+  laDestineeDoree: 158,
+  laDoubitchOBoul: 7012,
+  laDragouneRoseBienLElever: 7529,
+  laFamilleDuciel: 1716,
+  laFeuilleDAutomne: 917,
+  laFeuilleDEte: 6462,
+  laFeuilleDHiver: 6460,
+  laFeuilleDePrintemps: 6461,
+  laFlemmeDeMonterLesEscaliers: 8600,
+  laForceDivorce: 2197,
+  laForetDesAbraknydes: 1567,
+  laGougnole: 157,
+  laGrandePerche: 1861,
+  laGriffe: 2637,
+  laGriffeAiguisee: 2638,
+  laGuenille: 2386,
+  laHacheMenbien: 8099,
+  laHacheTicot: 8100,
+  laHmmmmmmmmm: 8559,
+  laKlebik: 354,
+  laLanceAUn110: 1368,
+  laLarmeDuBouftou: 279,
+  laLegendeDeCrocoburio: 1512,
+  laLegendeDuCroqueur: 1625,
+  laLouPtiote: 2396,
+  laMaîtriseDesPoupees: 5122,
+  laMeulette: 8262,
+  laMigraine: 6520,
+  laMokette: 1500,
+  laMouthmou: 2371,
+  laPelleDuLarge: 1435,
+  laPelleHelabete: 6540,
+  laPlantouzeDesChamps: 6792,
+  laPoilue: 2387,
+  laQueue: 357,
+  laQueueInfernale: 358,
+  laRacineCinati: 6522,
+  laRacineHagogue: 6523,
+  laRecetteDeLaBiereBwork: 8509,
+  laRecetteDeLaFiltounga: 8497,
+  laRecetteDesCrepes: 8528,
+  laReinette: 1485,
+  laReliqueDesRobill: 8523,
+  laResinette: 7002,
+  laSamoulaille: 954,
+  laSpamette: 8536,
+  laThorBoyaux: 3647,
+  laTrancheuseDArakne: 6914,
+  laTrancheuseDeBambou: 7212,
+  laTristeLame: 58,
+  laVeauxDoux: 2399,
+  laVegeteHatif: 2370,
+  laXerbo: 3206,
+  laXyothine: 7103,
+  laZulieLame: 1475,
+  lailait: 6765,
+  laineDeBouftonBlanc: 881,
+  laineDeBouftonNoir: 885,
+  laineDeBouftou: 384,
+  laineDeBouftouRoyal: 880,
+  laineDuBoufcoul: 7905,
+  laineDuChefDeGuerreBouftou: 882,
+  laineDuMinotoror: 2998,
+  laineDuMinotot: 8406,
+  laineDuTroolFurieux: 1694,
+  laisserPasserQuartiersDInterrogation: 2174,
+  laitDeCochonDeLait: 2266,
+  laitDeDragodinde: 2596,
+  lameAssacre: 9176,
+  lameDOgralimde: 928,
+  lameDeChasse: 1938,
+  lameDeFon: 1033,
+  lameDuBwork: 825,
+  lameDuChafer: 339,
+  lameDuChefBwork: 6799,
+  lameDuChefCrocodaille: 6821,
+  lameDuChevaucheurDeKarne: 327,
+  lameDuCraqueleur: 6957,
+  lameDuGrandBwork: 826,
+  lameDuPetitBwork: 338,
+  lameDuPuissantBwork: 827,
+  lameUsicke: 8098,
+  lamelleDeChampbis: 9278,
+  lamesSanglantesDOrtimusContrari: 1040,
+  lanceCassee: 2634,
+  lanceDeChasse: 1939,
+  lanceurDEffetMagique: 8522,
+  langueDeChefDeGuerreBouftou: 2466,
+  langueDeCrabe: 2302,
+  langueDeCrocGland: 2504,
+  langueDuChampodonte: 9269,
+  langueDuPissenlitDiabolique: 374,
+  langueFourchue: 2507,
+  langueHiyeu: 9531,
+  laniereEnCuirDuDragoeufGuerrier: 8364,
+  lapinocoiffe: 8531,
+  largeCouteauAStek: 1029,
+  larvabottes: 7107,
+  larvacoiffe: 7109,
+  larvamulette: 7106,
+  larvasac: 7108,
+  larveCroqueSel: 1949,
+  larveCroqueSel2: 1950,
+  larveCroqueSel3: 1951,
+  larveDoree: 2272,
+  leBagueur: 1494,
+  leBatonCloutay: 8607,
+  leBatonDAmour: 1862,
+  leBwakBienLElever: 2091,
+  leChachaBienLElever: 2092,
+  leChantDuMondeFragmentsRetrouvesI: 7359,
+  leChapleau: 9937,
+  leChoixDesDieuxFragmentsRetrouvesIi: 7360,
+  leClanDeSrvtmercenaryClan: 7387,
+  leCroumBienLElever: 7530,
+  leCutter: 1641,
+  leCutterSanglant: 1651,
+  leDesirDEtreBelle1: 10043,
+  leDesirDEtreBelle2: 10063,
+  leDiviseurMj: 7913,
+  leDonDeNouwel: 1715,
+  leFendoirTichaud: 8101,
+  leFlanDesEtoiles: 160,
+  leFloude: 8533,
+  leFotomeBienLElever: 7528,
+  leFoulardDuLardFou: 2395,
+  leGrandCutter: 1650,
+  leKardeCoeur: 9018,
+  leKardeCoeurMeurtri: 7074,
+  leKikoularc: 8610,
+  leKim: 9461,
+  leManuelDeLaParfaiteRecrueBrakmarienne: 7939,
+  leManuelDeLaParfaiteRecrueDeBonta: 7940,
+  leMarteauAZaap: 8529,
+  leMarteauDuChafer: 271,
+  leMatronome: 1393,
+  leMiniWaBienLElever: 7899,
+  leMiniminoBienLElever: 7531,
+  leNahitse: 8704,
+  leOiram: 701,
+  leOurs: 2095,
+  lePetitCutter: 1640,
+  lePetrisseur: 492,
+  lePlussain: 8537,
+  leRamboton: 8575,
+  leRasoirInfernal: 1373,
+  leSMesme: 8538,
+  leSabreAyassalama: 8095,
+  leSautSifflard: 7799,
+  leSceauDesZewouan: 9396,
+  leScrounnchhh: 1379,
+  leTempsDesDofusFragmentsRetrouvesIv: 7371,
+  leTempsDesDragonsFragmentsRetrouvesIii: 7361,
+  leTempsDesDragonsFragmentsRetrouvesIii2: 7931,
+  leTifouxBienLElever: 8316,
+  leTisonFûte: 1359,
+  leTranchantInfernal: 67,
+  leTroma: 699,
+  leTronknydum: 6491,
+  leTwoteEnCarton: 1479,
+  leWabbitBienLElever: 2093,
+  leopardo: 7705,
+  lesChaplures: 9943,
+  lesDaguesDuBouwin: 8092,
+  lesDragodindesBienLesElever: 7805,
+  lesIncrustes: 8535,
+  lesLamesEnTable: 1369,
+  lesLarmesDeLaDeesseFragmentsRetrouvesVii: 7364,
+  lesLarmesDeLaDeesseFragmentsRetrouvesViii: 7365,
+  lesSecretsDuLangageEcureuil: 2173,
+  lesSleumpettes: 9656,
+  lettreDAmourPourPoochan: 7349,
+  lettreDInvitationPourLaCeremonie: 2122,
+  lettreDOtoMustam: 2083,
+  lettreDOtoMustamPourSbab: 2158,
+  lettreDeDanathor: 2352,
+  lettreDeJoePierlivet: 6827,
+  lettreDeLarryPoller: 2353,
+  lettreDeMenaces: 1727,
+  lettreDeZeurg: 2127,
+  lettreDuChefDesVoleurs1: 9066,
+  lettreDuChefDesVoleurs2: 10074,
+  lettreDuXelor: 9075,
+  lettrePourFidjiMerline: 10103,
+  lettrePourMilone: 9065,
+  lettrePourOto1: 2344,
+  lettrePourOto2: 2349,
+  lettrePourXephires: 9067,
+  leurnettes: 340,
+  levureDeBoulanger: 286,
+  limonadeDIncarnam: 8543,
+  lin: 423,
+  linTempete: 2026,
+  linceul: 2277,
+  lingotDOr: 745,
+  liquideVampiresque: 1462,
+  lisseur: 942,
+  listeDAppatsPourPecheur: 2106,
+  listeDEchantillonsATrouver: 2172,
+  listeDEquipementsStandards: 2339,
+  listeDeDanathor: 2139,
+  listeDeFournituresDeNara: 10090,
+  listeDeJouetsDuPapaNowel: 9459,
+  listeDeMilone: 9063,
+  listeDeNorb: 10122,
+  listeDesSoldatsPrenantLeurPause1: 2047,
+  listeDesSoldatsPrenantLeurPause2: 2048,
+  livreDuBworkMage: 410,
+  livreHonorifiqueDesBardes: 8107,
+  livreMagique: 2337,
+  livreeDeValetDuPrinceWabbit: 8603,
+  livreurDeBiere: 6832,
+  longueMasseTmosfer: 1070,
+  lorkoKasko: 709,
+  lorsotheuses: 6713,
+  lotDeCentParcheminsDeMercenariat: 9996,
+  lotDeCentParcheminsVierges: 7412,
+  lotDeDixParcheminsDeMercenariat: 10001,
+  lotDeDixParcheminsVierges: 7402,
+  lotionDeBeauteDeMylaise: 10044,
+  louffeur: 940,
+  loupe: 489,
+  lourdeBaguetteDEglise: 1108,
+  machoireDeRib: 2642,
+  machoireTombante: 1008,
+  magmaBrakmarien: 6647,
+  magnesite: 748,
+  magnifiquePelleDeBoisDormant: 1045,
+  mailletAclou: 1399,
+  maillotDeCorpsDeBarbroussa: 8757,
+  mainDeBoo: 2584,
+  mainsVertes: 1473,
+  makroute: 697,
+  makrouteDechiquete: 6478,
+  makrouteSombre: 2094,
+  malediction: 9868,
+  maledictionDAssanTrapick: 9577,
+  maledictionDuBallotin: 9491,
+  maloria: 7135,
+  malt: 405,
+  manganese: 445,
+  mangeoireClassique: 7606,
+  mangeoireEnBambou: 7619,
+  mangeoireEnBambouDore: 7685,
+  mangeoireEnBambouMagique: 7686,
+  mangeoireEnBambouSacre: 7621,
+  mangeoireEnBambouSombre: 7620,
+  mangeoireEnBoisAncestral: 7683,
+  mangeoireEnBoisDeBambouto: 7687,
+  mangeoireEnBoisDeBamboutoSacre: 7688,
+  mangeoireEnBoisDeKokoko: 7689,
+  mangeoireEnBoisDeTronknyde: 7690,
+  mangeoireEnBoisEnvoûte: 7684,
+  mangeoireEnBombu: 7617,
+  mangeoireEnCharme: 7613,
+  mangeoireEnChataigner: 7614,
+  mangeoireEnChene: 7608,
+  mangeoireEnEbene: 7610,
+  mangeoireEnErable: 7612,
+  mangeoireEnFrene: 7607,
+  mangeoireEnIf: 7609,
+  mangeoireEnMerisier: 7616,
+  mangeoireEnNoyer: 7615,
+  mangeoireEnOliviolet: 7618,
+  mangeoireEnOrme: 7611,
+  mangeoireTrafiquee: 10104,
+  mangeuseDErable: 676,
+  mangeuseDeChataignier: 673,
+  mangeuseDeFrene: 771,
+  manuelDuMercenaireDAstrub: 7929,
+  manuelDuTailleur: 966,
+  manuscritDeLOurs: 6862,
+  marcassin: 2082,
+  marcassin1: 7707,
+  marqueDeTestDuChasseur: 2039,
+  marqueDeVictoire: 8691,
+  marteauATorts: 1084,
+  marteauBleuronne: 7197,
+  marteauBoGan: 9735,
+  marteauDAgaglou: 5353,
+  marteauDAlanaj: 5436,
+  marteauDAmorepeu: 5381,
+  marteauDAmphobie: 5434,
+  marteauDAnefuda: 5371,
+  marteauDEcumepi: 5369,
+  marteauDEgefielle: 5368,
+  marteauDElaval: 5327,
+  marteauDEpane: 5335,
+  marteauDIvoire: 228,
+  marteauDUgerum: 5443,
+  marteauDUteva: 5425,
+  marteauDeAbewolu: 5329,
+  marteauDeAdydele: 5475,
+  marteauDeAelilotte: 5287,
+  marteauDeAeloworau: 5304,
+  marteauDeAgymo: 5511,
+  marteauDeAhehi: 5512,
+  marteauDeAiblber: 5216,
+  marteauDeAjuje: 5535,
+  marteauDeAkafaut: 5130,
+  marteauDeAkitber: 5359,
+  marteauDeAlawavae: 5164,
+  marteauDeAlebove: 5401,
+  marteauDeAlloene: 5438,
+  marteauDeAmafobug: 5508,
+  marteauDeAmahimi: 5363,
+  marteauDeAmphibio: 5402,
+  marteauDeAnerabul: 5146,
+  marteauDeAnogery: 5154,
+  marteauDeAnufemi: 5192,
+  marteauDeApaevew: 5233,
+  marteauDeApafo: 5439,
+  marteauDeApena: 5273,
+  marteauDeAquanolodu: 5482,
+  marteauDeAquepapy: 5212,
+  marteauDeAsacare: 5558,
+  marteauDeAtikutup: 5132,
+  marteauDeAudej: 5547,
+  marteauDeAwamice: 5255,
+  marteauDeBelini: 5497,
+  marteauDeBemalle: 5198,
+  marteauDeBemeuga: 5533,
+  marteauDeBewague: 5264,
+  marteauDeBofarar: 5186,
+  marteauDeBoisaille: 145,
+  marteauDeBremam: 5158,
+  marteauDeBwisip: 5501,
+  marteauDeChasse: 1940,
+  marteauDeCikemela: 5388,
+  marteauDeCokelocu: 5283,
+  marteauDeCoreseko: 5365,
+  marteauDeCukupebi: 5235,
+  marteauDeCulataca: 5150,
+  marteauDeCuluparu: 5227,
+  marteauDeDasop: 5328,
+  marteauDeDenapl: 5202,
+  marteauDeDibuhiv: 5503,
+  marteauDeDlubice: 5242,
+  marteauDeDofanivo: 5291,
+  marteauDeDometasut: 5431,
+  marteauDeDuterote: 5441,
+  marteauDeEbetelet: 5159,
+  marteauDeEbicedyh: 5165,
+  marteauDeEfeurifl: 5250,
+  marteauDeEfikifug: 5529,
+  marteauDeEfistit: 5179,
+  marteauDeEfutucu: 5175,
+  marteauDeEgikima: 5144,
+  marteauDeEhapu: 5295,
+  marteauDeEhuvei: 5234,
+  marteauDeEkudekus: 5294,
+  marteauDeElelite: 5224,
+  marteauDeEmirehu: 5244,
+  marteauDeEmola: 5178,
+  marteauDeEpylal: 5339,
+  marteauDeEpypab: 5421,
+  marteauDeErote: 5325,
+  marteauDeErulevin: 5245,
+  marteauDeErulilum: 5488,
+  marteauDeEruname: 5169,
+  marteauDeErustih: 5422,
+  marteauDeEsrogonu: 5526,
+  marteauDeEtaleni: 5491,
+  marteauDeEtapete: 5232,
+  marteauDeEtebymer: 5541,
+  marteauDeEtehe: 5151,
+  marteauDeEtekour: 5344,
+  marteauDeEthuppur: 5168,
+  marteauDeEturifa: 5307,
+  marteauDeEugabpur: 5228,
+  marteauDeEuthe: 5161,
+  marteauDeEvemele: 5455,
+  marteauDeEviserer: 5142,
+  marteauDeFafikfrit: 5288,
+  marteauDeFalul: 5297,
+  marteauDeFelevasu: 5495,
+  marteauDeFeliluf: 5136,
+  marteauDeFemafu: 5241,
+  marteauDeFetifafle: 5409,
+  marteauDeFeulifane: 5484,
+  marteauDeFeurfrup: 5384,
+  marteauDeFihehiru: 5187,
+  marteauDeFihepif: 5457,
+  marteauDeFiluru: 5240,
+  marteauDeFilvite: 5303,
+  marteauDeFisec: 5343,
+  marteauDeFlefeguh: 5465,
+  marteauDeFleliseke: 5530,
+  marteauDeFlutabuf: 5155,
+  marteauDeFlutuge: 5498,
+  marteauDeFoleveda: 5191,
+  marteauDeForgeron: 9963,
+  marteauDeForgeurDEpees: 494,
+  marteauDeForgeurDeDagues: 495,
+  marteauDeForgeurDeMarteaux: 493,
+  marteauDeForgeurDePelles: 496,
+  marteauDeFrivavec: 5312,
+  marteauDeFrufu: 5149,
+  marteauDeFuharem: 5382,
+  marteauDeFujtuhu: 5414,
+  marteauDeFukuveuf: 5137,
+  marteauDeFulis: 5270,
+  marteauDeFunid: 5156,
+  marteauDeFupej: 5408,
+  marteauDeFuralasel: 5490,
+  marteauDeFureba: 5266,
+  marteauDeFuvaille: 5180,
+  marteauDeGelese: 5181,
+  marteauDeGeluke: 5290,
+  marteauDeGitatap: 5348,
+  marteauDeGrodeba: 5366,
+  marteauDeGrodohyfr: 5424,
+  marteauDeGroho: 5237,
+  marteauDeGucapa: 5214,
+  marteauDeHaivere: 5461,
+  marteauDeHamoruste: 5249,
+  marteauDeHegai: 5478,
+  marteauDeHelukuth: 5413,
+  marteauDeHemaru: 5127,
+  marteauDeHesrurou: 5265,
+  marteauDeHeteth: 5143,
+  marteauDeHimufleu: 5247,
+  marteauDeHolumev: 5466,
+  marteauDeHosobum: 5301,
+  marteauDeHubohnef: 5513,
+  marteauDeHucehere: 5248,
+  marteauDeHugulin: 5387,
+  marteauDeHukifou: 5299,
+  marteauDeHutorudu: 5281,
+  marteauDeIbere: 5554,
+  marteauDeIciracy: 5521,
+  marteauDeIfitit: 5474,
+  marteauDeIfolovl: 5445,
+  marteauDeIfufuh: 5274,
+  marteauDeIhefidi: 5480,
+  marteauDeIhikurat: 5464,
+  marteauDeIkepfla: 5427,
+  marteauDeIkerosi: 5280,
+  marteauDeIlousam: 5204,
+  marteauDeInodake: 5550,
+  marteauDeIramo: 5467,
+  marteauDeIseboel: 5507,
+  marteauDeIzitumet: 5341,
+  marteauDeJebuf: 5352,
+  marteauDeJelakad: 5560,
+  marteauDeJelule: 5523,
+  marteauDeKaruko: 5446,
+  marteauDeKecedem: 5196,
+  marteauDeKenigec: 5506,
+  marteauDeKepirina: 5197,
+  marteauDeKifevame: 5356,
+  marteauDeKotehod: 5462,
+  marteauDeKreregur: 5393,
+  marteauDeKrihour: 5201,
+  marteauDeKruce: 5470,
+  marteauDeKuhep: 5182,
+  marteauDeKujis: 5226,
+  marteauDeKuplit: 5437,
+  marteauDeKurain: 5223,
+  marteauDeLAurore: 455,
+  marteauDeLInitie: 6785,
+  marteauDeLaGamineZoth: 8826,
+  marteauDeLaTerps: 6507,
+  marteauDeLafelatu: 5256,
+  marteauDeLamahicet: 5525,
+  marteauDeLamuri: 5206,
+  marteauDeLanutulf: 5444,
+  marteauDeLaragikup: 5385,
+  marteauDeLehaille: 5308,
+  marteauDeLehumuv: 5239,
+  marteauDeLelibo: 5417,
+  marteauDeLellel: 5184,
+  marteauDeLemalube: 5129,
+  marteauDeLeuje: 5177,
+  marteauDeLeustotesre: 5516,
+  marteauDeLezemop: 5510,
+  marteauDeLicasadu: 5399,
+  marteauDeLifenadem: 5396,
+  marteauDeLifife: 5246,
+  marteauDeLifilame: 5322,
+  marteauDeLikupafi: 5545,
+  marteauDeLilul: 5131,
+  marteauDeLinfer: 5211,
+  marteauDeLizasaille: 5330,
+  marteauDeLofdar: 5138,
+  marteauDeLomteux: 5293,
+  marteauDeLovetielle: 5374,
+  marteauDeLovumim: 5282,
+  marteauDeLufatip: 5258,
+  marteauDeLufipem: 5209,
+  marteauDeLufliru: 5243,
+  marteauDeLufudupe: 5300,
+  marteauDeLujifer: 5205,
+  marteauDeLumalle: 5320,
+  marteauDeLuruputu: 5386,
+  marteauDeLyomev: 5271,
+  marteauDeMaudih: 5314,
+  marteauDeMethoko: 5310,
+  marteauDeMeulipu: 5309,
+  marteauDeMigofa: 5378,
+  marteauDeMopehuk: 5418,
+  marteauDeNadiku: 5135,
+  marteauDeNara: 9098,
+  marteauDeNekehufu: 5520,
+  marteauDeNifum: 5340,
+  marteauDeNilelel: 5476,
+  marteauDeNiromatau: 5125,
+  marteauDeNirudo: 5349,
+  marteauDeNirundar: 5459,
+  marteauDeNisikumif: 5549,
+  marteauDeNosamefo: 5451,
+  marteauDeNujifem: 5555,
+  marteauDeNukuneu: 5284,
+  marteauDeNutosa: 5183,
+  marteauDeObovowec: 5456,
+  marteauDeOfafibl: 5262,
+  marteauDeOfaluf: 5342,
+  marteauDeOfinu: 5193,
+  marteauDeOfisteuf: 5166,
+  marteauDeOgetim: 5485,
+  marteauDeOhemdar: 5391,
+  marteauDeOlagebe: 5404,
+  marteauDeOlolamin: 5380,
+  marteauDeOmeprnef: 5160,
+  marteauDeOnunumep: 5279,
+  marteauDeOplules: 5428,
+  marteauDeOrefr: 5494,
+  marteauDeOrenarox: 5370,
+  marteauDeOtaharh: 5337,
+  marteauDeOupugolu: 5504,
+  marteauDeOuredutur: 5315,
+  marteauDeOurukukor: 5203,
+  marteauDeOzezeve: 5351,
+  marteauDePehelum: 5141,
+  marteauDePexoma: 5311,
+  marteauDePhamaihy: 5416,
+  marteauDePifeku: 5259,
+  marteauDePisad: 5174,
+  marteauDePlezyfe: 5360,
+  marteauDePoudae: 5449,
+  marteauDePuker: 5460,
+  marteauDeRaclage: 222,
+  marteauDeRagnilecer: 5354,
+  marteauDeRefam: 5454,
+  marteauDeReherug: 5298,
+  marteauDeResoka: 5557,
+  marteauDeRhegeho: 5269,
+  marteauDeRhekeh: 5296,
+  marteauDeRheru: 5389,
+  marteauDeRicekehu: 5219,
+  marteauDeRigidarth: 5361,
+  marteauDeRoucour: 5134,
+  marteauDeRuceror: 5419,
+  marteauDeRugnerugas: 5195,
+  marteauDeRuhoru: 5254,
+  marteauDeRukisri: 5383,
+  marteauDeRureteher: 5289,
+  marteauDeRutehoche: 5157,
+  marteauDeSehesek: 5469,
+  marteauDeSipopara: 5440,
+  marteauDeSkeurnef: 5170,
+  marteauDeSohitoki: 5450,
+  marteauDeSoirobo: 5542,
+  marteauDeSolezol: 5477,
+  marteauDeSougik: 5253,
+  marteauDeSrugri: 5509,
+  marteauDeStrena: 5345,
+  marteauDeSukut: 5556,
+  marteauDeSurovelyt: 5278,
+  marteauDeTahoweo: 5397,
+  marteauDeTasen: 5395,
+  marteauDeTehel: 5347,
+  marteauDeThake: 5463,
+  marteauDeTheblele: 5377,
+  marteauDeThenut: 5123,
+  marteauDeThorekogu: 5483,
+  marteauDeThorokeneh: 5403,
+  marteauDeThout: 5221,
+  marteauDeThusrabuda: 5394,
+  marteauDeTimovra: 5499,
+  marteauDeTodugo: 5208,
+  marteauDeTogeboge: 5527,
+  marteauDeTothifyh: 5534,
+  marteauDeTozutiel: 5379,
+  marteauDeTumeuruh: 5171,
+  marteauDeUbiritim: 5532,
+  marteauDeUbodae: 5400,
+  marteauDeUcacupag: 5124,
+  marteauDeUfais: 5519,
+  marteauDeUfinikim: 5522,
+  marteauDeUfudesef: 5133,
+  marteauDeUhegifu: 5217,
+  marteauDeUhosedor: 5231,
+  marteauDeUhufip: 5272,
+  marteauDeUkasesat: 5479,
+  marteauDeUluffla: 5326,
+  marteauDeUnivfrit: 5426,
+  marteauDeUreku: 5452,
+  marteauDeUsezatoz: 5334,
+  marteauDeUsospur: 5553,
+  marteauDeUsrfrit: 5220,
+  marteauDeUtoutuk: 5140,
+  marteauDeUvouj: 5548,
+  marteauDeVarkehuh: 5188,
+  marteauDeVenehe: 5252,
+  marteauDeVezeleby: 5317,
+  marteauDeVugupog: 5398,
+  marteauDeVuvuf: 5357,
+  marteauDeWolymeau: 5362,
+  marteauDeXoipber: 5552,
+  marteauDeYlegolan: 5200,
+  marteauDeZarevole: 5412,
+  marteauDeZelefle: 5128,
+  marteauDesFalistos: 1085,
+  marteauDuAcugrau: 5372,
+  marteauDuAfoluse: 5473,
+  marteauDuAhukit: 5213,
+  marteauDuAilelal: 5268,
+  marteauDuAkare: 5540,
+  marteauDuAkota: 5324,
+  marteauDuAleteha: 5222,
+  marteauDuAlifufuf: 5539,
+  marteauDuAlygac: 5332,
+  marteauDuAmphoub: 5323,
+  marteauDuAplilema: 5489,
+  marteauDuAquemefi: 5313,
+  marteauDuAroxem: 5492,
+  marteauDuAteketo: 5285,
+  marteauDuBebebera: 5411,
+  marteauDuBekawe: 5505,
+  marteauDuBeleusu: 5218,
+  marteauDuBoneg: 5316,
+  marteauDuBoufcoul: 7882,
+  marteauDuBouftou: 2416,
+  marteauDuBricoleur: 7650,
+  marteauDuBwoheumo: 5514,
+  marteauDuCraqueleurLegendaire: 8148,
+  marteauDuDoumabid: 5225,
+  marteauDuDoumumet: 5429,
+  marteauDuDragoeuf: 8294,
+  marteauDuDruhog: 5210,
+  marteauDuEhukeju: 5263,
+  marteauDuEkogura: 5162,
+  marteauDuEkufuku: 5257,
+  marteauDuElmelupav: 5538,
+  marteauDuElomele: 5292,
+  marteauDuEluprame: 5486,
+  marteauDuEozevi: 5390,
+  marteauDuEpegokir: 5448,
+  marteauDuEuvel: 5559,
+  marteauDuFeuflimil: 5152,
+  marteauDuFlases: 5305,
+  marteauDuFlesekun: 5515,
+  marteauDuFlumem: 5275,
+  marteauDuFlylipe: 5286,
+  marteauDuForgemageDEpees: 1539,
+  marteauDuForgemageDeDagues: 1520,
+  marteauDuForgemageDeHaches: 1562,
+  marteauDuForgemageDeMarteaux: 1561,
+  marteauDuForgemageDePelles: 1560,
+  marteauDuForgeurDeBoucliers: 7098,
+  marteauDuForgeurDeHaches: 922,
+  marteauDuFupem: 5139,
+  marteauDuGihuhe: 5153,
+  marteauDuGrodided: 5392,
+  marteauDuHamesdar: 5376,
+  marteauDuHegegr: 5236,
+  marteauDuHulegeuf: 5420,
+  marteauDuHurour: 5346,
+  marteauDuIdlukud: 5423,
+  marteauDuIfefile: 5238,
+  marteauDuIfrecfrit: 5163,
+  marteauDuImelfeu: 5306,
+  marteauDuIsalah: 5319,
+  marteauDuItestod: 5199,
+  marteauDuIzotetul: 5367,
+  marteauDuKerureho: 5172,
+  marteauDuKidemuby: 5331,
+  marteauDuKrotnef: 5487,
+  marteauDuLamarouk: 5302,
+  marteauDuLaralibak: 5321,
+  marteauDuLelamy: 5536,
+  marteauDuLevul: 5551,
+  marteauDuLidehula: 5173,
+  marteauDuLifukef: 5176,
+  marteauDuLifuvfrit: 5435,
+  marteauDuLimehisu: 5194,
+  marteauDuLithefa: 5537,
+  marteauDuLosefoso: 5358,
+  marteauDuLudamain: 5350,
+  marteauDuLupobage: 5458,
+  marteauDuMapafice: 5207,
+  marteauDuMedebpur: 5251,
+  marteauDuMituvo: 5518,
+  marteauDuMominotor: 8413,
+  marteauDuNailoce: 5468,
+  marteauDuNehiveuf: 5260,
+  marteauDuNifeub: 5215,
+  marteauDuNisarimou: 5407,
+  marteauDuNulilifu: 5472,
+  marteauDuNybotac: 5517,
+  marteauDuOdahoger: 5453,
+  marteauDuOgeusam: 5471,
+  marteauDuOleteo: 5364,
+  marteauDuOlezelev: 5442,
+  marteauDuOtalotip: 5230,
+  marteauDuOudeug: 5148,
+  marteauDuPolielle: 5531,
+  marteauDuPrugor: 5405,
+  marteauDuPulekame: 5447,
+  marteauDuRagnehek: 5277,
+  marteauDuRasehuk: 5229,
+  marteauDuReredul: 5500,
+  marteauDuRerokoh: 5430,
+  marteauDuRheded: 5373,
+  marteauDuRidrimu: 5544,
+  marteauDuRorost: 5185,
+  marteauDuRougath: 5276,
+  marteauDuRugnido: 5481,
+  marteauDuRureprer: 5338,
+  marteauDuRutum: 5355,
+  marteauDuSelume: 5167,
+  marteauDuSetotet: 5433,
+  marteauDuSilil: 5333,
+  marteauDuTheku: 5502,
+  marteauDuThusukona: 5432,
+  marteauDuTikibe: 5410,
+  marteauDuTimimuf: 5543,
+  marteauDuTulireto: 5261,
+  marteauDuTunit: 5126,
+  marteauDuUfrunu: 5147,
+  marteauDuUhululu: 5190,
+  marteauDuUlaforat: 5318,
+  marteauDuUliffrit: 5189,
+  marteauDuUnagar: 5528,
+  marteauDuUnupil: 5496,
+  marteauDuUreme: 5406,
+  marteauDuUrewodya: 5336,
+  marteauDuUridifet: 5267,
+  marteauDuUtukarth: 5524,
+  marteauDuUvulilu: 5145,
+  marteauDuVarkoru: 5546,
+  marteauDuVofillion: 5375,
+  marteauDuZelevefo: 5415,
+  marteauDuZotebel: 5493,
+  marteauFantal: 6504,
+  marteauHubohu: 7153,
+  marteauKahr: 6510,
+  marteauKsain: 7157,
+  marteauLahre: 7158,
+  marteauLeStoye: 9729,
+  marteauMPouce: 7154,
+  marteauMahTurj: 9730,
+  marteauMartel: 9961,
+  marteauMato: 8615,
+  marteauMawoque: 8096,
+  marteauMinokers: 8616,
+  marteauNairedeubrest: 7155,
+  marteauNiHok: 9736,
+  marteauNitruhant: 6512,
+  marteauOutar: 1073,
+  marteauPickeur: 342,
+  marteauPinambour: 6508,
+  marteauPiniere: 7159,
+  marteauPolpoulette: 6503,
+  marteauPospodrol: 1081,
+  marteauRTicolis: 6509,
+  marteauRUnique: 1065,
+  marteauReThu: 1383,
+  marteauRefacteur: 6513,
+  marteauRehadaure: 6505,
+  marteauReuhDeuhPiz: 9731,
+  marteauRidhe: 6511,
+  marteauRonto: 7156,
+  marteauTapeDoigts: 3357,
+  marteauTau: 1403,
+  marteauTohLo: 1404,
+  marteauXiko: 8097,
+  marzwelLeGobelin: 7353,
+  maskananas: 7422,
+  masqueBleu: 1017,
+  masqueDeLAbrakleurClair: 8822,
+  masqueDeLAbrakleurSombre: 8823,
+  masqueDeNoke: 10184,
+  masqueDuRatNoir: 8442,
+  masqueDuSergentZoth: 8820,
+  masqueDuVampyre: 10102,
+  masqueJaune: 1015,
+  masqueKanniboule: 1088,
+  masqueRouge: 1016,
+  masqueSiksWonNaine: 9930,
+  masqueTromatisant: 705,
+  masqueVaudouArcher: 8842,
+  masqueVaudouJav: 8840,
+  masqueVaudouSarbak: 8841,
+  masqueVaudouThierry: 8839,
+  masqueVert: 1014,
+  masseAjTaye: 1077,
+  masseDHa: 1061,
+  masseDuCorailleur: 8833,
+  masseDuCorailleurMagistral: 8825,
+  masseODard: 9403,
+  masseTmosfer: 1069,
+  mauvaisePioche: 1439,
+  medailleHoly: 1486,
+  medailleKido: 7136,
+  medailleLahilama: 6999,
+  medailleOly: 1331,
+  megaPierreDuCraqueleur: 2251,
+  megaPierreDuCraqueleurLegendaire: 8394,
+  megabottes: 2521,
+  megacape: 2517,
+  megacoiffe: 2519,
+  megature: 2523,
+  memoDeMenaces: 9526,
+  menaceDeLIntendant: 2175,
+  menaceDeSatirevRefibrom: 2200,
+  messageDesRenegats: 10080,
+  messageDuChefDesRenegats: 10081,
+  mesureDePoivre: 1978,
+  mesureDeSel: 1730,
+  metalTransmute: 6835,
+  metariaBleue: 1527,
+  metariaJaune: 1528,
+  metariaMageBleue: 1536,
+  metariaMageJaune: 1538,
+  metariaMageRouge: 1535,
+  metariaMageVerte: 1537,
+  metariaRouge: 1526,
+  metariaTriameBleue: 1531,
+  metariaTriameJaune: 1534,
+  metariaTriameRouge: 1533,
+  metariaTriameVerte: 1532,
+  metariaVerte: 1529,
+  methodeDElevageCanin: 9965,
+  mineraiEtrange: 480,
+  miniChampion: 8071,
+  miniWa: 7891,
+  minimino: 7522,
+  miniminotot: 9620,
+  minotokorno: 707,
+  miracle: 2356,
+  mitainesMiteesDuPaysan: 8126,
+  mixomawose: 7133,
+  mojoDuMeulou: 8144,
+  mojoDuMulou: 8396,
+  moonBoots: 2373,
+  morceauDeCaleçonDeGourlo: 8758,
+  morceauDeCape: 6866,
+  morceauDeClefCoco: 9251,
+  morceauDeClefGriotte: 9249,
+  morceauDeClefIndigo: 9252,
+  morceauDeClefReinette: 9250,
+  morceauDeMurDEgout: 2257,
+  morceauDePapierDechire: 9060,
+  morceauDeTissuArrache: 6808,
+  mosKitano: 6915,
+  moskitogalurette: 6917,
+  mouchoirDeLaGamineZoth: 8805,
+  mouchoirUse: 10088,
+  moumoule: 8517,
+  moumoulesFrites: 8518,
+  moustacheDeKolerat: 2301,
+  moustacheDuMufafah: 8763,
+  moyenneGarde: 9722,
+  moyennePierreDAme: 7008,
+  moyennePierreDAmeHasardeuse: 7004,
+  moyennePierreDAmeHeureuse: 7333,
+  moyennePierreDAmeParfaite: 9687,
+  mulesDuDragonCochon: 8278,
+  multygely: 996,
+  museau: 1927,
+  museau2: 1929,
+  museau3: 1930,
+  museauConserve: 2008,
+  museauConserve2: 2009,
+  museauConserve3: 2010,
+  museauDeKolerat: 2499,
+  mushaLOni: 7352,
+  nacre: 9941,
+  nacreBrute: 9940,
+  naissanceDeBolgrotFragmentsRetrouvesViBis: 7363,
+  nervoesBrakdoun: 6872,
+  neufQueues: 1511,
+  neutraliseur: 6907,
+  nisitikMiditik: 8626,
+  noeudDeLAbrakleurClair: 8796,
+  noeulMort: 2676,
+  noisette: 394,
+  noixDeCajou: 391,
+  noixDeKokoko: 997,
+  noixDeKokokoTraumatisee: 1678,
+  noixDePecan: 392,
+  nomDeLAssassinGriffone: 2043,
+  nomoon: 272,
+  nomoon2: 6716,
+  nonos: 1709,
+  noreillesDeSlait: 9663,
+  note: 6865,
+  noteDeHarryStote: 2284,
+  noteDeRecolte: 6867,
+  notesDuTavernierFeubuk: 9071,
+  notesDuTavernierPinchaut: 9072,
+  notesSurLaMaledictionDErazal: 10091,
+  nouvelleLettrePourXephires: 9069,
+  nuggets: 1947,
+  nuggets2: 1948,
+  nuggets4: 2013,
+  octovius: 7058,
+  oeilDOuginak: 2491,
+  oeilDeBoufton: 2460,
+  oeilDeBouftou: 2453,
+  oeilDeChampmane: 9277,
+  oeilDeCorbac: 2056,
+  oeilDeCrabe: 2583,
+  oeilDeKanigrou: 2552,
+  oeilDeKolerat: 2495,
+  oeilDeKwoan: 2283,
+  oeilDeLarveBleue: 2269,
+  oeilDeMeulou: 2580,
+  oeilDeMulou: 2578,
+  oeilDeTortue: 2345,
+  oeilDuMilimulou: 2579,
+  oeufDArakneMajeure: 2654,
+  oeufDeBwakDAir: 1517,
+  oeufDeBwakDEau: 1518,
+  oeufDeBwakDeFeu: 1515,
+  oeufDeBwakDeTerre: 1516,
+  oeufDeDragoeufBlanc: 847,
+  oeufDeDragoeufDeSaphir: 844,
+  oeufDeDragoeufDore: 845,
+  oeufDeDragoeufNoir: 846,
+  oeufDeLarveDoree: 7423,
+  oeufDePiou: 8525,
+  oeufDeTofu: 367,
+  oeufDeTofuObese: 8595,
+  oeufDuChercheurDOgrines: 10659,
+  oeufPourri: 2673,
+  ogivolScarlarcin: 6876,
+  oignon: 1975,
+  omeletteAmulette: 2393,
+  omnicientBatonBouleDeVoyante: 1157,
+  ongleDeChevaucheurDeKarne: 382,
+  ongleDeKanigrou: 2528,
+  or: 313,
+  orange: 2326,
+  orbeReconstituant: 10563,
+  orchideeFreyesque: 593,
+  ordreDAnnulation: 10092,
+  ordreDExecution: 10085,
+  ordresDesSacre: 10621,
+  oreilleDeCochonDeLait: 2647,
+  oreilleDeKanigrou: 2551,
+  oreilleDeKolerat: 2497,
+  oreilleDePorkass: 2486,
+  oreilleDechireeDePumbaa: 8768,
+  oreilleDuGrandPaWabbit: 419,
+  oreillesDeLapineupe: 1907,
+  oreillesDeLoup: 2317,
+  oreillesDeWabbits: 6500,
+  oreillesDuTiwabbit: 360,
+  orge: 400,
+  orgeEnSucre: 2032,
+  orties: 1336,
+  ortiz: 7138,
+  osDOurs: 6843,
+  osDeChafer: 310,
+  osDeCrocodaille: 2664,
+  osDeFantômeLeopardo: 7403,
+  osDeFantômeMahoFirefoux: 7404,
+  osDeFantômePandikaze: 7405,
+  osDeFantômePandore: 7406,
+  osDeFantômePandule: 7407,
+  osDeFantômeSoryoFirefoux: 7408,
+  osDeFantômeTanukouiSan: 7410,
+  osDeFantômeYokaiFirefoux: 7411,
+  osDeMakGahan: 2042,
+  osDeMamaKoalak: 8055,
+  osDePekeualak: 8083,
+  osDeTrooll: 8515,
+  osInvisibleDuChaferInvisible: 430,
+  osSurpriseDuChaferFantassin: 1675,
+  osTaille: 1327,
+  osamodasAttitude: 2228,
+  osierEnchante: 1676,
+  osierSombre: 6480,
+  ouassulette: 8874,
+  ougalurette: 7680,
+  ougamulette: 9130,
+  ougarteau: 9117,
+  ougature: 9146,
+  oursDechiquete: 6479,
+  oxano: 10189,
+  packSurpriseBwork: 6887,
+  packSurpriseBwork2: 6888,
+  packSurpriseBwork3: 6889,
+  packSurpriseBwork4: 6890,
+  packSurpriseBwork5: 6891,
+  packSurpriseBwork6: 6892,
+  packSurpriseBwork7: 6893,
+  packSurpriseBwork8: 6905,
+  padgrefDemoël: 6870,
+  pailleVampiresque: 2280,
+  pailleton: 9417,
+  painAuBleComplet: 528,
+  painAuCurrySansCurry: 760,
+  painAuxCereales: 526,
+  painAuxFloconsDAvoine: 536,
+  painAuxFloconsDAvoineAurifere: 2038,
+  painAuxGrainesDeLin: 522,
+  painAuxGrainesDePavot: 520,
+  painAuxGrainesDeSesame: 521,
+  painAuxNoisettes: 524,
+  painAuxNoix: 527,
+  painConsistant: 692,
+  painConsistantMagique: 2028,
+  painDAmakna: 468,
+  painDeSeigle: 539,
+  painDeSeigleResistant: 2031,
+  painDesChamps: 1737,
+  painDesVilles: 1738,
+  painDore: 2020,
+  painDuPinchaut: 2351,
+  painGre: 2635,
+  painTahde: 2636,
+  painTrepide: 10079,
+  paireDeCiseaux: 6859,
+  paireDeCiseauxAbîmee: 6690,
+  palmano: 8872,
+  pandapilerSpeciale: 7060,
+  pandawa: 700,
+  pandawaAttitude: 9912,
+  pandrista: 7041,
+  pantouflesCrochuesDuChefCrocodaille: 6825,
+  pantouflesDuTofu: 8111,
+  pantoufrelons: 9402,
+  papatteDeCrocGland: 2502,
+  papierDeDetention: 2207,
+  paquetOrbeReconstituant: 10564,
+  parcheminPointerDuDoigt: 7413,
+  parcheminBlanc: 679,
+  parcheminDAgilite: 799,
+  parcheminDAlchimiste: 10402,
+  parcheminDAubaine: 2209,
+  parcheminDIntelligence: 815,
+  parcheminDIvoire: 678,
+  parcheminDeBijoutier: 10382,
+  parcheminDeBoucher: 10384,
+  parcheminDeBoulanger: 878,
+  parcheminDeBricoleur: 10385,
+  parcheminDeBûcheron: 695,
+  parcheminDeCamouflage: 2064,
+  parcheminDeChance: 811,
+  parcheminDeChasseur: 10404,
+  parcheminDeConnaissance: 2198,
+  parcheminDeCordomage: 10407,
+  parcheminDeCordonnier: 879,
+  parcheminDeCostumage: 10401,
+  parcheminDeCourage: 2159,
+  parcheminDeDemandeDExamen: 1472,
+  parcheminDeForce: 795,
+  parcheminDeForgemageDEpees: 10386,
+  parcheminDeForgemageDeDagues: 10393,
+  parcheminDeForgemageDeHaches: 10396,
+  parcheminDeForgemageDeMarteaux: 10388,
+  parcheminDeForgemageDePelles: 10390,
+  parcheminDeForgeurDEpee: 713,
+  parcheminDeForgeurDeBoucliers: 10397,
+  parcheminDeForgeurDeDagues: 714,
+  parcheminDeForgeurDeHaches: 10395,
+  parcheminDeForgeurDeMarteaux: 10387,
+  parcheminDeForgeurDePelles: 10389,
+  parcheminDeGuigne: 2210,
+  parcheminDeJoaillomage: 10383,
+  parcheminDeMineur: 10398,
+  parcheminDeModeration: 2203,
+  parcheminDePaysan: 10403,
+  parcheminDePecheur: 10405,
+  parcheminDePoissonnier: 10399,
+  parcheminDePrime: 9917,
+  parcheminDePrimeAccompli: 9920,
+  parcheminDeRaideur: 2162,
+  parcheminDeRecommandation: 1469,
+  parcheminDeRecommandation2: 1470,
+  parcheminDeRecommandationDYseVewybad: 8576,
+  parcheminDeRecommandationEtFleur: 1471,
+  parcheminDeReflexesSoushumains: 2570,
+  parcheminDeReflexesSurhumain: 2569,
+  parcheminDeSagesse: 803,
+  parcheminDeSculptemageDArcs: 10394,
+  parcheminDeSculptemageDeBaguettes: 10392,
+  parcheminDeSculptemageDeBatons: 10391,
+  parcheminDeSculpteurDArcs: 715,
+  parcheminDeSculpteurDeBaguettes: 717,
+  parcheminDeSculpteurDeBatons: 716,
+  parcheminDeSenilite: 2204,
+  parcheminDeSortFlamiche: 718,
+  parcheminDeSortFoudroiement: 720,
+  parcheminDeSortInvocationDArakne: 721,
+  parcheminDeSortInvocationDeChaferfu: 9200,
+  parcheminDeSortLiberation: 719,
+  parcheminDeSortRaulebaque: 10513,
+  parcheminDeSortSpecialArbreDeVie: 10512,
+  parcheminDeSortSpecialBrokle: 731,
+  parcheminDeSortSpecialDouleurPartagee: 10511,
+  parcheminDeSortSpecialFelintion: 6664,
+  parcheminDeSortSpecialFlecheDeDispersion: 10506,
+  parcheminDeSortSpecialIvresse: 10510,
+  parcheminDeSortSpecialLaisseSpirituelle: 9916,
+  parcheminDeSortSpecialMiseEnGarde: 10508,
+  parcheminDeSortSpecialMotLotof: 10509,
+  parcheminDeSortSpecialPoisse: 6966,
+  parcheminDeSortSpecialRetraiteAnticipee: 10507,
+  parcheminDeSorts: 684,
+  parcheminDeSouplesse: 2161,
+  parcheminDeStupidite: 2199,
+  parcheminDeTailleur: 10400,
+  parcheminDeTransgenese: 9536,
+  parcheminDeVitalite: 807,
+  parcheminDecourageant: 2160,
+  parcheminDore: 680,
+  parcheminLie: 7400,
+  parcheminLieDeMercenaire: 9995,
+  parcheminMissAstrub: 7932,
+  parcheminVentDePanique: 1635,
+  parcheminVierge: 7401,
+  parcheminViergeDeMercenariat: 10002,
+  pardonSrvtmercenaryShortName: 7441,
+  parolesDIxaMustam: 2120,
+  parolesDeTsog: 2121,
+  passageDeGrade: 7186,
+  passeDeXelor: 1497,
+  pasteque: 2324,
+  pateATraKhben: 9949,
+  patteCouverteDePoils: 10105,
+  patteDAraknawa: 7285,
+  patteDArakne: 365,
+  patteDArakneMagique: 1673,
+  patteDArakneMajeure: 1652,
+  patteDAraknelle: 973,
+  patteDEcaflip1: 8941,
+  patteDEcaflip2: 8956,
+  patteDEcaflip3: 8957,
+  patteDEcaflip4: 8958,
+  patteDEcaflip5: 8959,
+  patteDEcaflip6: 8960,
+  patteDEcaflip7: 8961,
+  patteDEcaflip8: 8962,
+  patteDEcaflip9: 8963,
+  patteDEcaflip10: 8964,
+  patteDEcaflip11: 8965,
+  patteDEcaflipParfaite: 8966,
+  patteDOurs: 2318,
+  patteDeCorbac: 2060,
+  patteDePrespic: 2571,
+  patteDeScorbute: 2490,
+  patteDeWabbit: 2288,
+  pawcheminDeLaCawotte: 9201,
+  peauDOurs: 6845,
+  peauDeBworker: 9401,
+  peauDeBworkette: 8388,
+  peauDeChamanDEgoutant: 8483,
+  peauDeChefCrocodaille: 6740,
+  peauDeChevaucheurKoalak: 8053,
+  peauDeCochonDeFarle: 8390,
+  peauDeCooleuvre: 7273,
+  peauDeCrocabulia: 8367,
+  peauDeCrocodaille: 6739,
+  peauDeDonDorgan: 8391,
+  peauDeDonDussan: 8392,
+  peauDeDragoeufGuerrier: 8362,
+  peauDeDragoeufVolant: 8360,
+  peauDeDragueuse: 8356,
+  peauDeDrakoalak: 8054,
+  peauDeGobelin: 2264,
+  peauDeKanigrou: 7030,
+  peauDeKitsouNae: 7279,
+  peauDeKitsouNakwa: 7282,
+  peauDeKitsouNere: 7281,
+  peauDeKitsouNufeu: 7280,
+  peauDeKoalakImmature: 8050,
+  peauDeKramelehon: 8314,
+  peauDeLarveBleue1: 362,
+  peauDeLarveBleue2: 6854,
+  peauDeLarveOrange: 363,
+  peauDeLarveVerte: 364,
+  peauDeLarveVerteMagique: 1681,
+  peauDeLeopardo: 7301,
+  peauDeMahoFirefoux: 7298,
+  peauDeMaîtreKoalak: 8052,
+  peauDeMaîtrePandore: 8401,
+  peauDeMandrine: 8315,
+  peauDeMilimilou: 8546,
+  peauDeMinoskito: 8312,
+  peauDeMobLEponge: 8682,
+  peauDeMoon: 8383,
+  peauDePandikaze: 7260,
+  peauDePandore: 7302,
+  peauDePandule: 7303,
+  peauDePiralak: 8084,
+  peauDeRatBlanc: 8492,
+  peauDeRatDEgoutant: 8482,
+  peauDeRaulMops: 8681,
+  peauDeSerpentin: 1891,
+  peauDeShinLarve: 8385,
+  peauDeSkeunk: 8404,
+  peauDeSoryoFirefoux: 7299,
+  peauDeSphincterCell: 8493,
+  peauDeTanukouiSan: 7283,
+  peauDeTrukikol: 2605,
+  peauDeYokaiFirefoux: 7300,
+  peauDuRasboulMajeur: 8996,
+  peauDuRatNoir: 8491,
+  peauLacereeDuTynril: 8997,
+  peintureNoire: 1086,
+  peki: 6978,
+  pelleAGateau: 8417,
+  pelleAThart: 1426,
+  pelleAgHeuze: 9726,
+  pelleAigante: 8937,
+  pelleAssTik: 9725,
+  pelleChasseuse: 1941,
+  pelleDAquavoum: 5651,
+  pelleDEfepaza: 5654,
+  pelleDHenurver: 5640,
+  pelleDOtarok: 5632,
+  pelleDOulawi: 5974,
+  pelleDOxabek: 5972,
+  pelleDUfinuvide: 5633,
+  pelleDUkura: 5994,
+  pelleDeAbipaca: 5828,
+  pelleDeAcoca: 5910,
+  pelleDeAcudob: 5609,
+  pelleDeAekawaul: 5758,
+  pelleDeAelowiw: 5579,
+  pelleDeAelusato: 5674,
+  pelleDeAfidpur: 5586,
+  pelleDeAfucoma: 5752,
+  pelleDeAgaeb: 5877,
+  pelleDeAkalorth: 5846,
+  pelleDeAkugeku: 5687,
+  pelleDeAlawae: 5818,
+  pelleDeAlehael: 5702,
+  pelleDeAleheule: 5660,
+  pelleDeAlewae: 5735,
+  pelleDeAlofe: 5727,
+  pelleDeAmphafa: 5909,
+  pelleDeAmphafovel: 5952,
+  pelleDeAmphubevap: 5791,
+  pelleDeAnesela: 5874,
+  pelleDeApelep: 5782,
+  pelleDeApevapa: 5861,
+  pelleDeAprae: 5613,
+  pelleDeApybae: 5762,
+  pelleDeAquafanel: 5850,
+  pelleDeAquelasut: 5931,
+  pelleDeAquelelauc: 5997,
+  pelleDeAquelime: 5590,
+  pelleDeAquifag: 5616,
+  pelleDeAquilajuc: 5929,
+  pelleDeAquinupele: 5644,
+  pelleDeAritem: 5776,
+  pelleDeAstotul: 5868,
+  pelleDeAtaje: 5706,
+  pelleDeAtijome: 5650,
+  pelleDeAudaseve: 5571,
+  pelleDeAvalelum: 5922,
+  pelleDeAvoelule: 5756,
+  pelleDeAwocata: 5767,
+  pelleDeBetera: 5764,
+  pelleDeBevosoli: 5754,
+  pelleDeBlomebu: 5965,
+  pelleDeBoisDormant: 1043,
+  pelleDeBoisaille: 151,
+  pelleDeBojenec: 5793,
+  pelleDeBowapisa: 5924,
+  pelleDeBregurid: 5700,
+  pelleDeBuhedit: 5798,
+  pelleDeCawebula: 5848,
+  pelleDeCedpur: 5741,
+  pelleDeCevohaul: 5857,
+  pelleDeCokor: 5806,
+  pelleDeCoveluie: 5701,
+  pelleDeCrapouille: 239,
+  pelleDeDekud: 5768,
+  pelleDeDerul: 5891,
+  pelleDeDlola: 5562,
+  pelleDeDomutanot: 5890,
+  pelleDeDorekok: 5704,
+  pelleDeDradoco: 5805,
+  pelleDeDruke: 5761,
+  pelleDeEbuveble: 5691,
+  pelleDeEdane: 5773,
+  pelleDeEgruta: 5840,
+  pelleDeEhetuk: 5979,
+  pelleDeEhoppur: 5588,
+  pelleDeEhouhu: 5725,
+  pelleDeEjuren: 5600,
+  pelleDeElebesa: 5956,
+  pelleDeElegice: 5663,
+  pelleDeElelalle: 5831,
+  pelleDeElelem: 5736,
+  pelleDeElmedu: 5751,
+  pelleDeElonuve: 5835,
+  pelleDeElynague: 5966,
+  pelleDeEmakece: 5995,
+  pelleDeEmepiel: 5612,
+  pelleDeEmetielle: 5618,
+  pelleDeEnepoe: 5771,
+  pelleDeEnono: 5905,
+  pelleDeEpalibie: 5717,
+  pelleDeErosot: 5915,
+  pelleDeErugagug: 5941,
+  pelleDeEsufpur: 5708,
+  pelleDeEtelelel: 5695,
+  pelleDeEvabojeb: 5858,
+  pelleDeEvelavya: 5895,
+  pelleDeEvelomyt: 5652,
+  pelleDeEvewe: 5870,
+  pelleDeEwafa: 5730,
+  pelleDeFahap: 5584,
+  pelleDeFaplelot: 5668,
+  pelleDeFauceta: 5969,
+  pelleDeFavuwa: 5694,
+  pelleDeFecum: 5749,
+  pelleDeFelopr: 5794,
+  pelleDeFepelali: 5937,
+  pelleDeFeurivef: 5690,
+  pelleDeFifer: 5662,
+  pelleDeFirar: 5961,
+  pelleDeFlapyny: 5714,
+  pelleDeFletiji: 5792,
+  pelleDeFlugit: 5911,
+  pelleDeFlutuh: 5645,
+  pelleDeFodlyfe: 5567,
+  pelleDeFotum: 5916,
+  pelleDeFrakup: 5923,
+  pelleDeFreul: 5659,
+  pelleDeFureluli: 5804,
+  pelleDeGamumuie: 5935,
+  pelleDeGenureru: 5987,
+  pelleDeGidlesap: 5944,
+  pelleDeGoplawe: 5703,
+  pelleDeHalacah: 5583,
+  pelleDeHaruketh: 5812,
+  pelleDeHecebaul: 5737,
+  pelleDeHotetore: 5572,
+  pelleDeHubastes: 5802,
+  pelleDeHudarth: 5842,
+  pelleDeHureg: 5638,
+  pelleDeIfrivum: 5829,
+  pelleDeImezolel: 5731,
+  pelleDeInytatar: 5593,
+  pelleDeIpido: 5933,
+  pelleDeIrahau: 5596,
+  pelleDeIsofupe: 5863,
+  pelleDeIthat: 5685,
+  pelleDeItuleg: 5983,
+  pelleDeIxeuh: 5797,
+  pelleDeKasripl: 5653,
+  pelleDeKebyadu: 5661,
+  pelleDeKedice: 5955,
+  pelleDeKelaewab: 5837,
+  pelleDeKepaul: 5859,
+  pelleDeKevokepa: 5881,
+  pelleDeKinajeb: 5853,
+  pelleDeKofel: 5830,
+  pelleDeKoutoulou: 1056,
+  pelleDeKrekur: 5971,
+  pelleDeKrurekir: 5833,
+  pelleDeKurore: 5925,
+  pelleDeLInitie: 6786,
+  pelleDeLaprague: 5908,
+  pelleDeLaripac: 5753,
+  pelleDeLavyu: 5665,
+  pelleDeLeboevez: 5902,
+  pelleDeLecula: 5906,
+  pelleDeLedague: 5636,
+  pelleDeLedikub: 5864,
+  pelleDeLefibie: 5722,
+  pelleDeLenebae: 5603,
+  pelleDeLepreoub: 5947,
+  pelleDeLethori: 5851,
+  pelleDeLevemteux: 5871,
+  pelleDeLezysi: 5750,
+  pelleDeLimawol: 5606,
+  pelleDeLisalotyf: 5739,
+  pelleDeLisele: 5634,
+  pelleDeLototofr: 5960,
+  pelleDeLowafobe: 5614,
+  pelleDeLufefehi: 5635,
+  pelleDeLunitdar: 5938,
+  pelleDeLuteke: 5646,
+  pelleDeMalepudom: 5989,
+  pelleDeMamae: 5570,
+  pelleDeMamobuta: 5564,
+  pelleDeManek: 5907,
+  pelleDeManeryca: 5912,
+  pelleDeMebuja: 5569,
+  pelleDeMefonuh: 5980,
+  pelleDeMejuldar: 5601,
+  pelleDeMelofu: 5775,
+  pelleDeMeridra: 5986,
+  pelleDeMewaesa: 5920,
+  pelleDeMimifame: 5587,
+  pelleDeMocudaej: 5875,
+  pelleDeMouba: 5824,
+  pelleDeMovydo: 5949,
+  pelleDeMuffrit: 5720,
+  pelleDeMumepeme: 5610,
+  pelleDeMylumebu: 5800,
+  pelleDeNabogevu: 5996,
+  pelleDeNaglefyu: 5822,
+  pelleDeNaimafo: 5631,
+  pelleDeNaivurim: 5622,
+  pelleDeNebague: 5817,
+  pelleDeNekak: 5878,
+  pelleDeNelibaille: 5845,
+  pelleDeNepesuf: 5742,
+  pelleDeNeple: 5962,
+  pelleDeNobevu: 5784,
+  pelleDeNogihof: 5711,
+  pelleDeNugoruth: 5655,
+  pelleDeOdegibat: 5578,
+  pelleDeOfusal: 5656,
+  pelleDeOgatos: 5790,
+  pelleDeOgauhibie: 5643,
+  pelleDeOlesteux: 5624,
+  pelleDeOlitelub: 5904,
+  pelleDeOmanague: 5598,
+  pelleDeOmuplele: 5975,
+  pelleDeOnaenae: 5688,
+  pelleDeOrylelel: 5921,
+  pelleDeOsatuhor: 5779,
+  pelleDeOsedil: 5647,
+  pelleDeOsthain: 5574,
+  pelleDeOsthocaf: 5675,
+  pelleDeOubine: 5811,
+  pelleDeOucute: 5819,
+  pelleDeOveolu: 5825,
+  pelleDeOvupeda: 5948,
+  pelleDeOwanurel: 5942,
+  pelleDeOzotege: 5867,
+  pelleDePagiraf: 5649,
+  pelleDePekeuf: 5693,
+  pelleDePetegaxu: 5778,
+  pelleDePlaleno: 5626,
+  pelleDePlalo: 5623,
+  pelleDePolede: 5683,
+  pelleDePolose: 5843,
+  pelleDePugeleba: 5940,
+  pelleDePusorth: 5816,
+  pelleDeRagnorece: 5686,
+  pelleDeRapage: 245,
+  pelleDeRavouna: 5629,
+  pelleDeRekusuce: 5712,
+  pelleDeRekutour: 5827,
+  pelleDeRerekore: 5847,
+  pelleDeRerugur: 5887,
+  pelleDeRetugug: 5954,
+  pelleDeReukeg: 5820,
+  pelleDeRhagoge: 5679,
+  pelleDeRhestarh: 5759,
+  pelleDeRheurore: 5823,
+  pelleDeRhukuhed: 5862,
+  pelleDeRibif: 5834,
+  pelleDeRoguddar: 5589,
+  pelleDeRomubber: 5839,
+  pelleDeRugnaheru: 5873,
+  pelleDeRugnegodor: 5934,
+  pelleDeRurahagor: 5630,
+  pelleDeRurare: 5838,
+  pelleDeRutestod: 5958,
+  pelleDeSamebel: 5821,
+  pelleDeSecaguth: 5869,
+  pelleDeSekibie: 5669,
+  pelleDeSerogra: 5677,
+  pelleDeSikupuf: 5903,
+  pelleDeSkogila: 5780,
+  pelleDeSosave: 5872,
+  pelleDeSucnef: 5883,
+  pelleDeSuhusak: 5939,
+  pelleDeSunala: 5977,
+  pelleDeSurelel: 5592,
+  pelleDeSuryloziv: 5697,
+  pelleDeTedogoke: 5884,
+  pelleDeTejatule: 5743,
+  pelleDeTeladamo: 5664,
+  pelleDeTeleau: 5889,
+  pelleDeTelelil: 5770,
+  pelleDeTeraille: 5639,
+  pelleDeTetemu: 5676,
+  pelleDeTevemupe: 5951,
+  pelleDeTezylilo: 5627,
+  pelleDeThekomoc: 5689,
+  pelleDeTherero: 5723,
+  pelleDeThorurired: 5628,
+  pelleDeThuku: 5566,
+  pelleDeTotalu: 5666,
+  pelleDeTufukas: 5738,
+  pelleDeTycag: 5680,
+  pelleDeUbede: 5988,
+  pelleDeUbotase: 5715,
+  pelleDeUcebubih: 5595,
+  pelleDeUdurain: 5976,
+  pelleDeUfepegi: 5973,
+  pelleDeUfresem: 5799,
+  pelleDeUfresulf: 5678,
+  pelleDeUfuleha: 5786,
+  pelleDeUgetathu: 5982,
+  pelleDeUhatfla: 5734,
+  pelleDeUhetu: 5684,
+  pelleDeUjabice: 5927,
+  pelleDeUkugroh: 5576,
+  pelleDeUkuherog: 5964,
+  pelleDeUlawysi: 5856,
+  pelleDeUmunae: 5832,
+  pelleDeUnila: 5900,
+  pelleDeUnufupu: 5781,
+  pelleDeUselot: 5585,
+  pelleDeUsuroche: 5959,
+  pelleDeUvoseude: 5698,
+  pelleDeVarkahenug: 5732,
+  pelleDeVebupasi: 5580,
+  pelleDeVenebelo: 5930,
+  pelleDeVludega: 5879,
+  pelleDeVlutekun: 5733,
+  pelleDeVumecague: 5849,
+  pelleDeWadotte: 5894,
+  pelleDeWebeleau: 5946,
+  pelleDeWelibehe: 5957,
+  pelleDeWelofaul: 5896,
+  pelleDeWilaba: 5993,
+  pelleDeWoterar: 5568,
+  pelleDeYcanae: 5605,
+  pelleDeYdabouille: 5617,
+  pelleDeYdukob: 5893,
+  pelleDeYgitague: 5814,
+  pelleDeYlehowe: 5729,
+  pelleDeYmuwel: 5963,
+  pelleDeZelemylez: 5648,
+  pelleDeZezululuv: 5992,
+  pelleDesChamps: 1059,
+  pelleDoudesque: 3356,
+  pelleDragoeuf: 8420,
+  pelleDuAelulae: 5777,
+  pelleDuAlanavel: 5926,
+  pelleDuAlebaul: 5808,
+  pelleDuAlela: 5807,
+  pelleDuAlelaew: 5936,
+  pelleDuAlepu: 5943,
+  pelleDuAlesulit: 5785,
+  pelleDuAmphelal: 5815,
+  pelleDuAmphuwuco: 5611,
+  pelleDuAotuballe: 5801,
+  pelleDuApanewa: 5692,
+  pelleDuApenae: 5953,
+  pelleDuApivyco: 5813,
+  pelleDuAprec: 5716,
+  pelleDuAqualosepa: 5713,
+  pelleDuAquesepeb: 5787,
+  pelleDuBepehad: 5841,
+  pelleDuBevose: 5563,
+  pelleDuCemesam: 5615,
+  pelleDuCogrerm: 5721,
+  pelleDuCraqueleur: 294,
+  pelleDuDarit: 5681,
+  pelleDuDebonal: 5990,
+  pelleDuDucih: 5696,
+  pelleDuEdasyp: 5673,
+  pelleDuEfofuseg: 5888,
+  pelleDuElmepe: 5914,
+  pelleDuEoseziel: 5978,
+  pelleDuEpepotte: 5620,
+  pelleDuEpule: 5657,
+  pelleDuEroraku: 5575,
+  pelleDuErosuh: 5913,
+  pelleDuEtepielle: 5709,
+  pelleDuEveleau: 5718,
+  pelleDuEwarotte: 5705,
+  pelleDuFeulu: 5760,
+  pelleDuFlebagel: 5766,
+  pelleDuFlerifidu: 5746,
+  pelleDuFokagor: 5918,
+  pelleDuGedero: 5783,
+  pelleDuGelalle: 5577,
+  pelleDuHozabele: 5998,
+  pelleDuIbomo: 5897,
+  pelleDuIcabol: 5854,
+  pelleDuIdemo: 5981,
+  pelleDuIduvlim: 5796,
+  pelleDuIfuhilif: 5932,
+  pelleDuItuthamu: 5809,
+  pelleDuKehuth: 5876,
+  pelleDuKorurade: 5917,
+  pelleDuLadog: 5757,
+  pelleDuLahdar: 5772,
+  pelleDuLauvepop: 5968,
+  pelleDuLedutobo: 5950,
+  pelleDuLepawew: 5866,
+  pelleDuLifepidu: 5607,
+  pelleDuLipulu: 5561,
+  pelleDuLobobopa: 5670,
+  pelleDuLugas: 5581,
+  pelleDuMebodet: 5744,
+  pelleDuMebowel: 5774,
+  pelleDuMineurSombre: 6536,
+  pelleDuMudefihu: 5671,
+  pelleDuMurobume: 5699,
+  pelleDuMyowup: 5728,
+  pelleDuNeloma: 5710,
+  pelleDuNevawe: 5885,
+  pelleDuOhosoth: 5755,
+  pelleDuOresutal: 5573,
+  pelleDuOtibotte: 5984,
+  pelleDuOtosugag: 5604,
+  pelleDuPacyun: 5740,
+  pelleDuPelae: 5898,
+  pelleDuPihimuta: 5637,
+  pelleDuPlelaer: 5860,
+  pelleDuRaceula: 5707,
+  pelleDuRanikim: 5745,
+  pelleDuRegek: 5892,
+  pelleDuReharth: 5967,
+  pelleDuReror: 5919,
+  pelleDuReruret: 5565,
+  pelleDuRheku: 5667,
+  pelleDuRheregor: 5625,
+  pelleDuRiquehoche: 5991,
+  pelleDuRoucehu: 5642,
+  pelleDuRugnoked: 5985,
+  pelleDuRurako: 5599,
+  pelleDuRusoso: 5844,
+  pelleDuSalog: 5826,
+  pelleDuSecelae: 5865,
+  pelleDuSesrain: 5886,
+  pelleDuSodetum: 5788,
+  pelleDuSohebo: 5608,
+  pelleDuSrekesta: 5882,
+  pelleDuSrerokes: 5594,
+  pelleDuSrotu: 5719,
+  pelleDuStrude: 5765,
+  pelleDuSybiwib: 5810,
+  pelleDuTehuh: 5641,
+  pelleDuTepar: 5763,
+  pelleDuTepilepo: 5928,
+  pelleDuTheleh: 5621,
+  pelleDuThokuru: 5724,
+  pelleDuTikame: 5836,
+  pelleDuTobyfely: 5582,
+  pelleDuTrodortu: 5658,
+  pelleDuTruheh: 5803,
+  pelleDuTugour: 5899,
+  pelleDuTuhamu: 5789,
+  pelleDuUfugut: 5597,
+  pelleDuUgrohuc: 5726,
+  pelleDuUhehurer: 5747,
+  pelleDuUkekain: 5855,
+  pelleDuUleca: 5591,
+  pelleDuUlurusuh: 5880,
+  pelleDuUmoulelo: 5795,
+  pelleDuUpepirai: 5769,
+  pelleDuUraguvi: 5602,
+  pelleDuUrotake: 5852,
+  pelleDuUwilu: 5682,
+  pelleDuVarkukem: 5945,
+  pelleDuVelon: 5672,
+  pelleDuVolezi: 5970,
+  pelleDuVovetielle: 5901,
+  pelleDuWiwak: 5619,
+  pelleDuZepezo: 5748,
+  pelleEmelaka: 9468,
+  pelleEnMousse: 8255,
+  pelleGicque: 6539,
+  pelleHebuse: 6526,
+  pelleHiSeMoun: 9728,
+  pelleHikule: 6535,
+  pelleHouze: 1432,
+  pelleIkan: 1436,
+  pelleMairhe: 6537,
+  pelleMechba: 1430,
+  pelleMelle: 1047,
+  pelleMinstere: 8613,
+  pelleMoh: 8419,
+  pelleMusicale: 6527,
+  pelleRailZeur: 9727,
+  pelleRhon: 7213,
+  pelleRin: 9724,
+  pelleRinage: 6528,
+  pelleRipe: 8614,
+  pelleSecutrice: 1433,
+  pelleShattkitou: 8936,
+  pelleTeuze: 482,
+  pelleVaidaire: 6538,
+  pelleWoukuis: 1051,
+  pelleZebuth: 1427,
+  pelucheDeLaFoire: 6852,
+  pelucheDuBouftou: 6603,
+  pelucheDuBouftouRoyal: 6605,
+  pelucheDuChamp: 6619,
+  pelucheDuDopeulCra: 6615,
+  pelucheDuDopeulEcaflip: 6607,
+  pelucheDuDopeulEniripsa: 6611,
+  pelucheDuDopeulEnutrof: 6612,
+  pelucheDuDopeulFeca: 6613,
+  pelucheDuDopeulIop: 6608,
+  pelucheDuDopeulOsamodas: 6614,
+  pelucheDuDopeulPandawa: 7923,
+  pelucheDuDopeulSacrieur: 7922,
+  pelucheDuDopeulSadida: 6606,
+  pelucheDuDopeulSram: 6610,
+  pelucheDuDopeulXelor: 6616,
+  pelucheDuDragonCochon: 6624,
+  pelucheDuMulou: 6658,
+  pelucheDuPrespic: 6620,
+  pelucheDuSanglier: 6617,
+  pelucheDuTofu: 6618,
+  pelucheDuWabbit: 6621,
+  pendentifDuHibouChetif: 786,
+  penduleDuGudule: 7031,
+  penseBete: 2194,
+  perche: 1801,
+  percheSaute: 1822,
+  percheSaute4: 1824,
+  percheSaute3: 1823,
+  percheVidee: 1802,
+  permissionDe24Heures: 1925,
+  permissionSigneeEtDatee: 2052,
+  perruqueDuKimbo: 8795,
+  perruqueDuPoolay: 8828,
+  perspicacite: 7397,
+  petaleDeBlop: 2557,
+  petaleDeRoseDemoniaque: 309,
+  petaleDeTournesolSauvage: 2659,
+  petaleDeTrukikol: 2602,
+  petaleKouraçao: 8745,
+  petaleMagiqueDuTournesolAffame: 8157,
+  petaleMalibout: 8746,
+  petaleMorito: 8748,
+  petalePassaoh: 8747,
+  petitAnneauDAgilite: 118,
+  petitAnneauDeChance: 109,
+  petitAnneauDeSagesse: 100,
+  petitAnneauDuChanceux: 853,
+  petitAnneauMagique: 852,
+  petitArcBuse: 1092,
+  petitArcDEnileda: 6855,
+  petitArcDeBoisaille: 88,
+  petitArcDeroutant: 264,
+  petitArcDuRoiDesBorins: 1125,
+  petitArcEcologique: 1117,
+  petitArcEnCorneDeBouftou: 1096,
+  petitBandeauDeVitalite: 943,
+  petitBatonDakn: 1148,
+  petitBatonDeFausseMagie: 1109,
+  petitBatonFeuillu: 182,
+  petitBatonBouleDeVoyante: 1152,
+  petitCadeauDeNowel: 8336,
+  petitChachaBlanc: 7414,
+  petitChachaDeCombatMj: 6895,
+  petitChienchienNoir: 7415,
+  petitCouteauAStek: 1026,
+  petitMarteauDIvoire: 227,
+  petitMarteauDeBoisaille: 144,
+  petitMarteauDeRaclage: 221,
+  petitMarteauOutar: 1072,
+  petitMarteauPospodrol: 1080,
+  petitMarteauRUnique: 1064,
+  petitParcheminDAgilite: 798,
+  petitParcheminDIntelligence: 686,
+  petitParcheminDeChance: 809,
+  petitParcheminDeForce: 683,
+  petitParcheminDeSagesse: 802,
+  petitParcheminDeVitalite: 806,
+  petitSacDEcolierDuChefCrocodaille: 6830,
+  petitSacEnLaineDeBoufton: 1697,
+  petiteAmuletteDeLOurs: 74,
+  petiteAmuletteDuHibou: 39,
+  petiteAmuletteDuLoup: 81,
+  petiteBaguetteAPans: 1133,
+  petiteBaguetteDEglise: 1105,
+  petiteBaguetteDIntelligence: 168,
+  petiteBaguetteDeGlace: 162,
+  petiteBaguetteDeSagesse: 174,
+  petiteBaguetteHeure: 1101,
+  petiteBaguetteMeneuse: 1143,
+  petiteCapeBleutee: 935,
+  petiteCapeDeRougeur: 932,
+  petiteCapeSombre: 945,
+  petiteCeintureAgilesque: 260,
+  petiteCeintureForcesque: 256,
+  petiteCeintureVitalesque: 252,
+  petiteDagueFourbesque: 1036,
+  petiteEpeeDAlle: 51,
+  petiteEpeeDHa: 59,
+  petiteEpeeDeBoisaille: 40,
+  petiteEpeeDeFouraille: 46,
+  petiteEpeeSacree: 352,
+  petiteEtoileDuSoir: 1636,
+  petiteFeeDArtificeBleue: 6570,
+  petiteFeeDArtificeBleueVirevoltante: 6582,
+  petiteFeeDArtificeBleueCrepitante: 6579,
+  petiteFeeDArtificeBleueFontaine: 6576,
+  petiteFeeDArtificeBleueTournoyante: 6573,
+  petiteFeeDArtificeJaune: 6585,
+  petiteFeeDArtificeJauneCrepitante: 6594,
+  petiteFeeDArtificeJauneFontaine: 6591,
+  petiteFeeDArtificeJauneTournoyante: 6588,
+  petiteFeeDArtificeJauneVirevoltante: 6597,
+  petiteFeeDArtificeMulticolore: 6627,
+  petiteFeeDArtificeMulticoloreCrepitante: 6636,
+  petiteFeeDArtificeMulticoloreFontaine: 6633,
+  petiteFeeDArtificeMulticoloreTournoyante: 6630,
+  petiteFeeDArtificeMulticoloreVirevoltante: 6639,
+  petiteFeeDArtificeRouge: 2240,
+  petiteFeeDArtificeRougeCrepitante: 6549,
+  petiteFeeDArtificeRougeFontaine: 6546,
+  petiteFeeDArtificeRougeTournoyante: 6543,
+  petiteFeeDArtificeRougeVirevoltante: 6552,
+  petiteFeeDArtificeVerte: 6555,
+  petiteFeeDArtificeVerteCrepitante: 6564,
+  petiteFeeDArtificeVerteFontaine: 6561,
+  petiteFeeDArtificeVerteTournoyante: 6558,
+  petiteFeeDArtificeVerteVirevoltante: 6567,
+  petiteGarde: 9719,
+  petiteLameDeFon: 1032,
+  petiteLarveDoree: 7425,
+  petiteMasseAjTaye: 1076,
+  petiteMasseDHa: 1060,
+  petiteMasseTmosfer: 1068,
+  petitePelleDeBoisDormant: 1042,
+  petitePelleDeBoisaille: 150,
+  petitePelleDeCrapouille: 238,
+  petitePelleDeKoutoulou: 1055,
+  petitePelleDeRapage: 244,
+  petitePelleDuCraqueleur: 293,
+  petitePelleMechba: 1429,
+  petitePelleMelle: 1046,
+  petitePelleTeuze: 345,
+  petitePelleWoukuis: 1050,
+  petitePerleDoree: 2328,
+  petitePierreDAme: 7007,
+  petitePierreDAmeHasardeuse: 6987,
+  petitePierreDAmeHeureuse: 7332,
+  petitePierreDAmeParfaite: 9686,
+  petitePotionDAgression: 9038,
+  petitePotionDeSoinDeMasse: 7498,
+  petitesBottesDeConcentration: 128,
+  petitesBottesDeForce: 861,
+  petitesBottesDeKlime: 902,
+  petitesBottesDePoursuite: 906,
+  petitesDaguesDeBoisaille: 94,
+  petitesDaguesDeCroclage: 211,
+  petitesDaguesDeFouraille: 205,
+  petitesDaguesEguisees: 897,
+  petitesDaguesSylvestres: 893,
+  peveton: 10275,
+  phalene: 6990,
+  picAGlace: 4382,
+  picDeDragodinde: 2599,
+  picDeDragodindeRousseSauvage: 2598,
+  picDuPrespic: 407,
+  pichonEudCompet: 2187,
+  pieceDuPuzzleDeLaGriffe: 274,
+  pieceDuTresorDuBadoul: 276,
+  piedsDuSanglier: 6909,
+  pierreAAiguiser: 578,
+  pierreDAerotrugoburLeMalveillant: 8376,
+  pierreDAgathe: 7025,
+  pierreDAigueMarine: 7023,
+  pierreDAmeAdouee: 9533,
+  pierreDAmeDArchiMonstre: 10418,
+  pierreDAmeDeGardienDeDonjon: 10417,
+  pierreDAmeDeTerraTibya: 9534,
+  pierreDAmePleine: 7010,
+  pierreDAqualikrosLImpitoyable: 8374,
+  pierreDEmeraude: 544,
+  pierreDIgnerkocroposLAffame: 8373,
+  pierreDeCristal: 545,
+  pierreDeCrystaloboule: 1679,
+  pierreDeDiamant: 543,
+  pierreDeDopeul: 965,
+  pierreDeGranit: 450,
+  pierreDeRubis: 547,
+  pierreDeSaphir: 546,
+  pierreDeSoinFuyard: 6824,
+  pierreDeSoinSertie: 6826,
+  pierreDeSouillureBleue: 9953,
+  pierreDeSouillureBleueImpure: 9950,
+  pierreDeSouillureJaune: 9954,
+  pierreDeSouillureJauneImpure: 9951,
+  pierreDeSouillureVerte: 9955,
+  pierreDeSouillureVerteImpure: 9952,
+  pierreDeTerraburkalLePerfide: 8375,
+  pierreDeTopaze: 7024,
+  pierreDesAmesSouillees: 9956,
+  pierreDuCraqueleur: 431,
+  pierreDuCraqueleurLegendaire: 8102,
+  pierreDuKoulosse: 8402,
+  pierrePrecieuseDuKimbo: 8998,
+  pieuVampirique: 1362,
+  pimentConfit: 8694,
+  pinceDeCrustorail: 8744,
+  pinceDeScorbute: 2245,
+  pinceDuCrabe: 379,
+  piocheDuMineur: 497,
+  piouteBleu: 7708,
+  piouteJaune: 7709,
+  piouteRose: 7710,
+  piouteRouge: 7711,
+  piouteVert: 7712,
+  piouteViolet: 7713,
+  piqûreDeReveil: 6822,
+  piruk: 7142,
+  pistilDuTynril: 8777,
+  pizaille: 6850,
+  planDAttaque: 9103,
+  plancheEnBambou: 7663,
+  plancheEnBambouDore: 7669,
+  plancheEnBambouMagique: 7670,
+  plancheEnBambouSacre: 7665,
+  plancheEnBambouSombre: 7664,
+  plancheEnBoisAncestral: 7666,
+  plancheEnBoisDeBambouto: 7671,
+  plancheEnBoisDeBamboutoSacre: 7672,
+  plancheEnBoisDeKaliptus: 8078,
+  plancheEnBoisDeKokoko: 1001,
+  plancheEnBoisDeTronknyde: 7668,
+  plancheEnBoisEnvoûte: 7667,
+  plancheEnBombu: 7661,
+  plancheEnCharme: 7658,
+  plancheEnChataignier: 6868,
+  plancheEnChene: 7653,
+  plancheEnEbene: 7655,
+  plancheEnErable: 7657,
+  plancheEnFrene: 459,
+  plancheEnIf: 7654,
+  plancheEnMerisier: 7660,
+  plancheEnNoyer: 7659,
+  plancheEnOliviolet: 7662,
+  plancheEnOrme: 7656,
+  platDeFiltounga1: 8507,
+  platDeFiltounga2: 8508,
+  pleurNycheuz: 6869,
+  plimclik: 1488,
+  plumeDeBuveur: 8249,
+  plumeDeCorbac: 1889,
+  plumeDeCorbacApprivoise: 8252,
+  plumeDeFesseDuKido: 8766,
+  plumeDePiouBleu: 6897,
+  plumeDePiouJaune: 6902,
+  plumeDePiouRose: 6903,
+  plumeDePiouRouge: 6900,
+  plumeDePiouVert: 6899,
+  plumeDePiouViolet: 6898,
+  plumeDeTofuMalefique: 2675,
+  plumeDeTofuNoir: 6673,
+  plumeDeTofuRoyal: 2247,
+  plumeDuBatofu: 8557,
+  plumeDuDernierPoolay: 1685,
+  plumeDuKwakDeFlamme: 415,
+  plumeDuKwakDeGlace: 414,
+  plumeDuKwakDeTerre: 1141,
+  plumeDuKwakDeVent: 416,
+  plumeDuMaîtreCorbac: 1892,
+  plumeDuSerpiplume: 8309,
+  plumeGraisseuseDuTofuVentripotent: 8158,
+  plumePointueDeKwakDuVent: 1670,
+  plumeVibranteDuTofuRoyal: 8387,
+  plumesDeTofu: 301,
+  poigneeDEpee: 6828,
+  poilDAisselleDePumbaa: 8799,
+  poilDOuginak: 2248,
+  poilDeBworkette: 8389,
+  poilDeChamanDEgoutant: 8484,
+  poilDeDeminoboule: 8321,
+  poilDeDragonCochon: 8393,
+  poilDeGamino: 8311,
+  poilDeKanigrou: 1890,
+  poilDeMaîtrePandore: 8399,
+  poilDeMominotor: 8322,
+  poilDePeki: 8251,
+  poilDeRatBontarien: 8570,
+  poilDeRatBrakmarien: 8571,
+  poilDeRatDEgoutant: 8481,
+  poilDeRenarbo: 8250,
+  poilDeSanglierDesPlaines: 1894,
+  poilDeSkeunk: 8405,
+  poilDuWaWabbit: 8397,
+  poilsDOurs: 6844,
+  poilsDarits: 1672,
+  poilsDeBarbeDuBworkMage: 409,
+  poilsDeBarbeDuGrandPaWabbit: 418,
+  poilsDeBarbeDuWarkoMarron: 8065,
+  poilsDeBarbeDuWarkoViolet: 8066,
+  poilsDeBlackTiwabbit: 646,
+  poilsDeCrocsGlands: 2315,
+  poilsDeGrandPaWabbit: 650,
+  poilsDeKitsouNae: 7275,
+  poilsDeKitsouNakwa: 7278,
+  poilsDeKitsouNere: 7277,
+  poilsDeKitsouNufeu: 7276,
+  poilsDeKoalakForestier: 8085,
+  poilsDeKoalakGriotte: 8059,
+  poilsDeKoalakIndigo: 8062,
+  poilsDeKoalakKoko: 8060,
+  poilsDeKoalakReinette: 8061,
+  poilsDeLeopardo: 7343,
+  poilsDeMahoFirefoux: 7292,
+  poilsDeMoon: 6441,
+  poilsDePandikaze: 7258,
+  poilsDePandore: 7295,
+  poilsDePandule: 7297,
+  poilsDeSoryoFirefoux: 7293,
+  poilsDeSouris: 761,
+  poilsDeTanukouiSan: 7284,
+  poilsDeWabbit: 648,
+  poilsDeWoWabbit: 649,
+  poilsDeYokaiFirefoux: 7294,
+  poilsDeulkDeBworky: 7558,
+  poilsDuMeulou: 1691,
+  poilsDuMilimulou: 1690,
+  poilsDuMinotoror: 840,
+  poilsDuMulou: 291,
+  poilsDuSanglier: 388,
+  pointeDeFlecheDuBworkArcher: 429,
+  poire: 2329,
+  poisonBwork: 9094,
+  poisonCinglant: 1461,
+  poisonDeScorbute: 2147,
+  poissonChaton: 603,
+  poissonChatonVide: 1761,
+  poissonIgloo: 1754,
+  poissonIglooVide: 1755,
+  poissonPane: 1750,
+  poissonPaneFrit2: 1752,
+  poissonPaneFrit3: 1753,
+  poissonPaneFrit4: 1756,
+  poissonPaneVide: 1751,
+  poissonTigre: 1762,
+  poissonTigreVide: 1763,
+  poissonChatonFume2: 1767,
+  poissonChatonFume3: 1768,
+  poissonTigreFume4: 1769,
+  pollenDeBlop: 2556,
+  pomme: 281,
+  pomme1: 2327,
+  pommeDePik: 9460,
+  pommeDeTerre: 537,
+  pommeauDEpee: 2494,
+  pommesDeTerreEpluchees: 538,
+  pompamulette: 9454,
+  pompanneau: 9455,
+  pompocape: 9456,
+  pompocoiffe: 9457,
+  poochan: 7062,
+  poolache: 8868,
+  poshocape: 9480,
+  poshoclier: 9481,
+  poshocoiffe: 9479,
+  potDeGloutovore: 2630,
+  potionABaseDePlantes: 6823,
+  potionBulbique: 8913,
+  potionDOubliFoudroiement: 2072,
+  potionDAgressionMoyenne: 9040,
+  potionDAverse: 1341,
+  potionDEboulement: 1340,
+  potionDEnclosDeGuilde: 9035,
+  potionDEtincelle: 1333,
+  potionDIncendie: 1345,
+  potionDInvisibiliteNebuleuse: 8428,
+  potionDOubliInvisibilite: 1271,
+  potionDOubliMotDeRegeneration: 1390,
+  potionDOubliSouffleAlcoolise: 7565,
+  potionDOubliRoncesMultiples: 1295,
+  potionDOubliAbsorption: 1450,
+  potionDOubliAcceleration: 1239,
+  potionDOubliAiguilleChercheuse: 1417,
+  potionDOubliAiguille: 1409,
+  potionDOubliAmplification: 1211,
+  potionDOubliApprivoisementDeMonture: 8572,
+  potionDOubliArbre: 1296,
+  potionDOubliArmureDeFeu: 1184,
+  potionDOubliArmureDeNeutraliteEtDeTerre: 1189,
+  potionDOubliArnaque: 1280,
+  potionDOubliAssaut: 1444,
+  potionDOubliAttaqueMortelle: 1282,
+  potionDOubliAttaqueNaturelle: 1186,
+  potionDOubliAttaqueNuageuse: 1190,
+  potionDOubliAttaqueTrompeuse: 1267,
+  potionDOubliAttirance: 1442,
+  potionDOubliAveuglement: 1185,
+  potionDOubliBenedictionAnimale: 1254,
+  potionDOubliBluff: 1167,
+  potionDOubliBoiteDePandore: 1229,
+  potionDOubliBondDuFelin: 1170,
+  potionDOubliBond: 1205,
+  potionDOubliBoomerangPerfide: 8573,
+  potionDOubliBouclierFeca: 1201,
+  potionDOubliBrokle: 2073,
+  potionDOubliBulle: 1194,
+  potionDOubliCadranDeXelor: 1425,
+  potionDOubliCaptureDAmes: 7395,
+  potionDOubliChamrak: 7571,
+  potionDOubliChanceDEcaflip: 1166,
+  potionDOubliChance: 1224,
+  potionDOubliChatimentAgile: 1445,
+  potionDOubliChatimentForce: 1437,
+  potionDOubliChatimentOse: 1441,
+  potionDOubliChatimentSage: 1451,
+  potionDOubliChatimentSpirituel: 1448,
+  potionDOubliCleReductrice: 1227,
+  potionDOubliCoagulation: 7391,
+  potionDOubliCoffreAnime: 1243,
+  potionDOubliColereDeIop: 1223,
+  potionDOubliColereDeZatoishwan: 7576,
+  potionDOubliCompulsion: 1207,
+  potionDOubliConcentrationDeChakra: 1275,
+  potionDOubliConcentration: 1221,
+  potionDOubliConnaissanceDesPoupees: 1294,
+  potionDOubliContre: 1408,
+  potionDOubliCooperation: 1453,
+  potionDOubliCorbeau: 1247,
+  potionDOubliCorruption: 1242,
+  potionDOubliCoupSournois: 1269,
+  potionDOubliCouper: 1213,
+  potionDOubliCrapaud: 1250,
+  potionDOubliCriDeLOurs: 1245,
+  potionDOubliCrocsDuMulou: 1260,
+  potionDOubliCupidite: 1235,
+  potionDOubliDemotivation: 1421,
+  potionDOubliDeplacementFelin: 1248,
+  potionDOubliDerobade: 1452,
+  potionDOubliDesinvocation: 1226,
+  potionDOubliDestinDEcaflip: 1181,
+  potionDOubliDevouement: 1419,
+  potionDOubliDouble: 1270,
+  potionDOubliEpeeCeleste: 1220,
+  potionDOubliEpeeDansante: 1447,
+  potionDOubliEpeeDeIop: 1222,
+  potionDOubliEpeeDestructrice: 1212,
+  potionDOubliEpeeDivine: 1208,
+  potionDOubliEpeeDuDestin: 1209,
+  potionDOubliEpeeDuJugement: 1216,
+  potionDOubliEpeeVolante: 7390,
+  potionDOubliEpouvante: 7564,
+  potionDOubliEspritFelin: 1175,
+  potionDOubliFelintion: 7394,
+  potionDOubliFeuDeBrousse: 1301,
+  potionDOubliFlasqueExplosive: 7577,
+  potionDOubliFlecheAbsorbante: 1320,
+  potionDOubliFlecheChercheuse: 1307,
+  potionDOubliFlecheCinglante: 1317,
+  potionDOubliFlecheDExpiation: 1310,
+  potionDOubliFlecheDImmobilisation: 1313,
+  potionDOubliFlecheDeRecul: 1312,
+  potionDOubliFlecheDestructrice: 1319,
+  potionDOubliFlecheEnflammee: 1308,
+  potionDOubliFlecheExplosive: 1322,
+  potionDOubliFlecheGlacee: 1306,
+  potionDOubliFlecheHarcelante: 1316,
+  potionDOubliFlecheMagique: 1304,
+  potionDOubliFlechePunitive: 1314,
+  potionDOubliFlecheRalentissante: 1321,
+  potionDOubliFletrissement: 1414,
+  potionDOubliFlou: 1411,
+  potionDOubliFolieSanguinaire: 7392,
+  potionDOubliForceDeLAge: 1232,
+  potionDOubliFouet: 1252,
+  potionDOubliFourvoiement: 1268,
+  potionDOubliFrappeDeXelor: 1424,
+  potionDOubliFrappeDuCraqueleur: 1258,
+  potionDOubliFuite: 1420,
+  potionDOubliFurie: 7389,
+  potionDOubliGelure: 1410,
+  potionDOubliGlypheAggressif: 1188,
+  potionDOubliGlypheDAveuglement: 1198,
+  potionDOubliGlypheDImmobilisation: 1202,
+  potionDOubliGlypheDeSilence: 1203,
+  potionDOubliGlypheEnflamme: 1200,
+  potionDOubliGriffeCinglante: 1255,
+  potionDOubliGriffeDeCeangal: 1179,
+  potionDOubliGriffeInvocatrice: 1174,
+  potionDOubliGriffeJoueuse: 1178,
+  potionDOubliGriffeSpectrale: 1244,
+  potionDOubliGueuleDeBois: 7567,
+  potionDOubliGuideDeBravoure: 1210,
+  potionDOubliHerbeFolle: 1300,
+  potionDOubliHorloge: 1434,
+  potionDOubliHorloge2: 1721,
+  potionDOubliImmunite: 1192,
+  potionDOubliIntimidation: 1206,
+  potionDOubliInvisibiliteDAutrui: 1273,
+  potionDOubliInvocationDeBouftou: 1249,
+  potionDOubliInvocationDeBworkMage: 1261,
+  potionDOubliInvocationDeCraqueleur: 1262,
+  potionDOubliInvocationDeDragonnetRouge: 1263,
+  potionDOubliInvocationDePrespic: 1251,
+  potionDOubliInvocationDeSanglier: 1257,
+  potionDOubliInvocationDeTofu: 1246,
+  potionDOubliKarcham: 7568,
+  potionDOubliLaBloqueuse: 1289,
+  potionDOubliLaFolle: 1285,
+  potionDOubliLaGonflable: 1298,
+  potionDOubliLaSacrifiee: 1292,
+  potionDOubliLaSurpuissante: 1303,
+  potionDOubliLaisseSpirituelle: 10052,
+  potionDOubliLaitDeBambou: 7574,
+  potionDOubliLancerDePelle: 1225,
+  potionDOubliLancerDePieces: 1233,
+  potionDOubliLangueRapeuse: 1172,
+  potionDOubliLarme: 1288,
+  potionDOubliLiberation: 2071,
+  potionDOubliLienSpiritueux: 7580,
+  potionDOubliMaîtriseDeLArc: 1323,
+  potionDOubliMaladresseDeMasse: 1238,
+  potionDOubliMaladresse: 1237,
+  potionDOubliMomification: 1423,
+  potionDOubliMotBlessant: 1381,
+  potionDOubliMotCuratif: 1380,
+  potionDOubliMotDAltruisme: 1401,
+  potionDOubliMotDAmitie: 1396,
+  potionDOubliMotDEnvol: 1398,
+  potionDOubliMotDEpine: 1391,
+  potionDOubliMotDImmobilisation: 1397,
+  potionDOubliMotDeFrayeur: 1388,
+  potionDOubliMotDeJouvence: 1392,
+  potionDOubliMotDePrevention: 1387,
+  potionDOubliMotDeReconstitution: 1402,
+  potionDOubliMotDeSacrifice: 1395,
+  potionDOubliMotDeSilence: 1400,
+  potionDOubliMotDrainant: 1382,
+  potionDOubliMotInterdit: 1385,
+  potionDOubliMotRevitalisant: 1389,
+  potionDOubliMotSoignant: 1384,
+  potionDOubliMotStimulant: 1386,
+  potionDOubliMotVampirique: 1394,
+  potionDOubliMutilation: 1218,
+  potionDOubliOdorat: 1176,
+  potionDOubliOeilDeLynx: 1318,
+  potionDOubliOeilDeTaupe: 1311,
+  potionDOubliPandanlku: 7579,
+  potionDOubliPandatak: 7578,
+  potionDOubliPelleAnimee: 1234,
+  potionDOubliPelleDuJugement: 1240,
+  potionDOubliPelleFantomatique: 1231,
+  potionDOubliPelleMassacrante: 1241,
+  potionDOubliPerception: 1130,
+  potionDOubliPeur: 1279,
+  potionDOubliPicole: 7561,
+  potionDOubliPiedDuSacrieur: 1440,
+  potionDOubliPiegeDImmobilisation: 1276,
+  potionDOubliPiegeDeMasse: 1272,
+  potionDOubliPiegeDeSilence: 1277,
+  potionDOubliPiegeDesinvocateur: 1278,
+  potionDOubliPiegeEmpoisonne: 1274,
+  potionDOubliPiegeMortel: 1283,
+  potionDOubliPiegeSournois: 1266,
+  potionDOubliPileOuFace: 1091,
+  potionDOubliPiqûreMotivante: 1253,
+  potionDOubliPoingEnflamme: 7562,
+  potionDOubliPoisonParalysant: 1287,
+  potionDOubliPoussiereTemporelle: 1416,
+  potionDOubliPression: 1204,
+  potionDOubliProtectionAveuglante: 1422,
+  potionDOubliPuissanceSilvestre: 1291,
+  potionDOubliPuissance: 1217,
+  potionDOubliPulsionDeChakra: 1281,
+  potionDOubliPunition: 1454,
+  potionDOubliRalentissement: 1407,
+  potionDOubliRayonObscur: 1412,
+  potionDOubliReflexes: 1177,
+  potionDOubliRekop: 1180,
+  potionDOubliRemblai: 1230,
+  potionDOubliRenvoiDeSort: 1187,
+  potionDOubliReperage: 1265,
+  potionDOubliResistanceNaturelle: 1259,
+  potionDOubliRetourDuBaton: 1197,
+  potionDOubliRonceApaisante: 1290,
+  potionDOubliRonceInsolente: 1302,
+  potionDOubliRonce: 1286,
+  potionDOubliRoncesAgressives: 1299,
+  potionDOubliRoueDeLaFortune: 1173,
+  potionDOubliRoulageDePelle: 1236,
+  potionDOubliRoulette: 1165,
+  potionDOubliSablierDeXelor: 1415,
+  potionDOubliSacAnime: 1228,
+  potionDOubliSacrificePoupesque: 1293,
+  potionDOubliSacrifice: 1449,
+  potionDOubliScienceDuBaton: 1196,
+  potionDOubliSoinAnimal: 1256,
+  potionDOubliSouffle: 1214,
+  potionDOubliSouillure: 7573,
+  potionDOubliSournoiserie: 1264,
+  potionDOubliStabilisation: 7570,
+  potionDOubliTeleportation1: 1199,
+  potionDOubliTeleportation2: 1413,
+  potionDOubliTempeteDePuissance: 1219,
+  potionDOubliTirCritique: 1305,
+  potionDOubliTirEloigne: 1309,
+  potionDOubliTirPuissant: 1315,
+  potionDOubliTopkaj: 1171,
+  potionDOubliToutOuRien: 1169,
+  potionDOubliTransfertDeVie: 1443,
+  potionDOubliTransposition: 1446,
+  potionDOubliTrefle: 1168,
+  potionDOubliTremblement: 1284,
+  potionDOubliTreve: 1195,
+  potionDOubliVagueALame: 7575,
+  potionDOubliVentEmpoisonne: 1297,
+  potionDOubliVitalite: 1215,
+  potionDOubliVolDuTemps: 1418,
+  potionDOubliVulnerabiliteAcqueuse: 7566,
+  potionDOubliVulnerabiliteIncandescente: 7563,
+  potionDOubliVulnerabiliteTerrestre: 7572,
+  potionDOubliVulnerabiliteVenteuse: 7569,
+  potionDOubliArmureAqueuse: 1193,
+  potionDOubliArmureVenteuse: 1191,
+  potionDOubliCawotte: 2068,
+  potionDOubliFlamiche: 2067,
+  potionDOubliContrecoup: 1514,
+  potionDOubliDInvocationDArakne: 6448,
+  potionDOubliDeChaferfu: 6447,
+  potionDOubliDeMaitrîseArc: 1605,
+  potionDOubliDeMaitrîseBaguette: 1606,
+  potionDOubliDeMaitrîseBaton: 1609,
+  potionDOubliDeMaitrîseDagues: 1603,
+  potionDOubliDeMaitrîseEpee: 1604,
+  potionDOubliDeMaîtriseHaches: 7388,
+  potionDOubliDeMaitrîseMarteau: 1607,
+  potionDOubliDeMaitrîsePelles: 1608,
+  potionDOubliDeMetierAlchimiste: 1598,
+  potionDOubliDeMetierBijoutier: 1592,
+  potionDOubliDeMetierBoucher: 2186,
+  potionDOubliDeMetierBoulanger: 1597,
+  potionDOubliDeMetierBricoleur: 8106,
+  potionDOubliDeMetierBûcheron: 1587,
+  potionDOubliDeMetierChasseur: 2185,
+  potionDOubliDeMetierCordomage: 7507,
+  potionDOubliDeMetierCordonnier: 1591,
+  potionDOubliDeMetierCostumage: 7505,
+  potionDOubliDeMetierForgemageDEpees: 1645,
+  potionDOubliDeMetierForgemageDeDagues: 1642,
+  potionDOubliDeMetierForgemageDeHaches: 1643,
+  potionDOubliDeMetierForgemageDeMarteaux: 1644,
+  potionDOubliDeMetierForgemageDePelles: 1646,
+  potionDOubliDeMetierForgeurDEpees: 1588,
+  potionDOubliDeMetierForgeurDeBouclier: 7421,
+  potionDOubliDeMetierForgeurDeDagues: 1542,
+  potionDOubliDeMetierForgeurDeHaches: 1601,
+  potionDOubliDeMetierForgeurDeMarteaux: 1590,
+  potionDOubliDeMetierForgeurDePelles: 1595,
+  potionDOubliDeMetierJoaillomage: 7506,
+  potionDOubliDeMetierMineur: 1596,
+  potionDOubliDeMetierPaysan: 1600,
+  potionDOubliDeMetierPecheur: 2183,
+  potionDOubliDeMetierPoissonnier: 2184,
+  potionDOubliDeMetierSculptemageDArcs: 1647,
+  potionDOubliDeMetierSculptemageDeBaguettes: 1648,
+  potionDOubliDeMetierSculptemageDeBatons: 1649,
+  potionDOubliDeMetierSculpteurDArcs: 1589,
+  potionDOubliDeMetierSculpteurDeBaguettes: 1594,
+  potionDOubliDeMetierSculpteurDeBaton: 1593,
+  potionDOubliDeMetierTailleur: 1599,
+  potionDOubliPercepteurCyclone: 7319,
+  potionDOubliPercepteurExperience: 7329,
+  potionDOubliPercepteurArmureAqueuse: 7314,
+  potionDOubliPercepteurArmureIncandescente: 7315,
+  potionDOubliPercepteurArmureTerrestre: 7316,
+  potionDOubliPercepteurArmureVenteuse: 7317,
+  potionDOubliPercepteurCompulsionDeMasse: 7324,
+  potionDOubliPercepteurDesenvoutement: 7323,
+  potionDOubliPercepteurDestabilisation: 7325,
+  potionDOubliPercepteurFlamme: 7318,
+  potionDOubliPercepteurMotSoignant: 7322,
+  potionDOubliPercepteurNombreDePercepteur: 7327,
+  potionDOubliPercepteurPods: 7326,
+  potionDOubliPercepteurProspection: 7328,
+  potionDOubliPercepteurRocher: 7321,
+  potionDOubliPercepteurVague: 7320,
+  potionDOubliMarteauDeMoon: 2069,
+  potionDOuragan: 1347,
+  potionDantegoulesque: 1677,
+  potionDeCamouflageImmobile: 9888,
+  potionDeCamouflageTotal: 9869,
+  potionDeCiteBonta: 6965,
+  potionDeCiteBrakmar: 6964,
+  potionDeCopeauxDeBois: 2539,
+  potionDeCopeauxDeBoisRares: 2543,
+  potionDeCopeauxDeBoisSolides: 2540,
+  potionDeCourantDAir: 1337,
+  potionDeCrachin: 1335,
+  potionDeDecouverte: 9037,
+  potionDeDeguisementBontarien: 9057,
+  potionDeDeguisementBrakmarien: 9056,
+  potionDeDeguisementCra: 9053,
+  potionDeDeguisementEcaflip: 9054,
+  potionDeDeguisementEniripsa: 9048,
+  potionDeDeguisementEnutrof: 9047,
+  potionDeDeguisementFeca: 9049,
+  potionDeDeguisementIop: 9044,
+  potionDeDeguisementOsamodas: 9051,
+  potionDeDeguisementPandawa: 9055,
+  potionDeDeguisementRoublard: 9058,
+  potionDeDeguisementSacrieur: 9052,
+  potionDeDeguisementSadida: 9046,
+  potionDeDeguisementSram: 9050,
+  potionDeDeguisementXelor: 9045,
+  potionDeFlambee: 1343,
+  potionDeFoyer: 2542,
+  potionDeFoyerDeGuilde: 8883,
+  potionDeGavage: 8597,
+  potionDeLecheBottes: 8478,
+  potionDeLecheBottes1: 8480,
+  potionDeLiberation: 9897,
+  potionDeLiberationDeMasse: 7497,
+  potionDeMetalLiquide: 2529,
+  potionDeMetalLourdLiquide: 2538,
+  potionDeMetalPrecieuxLiquide: 2541,
+  potionDeMiniSoin: 1182,
+  potionDeMiniSoinSuperieure: 1183,
+  potionDePouflage: 9870,
+  potionDeRafale: 1342,
+  potionDeRalliement: 7502,
+  potionDeRappel: 548,
+  potionDeRappelPrismatique: 9039,
+  potionDeRemouflage: 9558,
+  potionDeRenommageDeGuilde: 9903,
+  potionDeResurrectionDeMasse: 7496,
+  potionDeResurrectionForcee: 9529,
+  potionDeRocheflage: 9884,
+  potionDeSecousse: 1338,
+  potionDeSeisme: 1348,
+  potionDeSoinDeMasse: 9898,
+  potionDeSouflage: 9886,
+  potionDeSouvenir: 7652,
+  potionDeTabouflage: 9885,
+  potionDeToflage: 9882,
+  potionDeTombeflage: 9883,
+  potionDeTouflage: 9887,
+  potionDeTransformationEnWaWabbit: 8593,
+  potionDeTransgenese: 9535,
+  potionDeTsunami: 1346,
+  potionDeTwansfowmationEnWaWabbit: 8594,
+  potionDeVieillesse: 793,
+  potionDeVillageAerdala: 7427,
+  potionDeVillageAkwadala: 7429,
+  potionDeVillageDesBrigandins: 7430,
+  potionDeVillageDesDopeuls: 7431,
+  potionDeVillageDesKwaksDeGlace: 7499,
+  potionDeVillageDesKwaksDeTerre: 7432,
+  potionDeVillageFeudala: 7426,
+  potionDeVillageTerrdala: 7428,
+  potionDuVillageDesKwaksDeFeu: 7500,
+  potionDuVillageDesKwaksDeVent: 7501,
+  potionDuVillageDesZoths: 9036,
+  potionEauDeFee: 1405,
+  potionFumigeneCyclonique: 8431,
+  potionGhettoRaide: 580,
+  potionPahoaRaide: 1712,
+  potionRaideBoule: 1713,
+  potionVersAbraknydeAncestral: 10489,
+  potionVersBlopCocoRoyal: 10469,
+  potionVersBlopGriotteRoyal: 10470,
+  potionVersBlopIndigoRoyal: 10471,
+  potionVersBlopMulticoloreRoyal: 10481,
+  potionVersBlopReinetteRoyal: 10472,
+  potionVersBouftouRoyal: 10457,
+  potionVersBworker: 10496,
+  potionVersBworkette: 10463,
+  potionVersCheneMou: 10502,
+  potionVersCorailleurMagistral: 10482,
+  potionVersCraqueleurLegendaire: 10478,
+  potionVersCrocabulia: 10500,
+  potionVersDarkVlad: 10476,
+  potionVersDeminoboule: 10466,
+  potionVersDragonCochon: 10464,
+  potionVersGeleeRoyaleBleue: 10459,
+  potionVersGeleeRoyaleCitron: 10495,
+  potionVersGeleeRoyaleFraise: 10479,
+  potionVersGeleeRoyaleMenthe: 10467,
+  potionVersGourloLeTerrible: 10483,
+  potionVersKimbo: 10504,
+  potionVersKoulosse: 10487,
+  potionVersKralamoureGeant: 10608,
+  potionVersMaîtreCorbac: 10480,
+  potionVersMaîtrePandore: 10490,
+  potionVersMeulou: 10484,
+  potionVersMinotoror: 10475,
+  potionVersMinotot: 10498,
+  potionVersMobLEponge: 10456,
+  potionVersMominotor: 10465,
+  potionVersMoon: 10486,
+  potionVersOugah: 10503,
+  potionVersPekiPeki: 10501,
+  potionVersRatBlanc: 10474,
+  potionVersRatNoir: 10473,
+  potionVersScarabosseDore: 10462,
+  potionVersShinLarve: 10460,
+  potionVersSilfLeRasboulMajeur: 10499,
+  potionVersSkeunk: 10488,
+  potionVersSphincterCell: 10497,
+  potionVersTanukouiSan: 10477,
+  potionVersTofuRoyal: 10468,
+  potionVersTournesolAffame: 10458,
+  potionVersTynril: 10491,
+  potionVersTynrilConsterne: 10492,
+  potionVersTynrilDeconcerte: 10493,
+  potionVersTynrilPerfide: 10494,
+  potionVersWaWabbit: 10485,
+  potionVersWabbitGm: 10461,
+  potionWabbit: 960,
+  poudreACanon: 1872,
+  poudreDArtifice: 6601,
+  poudreDEniripsa: 2239,
+  poudreDOnglesIncarnes: 9527,
+  poudreDePerlinpainpain: 519,
+  poudreDeResurrection: 8012,
+  poudreDeSang: 2312,
+  poudreExplosiveDeGourlo: 8761,
+  poudreTemporelle: 1986,
+  pouflage: 9904,
+  poumonDeLaPlaine: 2141,
+  poupeeEnchantee: 10022,
+  poupeeMalmenee: 10020,
+  poupeeRafistolee: 10021,
+  poupeeVaudouArcher: 2628,
+  poupeeVaudouJav: 2626,
+  poupeeVaudouSarbak: 2627,
+  poupeeVaudouThierry: 2625,
+  pousseDeTanfouguite: 9622,
+  poussesDeBambou: 7015,
+  poussesDeBulbambou: 7268,
+  poussiereDOni: 2355,
+  poutreEnBoisDeKokoko: 1003,
+  predictionDeParoCabanne: 2362,
+  premierNoël: 1717,
+  premiereClefDuDonjonDeSphincter: 8476,
+  premierePartieDeLaClefDuLabyrintheDuDragonCochon: 7509,
+  prismeDeConquete: 8990,
+  prosperite: 7396,
+  protectionDeLaDragueuse: 8358,
+  protectionUsageeDuBworker: 6904,
+  protegeTibiasAncestraux: 8467,
+  puissanceDeCrocoburio: 1720,
+  puissantAnneauDAgilite: 121,
+  puissantAnneauDeChance: 112,
+  puissantAnneauDeSagesse: 103,
+  puissantArcBuse: 1095,
+  puissantArcDeBoisaille: 91,
+  puissantArcDeroutant: 267,
+  puissantBatonDeBoisaille: 140,
+  puissantBatonFeuillu: 185,
+  puissantMarteauDIvoire: 230,
+  puissantMarteauDeBoisaille: 147,
+  puissantMarteauDeRaclage: 224,
+  puissantMarteauPospodrol: 1083,
+  puissantParcheminDAgilite: 801,
+  puissantParcheminDIntelligence: 817,
+  puissantParcheminDeChance: 814,
+  puissantParcheminDeForce: 797,
+  puissantParcheminDeSagesse: 805,
+  puissantParcheminDeVitalite: 810,
+  puissanteAmuletteDeLOurs: 77,
+  puissanteAmuletteDuHibou: 70,
+  puissanteAmuletteDuLoup: 84,
+  puissanteBaguetteDIntelligence: 832,
+  puissanteBaguetteDeBoisaille: 134,
+  puissanteBaguetteDeGlace: 165,
+  puissanteBaguetteDeSagesse: 835,
+  puissanteCapeFulgurante: 8866,
+  puissanteCeintureFulgurante: 2369,
+  puissanteEpeeDAlle: 55,
+  puissanteEpeeDHa: 62,
+  puissanteEpeeDUrandal: 6642,
+  puissanteEpeeDeBoisaille: 44,
+  puissanteEpeeDeFouraille: 49,
+  puissanteEpeeDeSerianeKerm: 6677,
+  puissanteEpeeSacree: 821,
+  puissanteGarde: 9901,
+  puissanteLameDeFon: 1035,
+  puissanteMasseAjTaye: 1079,
+  puissantePelleDeBoisaille: 153,
+  puissantePelleDeCrapouille: 241,
+  puissantePelleDeRapage: 247,
+  puissantePelleDuCraqueleur: 296,
+  puissantePelleMelle: 1049,
+  puissantePelleTeuze: 484,
+  puissantePotionDAgression: 9042,
+  puissantesBottesDeConcentration: 889,
+  puissantesBottesDeKlime: 924,
+  puissantesBottesDePoursuite: 909,
+  puissantesDaguesDeBoisaille: 97,
+  puissantesDaguesDeFouraille: 208,
+  puissantesDaguesEguisees: 900,
+  puissantesDaguesSylvestres: 896,
+  pyrute: 7035,
+  qilBil: 6873,
+  queueDeChefDeGuerreBouftou: 2464,
+  queueDeCrocGland: 2501,
+  queueDeDragodinde: 2594,
+  queueDeDragodindeRousseSauvage: 2591,
+  queueDeDragonCochon: 2644,
+  queueDeKoalakSanguin: 8063,
+  queueDeKolerat: 2496,
+  queueDeMinotoror: 2667,
+  queueDePrespic: 2573,
+  queueDeSanglierDesPlaines: 2512,
+  queueDeScorbute: 1893,
+  queueDuMulou: 438,
+  queueEmplumeeDuRasboulMajeur: 8798,
+  queueMagiqueDuPeki: 8381,
+  queuesDeChatons: 1030,
+  raaga: 2169,
+  racineCithi: 7176,
+  racineDAbraknyde: 435,
+  racineDAbraknydeAncestral: 8496,
+  racineDAbraknydeSombre: 1612,
+  racineDeBulbambou: 7264,
+  racineDeBulbiflore: 7262,
+  racineDeBulbig: 7265,
+  racineDeBulbuisson: 7263,
+  racineDeFecorce: 8849,
+  racineDeFloribonde: 8850,
+  racineDeFourbasse: 6735,
+  racineDeTronkoblop: 9383,
+  racineDuCheneMou: 6488,
+  racineHecouanone: 7182,
+  racineHecure: 7185,
+  racineHistre: 7184,
+  racineHorodon: 7178,
+  racineHuzohide: 7183,
+  racineMagiqueDeBambouto: 7290,
+  racineMagiqueDeBamboutoSacre: 7291,
+  racineSauvageonne: 6524,
+  racineSemilla: 7181,
+  rage: 7134,
+  ragnarok: 234,
+  raide: 1980,
+  raieBleue: 1784,
+  raieBleueVidee: 1785,
+  raieDeFarle: 1788,
+  raieDeFarleVidee: 1789,
+  ramoumeLEternelle: 2368,
+  rapportDActiviteDuQuartier: 6810,
+  rapportDEspionnage: 1937,
+  rapportDExpertise: 9959,
+  rapportDeFincheAticus: 2081,
+  rapportDeLEspion: 2255,
+  rapportDeLEspionSram: 6779,
+  rapportDeRaaga: 2171,
+  rapportSuspicieux: 10006,
+  razielle: 202,
+  razoirDuSoir: 7198,
+  recetteDeLaCordeDEscalade: 10518,
+  recetteDeLaNocabregor: 2116,
+  recetteDesPierresDeSouillure: 10520,
+  recetteDesPierresDeSouillureImpures: 10519,
+  recetteDuDofusEnChocolat: 7130,
+  recetteDuSonacixem: 2123,
+  recompenseDeMissionSrvtmercenaryShortName: 7439,
+  reçuDeCaisse: 2045,
+  reçuPourLeRadeau: 1005,
+  redoutableMasseTmosfer: 1071,
+  reflexesSoushumains: 2568,
+  registreDeBonta: 9488,
+  registreDeBrakmar: 9489,
+  registreDesClients: 10008,
+  registreDesRondes: 10023,
+  reliqueDeGourloLeTerrible: 8672,
+  reliqueDuCorailleurMagistral: 8671,
+  reliqueDuDeminoboule: 8306,
+  reliqueDuKimbo: 8675,
+  reliqueDuMominotor: 8305,
+  reliqueDuRasboulMajeur: 8673,
+  reliqueDuTynril: 8674,
+  rembourrageDeMeupette: 8790,
+  rendezVousDeXarthan: 10087,
+  reponseDeVilSmisse: 2084,
+  requinAuxEpices2: 1838,
+  requinAuxEpices3: 1839,
+  requinAuxEpices4: 1840,
+  requinMarcheLibre: 1853,
+  requinMarcheLibreVide: 1854,
+  requinMarteauFaucille: 602,
+  requinMarteauFaucilleVide: 1852,
+  resineDAbraknyde: 1985,
+  respirateurAquatique: 2313,
+  rhizomeDore: 347,
+  rhizomeDuTynril: 8838,
+  rhumDeQualite: 2620,
+  rhumFourbe: 2633,
+  riz: 7018,
+  robeDeLaMariee: 8606,
+  rocheflage: 9907,
+  rodGerse: 7189,
+  rokGnorok: 7351,
+  roseDemoniaqueCoupee: 6818,
+  ross: 8677,
+  rotuleDuDiscipleZoth: 8803,
+  roublardAttitude: 2348,
+  rougely: 994,
+  routeEtCheminForetMaudite: 7179,
+  rubis: 467,
+  runeAge: 1524,
+  runeCha: 1525,
+  runeCri: 7433,
+  runeDeBricoleur: 8377,
+  runeDeChasse: 10057,
+  runeDeCostumage: 7492,
+  runeDeLAlchimiste: 7463,
+  runeDeSertimage: 7491,
+  runeDeSignature: 7508,
+  runeDeTransport: 1573,
+  runeDo: 7435,
+  runeDoPer: 7436,
+  runeDoRen: 7437,
+  runeDuBijoutier: 7464,
+  runeDuBoucher: 7465,
+  runeDuBoulanger: 7466,
+  runeDuBûcheron: 7467,
+  runeDuChasseur: 7468,
+  runeDuCordomage: 7490,
+  runeDuCordonnier: 7469,
+  runeDuForgemageDEpees: 7482,
+  runeDuForgemageDeDagues: 7483,
+  runeDuForgemageDeHaches: 7485,
+  runeDuForgemageDeMarteaux: 7484,
+  runeDuForgemageDePelles: 7486,
+  runeDuForgeurDEpees: 7470,
+  runeDuForgeurDeBoucliers: 7471,
+  runeDuForgeurDeDagues: 7472,
+  runeDuForgeurDeHaches: 7473,
+  runeDuForgeurDeMarteaux: 7474,
+  runeDuForgeurDePelles: 7475,
+  runeDuMineur: 7461,
+  runeDuPaysan: 7462,
+  runeDuPecheur: 7477,
+  runeDuPoissonnier: 7476,
+  runeDuSculptemageDArcs: 7487,
+  runeDuSculptemageDeBaguettes: 7488,
+  runeDuSculptemageDeBatons: 7489,
+  runeDuSculpteurDArcs: 7478,
+  runeDuSculpteurDeBaguettes: 7479,
+  runeDuSculpteurDeBatons: 7480,
+  runeDuTailleur: 7481,
+  runeFo: 1519,
+  runeGaPa: 1557,
+  runeGaPme: 1558,
+  runeIne: 1522,
+  runeIni: 7448,
+  runeInvo: 7442,
+  runePaAge: 1549,
+  runePaCha: 1550,
+  runePaDoPer: 10618,
+  runePaFo: 1545,
+  runePaIne: 1547,
+  runePaIni: 7449,
+  runePaPi: 10613,
+  runePaPiPer: 10615,
+  runePaPod: 7444,
+  runePaProspe: 10662,
+  runePaSa: 1546,
+  runePaVi: 1548,
+  runePi: 7446,
+  runePiPer: 7447,
+  runePo: 7438,
+  runePod: 7443,
+  runeProspe: 7451,
+  runeRaAge: 1555,
+  runeRaCha: 1556,
+  runeRaDoPer: 10619,
+  runeRaFo: 1551,
+  runeRaIne: 1553,
+  runeRaIni: 7450,
+  runeRaPiPer: 10616,
+  runeRaPod: 7445,
+  runeRaSa: 1552,
+  runeRaVi: 1554,
+  runeReAir: 7453,
+  runeReEau: 7454,
+  runeReFeu: 7452,
+  runeReNeutre: 7456,
+  runeRePerAir: 7458,
+  runeRePerEau: 7560,
+  runeRePerFeu: 7457,
+  runeRePerNeutre: 7460,
+  runeRePerTerre: 7459,
+  runeReTerre: 7455,
+  runeSa: 1521,
+  runeSo: 7434,
+  runeVi: 1523,
+  runeVie: 8379,
+  ruskauffe: 8530,
+  rutile: 7036,
+  sabine: 9993,
+  sabotDeBouftou: 2451,
+  sabotDeChefDeGuerreBouftou: 2467,
+  sabotDeSanglierDesPlaines: 2514,
+  sabotDuMinotoror: 2666,
+  sabotDuMinotot: 8408,
+  sabotsDeFarle: 6774,
+  sabotsDeShika: 8301,
+  sabreFeudala: 7257,
+  sabreNidanwa: 7201,
+  sabreSandanwa: 7202,
+  sabreShodanwa: 7200,
+  sabreYondanwa: 7203,
+  sabroh: 9938,
+  sacAPatatesClair: 1683,
+  sacAPatatesSombre: 1684,
+  sacARemplacer: 6657,
+  sacDArgent: 7978,
+  sacDAvoine: 7943,
+  sacDEdelweiss: 7969,
+  sacDEtain: 7976,
+  sacDOr: 7980,
+  sacDOrchideeFreyesque: 7968,
+  sacDOrge: 7942,
+  sacDeBarsRikains: 7992,
+  sacDeBauxite: 7979,
+  sacDeBle: 7941,
+  sacDeBoisDEbene: 7960,
+  sacDeBoisDErable: 7956,
+  sacDeBoisDIf: 7957,
+  sacDeBoisDOliviolet: 7955,
+  sacDeBoisDOrme: 7962,
+  sacDeBoisDeBambou: 7958,
+  sacDeBoisDeBambouSacre: 7963,
+  sacDeBoisDeBambouSombre: 7961,
+  sacDeBoisDeBombu: 7954,
+  sacDeBoisDeCharme: 8081,
+  sacDeBoisDeChataignier: 7951,
+  sacDeBoisDeChene: 7953,
+  sacDeBoisDeFrene: 7950,
+  sacDeBoisDeKaliptus: 7996,
+  sacDeBoisDeMerisier: 7959,
+  sacDeBoisDeNoyer: 7952,
+  sacDeBoubaLeProphete: 9945,
+  sacDeBrochets: 7988,
+  sacDeBronze: 7973,
+  sacDeCarpes: 7989,
+  sacDeChanvre: 7949,
+  sacDeCrabesSourimis: 7986,
+  sacDeCuivre: 7972,
+  sacDeDolomite: 7981,
+  sacDeFer: 7971,
+  sacDeFleursDeChanvre: 7965,
+  sacDeFleursDeLin: 7964,
+  sacDeGoujons: 7982,
+  sacDeGrainesDePandouille: 7970,
+  sacDeGrainsDEpyss: 6847,
+  sacDeGreuVettes: 7985,
+  sacDeHoublon: 7944,
+  sacDeKobalte: 7974,
+  sacDeKralamoures: 7991,
+  sacDeLAventurier: 1705,
+  sacDeLin: 7945,
+  sacDeMalt: 7948,
+  sacDeManganese: 7975,
+  sacDeMentheSauvage: 7967,
+  sacDePatates: 8923,
+  sacDePerches: 7994,
+  sacDePoissonsChatons: 7984,
+  sacDePoissonsPanes: 7987,
+  sacDeRaies: 7993,
+  sacDeRequinsMarteauFaucilles: 7995,
+  sacDeRiz: 7947,
+  sacDeSardines: 7990,
+  sacDeSeigle: 7946,
+  sacDeSilicate: 7977,
+  sacDeTreflesACinqFeuilles: 7966,
+  sacDeTruites: 7983,
+  sacDuGrandAventurier: 1707,
+  sacDuGrandRecolteur: 1703,
+  sacDuKoulosse: 7888,
+  sacDuPaysan: 8131,
+  sacDuPetitAventurier: 1699,
+  sacDuPetitMoskito: 6916,
+  sacDuPetitRecolteur: 1698,
+  sacDuRecolteur: 1702,
+  sacDuStacaNoviste: 1704,
+  sacSurpriseDuChanceux: 6655,
+  sacSurpriseDuChanceux1: 6656,
+  sacCawotte: 6501,
+  sacrieurAttitude: 2224,
+  sacrumMagistral: 8738,
+  sadidaAttitude: 2216,
+  sakananas: 7581,
+  saladeDeMuseau: 1970,
+  saladeDeMuseau2: 1971,
+  saladeDeMuseau3: 1972,
+  sanctionSrvtmercenaryShortName: 7440,
+  sandalesAdin: 7218,
+  sandalesAiluya: 7219,
+  sandalesCirculairesDuKimbo: 8861,
+  sandalesDIntelligence: 862,
+  sandalesDuMinotot: 8277,
+  sandalesDuPiouBleu: 8226,
+  sandalesDuPiouJaune: 8229,
+  sandalesDuPiouRose: 8230,
+  sandalesDuPiouRouge: 8225,
+  sandalesDuPiouVert: 8228,
+  sandalesDuPiouViolet: 8227,
+  sandalesHambic: 7217,
+  sandalesHumeuses: 7215,
+  sandalesKoliques: 7216,
+  sandalesMacien: 7214,
+  sandalesPapayou: 9655,
+  sandalesTitude: 7513,
+  sandalesTofuesques: 298,
+  sangDOni: 838,
+  sangDeBouftou: 2455,
+  sangDeDragonCochon: 477,
+  sangDeLikrone: 1406,
+  sangDePhenix: 1741,
+  sangDePhenixDeGrandCru: 1742,
+  sangDeRatDHyoactif: 6602,
+  sangDeScorbute: 2012,
+  sangDeWabbitGm: 1746,
+  sangDuVampire: 752,
+  sanglature: 6908,
+  sangleCible: 8660,
+  sangleGlinglin: 8653,
+  sangleHans: 8657,
+  sangleHolon: 8655,
+  sangleHuee: 8659,
+  sangleHynere: 8651,
+  saphir: 466,
+  sardineALHuile3: 1826,
+  sardineALHuile2: 1825,
+  sardineALHuile4: 1827,
+  sardineBrillante: 1805,
+  sardineBrillanteVidee: 1806,
+  sardineSombre: 1807,
+  sardineSombreVidee: 1808,
+  sargasse: 237,
+  scalpDeBworkArcher: 2268,
+  scalpDeBworkMage: 3209,
+  scalpDeMeulou: 2577,
+  scalpDeMilimulou: 2576,
+  scalpDeMulou: 2575,
+  scalpelDeBworknroll: 8513,
+  scarabottesDorees: 8122,
+  scaracapeBlanche: 6943,
+  scaracapeBleue: 6941,
+  scaracapeDoree: 8117,
+  scaracapeNoire: 8134,
+  scaracapeRouge: 6942,
+  scaracapeVerte: 6940,
+  scaracoiffeBlanche: 6938,
+  scaracoiffeBleue: 6939,
+  scaracoiffeDoree: 8116,
+  scaracoiffeNoire: 8133,
+  scaracoiffeRouge: 6937,
+  scaracoiffeVerte: 6936,
+  scaranneauBlanc: 6946,
+  scaranneauBleu: 6947,
+  scaranneauNoir: 8136,
+  scaranneauRouge: 6945,
+  scaranneauVert: 6944,
+  scaratureBlanche: 6949,
+  scaratureBleue: 6951,
+  scaratureDoree: 8119,
+  scaratureNoire: 8132,
+  scaratureRouge: 6950,
+  scaratureVerte: 6948,
+  sceauSouverainDuRoissingue: 8859,
+  sceptreDuMinotot: 8275,
+  schemaDeLaPinceALinge: 10018,
+  seFaireDesAmisEtLesGarder: 7930,
+  seauDePincesALinge: 10019,
+  seigle: 532,
+  seigleResistant: 2029,
+  sel: 284,
+  selleEnCuir: 2555,
+  senilite: 2202,
+  sepaleDeNerbe: 8780,
+  serenite: 2201,
+  seringueDeNibeLulle: 6815,
+  seringueDeVeterinaire: 1745,
+  sertisseur: 491,
+  sertisseurDeRamougre: 7191,
+  sertisseurDuJoaillomage: 7493,
+  seveDAbraknyde: 792,
+  seveDAbraknydeRetravaillee: 501,
+  shako: 2070,
+  shigekaxAcidule: 9634,
+  shigekaxAcidule1: 9643,
+  shigekaxAmande: 9625,
+  shigekaxAmande1: 9635,
+  shigekaxBanane: 8938,
+  shigekaxBanane1: 8949,
+  shigekaxCaramel: 8945,
+  shigekaxCaramel1: 8948,
+  shigekaxCerise: 992,
+  shigekaxChocolat: 8944,
+  shigekaxChocolat1: 8953,
+  shigekaxCitron: 989,
+  shigekaxCoco: 9630,
+  shigekaxCoco1: 9639,
+  shigekaxFraise: 990,
+  shigekaxGriotte: 9628,
+  shigekaxGriotte1: 9637,
+  shigekaxIndigo: 9629,
+  shigekaxIndigo1: 9638,
+  shigekaxKillCoos: 10677,
+  shigekaxMelon: 8947,
+  shigekaxMelon1: 8955,
+  shigekaxMenthe: 991,
+  shigekaxMirabelle: 9633,
+  shigekaxMirabelle1: 9642,
+  shigekaxOrange: 8943,
+  shigekaxOrange1: 8950,
+  shigekaxPassion: 9472,
+  shigekaxPoire: 8942,
+  shigekaxPoire1: 8951,
+  shigekaxPomme: 8939,
+  shigekaxPomme1: 8952,
+  shigekaxPraline: 9632,
+  shigekaxPraline1: 9641,
+  shigekaxPrune: 9631,
+  shigekaxPrune1: 9640,
+  shigekaxReinette: 9626,
+  shigekaxReinette1: 9636,
+  shigekaxVanille: 8946,
+  shigekaxVanille1: 8954,
+  shikacoiffe: 8304,
+  shikature: 8303,
+  shushuDeRushu: 9785,
+  siffletDAppel: 10084,
+  silex: 448,
+  silexSanglant: 1326,
+  silicate: 7032,
+  simpleBatonDesRois: 1161,
+  sixDofusFragmentsRetrouvesV: 7362,
+  slipDeBworkArcher: 3208,
+  slipDeTrool: 2562,
+  slipDuChefBwork: 6812,
+  slipEnCuirDeCochonDeLait: 2646,
+  slipEnCuirDePorkass: 2480,
+  slipEnCuirDuChaferLancier: 485,
+  slipEnCuirMoulantDuVampire: 756,
+  slipKangouwouDuWabbitGm: 6498,
+  soki: 6768,
+  solideMasseDHa: 1062,
+  solomonk: 7143,
+  sombreroDePepitox: 9188,
+  sortMaîtriseDeLArc: 726,
+  sortMaîtriseDeLEpee: 725,
+  sortMaîtriseDeLaBaguette: 728,
+  sortMaîtriseDeLaHache: 8087,
+  sortMaîtriseDeLaPelle: 730,
+  sortMaîtriseDesDagues: 729,
+  sortMaîtriseDuBaton: 724,
+  sortMaîtriseDuMarteau: 727,
+  soucheDeLAbrakleurClair: 8797,
+  souflage: 9909,
+  soulierDePorkass: 2482,
+  souliersLaquesDuParrain: 9542,
+  souliersVernisDePorkass: 6471,
+  souplesse: 1982,
+  sourcilDeMoskito: 371,
+  sourcilDuRasboulMajeur: 8764,
+  sourcilsDeTronknyde: 2564,
+  sourisVerte: 1771,
+  sousouris: 6770,
+  souvenirDEnutrof: 1498,
+  sphereAMetarias: 1634,
+  spormeDuChampChamp: 378,
+  sramAttitude: 2226,
+  stringAutomnalDuCheneMou: 8473,
+  stringDuMulou: 6955,
+  stringTueMouche: 9143,
+  stupidite: 1981,
+  sublimePierreDAme: 9475,
+  sublimePierreDAmeHasardeuse: 9474,
+  sublimePierreDAmeHeureuse: 9476,
+  sucetteTofu: 6666,
+  sucetteTrool: 6667,
+  sucreDOrge: 2034,
+  sulik: 6988,
+  superRecompenseDeMissionSrvtmercenaryShortName: 9523,
+  superbeDagueFourbesque: 1038,
+  surpuissantArcDuRoiDesBorins: 1128,
+  surpuissantChachaDeCombatMj: 6894,
+  surpuissantesBottesDeKlime: 905,
+  symboleDeLEtrange: 1506,
+  tabouflage: 9908,
+  tacticien: 9096,
+  tailladeuseDArc: 500,
+  tailladeuseDArcsMagiques: 1563,
+  tailladeuseDeBaguette: 499,
+  tailladeuseDeBaguettesMagiques: 1564,
+  tailladeuseDeBaton: 498,
+  tailladeuseDeBatonsMagiques: 1565,
+  talismanDElyaWood: 7003,
+  talismanDuCheneMou: 8469,
+  talismanDuFaucheurDAvoine: 7001,
+  talonDAchilleDeLAbrakleurSombre: 8784,
+  tartamulette: 9193,
+  teintureMagiqueBleutee: 1688,
+  teintureMagiqueDeRougeur: 1686,
+  teintureMagiqueOrange: 1689,
+  teintureMagiqueSombre: 1692,
+  teintureMagiqueVerdatre: 1687,
+  terraCogita: 10077,
+  terrifianteBaguetteHeure: 1104,
+  terrine: 1733,
+  testamentDIxaMustam: 2078,
+  testiculesDeMeulou: 2582,
+  testiculesDuMulou: 292,
+  testiculesDuTanukouiSan: 7386,
+  testiculesMagiquesDuMeulou: 2806,
+  testiculesMagiquesDuMulou: 2805,
+  teteDeCitwouille: 8162,
+  teteDuPaysanEnDetresse: 974,
+  tibiaDeKoalakFossoyeur: 8057,
+  tibiaDuChefDesVoleurs: 9948,
+  tibiaDuGuerrierZoth: 8802,
+  ticketDeLaFoireDuTrool: 6653,
+  ticketDeLoterie: 7220,
+  ticketÎleDeMoon: 1089,
+  tifoux: 8155,
+  tigeDePissenlitDiabolique: 373,
+  tigeDuBrouture: 8836,
+  tissuInvisible: 2278,
+  tissuPourpre: 2273,
+  tissuSanguin: 2281,
+  tissuSombre: 2285,
+  titiGobelait: 8563,
+  tiwabbitKiafin: 9619,
+  toady: 2641,
+  toflage: 9905,
+  toilePeuRagoutante: 999,
+  tombeflage: 9906,
+  tongAclou: 8669,
+  tonguesBaques: 7104,
+  tonguesDuDimancheDuCheneMou: 8471,
+  tonguesWabbits: 6493,
+  tonneauVide: 1000,
+  topaze: 7027,
+  torqueAncestral: 8465,
+  touffeDEcaflip: 6684,
+  touffeDEniripsa: 6685,
+  touffeDEnutrof: 6681,
+  touffeDIop: 6686,
+  touffeDOsamodas: 6680,
+  touffeDeCheveux: 2350,
+  touffeDeCheveuxBlancs: 2282,
+  touffeDeCheveuxDeDikeTarak: 2129,
+  touffeDeCheveuxDePuja: 2193,
+  touffeDeCheveuxDeTarche: 1726,
+  touffeDeCheveuxDeTorche: 1744,
+  touffeDeCra: 6687,
+  touffeDeFeca: 6679,
+  touffeDePoilsDeGrimpill: 10000,
+  touffeDePoilsDuTavernierBagrutte: 9932,
+  touffeDeSacrieur: 6689,
+  touffeDeSadida: 6688,
+  touffeDeSram: 6682,
+  touffeDeXelor: 6683,
+  touffeRousseDuFlib: 8755,
+  touflage: 9910,
+  tourbeSecheeDeTourbassingue: 8810,
+  tourmenteurDeFeuille: 9546,
+  tourmenteurDeFlamme: 9545,
+  tourmenteurDeGoutte: 9547,
+  tourmenteurDeNuage: 9548,
+  tourmenteurDeTenebres: 9544,
+  toutPetitCadeauDeNowel: 8335,
+  trancheDeNodkoko: 2617,
+  trancheDeTronknyde: 2565,
+  trancheDesSousBois: 9145,
+  trancheMagiqueDeTronknyde: 2566,
+  trancheuseDIf: 502,
+  trancheuseDeNoyer: 675,
+  trancheuseDePartie: 2603,
+  transformationAbraknyde: 1722,
+  transformationBouftouDHalouine: 8169,
+  transformationBwak: 7356,
+  transformationChacha: 7061,
+  transformationCrocoburio: 1740,
+  transformationDuDonjonAbraknyde: 8449,
+  transformationFantômeAbraKadabra: 8187,
+  transformationFantômeAtouin: 8042,
+  transformationFantômeBebePandawa: 8567,
+  transformationFantômeBilby: 8021,
+  transformationFantômeBouloute: 8186,
+  transformationFantômeBoulouteDuParrain: 9597,
+  transformationFantômeBwakAir: 8022,
+  transformationFantômeBwakEau: 8023,
+  transformationFantômeBwakFeu: 8024,
+  transformationFantômeBwakTerre: 8025,
+  transformationFantômeBworky: 8188,
+  transformationFantômeChacha: 8013,
+  transformationFantômeChachaAngora: 9668,
+  transformationFantômeChachaTigre: 8886,
+  transformationFantômeCorbac: 8026,
+  transformationFantômeCrocodaille: 9672,
+  transformationFantômeCroum: 8027,
+  transformationFantômeDragoune: 8028,
+  transformationFantômeDragouneNoire: 9673,
+  transformationFantômeEcureuilChenapan: 8029,
+  transformationFantômeElScarador: 8185,
+  transformationFantômeFëanor: 8709,
+  transformationFantômeFotome: 8031,
+  transformationFantômeKoalakSanguin: 8045,
+  transformationFantômeLeopardo: 8030,
+  transformationFantômeMarcassin: 8032,
+  transformationFantômeMiniWa: 8049,
+  transformationFantômeMinimino: 8033,
+  transformationFantômeMiniminotot: 9670,
+  transformationFantômeNomoon: 8034,
+  transformationFantômePeki: 8041,
+  transformationFantômePetitChachaBlanc: 8079,
+  transformationFantômePetitChienchienNoir: 8080,
+  transformationFantômePiouteBleu: 8035,
+  transformationFantômePiouteJaune: 8036,
+  transformationFantômePiouteRose: 8037,
+  transformationFantômePiouteRouge: 8038,
+  transformationFantômePiouteVert: 8039,
+  transformationFantômePiouteViolet: 8040,
+  transformationFantômeRoss: 8688,
+  transformationFantômeShushuDeRushu: 9809,
+  transformationFantômeTifoux: 8184,
+  transformationFantômeTiwabbitKiafin: 9669,
+  transformationFantômeWabbit: 8043,
+  transformationFantômeWillyLeRelou: 8044,
+  transformationMarcassin: 7357,
+  transformationTofuDHalouine: 8170,
+  transformationWalk: 8566,
+  traumatisanteBaguetteDHouvette: 1140,
+  trefleA5Feuilles: 395,
+  tresseDuKoulosse: 8403,
+  tresseDuPoolay: 8786,
+  tridentCasse: 2484,
+  trinsfirmitikIkNikiril: 8547,
+  trofHapyus: 2134,
+  trompeDeLaTromperelle: 9267,
+  troncDeKokoko: 1002,
+  trousseauDeClefs: 10207,
+  truite: 1844,
+  truiteAncestrale: 1846,
+  truiteAncestraleVidee: 1976,
+  truiteFlambee2: 1832,
+  truiteFlambee3: 1833,
+  truiteFlambee4: 1834,
+  truiteVaseuse: 607,
+  truiteVidee: 1845,
+  trukikolMort: 2607,
+  tubeLongiforme: 1459,
+  tueuseDeChenes: 456,
+  tutuRose: 9366,
+  twansfowmationEnWabbit: 8548,
+  uneFioleDePandaburg: 7045,
+  uneFioleDePandapiler: 7046,
+  uneFioleDePandapils: 7047,
+  uneFioleDePandneken: 7055,
+  vampyrette: 10106,
+  vegacape: 2489,
+  vegacoiffe: 2485,
+  vegamu: 2498,
+  veninDeScorbute: 1874,
+  veninDeSerpentin: 2508,
+  ventouseDuKralamoureGeant: 8813,
+  verDAir: 2652,
+  verDEau: 2650,
+  verDeFeu: 2651,
+  verDeTerre: 2649,
+  veritableBatonDeFausseMagie: 1147,
+  vertgely: 993,
+  verveine: 1344,
+  viandeDOiseau: 1896,
+  viandeDOiseau2: 1897,
+  viandeDOiseau4: 1933,
+  viandeDOiseauConservee: 1987,
+  viandeDOiseauConservee2: 1988,
+  viandeDOiseauConservee4: 1989,
+  viandeDeCrocodaille: 8500,
+  viandeDeCrocodailleConservee: 8503,
+  viandeDeKanigrou: 8498,
+  viandeDeKanigrouConservee: 8501,
+  viandeDeKoalak: 8499,
+  viandeDeKoalakConservee: 8502,
+  vieilOsDeDragoeuf: 848,
+  vieuxBouquin: 2338,
+  vieuxGrimoireBwork: 10024,
+  vieuxTrefleA4Feuilles: 1332,
+  vilainPetitCorbac: 7703,
+  vinDeGloutovore: 2079,
+  visceresDeScarafeuille: 2294,
+  visceresDeScorbute: 2488,
+  visceresDuScarabosseDore: 8137,
+  voileDEncre: 8876,
+  vougeAPoisson: 2612,
+  voyagerSansJamaisPerdreLeNord: 7934,
+  wabbit: 1748,
+  wabbitGwille: 1962,
+  wabbitGwille2: 1963,
+  wabbitGwille3: 1964,
+  wabbitGwille4: 1965,
+  walk: 8211,
+  willyLeRelou: 7892,
+  willyLeRelouBienLElever: 7900,
+  wornTreasureMap: 8851,
+  xaveur: 270,
+  xelorAttitude: 2215,
+  xenature: 7140,
+  xephires: 10009,
+  yugolette: 10155,
+  yugonnet: 10552,
+  yugoufle: 10156,
+  yugure: 10157,
+  zatoishwan: 7354,
+  zothulette: 8863
 }
 
 module.exports = Items

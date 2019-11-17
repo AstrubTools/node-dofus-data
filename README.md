@@ -12,6 +12,9 @@ expose Dofus data in NodeJS
 - Game actions
 - Cell types
 - Maps
+- Items (positions)
+- Official servers
+- Character orientation
 
 ## Example
 
