@@ -1,6 +1,6 @@
 {
   "name": "node-dofus-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Expose Dofus data in NodeJS",
   "main": "index.js",
   "directories": {
